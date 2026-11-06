@@ -1,10 +1,9 @@
-run 42224859162 2026-11-06T13:22:51Z
+run 42225718931 2026-11-06T13:30:35Z
 
 === 20261106_fun_05_공감훅 ===
   [cover] '냉동실 아이스크림 범인찾기' → "freezer ice cream missing"
-    [openverse] 11건 후보
+    [openverse] 실패: 504 Server Error: Gateway Timeout for url: https://api.openverse.org/v1/images/?q=freezer+ice+cream+missing&license=cc0%2Cpdm%2Cby&page_size=12&mature=false
     [wikimedia] 8건 후보
-    적합도 통과 8/19건 (Openverse/Wikimedia)
     ✓ cover ← Wikimedia Commons (Public domain)
   [scene1] '냉동실 뒤죽박죽' → "messy freezer ice cream hidden"
     [openverse] 0건 후보
@@ -73,7 +72,7 @@ run 42224859162 2026-11-06T13:22:51Z
 
   ✓ 릴스 완성: out/reels/20261106_fun_05_공감훅.mp4
     길이: 45.7초  /  크기: 1.5MB
--rw-r--r-- 1 runner runner 1.6M Nov  6 13:24 out/reels/20261106_fun_05_공감훅.mp4
+-rw-r--r-- 1 runner runner 1.6M Nov  6 13:32 out/reels/20261106_fun_05_공감훅.mp4
 codec_name=h264
 width=1080
 height=1920
@@ -81,14 +80,26 @@ codec_name=aac
 duration=45.666667
 저장소 백엔드: GitHub Release
   미디어 저장소  a87330815/issue-reels-media
-  토큰           (미설정)
+  토큰           설정됨
+  저장소 확인    a87330815/issue-reels-media (공개)
 
-[미설정] MEDIA_TOKEN
+설정 완료
 
-발급 순서:
-  1. github.com/settings/personal-access-tokens/new
-  2. Repository access → Only select repositories → a87330815/issue-reels-media
-  3. Permissions → Contents: Read and write
-  4. 발급된 토큰을 issue-reels 저장소 Secrets에 MEDIA_TOKEN으로 등록
+업로드 1건 (태그 reels-2026-11-06):
+  20261106_fun_05_공감훅.mp4  1.5MB  →  https://github.com/a87330815/issue-reels-media/releases/download/reels-2026-11-06/20261106_fun_05.mp4
 
-[중단] 저장소 설정이 끝나야 업로드할 수 있습니다
+공개 접근 확인:
+  OK  video_url: 200 application/octet-stream
+
+매니페스트: /home/runner/work/richup-insurance-reels/richup-insurance-reels/out/uploaded.json
+
+완료: 성공 1건 / 실패 0건
+남은 발행 가능: 100건
+발행 대상: 1건
+
+── 1/1  20261106_fun_05_공감훅
+  영상: https://github.com/a87330815/issue-reels-media/releases/download/reels-2026-11-06/20261106_fun_05.mp4
+  캡션: 냉동실 아이스크림 범인찾기
+  [드라이런] 컨테이너 생성하지 않음
+
+완료: 발행 0건 / 실패 0건
