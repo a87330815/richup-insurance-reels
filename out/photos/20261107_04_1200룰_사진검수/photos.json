@@ -1,0 +1,26 @@
+{
+  "photos": {
+    "scene3": "scene3.jpg",
+    "scene4": "scene4.jpg"
+  },
+  "credits": [
+    {
+      "slot": "scene3",
+      "query": "insurance agent training meeting classroom",
+      "source": "wikimedia",
+      "creator": "",
+      "license": "CC0",
+      "page": "https://commons.wikimedia.org/w/index.php?curid=32494464"
+    },
+    {
+      "slot": "scene4",
+      "query": "GoodRich official logo yellow gray insurance brand",
+      "source": "Wikimedia Commons",
+      "creator": "Flip Schulke",
+      "license": "Public domain",
+      "page": "https://commons.wikimedia.org/wiki/File:EMPLOYEES_OF_THE_B.F._GOODRICH_CO.,_WORK_ON_MAGNETIC_DOOR_SEALS_FOR_VARIOUS_BRANDS_OF_REFRIGERATORS._THE_FIRM_EMPLOYS..._-_NARA_-_558377.jpg"
+    }
+  ],
+  "wanted": 5,
+  "fetched_at": "2026-11-06T16:01:59Z"
+}
