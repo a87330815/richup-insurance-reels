@@ -1,9 +1,10 @@
-run 42225718931 2026-11-06T13:30:35Z
+run 42229692006 2026-11-06T13:58:08Z
 
 === 20261106_fun_05_공감훅 ===
   [cover] '냉동실 아이스크림 범인찾기' → "freezer ice cream missing"
-    [openverse] 실패: 504 Server Error: Gateway Timeout for url: https://api.openverse.org/v1/images/?q=freezer+ice+cream+missing&license=cc0%2Cpdm%2Cby&page_size=12&mature=false
+    [openverse] 11건 후보
     [wikimedia] 8건 후보
+    적합도 통과 8/19건 (Openverse/Wikimedia)
     ✓ cover ← Wikimedia Commons (Public domain)
   [scene1] '냉동실 뒤죽박죽' → "messy freezer ice cream hidden"
     [openverse] 0건 후보
@@ -32,9 +33,12 @@ run 42225718931 2026-11-06T13:30:35Z
     ✗ 적합한 후보 없음 — 사진 없이 진행
     ✗ scene3: 후보 없음
   [scene4] '진범은 누구일까' → "detective investigation mysterious"
-    [openverse] 10건 후보 (부적합 2건 제외)
+    [openverse] 실패: 504 Server Error: Gateway Timeout for url: https://api.openverse.org/v1/images/?q=detective+investigation+mysterious&license=cc0%2Cpdm%2Cby&page_size=12&mature=false
     [wikimedia] 2건 후보
-    적합도 통과 0/12건 (Openverse/Wikimedia)
+    ↻ 재시도: "detective investigation"
+    [openverse] 실패: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=20)
+    [wikimedia] 5건 후보
+    적합도 통과 0/7건 (Openverse/Wikimedia)
     ✗ 적합한 후보 없음 — 사진 없이 진행
     ✗ scene4: 후보 없음
   [scene5] '숨겨두기 전쟁' → "frustrated person empty hand"
@@ -72,7 +76,7 @@ run 42225718931 2026-11-06T13:30:35Z
 
   ✓ 릴스 완성: out/reels/20261106_fun_05_공감훅.mp4
     길이: 45.7초  /  크기: 1.5MB
--rw-r--r-- 1 runner runner 1.6M Nov  6 13:32 out/reels/20261106_fun_05_공감훅.mp4
+-rw-r--r-- 1 runner runner 1.6M Nov  6 14:00 out/reels/20261106_fun_05_공감훅.mp4
 codec_name=h264
 width=1080
 height=1920
