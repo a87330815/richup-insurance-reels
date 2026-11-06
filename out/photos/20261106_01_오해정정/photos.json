@@ -1,0 +1,44 @@
+{
+  "photos": {
+    "cover": "cover.jpg",
+    "scene1": "scene1.jpg",
+    "scene2": "scene2.jpg",
+    "scene3": "scene3.jpg"
+  },
+  "credits": [
+    {
+      "slot": "cover",
+      "query": "new vs old apartment building korea",
+      "source": "flickr",
+      "creator": "Ian Sane",
+      "license": "BY",
+      "page": "https://www.flickr.com/photos/31246066@N04/6808934288"
+    },
+    {
+      "slot": "scene1",
+      "query": "new vs old apartment building korea",
+      "source": "flickr",
+      "creator": "shankar s.",
+      "license": "BY",
+      "page": "https://www.flickr.com/photos/77742560@N06/7637744518"
+    },
+    {
+      "slot": "scene2",
+      "query": "Korea city apartment building",
+      "source": "flickr",
+      "creator": "Francisco Anzola",
+      "license": "BY",
+      "page": "https://www.flickr.com/photos/10345599@N03/1509272335"
+    },
+    {
+      "slot": "scene3",
+      "query": "follow subscribe social media phone",
+      "source": "Wikimedia Commons",
+      "creator": "Exey Panteleev from Moscow, Russia",
+      "license": "CC BY 2.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Follow_Button_(35075355691).jpg"
+    }
+  ],
+  "wanted": 4,
+  "fetched_at": "2026-11-06T14:43:47Z"
+}
