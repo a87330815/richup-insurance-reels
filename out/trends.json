@@ -1,86 +1,95 @@
 {
-  "collected_at": "2026-11-06T10:32:57.655045+00:00",
+  "collected_at": "2026-11-06T20:18:39.973520+00:00",
   "items": [
     {
-      "keyword": "한국시리즈 3차전",
-      "traffic": "100+",
-      "news_title": "한국시리즈 3차전, 전설과 무대가 만난다..... 이승엽 시구·김소현 애국가…야구팬 기대감 고조",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "3a810d7bc2ba5931"
-    },
-    {
-      "keyword": "배트맨",
-      "traffic": "200+",
-      "news_title": "Scarlett Johansson Breaks Silence on ‘The Batman Part II’ Role: “It Was Very Hard to Figure Out”",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "feb8cd04ad3576d3"
-    },
-    {
-      "keyword": "박지후",
-      "traffic": "200+",
-      "news_title": "‘미스트롯 포유’ 김동현, 이소나와 우승 정조준 “밥그릇 줄어들까 봐 걱정돼”",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "27eb3c01faa05b12"
-    },
-    {
-      "keyword": "강민호",
-      "traffic": "200+",
-      "news_title": "&quot;번트? 저 강민호인데요&quot; 13년 전 CF대사, 올해 강민호에겐 없다",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "0abc80b48c57f92d"
-    },
-    {
-      "keyword": "kt 대 삼성",
+      "keyword": "주가 대폭락",
       "traffic": "20000+",
-      "news_title": "1승 1패 맞서다 3차전 이긴 팀, KS서 &apos;18번 중 16번&apos; 웃었다 [자막뉴스]",
+      "news_title": "",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "경제·부동산",
+      "key": "a0efd4090657543f"
+    },
+    {
+      "keyword": "어 도어",
+      "traffic": "200+",
+      "news_title": "“하이브 승인 없이 계약 불가능했다”…민희진, 뉴진스 ‘불공정 계약’ 논란에 하이브 책임전가 비판",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "f9fe8f61e082f5f5"
+      "key": "55438f2f169aed89"
     },
     {
-      "keyword": "가상자산",
+      "keyword": "농성",
+      "traffic": "200+",
+      "news_title": "한화오션 생산 직·반장들 &quot;하청노조 고공농성 중단하라&quot;",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "714e1f7d07b09ed6"
+    },
+    {
+      "keyword": "이강철",
       "traffic": "500+",
-      "news_title": "가상자산 소득과세 2년 유예 추진…2029년 시행 기반 마련",
+      "news_title": "‘KT 악재’ 손 다친 최원준, 선발 라인업 제외…“중요할 때 대타로”",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "84e2c69f6f6babf9"
+      "key": "97e04fd724cd8a51"
     },
     {
-      "keyword": "어도어",
-      "traffic": "1000+",
-      "news_title": "하이브·어도어, &quot;뉴진스 계약서에 미성년자 보호 조항 빠졌다&quot;는 美 언론 보도 반박",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "d20bd38dff554372"
-    },
-    {
-      "keyword": "부산 불꽃축제",
-      "traffic": "100+",
-      "news_title": "카카오맵, ‘제21회 부산불꽃축제’ 축제 전용 지도 제공…혼잡 구역부터 일행 위치 확인까지",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "6f00c4db705c1782"
-    },
-    {
-      "keyword": "스노클링",
+      "keyword": "시콜 스키 s 92",
       "traffic": "500+",
-      "news_title": "인니 발리 인근 섬서 스노클링하던 韓관광객, 한달째 실종",
+      "news_title": "South Korea selects Sikorsky S-92A+ for new presidential transport helicopter",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "71c5d5e7b896b8e0"
+      "key": "703f52f0d9ae5b84"
+    },
+    {
+      "keyword": "임형주",
+      "traffic": "5000+",
+      "news_title": "[OBITUARY] 더없이 따뜻했던 배우 최불암을 기리며, 배우 최불암(1939~2026)",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "4dd70320c7bddf29"
+    },
+    {
+      "keyword": "이승기",
+      "traffic": "500+",
+      "news_title": "&quot;내 보물 둘&quot; 이승기·이다인, 생후 4개월 둘째 아들 첫 공개 - 머니투데이",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "082804014a41d0a7"
+    },
+    {
+      "keyword": "일론 머스크",
+      "traffic": "200+",
+      "news_title": "머스크, X에 ‘테슬라 태극기’ 공유…한국시장 1위 질주 ‘자축’",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "f676d8f168594094"
+    },
+    {
+      "keyword": "t1 kc",
+      "traffic": "200+",
+      "news_title": "",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "f4bedd234ee583ec"
+    },
+    {
+      "keyword": "유튜버",
+      "traffic": "500+",
+      "news_title": "자전거 여행 중 숨진 유튜버…&quot;마지막 여정을&quot; 친형의 글",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "47cf8dd0ee8c5cdb"
     }
   ]
 }
