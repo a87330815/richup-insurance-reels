@@ -389,9 +389,32 @@ def analyze_price(items):
     return angles
 
 
+def analyze_insurance_news(items):
+    """보험 뉴스 수집 결과를 릴스용 앵글로 변환한다."""
+    angles = []
+    for item in items:
+        title = (item.get("title") or "").strip()
+        if not title:
+            continue
+        category = item.get("category", "보험업계 뉴스")
+        desc = (item.get("description") or "").strip()
+        angles.append({
+            "type": "시행일훅" if category == "보험 제도 변경" else "오해정정",
+            "hook": title[:12],
+            "summary": title,
+            "source": "insurance_news",
+            "category": category,
+            "attribution": "공개 뉴스 RSS · 원문 링크는 캡션에 표기",
+            "items": [item],
+            "data": {"title": title, "description": desc, "link": item.get("link", "")},
+        })
+    return angles
+
+
 def extract_angles(items):
     """모든 소스에서 스토리 앵글을 모은다."""
     angles = []
+    angles.extend(analyze_insurance_news(items))
     angles.extend(analyze_apt_trade(items))
     angles.extend(analyze_price(items))
     # 소스 추가 시 여기에 analyze_xxx 추가
