@@ -11,15 +11,15 @@ on:
       count:
         description: "생성할 대본 수 (버퍼용으로 넉넉히)"
         type: string
-        default: "9"
+        default: "2"
       fun_count:
         description: "재미·공감 대본 수 (0이면 생략)"
         type: string
-        default: "5"
+        default: "0"
       tips_count:
         description: "생활·꿀팁 대본 수 (0이면 생략)"
         type: string
-        default: "3"
+        default: "0"
 
 # 생성한 대본을 저장소에 커밋하므로 쓰기 권한이 필요하다.
 # 빠져 있으면 GITHUB_TOKEN이 읽기 전용이라 push가 거부된다.
@@ -66,31 +66,13 @@ jobs:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           LLM_PROVIDER: ${{ vars.LLM_PROVIDER }}
           LLM_MODEL: ${{ vars.LLM_MODEL }}
-          COUNT: ${{ inputs.count || '9' }}
+          COUNT: ${{ inputs.count || '2' }}
         run: |
-          # 해외 IP 차단이 간헐적이라 수집이 뚫린 날 며칠치를 만들어둔다.
-          # 하루 3건 발행이므로 9편이면 사흘치다.
-          # 트렌드 데이터가 없으면 직접 수집
-          if [ ! -f out/trends.json ]; then
-            echo "트렌드 데이터 없음 — 직접 수집"
-            python collect_trends.py || echo "트렌드 수집 실패 (비필수)"
-          fi
-          # --trends 옵션으로 트렌드 앵글도 포함
-          python scriptgen.py -n "${COUNT:-9}" --trends out/trends.json
-
-          # 재미·공감 대본 생성 (fun_topics.yml 기반)
-          FUN_COUNT="${{ inputs.fun_count || '5' }}"
-          if [ "${FUN_COUNT}" != "0" ]; then
-            echo "재미·공감 대본 ${FUN_COUNT}편 생성"
-            python scriptgen.py --fun -n "${FUN_COUNT}"
-          fi
-
-          # 생활·꿀팁 대본 생성 (tips_topics.yml 기반)
-          TIPS_COUNT="${{ inputs.tips_count || '3' }}"
-          if [ "${TIPS_COUNT}" != "0" ]; then
-            echo "생활·꿀팁 대본 ${TIPS_COUNT}편 생성"
-            python scriptgen.py --tips -n "${TIPS_COUNT}"
-          fi
+          # 보험 계정은 이전 일반 주제 대본을 섞지 않고 새로 생성한다.
+          rm -f out/scripts/*.json
+          python news_collect.py || echo "보험 뉴스 수집 실패 — 기존 데이터로 계속"
+          python scriptgen.py -n "${COUNT:-2}" --trends out/trends.json
+          echo "보험 전용 대본 생성 완료"
           ls -la out/scripts/
 
       - name: 대본 업로드
