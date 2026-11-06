@@ -1,6 +1,17 @@
 {
-  "photos": {},
-  "credits": [],
+  "photos": {
+    "scene3": "scene3.jpg"
+  },
+  "credits": [
+    {
+      "slot": "scene3",
+      "query": "insurance agent training presentation korea",
+      "source": "wikimedia",
+      "creator": "",
+      "license": "CC0",
+      "page": "https://commons.wikimedia.org/w/index.php?curid=32494464"
+    }
+  ],
   "wanted": 5,
-  "fetched_at": "2026-11-06T15:18:42Z"
+  "fetched_at": "2026-11-06T16:29:19Z"
 }
