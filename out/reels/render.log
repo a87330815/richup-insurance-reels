@@ -1,59 +1,87 @@
-run 42235795375 2026-11-06T14:43:10Z
+run 42241478065 2026-11-06T15:17:13Z
 
-=== 20261106_01_오해정정 ===
-  [cover] '[보험사 실적 평가의 ' → "new vs old apartment building korea"
+=== 20261107_01_설계사뉴스 ===
+  [cover] '보험사 실적 숫자만 보면 놓치는 것' → "insurance office analyst documents korea"
     [openverse] 0건 후보
     [wikimedia] 0건 후보
-    ↻ 재시도: "new vs old apartment building"
-    [openverse] 8건 후보
-    [wikimedia] 4건 후보
-    적합도 통과 10/12건 (Openverse/Wikimedia)
-    ✓ cover ← flickr (BY)
-  [scene1] '[보험사 실적 평가의 딜레마] ③같은' → "new vs old apartment building korea"
+    ↻ 재시도: "insurance office analyst documents"
+    [openverse] 0건 후보
+    [wikimedia] 1건 후보
+    ↻ 재시도: "insurance office analyst"
+    [openverse] 12건 후보
+    [wikimedia] 1건 후보
+    적합도 통과 0/13건 (Openverse/Wikimedia)
+    ✗ 적합한 후보 없음 — 사진 없이 진행
+    ✗ cover: 후보 없음
+  [scene1] '실적 숫자만 보면 안 되는 이유' → "insurance office analyst documents korea"
     [openverse] 0건 후보
     [wikimedia] 0건 후보
-    ↻ 재시도: "new vs old apartment building"
-    [openverse] 8건 후보
-    [wikimedia] 4건 후보
-    적합도 통과 10/12건 (Openverse/Wikimedia)
-    ✓ scene1 ← flickr (BY)
-  [scene2] '[보험사 실적 평가의 딜레마] ③같은' → "Korea city apartment building"
-    [openverse] 10건 후보 (부적합 2건 제외)
-    [wikimedia] 8건 후보
-    적합도 통과 2/18건 (Openverse/Wikimedia)
-    ✓ scene2 ← flickr (BY)
-  [scene3] '팔로우 · 매일 업데이트' → "follow subscribe social media phone"
+    ↻ 재시도: "insurance office analyst documents"
+    [openverse] 0건 후보
+    [wikimedia] 1건 후보
+    ↻ 재시도: "insurance office analyst"
+    [openverse] 12건 후보
+    [wikimedia] 1건 후보
+    적합도 통과 0/13건 (Openverse/Wikimedia)
+    ✗ 적합한 후보 없음 — 사진 없이 진행
+    ✗ scene1: 후보 없음
+  [scene2] '계리 가정과 회계 기준 확인' → "business meeting insurance office korea"
     [openverse] 0건 후보
     [wikimedia] 0건 후보
-    ↻ 재시도: "follow subscribe social media"
-    [openverse] 실패: 504 Server Error: Gateway Timeout for url: https://api.openverse.org/v1/images/?q=follow+subscribe+social+media&license=cc0%2Cpdm%2Cby&page_size=12&mature=false
-    [wikimedia] 7건 후보
-    적합도 통과 2/7건 (Openverse/Wikimedia)
-    ✓ scene3 ← Wikimedia Commons (CC BY 2.0)
-  → 4/4장 저장, 매니페스트: out/photos/20261106_01_오해정정/photos.json
+    ↻ 재시도: "business meeting insurance office"
+    [openverse] 7건 후보 (부적합 1건 제외)
+    [wikimedia] 11건 후보
+    적합도 통과 0/18건 (Openverse/Wikimedia)
+    ✗ 적합한 후보 없음 — 사진 없이 진행
+    ✗ scene2: 후보 없음
+  [scene3] '설계사가 확인할 포인트' → "insurance agent training presentation korea"
+    [openverse] 0건 후보
+    [wikimedia] 0건 후보
+    ↻ 재시도: "insurance agent training presentation"
+    [openverse] 0건 후보
+    [wikimedia] 0건 후보
+    ↻ 재시도: "insurance agent training"
+    [openverse] 실패: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=20)
+    [wikimedia] 8건 후보 (부적합 1건 제외)
+    적합도 통과 0/8건 (Openverse/Wikimedia)
+    ✗ 적합한 후보 없음 — 사진 없이 진행
+    ✗ scene3: 후보 없음
+  [scene4] '굿리치 리치업지점과 함께' → "insurance team training korea"
+    [openverse] 0건 후보
+    [wikimedia] 0건 후보
+    ↻ 재시도: "insurance team training"
+    [openverse] 0건 후보
+    [wikimedia] 12건 후보
+    적합도 통과 0/12건 (Openverse/Wikimedia)
+    ✗ 적합한 후보 없음 — 사진 없이 진행
+    ✗ scene4: 후보 없음
+  → 0/5장 저장, 매니페스트: out/photos/20261107_01_설계사뉴스/photos.json
 
-총 4/4장 수집
-  사진 4장 적용: cover, scene1, scene2, scene3
-카드뉴스 5장 생성 → out/cards_20261106_01_오해정정
-대본: out/scripts/20261106_01_오해정정.json
-카드: out/cards_20261106_01_오해정정 (5장)
+총 0/5장 수집
+경고: 한 장도 받지 못했습니다. 그래디언트 배경으로 생성됩니다.
+  사진 없음 — 그래디언트 배경으로 생성
+카드뉴스 6장 생성 → out/cards_20261107_01_설계사뉴스
+대본: out/scripts/20261107_01_설계사뉴스.json
+카드: out/cards_20261107_01_설계사뉴스 (6장)
 음성: 프리셋 앵커/발랄녀 중 이 대본은 발랄녀
 
 1) TTS 생성
 [TTS] ElevenLabs 엔진 사용
 [TTS] Voice ID 직접 사용: Ctl3...A8Hn
-  TTS [1/4] [EL] 1.2초  [보험사 실적 평가의 ...
-  TTS [2/4] [EL] 9.5초  이거 모르고 지나가면 손해다. [보험사 실적 평가의...
-  TTS [3/4] [EL] 17.2초  [보험사 실적 평가의 딜레마] ③같은 보험도 다른 ...
-  TTS [4/4] [EL] 3.8초  오늘 내용이 도움이 됐다면 팔로우 해주이소. 매일 ...
+  TTS [1/5] [EL] 2.1초  보험사 실적 숫자만 보면 놓치는 것...
+  TTS [2/5] [EL] 5.7초  보험사 실적 발표가 나왔습니다. 그런데 설계사라면 ...
+  TTS [3/5] [EL] 11.2초  보험사는 회계 기준과 계리 가정에 따라 같은 상품도...
+  TTS [4/5] [EL] 11.1초  현장에서는 상품 설명이나 회사 비교를 할 때 공시 ...
+  TTS [5/5] [EL] 7.5초  보험업계 소식과 설계사 성장 정보를 계속 받아보고 ...
 
 2) 영상 합성
-  세그먼트 [1/5] 3.0초
-  세그먼트 [2/5] 10.3초
-  세그먼트 [3/5] 18.0초
-  세그먼트 [4/5] 4.6초
-  세그먼트 [5/5] 4.0초
+  세그먼트 [1/6] 3.0초
+  세그먼트 [2/6] 6.5초
+  세그먼트 [3/6] 12.0초
+  세그먼트 [4/6] 11.9초
+  세그먼트 [5/6] 8.3초
+  세그먼트 [6/6] 4.0초
 
-  ✓ 릴스 완성: out/reels/20261106_01_오해정정.mp4
-    길이: 35.6초  /  크기: 3.1MB
--rw-r--r-- 1 runner runner 3.1M Nov  6 14:44 out/reels/20261106_01_오해정정.mp4
+  ✓ 릴스 완성: out/reels/20261107_01_설계사뉴스.mp4
+    길이: 41.5초  /  크기: 1.1MB
+-rw-r--r-- 1 runner runner 1.1M Nov  6 15:19 out/reels/20261107_01_설계사뉴스.mp4
