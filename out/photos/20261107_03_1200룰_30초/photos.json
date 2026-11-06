@@ -1,0 +1,26 @@
+{
+  "photos": {
+    "scene2": "scene2.jpg",
+    "scene3": "scene3.jpg"
+  },
+  "credits": [
+    {
+      "slot": "scene2",
+      "query": "insurance contract calculator office korea",
+      "source": "Wikimedia Commons",
+      "creator": "The Government-General of Korea, Empire of Japan.",
+      "license": "Public domain",
+      "page": "https://commons.wikimedia.org/wiki/File:Insurance_policy_issued_by_the_Post_Office_of_the_Japanese_Government-General_of_Korea_(1944)_%EC%98%9B%EB%82%A0%EB%AC%BC%EA%B1%B4_01.jpg"
+    },
+    {
+      "slot": "scene3",
+      "query": "insurance agent training meeting korea",
+      "source": "wikimedia",
+      "creator": "",
+      "license": "CC0",
+      "page": "https://commons.wikimedia.org/w/index.php?curid=32494464"
+    }
+  ],
+  "wanted": 5,
+  "fetched_at": "2026-11-06T15:52:33Z"
+}
