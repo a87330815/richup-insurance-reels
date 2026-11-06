@@ -71,7 +71,7 @@ jobs:
           # 보험 계정은 이전 일반 주제 대본을 섞지 않고 새로 생성한다.
           rm -f out/scripts/*.json
           python news_collect.py || echo "보험 뉴스 수집 실패 — 기존 데이터로 계속"
-          python scriptgen.py -n "${COUNT:-2}" --trends out/trends.json
+          python scriptgen.py -n "${COUNT:-2}" --input out/news.json --trends /tmp/no-insurance-trends.json
           echo "보험 전용 대본 생성 완료"
           ls -la out/scripts/
 
