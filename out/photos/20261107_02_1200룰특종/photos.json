@@ -1,0 +1,26 @@
+{
+  "photos": {
+    "scene2": "scene2.jpg",
+    "scene4": "scene4.jpg"
+  },
+  "credits": [
+    {
+      "slot": "scene2",
+      "query": "business contract calculator insurance office",
+      "source": "Wikimedia Commons",
+      "creator": "Reed, Michael, Morrell, Z.N, Morrell, Z.N, Morrell, Z.N, Mor",
+      "license": "CC BY 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:(Business_contract_and_power_of_attorney)_-_DPLA_-_4b483db22808e799cd02f23316393fef_(page_1).jpg"
+    },
+    {
+      "slot": "scene4",
+      "query": "insurance agent training classroom korea",
+      "source": "wikimedia",
+      "creator": "",
+      "license": "CC0",
+      "page": "https://commons.wikimedia.org/w/index.php?curid=32494464"
+    }
+  ],
+  "wanted": 6,
+  "fetched_at": "2026-11-06T15:37:02Z"
+}

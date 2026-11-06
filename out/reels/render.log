@@ -1,87 +1,99 @@
-run 42241478065 2026-11-06T15:17:13Z
+run 42243345634 2026-11-06T15:35:43Z
 
-=== 20261107_01_설계사뉴스 ===
-  [cover] '보험사 실적 숫자만 보면 놓치는 것' → "insurance office analyst documents korea"
+=== 20261107_02_1200룰특종 ===
+  [cover] '초대형 GA 정착지원금이 사라진 이유' → "insurance agent office contract documents korea"
     [openverse] 0건 후보
     [wikimedia] 0건 후보
-    ↻ 재시도: "insurance office analyst documents"
+    ↻ 재시도: "insurance agent office contract documents"
     [openverse] 0건 후보
-    [wikimedia] 1건 후보
-    ↻ 재시도: "insurance office analyst"
-    [openverse] 12건 후보
-    [wikimedia] 1건 후보
-    적합도 통과 0/13건 (Openverse/Wikimedia)
-    ✗ 적합한 후보 없음 — 사진 없이 진행
-    ✗ cover: 후보 없음
-  [scene1] '실적 숫자만 보면 안 되는 이유' → "insurance office analyst documents korea"
-    [openverse] 0건 후보
-    [wikimedia] 0건 후보
-    ↻ 재시도: "insurance office analyst documents"
-    [openverse] 0건 후보
-    [wikimedia] 1건 후보
-    ↻ 재시도: "insurance office analyst"
-    [openverse] 12건 후보
-    [wikimedia] 1건 후보
-    적합도 통과 0/13건 (Openverse/Wikimedia)
-    ✗ 적합한 후보 없음 — 사진 없이 진행
-    ✗ scene1: 후보 없음
-  [scene2] '계리 가정과 회계 기준 확인' → "business meeting insurance office korea"
+    [wikimedia] 2건 후보
+    ↻ 재시도: "insurance agent office contract"
+    [openverse] 1건 후보
+    [wikimedia] 9건 후보
+    적합도 통과 1/10건 (Openverse/Wikimedia)
+    ✗ cover: 다운로드 전부 실패
+  [scene1] '정착지원금이 줄어든다' → "insurance agent office contract documents korea"
     [openverse] 0건 후보
     [wikimedia] 0건 후보
-    ↻ 재시도: "business meeting insurance office"
-    [openverse] 7건 후보 (부적합 1건 제외)
-    [wikimedia] 11건 후보
-    적합도 통과 0/18건 (Openverse/Wikimedia)
-    ✗ 적합한 후보 없음 — 사진 없이 진행
-    ✗ scene2: 후보 없음
-  [scene3] '설계사가 확인할 포인트' → "insurance agent training presentation korea"
+    ↻ 재시도: "insurance agent office contract documents"
+    [openverse] 0건 후보
+    [wikimedia] 2건 후보
+    ↻ 재시도: "insurance agent office contract"
+    [openverse] 1건 후보
+    [wikimedia] 9건 후보
+    적합도 통과 1/10건 (Openverse/Wikimedia)
+    ✗ scene1: 다운로드 전부 실패
+  [scene2] '1200%룰 확대 적용' → "business contract calculator insurance office"
     [openverse] 0건 후보
     [wikimedia] 0건 후보
-    ↻ 재시도: "insurance agent training presentation"
+    ↻ 재시도: "business contract calculator insurance"
     [openverse] 0건 후보
     [wikimedia] 0건 후보
-    ↻ 재시도: "insurance agent training"
+    ↻ 재시도: "business contract calculator"
     [openverse] 실패: HTTPSConnectionPool(host='api.openverse.org', port=443): Read timed out. (read timeout=20)
-    [wikimedia] 8건 후보 (부적합 1건 제외)
-    적합도 통과 0/8건 (Openverse/Wikimedia)
-    ✗ 적합한 후보 없음 — 사진 없이 진행
-    ✗ scene3: 후보 없음
-  [scene4] '굿리치 리치업지점과 함께' → "insurance team training korea"
+    [wikimedia] 1건 후보
+    ↻ 재시도: "business contract"
+    [openverse] 12건 후보
+    [wikimedia] 9건 후보
+    적합도 통과 2/22건 (Openverse/Wikimedia)
+    ✓ scene2 ← Wikimedia Commons (CC BY 4.0)
+  [scene3] '영입 경쟁의 방향 변화' → "insurance team meeting training korea"
     [openverse] 0건 후보
     [wikimedia] 0건 후보
-    ↻ 재시도: "insurance team training"
+    ↻ 재시도: "insurance team meeting training"
     [openverse] 0건 후보
     [wikimedia] 12건 후보
     적합도 통과 0/12건 (Openverse/Wikimedia)
     ✗ 적합한 후보 없음 — 사진 없이 진행
-    ✗ scene4: 후보 없음
-  → 0/5장 저장, 매니페스트: out/photos/20261107_01_설계사뉴스/photos.json
+    ✗ scene3: 후보 없음
+  [scene4] '설계사가 확인할 조건' → "insurance agent training classroom korea"
+    [openverse] 0건 후보
+    [wikimedia] 0건 후보
+    ↻ 재시도: "insurance agent training classroom"
+    [openverse] 0건 후보
+    [wikimedia] 0건 후보
+    ↻ 재시도: "insurance agent training"
+    [openverse] 2건 후보
+    [wikimedia] 8건 후보 (부적합 1건 제외)
+    적합도 통과 1/10건 (Openverse/Wikimedia)
+    ✓ scene4 ← wikimedia (CC0)
+  [scene5] '굿리치 리치업지점과 함께' → "professional insurance team korea"
+    [openverse] 0건 후보
+    [wikimedia] 0건 후보
+    ↻ 재시도: "professional insurance team"
+    [openverse] 12건 후보
+    [wikimedia] 5건 후보
+    적합도 통과 0/17건 (Openverse/Wikimedia)
+    ✗ 적합한 후보 없음 — 사진 없이 진행
+    ✗ scene5: 후보 없음
+  → 2/6장 저장, 매니페스트: out/photos/20261107_02_1200룰특종/photos.json
 
-총 0/5장 수집
-경고: 한 장도 받지 못했습니다. 그래디언트 배경으로 생성됩니다.
-  사진 없음 — 그래디언트 배경으로 생성
-카드뉴스 6장 생성 → out/cards_20261107_01_설계사뉴스
-대본: out/scripts/20261107_01_설계사뉴스.json
-카드: out/cards_20261107_01_설계사뉴스 (6장)
-음성: 프리셋 앵커/발랄녀 중 이 대본은 발랄녀
+총 2/6장 수집
+  사진 2장 적용: scene2, scene4
+카드뉴스 7장 생성 → out/cards_20261107_02_1200룰특종
+대본: out/scripts/20261107_02_1200룰특종.json
+카드: out/cards_20261107_02_1200룰특종 (7장)
+음성: 프리셋 앵커/발랄녀 중 이 대본은 앵커
 
 1) TTS 생성
 [TTS] ElevenLabs 엔진 사용
 [TTS] Voice ID 직접 사용: Ctl3...A8Hn
-  TTS [1/5] [EL] 2.1초  보험사 실적 숫자만 보면 놓치는 것...
-  TTS [2/5] [EL] 5.7초  보험사 실적 발표가 나왔습니다. 그런데 설계사라면 ...
-  TTS [3/5] [EL] 11.2초  보험사는 회계 기준과 계리 가정에 따라 같은 상품도...
-  TTS [4/5] [EL] 11.1초  현장에서는 상품 설명이나 회사 비교를 할 때 공시 ...
-  TTS [5/5] [EL] 7.5초  보험업계 소식과 설계사 성장 정보를 계속 받아보고 ...
+  TTS [1/6] [EL] 2.6초  초대형 GA 정착지원금이 사라진 이유...
+  TTS [2/6] [EL] 6.5초  보험 설계사 영입의 판이 바뀌고 있습니다. 초대형 ...
+  TTS [3/6] [EL] 10.5초  배경은 2026년 7월부터 GA 설계사에게도 적용된...
+  TTS [4/6] [EL] 11.4초  설계사에게 중요한 변화는 단순히 지원금이 줄었다는 ...
+  TTS [5/6] [EL] 9.4초  이직이나 입사를 고민한다면 지원금 액수만 비교하지 ...
+  TTS [6/6] [EL] 7.2초  보험업계 소식과 설계사 성장 정보를 계속 받아보고 ...
 
 2) 영상 합성
-  세그먼트 [1/6] 3.0초
-  세그먼트 [2/6] 6.5초
-  세그먼트 [3/6] 12.0초
-  세그먼트 [4/6] 11.9초
-  세그먼트 [5/6] 8.3초
-  세그먼트 [6/6] 4.0초
+  세그먼트 [1/7] 3.4초
+  세그먼트 [2/7] 7.3초
+  세그먼트 [3/7] 11.3초
+  세그먼트 [4/7] 12.2초
+  세그먼트 [5/7] 10.2초
+  세그먼트 [6/7] 8.0초
+  세그먼트 [7/7] 4.0초
 
-  ✓ 릴스 완성: out/reels/20261107_01_설계사뉴스.mp4
-    길이: 41.5초  /  크기: 1.1MB
--rw-r--r-- 1 runner runner 1.1M Nov  6 15:19 out/reels/20261107_01_설계사뉴스.mp4
+  ✓ 릴스 완성: out/reels/20261107_02_1200룰특종.mp4
+    길이: 51.3초  /  크기: 2.2MB
+-rw-r--r-- 1 runner runner 2.2M Nov  6 15:37 out/reels/20261107_02_1200룰특종.mp4
