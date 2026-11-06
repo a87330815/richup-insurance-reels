@@ -311,6 +311,9 @@ async def generate_tts(texts, voice, out_dir, style=True, rate=DEFAULT_RATE,
     속도도 그 프리셋 값을 따라가야 해서 매 장면 다시 집어 온다.
     """
     use_el = _check_elevenlabs()
+    if use_el:
+        vid = os.environ.get("ELEVENLABS_VOICE_ID", "")
+        print(f"[TTS] Voice ID 직접 사용: {vid[:4]}...{vid[-4:]}")
 
     results = []
     for i, text in enumerate(texts):
@@ -319,7 +322,7 @@ async def generate_tts(texts, voice, out_dir, style=True, rate=DEFAULT_RATE,
             results.append(None)
             continue
         # 장면별 프리셋이 있으면 음성·속도까지 그 설정으로 바꾼다.
-        cur = (presets[i] if presets and i < len(presets) else None) or preset
+        cur = None if use_el else ((presets[i] if presets and i < len(presets) else None) or preset)
         p = PRESETS.get(cur, {})
         cur_voice = p.get("voice", voice)
         cur_rate = p.get("rate", rate)
@@ -518,7 +521,7 @@ def main():
         if not a.no_tts:
             print("\n1) TTS 생성")
             texts = narrations(script)
-            per_scene = scene_presets(pool, stem, len(texts), a.alternate)
+            per_scene = ([None] * len(texts) if os.environ.get("ELEVENLABS_API_KEY") and os.environ.get("ELEVENLABS_VOICE_ID") else scene_presets(pool, stem, len(texts), a.alternate))
             try:
                 tts_results = asyncio.run(generate_tts(texts, a.voice, tmp,
                                                        style=not a.no_style,
