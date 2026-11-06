@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-news_collect.py — 이슈 뉴스 수집기
+news_collect.py — 보험업계 뉴스 수집기
 
 네이버 뉴스 RSS + 주요 언론사 RSS로 실시간 이슈를 수집한다.
 수집 결과는 out/news.json으로 저장.
@@ -28,11 +28,10 @@ SEEN_FILE = os.path.join(OUT_DIR, "news_seen.json")
 # ── 네이버 뉴스 RSS (공개, 키 불필요) ─────────────────────
 # sid1: 100=정치, 101=경제, 102=사회, 103=생활/문화, 104=세계, 105=IT/과학
 NAVER_RSS = {
-    "경제": "https://news.google.com/rss/search?q=한국+경제&hl=ko&gl=KR&ceid=KR:ko",
-    "사회": "https://news.google.com/rss/search?q=한국+사회+이슈&hl=ko&gl=KR&ceid=KR:ko",
-    "생활": "https://news.google.com/rss/search?q=생활+정보+꿀팁&hl=ko&gl=KR&ceid=KR:ko",
-    "부동산": "https://news.google.com/rss/search?q=부동산+아파트+전세&hl=ko&gl=KR&ceid=KR:ko",
-    "재테크": "https://news.google.com/rss/search?q=재테크+투자+저축&hl=ko&gl=KR&ceid=KR:ko",
+    "보험업계 뉴스": "https://news.google.com/rss/search?q=보험업계+보험사+실적+금융감독원&hl=ko&gl=KR&ceid=KR:ko",
+    "보험 제도 변경": "https://news.google.com/rss/search?q=보험+제도+변경+금융위원회+금융감독원&hl=ko&gl=KR&ceid=KR:ko",
+    "보험 상품 트렌드": "https://news.google.com/rss/search?q=보험+신상품+상품+트렌드+실손+건강보험&hl=ko&gl=KR&ceid=KR:ko",
+    "굿리치 소식": "https://news.google.com/rss/search?q=굿리치+보험&hl=ko&gl=KR&ceid=KR:ko",
 }
 
 # 언론사 표현 필터 (저작권 보호)
