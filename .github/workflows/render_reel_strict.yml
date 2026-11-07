@@ -51,4 +51,4 @@ jobs:
       - uses: actions/upload-artifact@v4
         with:
           name: reel-insurance-test
-          path: out/reels_$STEM.mp4
+          path: out/reels_insurance_test.mp4
