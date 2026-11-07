@@ -1,35 +1,11 @@
 {
   "title": "열심히 하는데 수입이 줄었다면",
   "scenes": [
-    {
-      "subtitle": "수입이 줄어드는 진짜 이유",
-      "narration": "열심히 상담하는데도 수입이 줄고 있다면, 문제는 영업 실력이 아닐 수 있습니다.",
-      "photo_query": "한국인 보험회사 소속 보험설계사가 사무실에서 서류를 확인하는 장면"
-    },
-    {
-      "subtitle": "고객은 이미 비교합니다",
-      "narration": "고객은 이제 상담 전에 여러 정보를 비교하고 들어옵니다.",
-      "photo_query": "한국인 고객과 보험회사 소속 보험설계사가 상담하는 장면"
-    },
-    {
-      "subtitle": "설명보다 중요한 것",
-      "narration": "상품 설명만 반복하면, 내 상담은 쉽게 대체됩니다.",
-      "photo_query": "한국인 보험회사 소속 보험설계사가 고객에게 설명하는 장면"
-    },
-    {
-      "subtitle": "숫자로 보여줘야 합니다",
-      "narration": "보장과 보험료를 숫자로 보여주는 설계사가 선택받습니다.",
-      "photo_query": "한국인 보험회사 소속 보험설계사가 보험 비교표를 보여주는 장면"
-    },
-    {
-      "subtitle": "지금 바꿀 한 가지",
-      "narration": "다음 상담부터는 고객 상황에 맞춘 비교표를 먼저 준비해 보세요.",
-      "photo_query": "한국인 보험회사 소속 보험설계사가 노트북으로 자료를 준비하는 장면"
-    },
-    {
-      "subtitle": "함께 성장해요",
-      "narration": "보험업계 소식과 설계사 성장 정보를 계속 받아보고 싶다면 팔로우해 주세요. 굿리치 리치업지점에서 함께 성장해요.",
-      "photo_query": "한국인 보험회사 보험설계사 팀이 함께 회의하는 장면"
-    }
+    {"subtitle":"수입이 줄어드는 진짜 이유","narration":"열심히 상담하는데도 수입이 줄고 있다면, 문제는 영업 실력이 아닐 수 있습니다.","photo_query":"insurance agent office paperwork"},
+    {"subtitle":"고객은 이미 비교합니다","narration":"고객은 이제 상담 전에 여러 정보를 비교하고 들어옵니다.","photo_query":"insurance agent client consultation"},
+    {"subtitle":"설명보다 중요한 것","narration":"상품 설명만 반복하면, 내 상담은 쉽게 대체됩니다.","photo_query":"insurance agent explaining policy to client"},
+    {"subtitle":"숫자로 보여줘야 합니다","narration":"보장과 보험료를 숫자로 보여주는 설계사가 선택받습니다.","photo_query":"insurance comparison chart agent"},
+    {"subtitle":"지금 바꿀 한 가지","narration":"다음 상담부터는 고객 상황에 맞춘 비교표를 먼저 준비해 보세요.","photo_query":"insurance agent preparing documents laptop"},
+    {"subtitle":"함께 성장해요","narration":"보험업계 소식과 설계사 성장 정보를 계속 받아보고 싶다면 팔로우해 주세요. 굿리치 리치업지점에서 함께 성장해요.","photo_query":"insurance agents team meeting"}
   ]
 }
