@@ -17,6 +17,10 @@ jobs:
         run: |
           pip install -q Pillow numpy requests edge-tts elevenlabs
           sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg fonts-noto-cjk
+      - name: 한국인 사진 준비
+        run: |
+          mkdir -p out/photos
+          python -c "import json; s='${{ inputs.stem }}'; q={s:{'cover':'https://loremflickr.com/1080/1350/korean,office?lock=1','scene1':'https://loremflickr.com/1080/1350/korean,insurance?lock=2','scene2':'https://loremflickr.com/1080/1350/korean,documents?lock=3','scene3':'https://loremflickr.com/1080/1350/korean,consultation?lock=4','scene4':'https://loremflickr.com/1080/1350/korean,smartphone?lock=5','scene5':'https://loremflickr.com/1080/1350/korean,training?lock=6','scene6':'https://loremflickr.com/1080/1350/korean,team?lock=7'}}; json.dump(q,open('out/photos/custom_urls.json','w'),ensure_ascii=False)"
       - name: 사진 수집
         run: python -u photos.py "out/scripts/${{ inputs.stem }}.json"
       - name: 필수 검수
@@ -34,4 +38,4 @@ jobs:
       - uses: actions/upload-artifact@v4
         with:
           name: reel-${{ inputs.stem }}
-          path: out/reels/*.mp4
+          path: out/reels/${{ inputs.stem }}.mp4
