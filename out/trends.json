@@ -1,77 +1,95 @@
 {
-  "collected_at": "2026-11-07T09:29:42.871590+00:00",
+  "collected_at": "2026-11-07T14:28:24.195074+00:00",
   "items": [
     {
-      "keyword": "수원fc 대 경남 fc 순위",
+      "keyword": "페드로 포로",
+      "traffic": "200+",
+      "news_title": "‘월드컵 위너’ 포로, “가장 존경하는 선수는 쏘니”…손흥민 향한 진심",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "bb33d219279ddcef"
+    },
+    {
+      "keyword": "ลีดส์ พบ สเปอร์ส",
+      "traffic": "100+",
+      "news_title": "ดูบอลสด วิเคราะห์บอลพรีเมียร์ลีก ลีดส์ พบ สเปอร์ส 7 พ.ย.69",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "1cda808f74acace3"
+    },
+    {
+      "keyword": "검사",
       "traffic": "500+",
+      "news_title": "“이재명 탈옥법” 국힘, ‘조작기소 특검법’ 규탄 도심 집회",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "de0accd0c84de7b6"
+    },
+    {
+      "keyword": "닥터x 하얀 마피아의 시대",
+      "traffic": "1000+",
+      "news_title": "‘닥터X’ 김영민, 참 멋없는데… 누구보다 멋진 ‘진짜 의사’였다",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "2f520f3cc52a17d7"
+    },
+    {
+      "keyword": "sbs",
+      "traffic": "500+",
+      "news_title": "Cha Cheong-hwa joins SBS drama 9 to 6 as corporate support head",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "bb0a18c8a1d0e4cf"
+    },
+    {
+      "keyword": "persija jakarta vs persebaya",
+      "traffic": "200+",
       "news_title": "",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "2e98bd8e31caf0e5"
+      "key": "deccf033006a1579"
     },
     {
-      "keyword": "하희라",
+      "keyword": "agf",
       "traffic": "500+",
-      "news_title": "&apos;살림남&apos;, 최수종은 러브레터...은지원은 변명레터 - 머니투데이",
+      "news_title": "The Fed in Uncharted Territory with New Communication Policy",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "c4afd275dc221b60"
+      "key": "21cb3b01497fa3d9"
     },
     {
-      "keyword": "이승민",
+      "keyword": "내일 날씨",
+      "traffic": "200000+",
+      "news_title": "[날씨] 충청권 올가을 첫 영하권...주말 나들이 옷차림 두툼",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "623e0ff024731870"
+    },
+    {
+      "keyword": "leeds vs spurs",
       "traffic": "500+",
-      "news_title": "&apos;놀랍다&apos; ERA &apos;0&apos; 대체 삼성 &apos;이 선수&apos; 韓 대표팀 왜 안 뽑혔나, 가을바람 신들린 &apos;히어로&apos; 찬사 폭발 [KS] - 머니투데이",
+      "news_title": "Premier League LIVE: Build-up, team news, live text, radio &amp; score updates from across the Premier League",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "d399a2265e52ded8"
+      "key": "90b2fad41fcc96d7"
     },
     {
-      "keyword": "주권",
-      "traffic": "200+",
-      "news_title": "[박성진의 국방 B컷](69) 집속탄 사진에 흔들리는 한국과 김정은의 ‘사진 정치’",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "1cb5f8100ed0ae6b"
-    },
-    {
-      "keyword": "나탈리 하프",
-      "traffic": "200+",
-      "news_title": "Trump Hands Natalie Harp New Deeply Personal Role",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "bb1b42a43de1a81d"
-    },
-    {
-      "keyword": "김영철",
+      "keyword": "로또1249",
       "traffic": "500+",
-      "news_title": "&quot;치킨 사 오겠다던 형, 그날 세상 떠나&quot;…김영철이 떠올린 35년 전 비극 - 머니투데이",
+      "news_title": "[속보]로또 1249회 당첨번호 &apos;2·11·16·25·34·35&apos;…보너스 &apos;14&apos;",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "e2b712cd0b75f51c"
-    },
-    {
-      "keyword": "수원 kt 대 대구 한국가스공사",
-      "traffic": "500+",
-      "news_title": "",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "생활·지원금·제도",
-      "key": "5d9ff69433e53c28"
-    },
-    {
-      "keyword": "젠슨황",
-      "traffic": "2000+",
-      "news_title": "美의회, 젠슨 황에 &quot;&apos;中간첩 의혹&apos; 여성과 관계 직접 해명하라&quot;",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "a5b50ac6d2689b90"
+      "key": "647fd63d6c0d98e6"
     }
   ]
 }
