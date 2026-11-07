@@ -22,6 +22,12 @@ import urllib.parse
 import requests
 from PIL import Image
 
+def _api_query(query):
+    """검수용 한국어 표기는 유지하고 API 검색어만 영문으로 정리한다."""
+    cleaned = re.sub(r"한국인|대한민국|한국 사람", " ", query or "")
+    cleaned = re.sub(r"\s+", " ", cleaned).strip()
+    return cleaned or "insurance agent"
+
 UA = "issue-reels-cardnews/1.0 (https://github.com/a87330815/issue-reels)"
 TIMEOUT = 20
 CARD_W, CARD_H = 1080, 1350
@@ -104,6 +110,7 @@ def build_query(text, category=""):
 
 # ── 공급자별 검색 ────────────────────────────
 def search_unsplash(query, key, n=8):
+    query = _api_query(query)
     """Unsplash — 상업적 이용 자유, 출처표기 의무 없음."""
     url = "https://api.unsplash.com/search/photos"
     params = {"query": query, "per_page": n, "orientation": "portrait",
@@ -128,6 +135,7 @@ def search_unsplash(query, key, n=8):
 
 
 def search_openverse(query, n=12):
+    query = _api_query(query)
     """Openverse — 키 불필요.
     cc0/pdm(표기 불필요) + by(표기만 하면 상업적 이용 자유)까지 받아 후보 풀을 넓힌다.
     share-alike·비상업·변경금지는 제외. 비율 제한은 두지 않는다 (cover 크롭으로 흡수)."""
@@ -175,6 +183,7 @@ def _license_ok(name):
 
 
 def search_wikimedia(query, n=12):
+    query = _api_query(query)
     """Wikimedia Commons — 키 불필요. 최후 폴백.
     share-alike/비상업/변경금지 라이선스는 제외한다."""
     url = "https://commons.wikimedia.org/w/api.php"
