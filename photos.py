@@ -307,7 +307,7 @@ def search_with_fallback(query, n=12, min_needed=3):
     trusted = [c for c in out if c.get("_trusted")]
     untrusted = [c for c in out if not c.get("_trusted")]
 
-    need = 2 if len(terms) >= 3 else 1
+    need = 1
     if untrusted:
         scored = sorted(((relevance(c, terms), c) for c in untrusted),
                         key=lambda p: -p[0])
