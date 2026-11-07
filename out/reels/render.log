@@ -1,85 +1,94 @@
-run 42252656378 2026-11-06T16:29:09Z
+run 42342733948 2026-11-07T05:27:06Z
 
-=== 20261107_01_설계사뉴스 ===
-  [cover] '보험사 실적 숫자만 보면 놓치는 것' → "insurance office analyst documents korea"
+=== 20261107_02_오해정정 ===
+  [cover] '‘계리가정’ 바꿨더니,' → "new vs old apartment building korea"
     [openverse] 0건 후보
     [wikimedia] 0건 후보
-    ↻ 재시도: "insurance office analyst documents"
+    ↻ 재시도: "new vs old apartment building"
+    [openverse] 8건 후보
+    [wikimedia] 4건 후보
+    적합도 통과 11/12건 (Openverse/Wikimedia)
+    ✓ cover ← flickr (BY)
+  [scene1] '‘계리가정’ 바꿨더니, 보험사 실적 영향' → "new vs old apartment building korea"
     [openverse] 0건 후보
-    [wikimedia] 1건 후보
-    ↻ 재시도: "insurance office analyst"
+    [wikimedia] 0건 후보
+    ↻ 재시도: "new vs old apartment building"
+    [openverse] 8건 후보
+    [wikimedia] 4건 후보
+    적합도 통과 11/12건 (Openverse/Wikimedia)
+    ✓ scene1 ← flickr (BY)
+  [scene2] '‘계리가정’ 바꿨더니, 보험사 실적 영향' → "Korea city apartment building"
+    [openverse] 10건 후보 (부적합 2건 제외)
+    [wikimedia] 8건 후보
+    적합도 통과 13/18건 (Openverse/Wikimedia)
+    ✓ scene2 ← flickr (BY)
+  [scene3] '팔로우 · 매일 업데이트' → "follow subscribe social media phone"
+    [openverse] 0건 후보
+    [wikimedia] 0건 후보
+    ↻ 재시도: "follow subscribe social media"
     [openverse] 12건 후보
-    [wikimedia] 1건 후보
-    적합도 통과 0/13건 (Openverse/Wikimedia)
-    ✗ 적합한 후보 없음 — 사진 없이 진행
-    ✗ cover: 후보 없음
-  [scene1] '실적 숫자만 보면 안 되는 이유' → "insurance office analyst documents korea"
-    [openverse] 0건 후보
-    [wikimedia] 0건 후보
-    ↻ 재시도: "insurance office analyst documents"
-    [openverse] 0건 후보
-    [wikimedia] 1건 후보
-    ↻ 재시도: "insurance office analyst"
-    [openverse] 12건 후보
-    [wikimedia] 1건 후보
-    적합도 통과 0/13건 (Openverse/Wikimedia)
-    ✗ 적합한 후보 없음 — 사진 없이 진행
-    ✗ scene1: 후보 없음
-  [scene2] '계리 가정과 회계 기준 확인' → "business meeting insurance office korea"
-    [openverse] 0건 후보
-    [wikimedia] 0건 후보
-    ↻ 재시도: "business meeting insurance office"
-    [openverse] 7건 후보 (부적합 1건 제외)
-    [wikimedia] 11건 후보
-    적합도 통과 0/18건 (Openverse/Wikimedia)
-    ✗ 적합한 후보 없음 — 사진 없이 진행
-    ✗ scene2: 후보 없음
-  [scene3] '설계사가 확인할 포인트' → "insurance agent training presentation korea"
-    [openverse] 0건 후보
-    [wikimedia] 0건 후보
-    ↻ 재시도: "insurance agent training presentation"
-    [openverse] 0건 후보
-    [wikimedia] 0건 후보
-    ↻ 재시도: "insurance agent training"
-    [openverse] 2건 후보
-    [wikimedia] 8건 후보 (부적합 1건 제외)
-    적합도 통과 1/10건 (Openverse/Wikimedia)
-    ✓ scene3 ← wikimedia (CC0)
-  [scene4] '굿리치 리치업지점과 함께' → "insurance team training korea"
-    [openverse] 0건 후보
-    [wikimedia] 0건 후보
-    ↻ 재시도: "insurance team training"
-    [openverse] 0건 후보
-    [wikimedia] 12건 후보
-    적합도 통과 0/12건 (Openverse/Wikimedia)
-    ✗ 적합한 후보 없음 — 사진 없이 진행
-    ✗ scene4: 후보 없음
-  → 1/5장 저장, 매니페스트: out/photos/20261107_01_설계사뉴스/photos.json
+    [wikimedia] 7건 후보
+    적합도 통과 12/19건 (Openverse/Wikimedia)
+    ✓ scene3 ← flickr (BY)
+  → 4/4장 저장, 매니페스트: out/photos/20261107_02_오해정정/photos.json
 
-총 1/5장 수집
-  사진 1장 적용: scene3
-카드뉴스 6장 생성 → out/cards_20261107_01_설계사뉴스
-대본: out/scripts/20261107_01_설계사뉴스.json
-카드: out/cards_20261107_01_설계사뉴스 (6장)
-음성: Ctl3Pjfp5c2p3ThSA8Hn (속도 +10%, 프리셋 앵커)
+총 4/4장 수집
+  사진 4장 적용: cover, scene1, scene2, scene3
+카드뉴스 5장 생성 → out/cards_20261107_02_오해정정
+대본: out/scripts/20261107_02_오해정정.json
+카드: out/cards_20261107_02_오해정정 (5장)
+음성: ko-KR-SunHiNeural (속도 +25%, 프리셋 발랄녀)
 
 1) TTS 생성
 [TTS] ElevenLabs 엔진 사용
 [TTS] Voice ID 직접 사용: Ctl3...A8Hn
-  TTS [1/5] [EL] 2.2초  보험사 실적 숫자만 보면 놓치는 것...
-  TTS [2/5] [EL] 5.5초  보험사 실적 발표가 나왔습니다. 그런데 설계사라면 ...
-  TTS [3/5] [EL] 10.8초  보험사는 회계 기준과 계리 가정에 따라 같은 상품도...
-  TTS [4/5] [EL] 10.9초  현장에서는 상품 설명이나 회사 비교를 할 때 공시 ...
-  TTS [5/5] [EL] 7.0초  보험업계 소식과 설계사 성장 정보를 계속 받아보고 ...
+  TTS [1/4] [EL] 1.1초  ‘계리가정’ 바꿨더니,...
+  TTS [2/4] [EL] 8.8초  이거 모르고 지나가면 손해다. ‘계리가정’ 바꿨더니...
+  TTS [3/4] [EL] 149.7초  ‘계리가정’ 바꿨더니, 보험사 실적 영향 엇갈려 -...
+  TTS [4/4] [EL] 4.1초  오늘 내용이 도움이 됐다면 팔로우 해주이소. 매일 ...
 
 2) 영상 합성
-  세그먼트 [1/6] 3.0초
-  세그먼트 [2/6] 6.3초
-  세그먼트 [3/6] 11.6초
-  세그먼트 [4/6] 11.7초
-  세그먼트 [5/6] 7.8초
-  세그먼트 [6/6] 4.0초
+  세그먼트 [1/5] 3.0초
+  세그먼트 [2/5] 9.6초
+  세그먼트 [3/5] 150.5초
+  세그먼트 [4/5] 4.9초
+  세그먼트 [5/5] 4.0초
 
-  ✓ 릴스 완성: out/reels/20261107_01_설계사뉴스.mp4
-    길이: 40.1초  /  크기: 1.4MB
--rw-r--r-- 1 runner runner 1.5M Nov  6 16:29 out/reels/20261107_01_설계사뉴스.mp4
+  ✓ 릴스 완성: out/reels/20261107_02_오해정정.mp4
+    길이: 167.8초  /  크기: 13.3MB
+-rw-r--r-- 1 runner runner 14M Nov  7 05:29 out/reels/20261107_02_오해정정.mp4
+codec_name=h264
+width=1080
+height=1920
+codec_name=aac
+duration=167.778254
+저장소 백엔드: GitHub Release
+  미디어 저장소  a87330815/issue-reels-media
+  토큰           설정됨
+  저장소 확인    a87330815/issue-reels-media (공개)
+
+설정 완료
+
+업로드 1건 (태그 reels-2026-11-07):
+  20261107_02_오해정정.mp4  13.3MB  →  https://github.com/a87330815/issue-reels-media/releases/download/reels-2026-11-07/20261107_02.mp4
+
+공개 접근 확인:
+  OK  video_url: 200 application/octet-stream
+
+매니페스트: /home/runner/work/richup-insurance-reels/richup-insurance-reels/out/uploaded.json
+
+완료: 성공 1건 / 실패 0건
+남은 발행 가능: 100건
+발행 대상: 1건
+
+── 1/1  20261107_02_오해정정
+  영상: https://github.com/a87330815/issue-reels-media/releases/download/reels-2026-11-07/20261107_02.mp4
+  캡션: ‘계리가정’ 바꿨더니,
+  컨테이너: 18018907127776220
+      0초  IN_PROGRESS
+    115초  FINISHED
+  발행 완료: 18057717056799611
+
+
+발행 기록: /home/runner/work/richup-insurance-reels/richup-insurance-reels/out/published.json
+완료: 발행 1건 / 실패 0건
