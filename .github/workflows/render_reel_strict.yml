@@ -47,8 +47,8 @@ jobs:
         env:
           ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
           ELEVENLABS_VOICE_ID: ${{ secrets.ELEVENLABS_VOICE_ID }}
-        run: python -u render_reels.py "out/scripts/$STEM.json" -o "out/reels_$STEM" --preset 이슈남 --require-tts
+        run: python -u render_reels.py "out/scripts/$STEM.json" -o "out/reels_$STEM.mp4" --preset 이슈남 --require-tts
       - uses: actions/upload-artifact@v4
         with:
           name: reel-insurance-test
-          path: out/reels_$STEM/*.mp4
+          path: out/reels_$STEM.mp4
