@@ -20,7 +20,7 @@ jobs:
       - name: 대본 경로 정규화
         run: |
           mkdir -p out/scripts
-          cp "out/scripts/${{ inputs.stem }}.json/${{ inputs.stem }}.json" out/scripts/insurance_test.json
+          cp "out/scripts/${{ inputs.stem }}.json" out/scripts/insurance_test.json
           echo "STEM=insurance_test" >> "$GITHUB_ENV"
       - name: 사진 수집
         run: python -u photos.py "out/scripts/$STEM.json"
