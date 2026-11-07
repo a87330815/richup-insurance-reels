@@ -19,11 +19,10 @@ missing = [slot for slot in wanted if not os.path.isfile(os.path.join(photo_dir,
 if missing:
     raise SystemExit('검수 실패: 사진 누락 - ' + ', '.join(missing))
 
-# 사람 장면은 대본 검색어에 Korean/Korea가 반드시 있어야 한다.
+# 사람 장면은 한국인 조건을 한국어·영어 표기 모두 인정한다.
 for i, scene in enumerate(scenes, 1):
     q = scene.get('photo_query','').lower()
-    text = scene.get('subtitle','') + scene.get('narration','')
-    if any(x in q for x in ['person','agent','customer','team','people','man','woman']) and not any(x in q for x in ['korean','korea']):
+    if any(x in q for x in ['person','agent','customer','team','people','man','woman']) and not any(x in q for x in ['korean','korea','한국인','한국','대한민국']):
         raise SystemExit(f'검수 실패: scene{i} 한국인 조건 없는 인물 검색어')
 
 if not os.environ.get('ELEVENLABS_API_KEY') or not os.environ.get('ELEVENLABS_VOICE_ID'):
