@@ -1,95 +1,86 @@
 {
-  "collected_at": "2026-11-08T01:58:25.965385+00:00",
+  "collected_at": "2026-11-08T09:45:44.468688+00:00",
   "items": [
     {
-      "keyword": "인구감소지역",
-      "traffic": "200+",
-      "news_title": "사람은 많이 오는데 “여기서 살 생각은 없어요”…인구감소 ‘경남의 역설’",
+      "keyword": "파주 대 충남 아산 fc",
+      "traffic": "100+",
+      "news_title": "충남아산FC, ‘준우승 주역’ 황기욱·박한근 전역 후 복귀",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "30b7b7c8b7ed761d"
+      "key": "de481d9dfe60093d"
     },
     {
-      "keyword": "이자",
-      "traffic": "200+",
-      "news_title": "매월 56만원 대출이자 vs 56만원 ‘따박따박’ 저축 … 5년 후 자산 차이는?",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "f8e0460890309bd2"
-    },
-    {
-      "keyword": "우박",
-      "traffic": "200+",
-      "news_title": "세계 곳곳 우박 피해 속출…우박이 점점 커지는 이유",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "d42de6141a76e709"
-    },
-    {
-      "keyword": "코리아 그랜드 뮤직 어워즈",
-      "traffic": "1000+",
-      "news_title": "튜이드, 데뷔 2개월 반만에 ‘2026 KGMA’ 첫 신인상 수상 ‘대세 신인’",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "b80dcf7bf8b8b97b"
-    },
-    {
-      "keyword": "눈",
-      "traffic": "200+",
-      "news_title": "&quot;이대로 겨울 오는 건 아냐&quot;...때 이른 추위, 언제까지? [Y녹취록]",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "374a498946764a49"
-    },
-    {
-      "keyword": "sk하이닉스",
-      "traffic": "20000+",
-      "news_title": "지난주 삼전닉스 7조 던진 외인...보유율도 최저",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "e24396ec0811a9a5"
-    },
-    {
-      "keyword": "후티",
-      "traffic": "200+",
-      "news_title": "후티 반군 &quot;사우디 국제공항·아람코 석유 저장탱크 타격&quot;",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "d947c3ac86333b74"
-    },
-    {
-      "keyword": "메이저 리그 베이스볼",
-      "traffic": "200+",
-      "news_title": "WBC 한국전서 세이브 올린 대만 쩡쥔웨, MLB 문 두드린다",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "03cd23c1b86c7b66"
-    },
-    {
-      "keyword": "밥",
-      "traffic": "2000+",
-      "news_title": "“30분 만에 밥이 뚝딱”…1만원 &apos;마카롱 밥솥&apos; 써보니[득템기]",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "1283cbaee7242813"
-    },
-    {
-      "keyword": "남대문시장",
+      "keyword": "천안 시티 fc 대 부산 아이파크 순위",
       "traffic": "500+",
-      "news_title": "몰려드는 인파 &apos;통제불가&apos;…남대문 스카프 아저씨, 경호원까지 고용 [지금이뉴스]",
+      "news_title": "&apos;이규민 데뷔골&apos; 천안시티, 갈길 바쁜 부산 잡고 홈 3연승",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "91c665a39fcc9707"
+      "key": "214b2853557f9619"
+    },
+    {
+      "keyword": "서울교통공사 채용",
+      "traffic": "200+",
+      "news_title": "",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "생활·지원금·제도",
+      "key": "e854fdb94214c9ba"
+    },
+    {
+      "keyword": "이승엽",
+      "traffic": "100+",
+      "news_title": "‘라이언킹’ 삼성 전설 이승엽 시구에 캡틴 구자욱이 답했다",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "8ee4c2da8d5335da"
+    },
+    {
+      "keyword": "김재서",
+      "traffic": "2000+",
+      "news_title": "김민경, 게임 개발자 일상에 반했다? “좋은 신랑감” (전착시)",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "439cb0a7a64adfa1"
+    },
+    {
+      "keyword": "김우석",
+      "traffic": "1000+",
+      "news_title": "‘닥터X’ 김우석, 전국환 살해 시도… ‘햇살 인턴’ 섬뜩한 반전",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "33d9f204aebc276d"
+    },
+    {
+      "keyword": "권동진",
+      "traffic": "2000+",
+      "news_title": "2021 목발 투혼 어디 갔나…자만한 kt, 신기루처럼 사라진 2026",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "5c9489c60ad84d39"
+    },
+    {
+      "keyword": "주권",
+      "traffic": "200+",
+      "news_title": "’12·3 국민주권의 날’ 이번 달 기념일 지정…기록물 1,625건 등록",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "1cb5f8100ed0ae6b"
+    },
+    {
+      "keyword": "공기업",
+      "traffic": "1000+",
+      "news_title": "‘국민체육진흥공단 이어 코레일도’… 충주상고, 공기업 합격 ‘대박’",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "bb2ba23beef00a0b"
     }
   ]
 }
