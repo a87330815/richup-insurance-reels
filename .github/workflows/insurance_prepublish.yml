@@ -45,13 +45,13 @@ jobs:
           title=item.get("title","보험 판매수수료 제도 변경")
           src=item.get("link","")
           scenes=[
-            {"subtitle":"1200%룰보다 무서운 건 환수 구조입니다","body":"초년도 수수료 상한만 볼 게 아닙니다. <y>유지율·지급시기·환수 조건</y>을 함께 보지 않으면 선지급액이 실적이 아니라 채무로 돌아올 수 있습니다.","photo_query":"insurance documents hands consultation"},
-            {"subtitle":"GA 설계사는 ‘누가 지급하나’를 확인해야 합니다","body":"같은 상품이라도 보험사·GA·지사 간 지급 구조가 다릅니다. 계약서에서 <y>지급 주체와 환수 주체</y>가 일치하는지 먼저 확인해야 분쟁 때 책임선이 흔들리지 않습니다.","photo_query":"insurance contract hands document"},
-            {"subtitle":"유지율은 평가 지표가 아니라 현금흐름입니다","body":"초기 실적을 키우는 방식보다 중요한 건 <y>13회차·25회차 유지율</y>입니다. 해지율이 높으면 수수료 환수와 다음 달 지급액까지 동시에 압박받을 수 있습니다.","photo_query":"calculator commission documents desk"},
-            {"subtitle":"고수수료 상품 권유는 설명의무 리스크로 연결됩니다","body":"수수료가 높은 상품을 권했다는 사실 자체보다, 고객 적합성·비교설명·설명 근거가 비어 있는지가 핵심입니다. <y>상담 기록이 없으면 방어자료도 없습니다.</y>","photo_query":"insurance consultation documents table"},
-            {"subtitle":"이번 달 점검할 것은 딱 세 가지입니다","body":"① 지급일과 환수 기준 ② 회차별 유지율 반영 방식 ③ 비교설명·상담기록 보관 여부. 기사 제목보다 <y>내 위촉계약서와 수수료 테이블</y>을 먼저 대조해야 합니다.","photo_query":"insurance paperwork hands laptop"}
+            {"subtitle":"받은 수수료가 다시 청구될 수 있습니다","body":"1200% 상한만 보면 놓칩니다. <y>선지급액·유지율·환수 조건</y>이 맞물리면 이미 받은 수수료가 다음 달 채무로 바뀝니다.","photo_query":"insurance contract documents calculator hands"},
+            {"subtitle":"환수 통지서가 오면 책임선부터 봅니다","body":"보험사·GA·지사 중 <y>누가 지급하고 누가 환수하는지</y> 계약서와 수수료 테이블을 대조해야 합니다. 책임 주체가 다르면 분쟁이 길어집니다.","photo_query":"business meeting insurance paperwork hands laptop"},
+            {"subtitle":"13회차 유지율이 현금흐름을 가릅니다","body":"초기 실적보다 <y>13회차·25회차 유지율</y>이 중요합니다. 해지율이 오르면 환수와 다음 달 지급액이 동시에 흔들립니다.","photo_query":"financial calculator commission paperwork desk"},
+            {"subtitle":"고수수료보다 무서운 건 설명 공백입니다","body":"문제는 수수료율 자체가 아니라 <y>적합성·비교설명·상담 근거</y>가 비어 있는지입니다. 기록이 없으면 방어자료도 없습니다.","photo_query":"compliance checklist insurance documents pen"},
+            {"subtitle":"오늘 계약서에서 세 줄만 확인하십시오","body":"① 지급일·환수 기준 ② 회차별 유지율 ③ 상담기록 보관. 기사보다 <y>위촉계약서와 수수료 테이블</y>이 먼저입니다.","photo_query":"office filing insurance records hands"}
           ]
-          out={"title":"보험 수수료, 지급액보다 환수 구조가 먼저입니다","meta":{"category":"보험 실무","attribution":title},"cover":{"lines":["<y>수수료 받았다고</y>","끝난 게 아닙니다"]},"source":{"title":title,"url":src},"scenes":scenes}
+          out={"title":"보험 수수료, 지급액보다 환수 구조가 먼저입니다","meta":{"category":"보험 실무","attribution":title},"cover":{"photo_query":"insurance warning notice documents hands red pen","lines":["<y>이번 달 수수료</y>","환수될 수 있습니다"]},"source":{"title":title,"url":src},"scenes":scenes}
           json.dump(out,open("out/scripts/insurance_preview.json","w",encoding="utf-8"),ensure_ascii=False,indent=2)
           PY
       - name: 사진 수집
@@ -67,6 +67,17 @@ jobs:
           miss=[x for x in req if x not in m.get("photos",{}) or not os.path.isfile("out/photos/insurance_preview/"+m["photos"][x])]
           print(f"사진 수집 결과: {len(req)-len(miss)}/{len(req)}")
           if miss: sys.exit("사진 누락: "+",".join(miss))
+          import hashlib
+          hashes={}
+          dup=[]
+          for slot,fname in m.get("photos",{}).items():
+              p="out/photos/insurance_preview/"+fname
+              if os.path.isfile(p):
+                  h=hashlib.sha256(open(p,"rb").read()).hexdigest()
+                  if h in hashes: dup.append(f"{slot}={hashes[h]}")
+                  else: hashes[h]=slot
+          print(f"사진 고유 파일: {len(hashes)}/{len(req)}")
+          if dup: sys.exit("사진 중복: "+",".join(dup))
           PY
       - name: 카드뉴스 생성
         run: python -u cardnews.py out/scripts/insurance_preview.json -o out/cards_insurance_preview -p out/photos/insurance_preview --layout magazine
