@@ -47,11 +47,7 @@ jobs:
         run: |
           python upload.py --check || echo "::warning::저장소 미설정"
           python publish.py --check || echo "::warning::인스타 미설정"
-
-      - name: 수집
-        env:
-          DATA_GO_KR_KEY: ${{ secrets.DATA_GO_KR_KEY }}
-        run: python collect.py || echo "::warning::수집 실패"
+\n      - name: 보험 뉴스·트렌드 수집\n        run: python -u collect_trends.py || echo "::warning::트렌드 수집 실패"
 
       - name: 대본 생성
         env:
