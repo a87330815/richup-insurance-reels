@@ -1,86 +1,77 @@
 {
-  "collected_at": "2026-11-08T14:37:01.089398+00:00",
+  "collected_at": "2026-11-08T18:43:46.501306+00:00",
   "items": [
     {
-      "keyword": "인도네시아",
-      "traffic": "100+",
-      "news_title": "인도네시아에서 소방 헬리콥터가 추락해 1명이 실종됐다.",
+      "keyword": "베식타시 대 겐칠레르빌리이",
+      "traffic": "200+",
+      "news_title": "Licensable picture: Ahead of Genclerbirligi v Besiktas - Turkish Super Lig",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "48fbf2cc0c22c5b8"
+      "key": "7a2374eba78de895"
     },
     {
-      "keyword": "와이스",
-      "traffic": "100+",
-      "news_title": "[단독] &apos;대전 예수&apos; 와이스, 한화 복귀 무산될 듯…미국 잔류 결정, MLB 구단과 계약 임박",
+      "keyword": "แมนยู พบ แอสตันวิลลา",
+      "traffic": "200+",
+      "news_title": "แมนเชสเตอร์ ยูไนเต็ด อยู่ในโซนตกชั้นก่อนเริ่มการแข่งขัน",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "5b0646b89baccec9"
+      "key": "6003edb9e0253488"
     },
     {
-      "keyword": "브라이턴 대 브렌트퍼드",
+      "keyword": "man utd đấu với aston villa",
+      "traffic": "200+",
+      "news_title": "Man United 0-0 Aston Villa: Bruno Fernandes và Matheus Cunha đá chính",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "c375a56ef7f58bc2"
+    },
+    {
+      "keyword": "전력",
+      "traffic": "200+",
+      "news_title": "&quot;사막에 지어야 할지도&quot;…데이터센터 전략 다시 짜는 美 AI 기업들",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "8ab5afd4462a6f0e"
+    },
+    {
+      "keyword": "man utd vs aston villa",
       "traffic": "1000+",
-      "news_title": "Brighton &amp; Hove Albion vs Brentford: Premier League preview, team news, stats &amp; head-to-head",
+      "news_title": "Premier League: Villa 4-2 up as Man Utd look set to stay second bottom",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "4ae7c83482487252"
+      "key": "ef7e9f48cf9f53e4"
     },
     {
-      "keyword": "sunderland vs chelsea",
+      "keyword": "맨유 대 애스턴 빌라",
+      "traffic": "10000+",
+      "news_title": "“최악 성적 기록한 맨유… 캐릭 감독의 전술 실패가 주원인”",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "2d874f670cf56325"
+    },
+    {
+      "keyword": "올리브영",
       "traffic": "500+",
-      "news_title": "Starting XI: Will Le Bris Stick Or Twist For Crunch Clash With Chelsea?",
+      "news_title": "‘올리브영 쿠폰’으로 고객 잡기 나선 네카오 [정지은의 테크킥]",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "3afc1e44e49f6015"
+      "key": "83db54aa79c65f54"
     },
     {
-      "keyword": "크리스털 팰리스 대 리버풀",
-      "traffic": "2000+",
-      "news_title": "프리미어 리그 크리스탈 팰리스 대 리버풀 점수 예측",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "1a4132ad1f0f9181"
-    },
-    {
-      "keyword": "선덜랜드 대 첼시",
-      "traffic": "2000+",
-      "news_title": "첼시에서 사비 알론소의 정체성은 아직 형성되지 않았습니다",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "d3ddbc564db4e666"
-    },
-    {
-      "keyword": "tvn",
-      "traffic": "100+",
-      "news_title": "TVP zmienia ramówkę na czas żałoby narodowej. Zobaczymy „Rolnika”?",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "254c9715cb2b4151"
-    },
-    {
-      "keyword": "철도망",
+      "keyword": "คริสตัลพาเลซ พบ ลิเวอร์พูล",
       "traffic": "200+",
-      "news_title": "10년 철도투자 청사진 ‘제5차 철도망’ 윤곽…노선 경쟁 막 오른다",
+      "news_title": "การทำนายผลการแข่งขันรอบที่ 10 โดยคอมพิวเตอร์: การล่าแต้มของลิเวอร์พูล แมนเชสเตอร์ ยูไนเต็ด และเชลซี",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "634fb7fcc0102338"
-    },
-    {
-      "keyword": "제주항공",
-      "traffic": "200+",
-      "news_title": "[단독] 진에어, 새 부사장에 대한항공 출신 이진호 선임…통합 LCC 출범 앞두고 조직 정비",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "f81e3aece2b24560"
+      "key": "5e2ec27ff690240e"
     }
   ]
 }
