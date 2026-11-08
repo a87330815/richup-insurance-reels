@@ -1,15 +1,13 @@
-name: 보험 게시 전 검수 제작
+name: 보험 전문가 카드뉴스 검수 제작
 on:
   workflow_dispatch:
     inputs:
       topic:
-        description: "테스트 주제"
+        description: "카드뉴스 주제"
         required: false
-        default: "보험 판매수수료 1200%룰"
-
+        default: "보험 판매수수료 1200%룰과 환수 리스크"
 permissions:
   contents: read
-
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -20,9 +18,9 @@ jobs:
           python-version: "3.11"
       - name: 의존성 설치
         run: |
-          pip install -q Pillow numpy requests elevenlabs edge-tts
+          pip install -q Pillow numpy requests
           sudo apt-get update -qq
-          sudo apt-get install -y -qq ffmpeg fonts-noto-cjk
+          sudo apt-get install -y -qq fonts-noto-cjk
       - name: 보험 전문뉴스 수집
         run: |
           python -u news_collect.py --max 10
@@ -30,67 +28,51 @@ jobs:
           import json,sys
           d=json.load(open("out/news.json",encoding="utf-8"))
           items=d.get("items",[])
-          keys=("보험","GA","설계사","수수료","1200","불완전","보험사기")
-          matched=[x for x in items if any(k in (x.get("title","")+" "+x.get("description","")) for k in keys)]
-          print(f"보험 관련 뉴스: {len(matched)}건 / 전체 {len(items)}건")
-          if not matched: sys.exit("보험 관련 전문뉴스가 없습니다")
+          keys=("보험","GA","설계사","수수료","1200","환수","불완전","보험사기","제재")
+          hit=[x for x in items if any(k in (x.get("title","")+" "+x.get("description","")) for k in keys)]
+          print(f"보험 전문뉴스: {len(hit)}건 / 전체 {len(items)}건")
+          if not hit: sys.exit("보험 전문뉴스가 없습니다")
           PY
-      - name: 대본 생성
+      - name: 전문가용 카드뉴스 대본 생성
         run: |
           mkdir -p out/scripts
           python - <<'PY'
-          import json,os
+          import json
           d=json.load(open("out/news.json",encoding="utf-8"))
           items=d.get("items",[])
-          keys=("보험","GA","설계사","수수료","1200","불완전","보험사기")
-          priority=("1200","수수료","환수","불완전","보험사기","제재")
-          item=next((x for x in items if any(k in (x.get("title","")+" "+x.get("description","")) for k in priority)),None) or next((x for x in items if any(k in (x.get("title","")+" "+x.get("description","")) for k in keys)),items[0])
-          src=item.get("link","")
+          keys=("1200","수수료","환수","불완전","보험사기","제재")
+          item=next((x for x in items if any(k in (x.get("title","")+" "+x.get("description","")) for k in keys)),items[0])
           title=item.get("title","보험 판매수수료 제도 변경")
+          src=item.get("link","")
           scenes=[
-            ("모르면 이번 달 수수료 손해 봅니다: 이걸 모르고 영업하면 수수료가 날아갑니다","이걸 모르고 영업하면 이번 달 수수료가 날아갑니다. 보험 설계사님, 보험 판매수수료 제도가 바뀌고 있지예.","한국인 insurance agent worried office"),
-            ("1200%룰, GA 설계사도 적용","이제 GA 소속 설계사도 초년도 모집수수료 기준을 반드시 확인해야 합니다. 예전처럼 지급된다고 생각하면 안 됩니다.","한국인 insurance agent contract consultation"),
-            ("선지급만 믿으면 위험합니다","처음 받은 돈만 보면 안 됩니다. 계약이 조기 해지되거나 유지 조건을 못 채우면 환수 문제가 생길 수 있지예.","한국인 insurance agent calculator money"),
-            ("설명 잘못하면 법적 책임","수수료가 높은 상품만 권하거나 비교설명을 빠뜨리면 민원에서 끝나지 않을 수 있습니다. 설명 근거를 남겨야 합니다.","한국인 insurance agent office"),
-            ("이번 상담부터 이렇게 하이소","상품을 권하기 전에 수수료 등급과 고객에게 맞는 이유를 함께 설명하고, 비교설명 확인서를 남기이소.","한국인 insurance agent customer meeting"),
-            ("게시 전 팩트부터 확인","기사 제목만 믿지 말고 금융위·금감원 원문까지 확인하이소. 보험 설계사에게 직접 돈 되는 법률 이슈만 전해드리겠습니다.","한국인 insurance agent training")
+            {"subtitle":"1200%룰보다 무서운 건 환수 구조입니다","body":"초년도 수수료 상한만 볼 게 아닙니다. <y>유지율·지급시기·환수 조건</y>을 함께 보지 않으면 선지급액이 실적이 아니라 채무로 돌아올 수 있습니다.","photo_query":"한국인 보험설계사 계약서 검토 사무실"},
+            {"subtitle":"GA 설계사는 ‘누가 지급하나’를 확인해야 합니다","body":"같은 상품이라도 보험사·GA·지사 간 지급 구조가 다릅니다. 계약서에서 <y>지급 주체와 환수 주체</y>가 일치하는지 먼저 확인해야 분쟁 때 책임선이 흔들리지 않습니다.","photo_query":"한국인 보험설계사 보험 계약 상담"},
+            {"subtitle":"유지율은 평가 지표가 아니라 현금흐름입니다","body":"초기 실적을 키우는 방식보다 중요한 건 <y>13회차·25회차 유지율</y>입니다. 해지율이 높으면 수수료 환수와 다음 달 지급액까지 동시에 압박받을 수 있습니다.","photo_query":"한국인 보험설계사 수수료 계산 서류"},
+            {"subtitle":"고수수료 상품 권유는 설명의무 리스크로 연결됩니다","body":"수수료가 높은 상품을 권했다는 사실 자체보다, 고객 적합성·비교설명·설명 근거가 비어 있는지가 핵심입니다. <y>상담 기록이 없으면 방어자료도 없습니다.</y>","photo_query":"한국인 보험설계사 고객 상담 회의"},
+            {"subtitle":"이번 달 점검할 것은 딱 세 가지입니다","body":"① 지급일과 환수 기준 ② 회차별 유지율 반영 방식 ③ 비교설명·상담기록 보관 여부. 기사 제목보다 <y>내 위촉계약서와 수수료 테이블</y>을 먼저 대조해야 합니다.","photo_query":"한국인 보험설계사 교육 회의 자료"}
           ]
-          out={"title":"보험 설계사 수수료, 이번 달부터 달라집니다","source":{"title":title,"url":src},"scenes":[{"subtitle":a,"narration":b,"photo_query":c} for a,b,c in scenes]}
+          out={"title":"보험 수수료, 지급액보다 환수 구조가 먼저입니다","meta":{"category":"보험 실무","attribution":title},"cover":{"lines":["<y>수수료 받았다고</y>","끝난 게 아닙니다"]},"source":{"title":title,"url":src},"scenes":scenes}
           json.dump(out,open("out/scripts/insurance_preview.json","w",encoding="utf-8"),ensure_ascii=False,indent=2)
-          print("대본 생성 완료:",title)
           PY
       - name: 사진 수집
         run: python -u photos.py out/scripts/insurance_preview.json
       - name: 사진 필수 검수
         run: |
           python - <<'PY'
-          import json,sys
-          p="out/photos/insurance_preview/photos.json"
-          m=json.load(open(p,encoding="utf-8"))
-          req=["cover"]+[f"scene{i}" for i in range(1,7)]
-          got=m.get("photos",{})
-          print(f"사진 수집 결과: {len(got)}/{len(req)}")
-          miss=[x for x in req if x not in got]
+          import json,sys,os
+          m=json.load(open("out/photos/insurance_preview/photos.json",encoding="utf-8"))
+          req=["cover"]+[f"scene{i}" for i in range(1,6)]
+          miss=[x for x in req if x not in m.get("photos",{}) or not os.path.isfile("out/photos/insurance_preview/"+m["photos"][x])]
+          print(f"사진 수집 결과: {len(req)-len(miss)}/{len(req)}")
           if miss: sys.exit("사진 누락: "+",".join(miss))
           PY
-      - name: 콘텐츠 검수
-        env:
-          ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
-          ELEVENLABS_VOICE_ID: ${{ secrets.ELEVENLABS_VOICE_ID }}
-        run: python -u validate_reel_requirements.py out/scripts/insurance_preview.json out/photos/insurance_preview
       - name: 카드뉴스 생성
-        run: python -u cardnews.py out/scripts/insurance_preview.json -o out/cards_insurance_preview -p out/photos/insurance_preview --reels
-      - name: 릴스 합성 (ElevenLabs Voice ID)
-        env:
-          ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
-          ELEVENLABS_VOICE_ID: ${{ secrets.ELEVENLABS_VOICE_ID }}
-        run: python -u render_reels.py out/scripts/insurance_preview.json -o out/insurance_preview.mp4 --preset 이슈남 --require-tts
-      - name: 게시 없이 산출물 업로드
+        run: python -u cardnews.py out/scripts/insurance_preview.json -o out/cards_insurance_preview -p out/photos/insurance_preview --layout magazine
+      - name: 게시 없이 카드뉴스 업로드
         uses: actions/upload-artifact@v4
         with:
-          name: insurance-preview-no-publish
+          name: insurance-cardnews-no-publish
           path: |
-            out/insurance_preview.mp4
             out/cards_insurance_preview/*.png
             out/news.json
             out/scripts/insurance_preview.json
