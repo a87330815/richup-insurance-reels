@@ -55,6 +55,8 @@ jobs:
           json.dump(out,open("out/scripts/insurance_preview.json","w",encoding="utf-8"),ensure_ascii=False,indent=2)
           PY
       - name: 사진 수집
+        env:
+          UNSPLASH_ACCESS_KEY: ${{ secrets.UNSPLASH_ACCESS_KEY }}
         run: python -u photos.py out/scripts/insurance_preview.json
       - name: 사진 필수 검수
         run: |
