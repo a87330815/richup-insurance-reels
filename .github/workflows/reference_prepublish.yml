@@ -1,0 +1,52 @@
+name: 굿리치 리치업지점 원본형 카드뉴스
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.11"}
+      - run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq fonts-noto-cjk
+          pip install -q Pillow numpy requests
+      - name: 뉴스와 대본
+        run: |
+          python -u news_collect.py --max 10
+          mkdir -p out/scripts
+          python - <<'PY'
+          import json
+          d=json.load(open("out/news.json",encoding="utf-8")); i=d["items"][0]
+          s=[
+          {"subtitle":"받은 수수료가 다시 청구될 수 있습니다","body":"1200% 상한만 보면 놓칩니다. <y>선지급액·유지율·환수 조건</y>이 맞물리면 이미 받은 수수료가 다음 달 채무로 바뀝니다.","photo_query":"insurance contract documents calculator hands"},
+          {"subtitle":"환수 통지서가 오면 책임선부터 봅니다","body":"보험사·GA·지사 중 <y>누가 지급하고 누가 환수하는지</y> 계약서와 수수료 테이블을 대조해야 합니다.","photo_query":"business meeting insurance paperwork hands laptop"},
+          {"subtitle":"13회차 유지율이 현금흐름을 가릅니다","body":"초기 실적보다 <y>13회차·25회차 유지율</y>이 중요합니다. 해지율이 오르면 환수와 다음 달 지급액이 흔들립니다.","photo_query":"financial calculator commission paperwork desk"},
+          {"subtitle":"고수수료보다 무서운 건 설명 공백입니다","body":"핵심은 <y>적합성·비교설명·상담 근거</y>가 남아 있는지입니다.","photo_query":"compliance checklist insurance documents pen"},
+          {"subtitle":"오늘 계약서에서 세 줄만 확인하십시오","body":"① 지급일·환수 기준 ② 회차별 유지율 ③ 상담기록 보관. <y>위촉계약서와 수수료 테이블</y>을 먼저 대조합니다.","photo_query":"office filing insurance records hands"}]
+          o={"meta":{"category":"보험 실무","attribution":i.get("title","")},"cover":{"lines":["<y>이번 달 수수료</y>","환수될 수 있습니다"],"photo_query":"insurance warning notice documents hands red pen"},"scenes":s}
+          json.dump(o,open("out/scripts/insurance_preview.json","w",encoding="utf-8"),ensure_ascii=False)
+          PY
+      - name: 사진 수집
+        env: {UNSPLASH_ACCESS_KEY: ${{ secrets.UNSPLASH_ACCESS_KEY }}}
+        run: python -u photos.py out/scripts/insurance_preview.json
+      - name: 사진 필수·중복 검수
+        run: |
+          python - <<'PY'
+          import json,os,hashlib,sys
+          p="out/photos/insurance_preview"; m=json.load(open(p+"/photos.json",encoding="utf-8"))
+          req=["cover"]+[f"scene{i}" for i in range(1,6)]
+          files=[p+"/"+m["photos"].get(x,"") for x in req]
+          if any(not os.path.isfile(x) for x in files): sys.exit("사진 누락")
+          if len({hashlib.sha256(open(x,"rb").read()).hexdigest() for x in files}) != len(files): sys.exit("사진 중복")
+          print("사진 검수 통과: 6/6")
+          PY
+      - run: python -u reference_cardnews.py out/scripts/insurance_preview.json -o out/cards_insurance_preview -p out/photos/insurance_preview
+      - uses: actions/upload-artifact@v4
+        with:
+          name: richup-reference-cardnews
+          path: out/cards_insurance_preview/*.png
+          retention-days: 14
