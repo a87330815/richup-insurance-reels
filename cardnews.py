@@ -643,7 +643,7 @@ def make_scene_mag(sc, idx, total, t, photo=None, credit=None):
     for line in lines:
         if y + lh > H - 30:
             break
-        center_marked(d, line, cx, y, bf, MAG_INK, (210, 35, 45))
+        draw_marked_line(d, line, 70, y, bf, MAG_INK, (210, 35, 45))
         y += lh
     return img
 
