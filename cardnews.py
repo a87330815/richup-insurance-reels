@@ -850,50 +850,20 @@ def make_scene(sc, idx, total, t, photo=None, credit=None):
 
 # ── 아웃트로 ────────────────────
 def make_outro(sc, t, total):
-    # 쫌봐봐 실제 아웃트로 스타일: 네이비 월드맵·옐로우 라인·로고·구독 CTA
-    img = Image.new("RGB", (W, H), (4, 24, 58))
-    d = ImageDraw.Draw(img, "RGBA")
-    # 배경의 은은한 도트 패턴
-    for row in range(8):
-        for col in range(15):
-            x = 70 + col * 72 + (row % 2) * 22
-            y = 150 + row * 115
-            d.ellipse((x, y, x+5, y+5), fill=(35, 105, 178, 105))
-    yellow = (255, 220, 0)
-    white = (255, 255, 255)
-    # 대각선 리본과 상·하단 라인
-    d.polygon([(0,0),(150,0),(0,180)], fill=(10,48,96,220))
-    d.line([(0,145),(145,0)], fill=yellow, width=7)
-    d.line([(240,70),(955,70)], fill=yellow, width=4)
-    d.line([(125,1265),(860,1265)], fill=yellow, width=4)
-    d.polygon([(930,H),(W,H),(W,1190)], fill=(10,48,96,220))
-    d.line([(930,H),(W,1190)], fill=yellow, width=7)
-    # 쫌봐봐 로고
-    lf = font(FONT_BLACK, 116)
-    logo = "쫌봐봐"
-    bb = d.textbbox((0,0), logo, font=lf)
-    lx = (W-(bb[2]-bb[0]))//2
-    d.text((lx, 385), logo, font=lf, fill=white, stroke_width=2, stroke_fill=white)
-    # 브랜드 계정명
-    af = font(FONT_BOLD, 42)
-    handle = "@jjombwabwa"
-    bb = d.textbbox((0,0), handle, font=af)
-    d.text(((W-(bb[2]-bb[0]))//2, 535), handle, font=af, fill=white)
-    # 노란 CTA 바
-    rounded_rect(d, (58, 650, W-58, 790), 70, yellow)
-    cf = font(FONT_BLACK, 54)
-    cta = "구독·좋아요 부탁드립니다"
-    bb = d.textbbox((0,0), cta, font=cf)
-    d.text(((W-(bb[2]-bb[0]))//2, 688), cta, font=cf, fill=(4,24,58))
-    sf = font(FONT_BOLD, 48)
-    sub = "다음 소식도 빠르게 전해드릴게요"
-    bb = d.textbbox((0,0), sub, font=sf)
-    d.text(((W-(bb[2]-bb[0]))//2, 865), sub, font=sf, fill=white)
-    bf = font(FONT_BLACK, 50)
-    branch = "굿리치 리치업지점"
-    bb = d.textbbox((0,0), branch, font=bf)
-    d.text(((W-(bb[2]-bb[0]))//2, 1015), branch, font=bf, fill=yellow)
-    return img
+    # 원본 07_outro.png를 그대로 사용한다.
+    original = os.path.join(os.path.dirname(os.path.abspath(__file__)), "07_outro.png")
+    if os.path.isfile(original):
+        img = Image.open(original).convert("RGB")
+        if img.size != (W, H):
+            sr, dr = img.width / img.height, W / H
+            if sr > dr:
+                nh, nw = H, max(W, int(round(H * sr)))
+            else:
+                nw, nh = W, max(H, int(round(W / sr)))
+            img = img.resize((nw, nh), Image.LANCZOS)
+            img = img.crop(((nw-W)//2, (nh-H)//2, (nw-W)//2+W, (nh-H)//2+H))
+        return img
+    return Image.new("RGB", (W, H), (4, 24, 58))
 
 # ── 메인 ────────────────────────
 def generate(script_path, out_dir, photo_dir=None, layout="magazine"):
