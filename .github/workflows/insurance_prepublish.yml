@@ -43,14 +43,15 @@ jobs:
           d=json.load(open("out/news.json",encoding="utf-8"))
           items=d.get("items",[])
           keys=("보험","GA","설계사","수수료","1200","불완전","보험사기")
-          item=next((x for x in items if any(k in (x.get("title","")+" "+x.get("description","")) for k in keys)),items[0])
+          priority=("1200","수수료","환수","불완전","보험사기","제재")
+          item=next((x for x in items if any(k in (x.get("title","")+" "+x.get("description","")) for k in priority)),None) or next((x for x in items if any(k in (x.get("title","")+" "+x.get("description","")) for k in keys)),items[0])
           src=item.get("link","")
           title=item.get("title","보험 판매수수료 제도 변경")
           scenes=[
             ("이걸 모르고 영업하면 수수료가 날아갑니다","보험 설계사님, 이걸 모르고 영업하면 이번 달 수수료가 날아갈 수 있지예. 보험 판매수수료 제도가 바뀌고 있습니다.","한국인 insurance agent worried office"),
             ("1200%룰, GA 설계사도 적용","이제 GA 소속 설계사도 초년도 모집수수료 기준을 반드시 확인해야 합니다. 예전처럼 지급된다고 생각하면 안 됩니다.","한국인 insurance agent contract consultation"),
             ("선지급만 믿으면 위험합니다","처음 받은 돈만 보면 안 됩니다. 계약이 조기 해지되거나 유지 조건을 못 채우면 환수 문제가 생길 수 있지예.","한국인 insurance agent calculator money"),
-            ("설명 잘못하면 법적 책임","수수료가 높은 상품만 권하거나 비교설명을 빠뜨리면 민원에서 끝나지 않을 수 있습니다. 설명 근거를 남겨야 합니다.","한국인 insurance agent explaining documents"),
+            ("설명 잘못하면 법적 책임","수수료가 높은 상품만 권하거나 비교설명을 빠뜨리면 민원에서 끝나지 않을 수 있습니다. 설명 근거를 남겨야 합니다.","한국인 insurance agent office"),
             ("이번 상담부터 이렇게 하이소","상품을 권하기 전에 수수료 등급과 고객에게 맞는 이유를 함께 설명하고, 비교설명 확인서를 남기이소.","한국인 insurance agent customer meeting"),
             ("게시 전 팩트부터 확인","기사 제목만 믿지 말고 금융위·금감원 원문까지 확인하이소. 보험 설계사에게 직접 돈 되는 법률 이슈만 전해드리겠습니다.","한국인 insurance agent training")
           ]
