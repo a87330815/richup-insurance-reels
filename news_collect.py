@@ -32,6 +32,10 @@ NAVER_RSS = {
     "보험 제도 변경": "https://news.google.com/rss/search?q=보험+제도+변경+금융위원회+금융감독원&hl=ko&gl=KR&ceid=KR:ko",
     "보험 상품 트렌드": "https://news.google.com/rss/search?q=보험+신상품+상품+트렌드+실손+건강보험&hl=ko&gl=KR&ceid=KR:ko",
     "굿리치 소식": "https://news.google.com/rss/search?q=굿리치+보험&hl=ko&gl=KR&ceid=KR:ko",
+    "기준금리·통화정책": "https://news.google.com/rss/search?q=기준금리+한국은행+동결+인하+금융시장&hl=ko&gl=KR&ceid=KR:ko",
+    "환율 전망": "https://news.google.com/rss/search?q=원달러+환율+전망+외환시장+수출+금리&hl=ko&gl=KR&ceid=KR:ko",
+    "전쟁·국내경제": "https://news.google.com/rss/search?q=전쟁+지정학+한국경제+물가+유가+전망&hl=ko&gl=KR&ceid=KR:ko",
+    "미국 정책·주식시장": "https://news.google.com/rss/search?q=트럼프+공화당+정책+미국주식+증시+전망&hl=ko&gl=KR&ceid=KR:ko",
 }
 
 # 언론사 표현 필터 (저작권 보호)
