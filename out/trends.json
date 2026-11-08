@@ -1,86 +1,86 @@
 {
-  "collected_at": "2026-11-08T09:45:44.468688+00:00",
+  "collected_at": "2026-11-08T14:37:01.089398+00:00",
   "items": [
     {
-      "keyword": "파주 대 충남 아산 fc",
+      "keyword": "인도네시아",
       "traffic": "100+",
-      "news_title": "충남아산FC, ‘준우승 주역’ 황기욱·박한근 전역 후 복귀",
+      "news_title": "인도네시아에서 소방 헬리콥터가 추락해 1명이 실종됐다.",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "de481d9dfe60093d"
+      "key": "48fbf2cc0c22c5b8"
     },
     {
-      "keyword": "천안 시티 fc 대 부산 아이파크 순위",
+      "keyword": "와이스",
+      "traffic": "100+",
+      "news_title": "[단독] &apos;대전 예수&apos; 와이스, 한화 복귀 무산될 듯…미국 잔류 결정, MLB 구단과 계약 임박",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "5b0646b89baccec9"
+    },
+    {
+      "keyword": "브라이턴 대 브렌트퍼드",
+      "traffic": "1000+",
+      "news_title": "Brighton &amp; Hove Albion vs Brentford: Premier League preview, team news, stats &amp; head-to-head",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "4ae7c83482487252"
+    },
+    {
+      "keyword": "sunderland vs chelsea",
       "traffic": "500+",
-      "news_title": "&apos;이규민 데뷔골&apos; 천안시티, 갈길 바쁜 부산 잡고 홈 3연승",
+      "news_title": "Starting XI: Will Le Bris Stick Or Twist For Crunch Clash With Chelsea?",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "214b2853557f9619"
+      "key": "3afc1e44e49f6015"
     },
     {
-      "keyword": "서울교통공사 채용",
-      "traffic": "200+",
-      "news_title": "",
+      "keyword": "크리스털 팰리스 대 리버풀",
+      "traffic": "2000+",
+      "news_title": "프리미어 리그 크리스탈 팰리스 대 리버풀 점수 예측",
       "snippet": "",
       "source_type": "google_trends",
-      "category": "생활·지원금·제도",
-      "key": "e854fdb94214c9ba"
+      "category": "당일 화제 이슈",
+      "key": "1a4132ad1f0f9181"
     },
     {
-      "keyword": "이승엽",
+      "keyword": "선덜랜드 대 첼시",
+      "traffic": "2000+",
+      "news_title": "첼시에서 사비 알론소의 정체성은 아직 형성되지 않았습니다",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "d3ddbc564db4e666"
+    },
+    {
+      "keyword": "tvn",
       "traffic": "100+",
-      "news_title": "‘라이언킹’ 삼성 전설 이승엽 시구에 캡틴 구자욱이 답했다",
+      "news_title": "TVP zmienia ramówkę na czas żałoby narodowej. Zobaczymy „Rolnika”?",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "8ee4c2da8d5335da"
+      "key": "254c9715cb2b4151"
     },
     {
-      "keyword": "김재서",
-      "traffic": "2000+",
-      "news_title": "김민경, 게임 개발자 일상에 반했다? “좋은 신랑감” (전착시)",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "439cb0a7a64adfa1"
-    },
-    {
-      "keyword": "김우석",
-      "traffic": "1000+",
-      "news_title": "‘닥터X’ 김우석, 전국환 살해 시도… ‘햇살 인턴’ 섬뜩한 반전",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "33d9f204aebc276d"
-    },
-    {
-      "keyword": "권동진",
-      "traffic": "2000+",
-      "news_title": "2021 목발 투혼 어디 갔나…자만한 kt, 신기루처럼 사라진 2026",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "5c9489c60ad84d39"
-    },
-    {
-      "keyword": "주권",
+      "keyword": "철도망",
       "traffic": "200+",
-      "news_title": "’12·3 국민주권의 날’ 이번 달 기념일 지정…기록물 1,625건 등록",
+      "news_title": "10년 철도투자 청사진 ‘제5차 철도망’ 윤곽…노선 경쟁 막 오른다",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "1cb5f8100ed0ae6b"
+      "key": "634fb7fcc0102338"
     },
     {
-      "keyword": "공기업",
-      "traffic": "1000+",
-      "news_title": "‘국민체육진흥공단 이어 코레일도’… 충주상고, 공기업 합격 ‘대박’",
+      "keyword": "제주항공",
+      "traffic": "200+",
+      "news_title": "[단독] 진에어, 새 부사장에 대한항공 출신 이진호 선임…통합 LCC 출범 앞두고 조직 정비",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "bb2ba23beef00a0b"
+      "key": "f81e3aece2b24560"
     }
   ]
 }
