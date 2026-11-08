@@ -850,55 +850,49 @@ def make_scene(sc, idx, total, t, photo=None, credit=None):
 
 # ── 아웃트로 ────────────────────
 def make_outro(sc, t, total):
-    img = gradient_bg(t["grad2"], t["grad1"])
-
-    layer, ld = overlay_layer()
-    draw_glow_circles(ld, seed=999)
-    cw, ch = 470, 94
-    handle_y = 905
-    rounded_rect(ld, ((W-cw)//2, handle_y, (W+cw)//2, handle_y+ch), 26, (0, 0, 0, 105))
-    img = composite(img, layer)
-
+    # 쫌봐봐 실제 아웃트로 스타일: 네이비 월드맵·옐로우 라인·로고·구독 CTA
+    img = Image.new("RGB", (W, H), (4, 24, 58))
     d = ImageDraw.Draw(img, "RGBA")
-
-    # 큰 체크마크
-    cy, cr, cx = 290, 92, W//2
-    d.ellipse([cx-cr, cy-cr, cx+cr, cy+cr], fill=t["accent"])
-    d.line([(cx-42, cy+4), (cx-10, cy+36)], fill=t["tag_fg"], width=12)
-    d.line([(cx-10, cy+36), (cx+46, cy-28)], fill=t["tag_fg"], width=12)
-
-    y = cy + cr + 64
-    f1 = font(FONT_BLACK, 54)
-    for txt, col in [(UI["outro1"], WHITE), (UI["outro2"], t["accent"])]:
-        bb = d.textbbox((0,0), txt, font=f1)
-        d.text(((W-(bb[2]-bb[0]))//2, y), txt, font=f1, fill=col)
-        y += 80
-
-    y += 24
-    f2 = font(FONT_MED, 32)
-    for txt in [UI["outro_s1"], UI["outro_s2"]]:
-        bb = d.textbbox((0,0), txt, font=f2)
-        d.text(((W-(bb[2]-bb[0]))//2, y), txt, font=f2, fill=(255, 255, 255, 210))
-        y += 50
-
-    # 핸들
-    hf = font(FONT_BOLD, 38)
-    handle = HANDLE
-    hb = d.textbbox((0,0), handle, font=hf)
-    d.text(((W-(hb[2]-hb[0]))//2, handle_y+24), handle, font=hf, fill=t["accent"])
-
-    # CTA (이모지 + 텍스트 분리 렌더)
-    y = handle_y + ch + 62
-    labels = [("❤️", "좋아요"), ("💬", "댓글"), ("📌", "저장")]
-    sf = font(FONT_BOLD, 28)
-    for i, (em, lb) in enumerate(labels):
-        bb = d.textbbox((0,0), lb, font=sf)
-        lx = W//4*(i+1) - (bb[2]-bb[0] + 44)//2
-        paste_emoji(img, em, lx + 16, y + 18, 32)
-        d = ImageDraw.Draw(img, "RGBA")
-        d.text((lx + 44, y), lb, font=sf, fill=(255, 255, 255, 215))
-
-    dots(d, total, total, t)
+    # 배경의 은은한 도트 패턴
+    for row in range(8):
+        for col in range(15):
+            x = 70 + col * 72 + (row % 2) * 22
+            y = 150 + row * 115
+            d.ellipse((x, y, x+5, y+5), fill=(35, 105, 178, 105))
+    yellow = (255, 220, 0)
+    white = (255, 255, 255)
+    # 대각선 리본과 상·하단 라인
+    d.polygon([(0,0),(150,0),(0,180)], fill=(10,48,96,220))
+    d.line([(0,145),(145,0)], fill=yellow, width=7)
+    d.line([(240,70),(955,70)], fill=yellow, width=4)
+    d.line([(125,1265),(860,1265)], fill=yellow, width=4)
+    d.polygon([(930,H),(W,H),(W,1190)], fill=(10,48,96,220))
+    d.line([(930,H),(W,1190)], fill=yellow, width=7)
+    # 쫌봐봐 로고
+    lf = font(FONT_BLACK, 116)
+    logo = "쫌봐봐"
+    bb = d.textbbox((0,0), logo, font=lf)
+    lx = (W-(bb[2]-bb[0]))//2
+    d.text((lx, 385), logo, font=lf, fill=white, stroke_width=2, stroke_fill=white)
+    # 브랜드 계정명
+    af = font(FONT_BOLD, 42)
+    handle = "@jjombwabwa"
+    bb = d.textbbox((0,0), handle, font=af)
+    d.text(((W-(bb[2]-bb[0]))//2, 535), handle, font=af, fill=white)
+    # 노란 CTA 바
+    rounded_rect(d, (58, 650, W-58, 790), 70, yellow)
+    cf = font(FONT_BLACK, 54)
+    cta = "구독·좋아요 부탁드립니다"
+    bb = d.textbbox((0,0), cta, font=cf)
+    d.text(((W-(bb[2]-bb[0]))//2, 688), cta, font=cf, fill=(4,24,58))
+    sf = font(FONT_BOLD, 48)
+    sub = "다음 소식도 빠르게 전해드릴게요"
+    bb = d.textbbox((0,0), sub, font=sf)
+    d.text(((W-(bb[2]-bb[0]))//2, 865), sub, font=sf, fill=white)
+    bf = font(FONT_BLACK, 50)
+    branch = "굿리치 리치업지점"
+    bb = d.textbbox((0,0), branch, font=bf)
+    d.text(((W-(bb[2]-bb[0]))//2, 1015), branch, font=bf, fill=yellow)
     return img
 
 # ── 메인 ────────────────────────
