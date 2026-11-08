@@ -55,7 +55,7 @@ def approve_from_file(path):
 
 def auto_approve():
     """out/scripts/의 모든 대본을 자동 승인한다."""
-    jsons = sorted(glob.glob(os.path.join(SCRIPT_DIR, "*.json")))
+    jsons = sorted(\n        p for p in glob.glob(os.path.join(SCRIPT_DIR, "*.json"))\n        if os.path.isfile(p)\n    )
     if not jsons:
         print("[알림] 승인할 대본 없음")
         return 0
