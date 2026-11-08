@@ -1,86 +1,95 @@
 {
-  "collected_at": "2026-11-07T18:33:16.449664+00:00",
+  "collected_at": "2026-11-08T01:58:25.965385+00:00",
   "items": [
     {
-      "keyword": "gta6",
-      "traffic": "100+",
-      "news_title": "Grand Theft Auto VI Pre-Load Begins on November 10",
+      "keyword": "인구감소지역",
+      "traffic": "200+",
+      "news_title": "사람은 많이 오는데 “여기서 살 생각은 없어요”…인구감소 ‘경남의 역설’",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "c0110f6623efc543"
+      "key": "30b7b7c8b7ed761d"
     },
     {
-      "keyword": "노팅엄 포레스트 대 맨 시티",
-      "traffic": "2000+",
-      "news_title": "Premier League LIVE: Live text, radio &amp; score updates from across the Premier League",
+      "keyword": "이자",
+      "traffic": "200+",
+      "news_title": "매월 56만원 대출이자 vs 56만원 ‘따박따박’ 저축 … 5년 후 자산 차이는?",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "343023b9dc3de36d"
+      "key": "f8e0460890309bd2"
     },
     {
-      "keyword": "이천수",
-      "traffic": "100+",
-      "news_title": "이천수 “은퇴 번복 창피해 10억 제안 거절”…♥심하은 “말렸어야 했다”",
+      "keyword": "우박",
+      "traffic": "200+",
+      "news_title": "세계 곳곳 우박 피해 속출…우박이 점점 커지는 이유",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "252ad7e0b4b1b473"
+      "key": "d42de6141a76e709"
     },
     {
-      "keyword": "복권",
-      "traffic": "5000+",
-      "news_title": "1249회 로또 1등 14명…1인당 20억3천만원",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "81b82d114d418199"
-    },
-    {
-      "keyword": "하정우",
+      "keyword": "코리아 그랜드 뮤직 어워즈",
       "traffic": "1000+",
-      "news_title": "하정우, 12월 결혼 앞두고...확 달라진 비주얼 - 머니투데이",
+      "news_title": "튜이드, 데뷔 2개월 반만에 ‘2026 KGMA’ 첫 신인상 수상 ‘대세 신인’",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "7b069ebb6121f246"
+      "key": "b80dcf7bf8b8b97b"
     },
     {
-      "keyword": "mainz vs bayern",
+      "keyword": "눈",
       "traffic": "200+",
-      "news_title": "Bayern schlagen Mainz und behaupten die Tabellenführung",
+      "news_title": "&quot;이대로 겨울 오는 건 아냐&quot;...때 이른 추위, 언제까지? [Y녹취록]",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "5f3c16d76a35ec61"
+      "key": "374a498946764a49"
     },
     {
-      "keyword": "김성우",
+      "keyword": "sk하이닉스",
+      "traffic": "20000+",
+      "news_title": "지난주 삼전닉스 7조 던진 외인...보유율도 최저",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "e24396ec0811a9a5"
+    },
+    {
+      "keyword": "후티",
       "traffic": "200+",
-      "news_title": "&apos;장모 살해·아내 납치&apos; 김성우 구속 기소...스토킹 끝에 범행",
+      "news_title": "후티 반군 &quot;사우디 국제공항·아람코 석유 저장탱크 타격&quot;",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "ba0a178220adc732"
+      "key": "d947c3ac86333b74"
     },
     {
-      "keyword": "nepal premier league",
-      "traffic": "100+",
-      "news_title": "Live Cricket Score, Schedule, Latest News, Stats &amp; Videos",
+      "keyword": "메이저 리그 베이스볼",
+      "traffic": "200+",
+      "news_title": "WBC 한국전서 세이브 올린 대만 쩡쥔웨, MLB 문 두드린다",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "864a8acc3fa4eaa0"
+      "key": "03cd23c1b86c7b66"
     },
     {
-      "keyword": "버밍엄 대 스완지 시티",
+      "keyword": "밥",
+      "traffic": "2000+",
+      "news_title": "“30분 만에 밥이 뚝딱”…1만원 &apos;마카롱 밥솥&apos; 써보니[득템기]",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "1283cbaee7242813"
+    },
+    {
+      "keyword": "남대문시장",
       "traffic": "500+",
-      "news_title": "Birmingham City v Swansea City: Championship stats &amp; head-to-head",
+      "news_title": "몰려드는 인파 &apos;통제불가&apos;…남대문 스카프 아저씨, 경호원까지 고용 [지금이뉴스]",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "ac2b2193d887274d"
+      "key": "91c665a39fcc9707"
     }
   ]
 }
