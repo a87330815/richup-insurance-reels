@@ -1579,7 +1579,7 @@ def llm_generate(angle, api_key, provider="anthropic"):
 출처: {angle.get('items', [{}])[0].get('attribution', '공공데이터포털') if angle.get('items') else '공공데이터포털'}
 
 원본 데이터:
-{json.dumps(angle.get('items', [])[:5], ensure_ascii=False, indent=2)[:2000]}
+{json.dumps([{k: v for k, v in it.items() if k not in ('link', 'pub_date', 'key')} for it in (angle.get('items', [])[:5]) if isinstance(it, dict)], ensure_ascii=False, indent=2)[:2000]}
 
 커버는 24자 이내입니다. 이 수치를 보고 사람들이 무엇을 손해 본다고 느낄지,
 또는 무엇을 놓치고 있다고 느낄지에서 출발하세요."""
@@ -1630,12 +1630,19 @@ def llm_generate(angle, api_key, provider="anthropic"):
         words = q.split()
         return " ".join(words[:6]) if 2 <= len(words) else None
 
+    # URL 제거 + 공백 정리
+    _url_re2 = re.compile(r'https?://\S+')
+
     scenes = []
     for s in result.get("scenes", []):
+        narr = _url_re2.sub('', s["narration"]).strip()
+        narr = re.sub(r'\s{2,}', ' ', narr)
+        sub = s.get("subtitle") or narr
+        sub = _url_re2.sub('', sub).strip()
         scenes.append({
             "image": None,
-            "narration": s["narration"],
-            "subtitle": short_subtitle(s.get("subtitle") or s["narration"]),
+            "narration": narr,
+            "subtitle": short_subtitle(sub),
             "photo_query": _pq(s),
         })
 
@@ -1654,6 +1661,7 @@ def llm_generate(angle, api_key, provider="anthropic"):
             "category": category,
             "attribution": attribution,
             "chart": angle.get("chart"),
+            "tone": "단정형반말",
             "generated_at": datetime.now(timezone.utc).isoformat(),
         },
     }
