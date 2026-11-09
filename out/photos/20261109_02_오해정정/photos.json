@@ -1,0 +1,44 @@
+{
+  "photos": {
+    "cover": "cover.jpg",
+    "scene1": "scene1.jpg",
+    "scene2": "scene2.jpg",
+    "scene3": "scene3.jpg"
+  },
+  "credits": [
+    {
+      "slot": "cover",
+      "query": "new vs old apartment building korea",
+      "source": "Unsplash",
+      "creator": "Ian Bae",
+      "license": "Unsplash License",
+      "page": "https://unsplash.com/photos/a-brick-building-with-a-unique-tiled-facade-9J5RHZNVQyw"
+    },
+    {
+      "slot": "scene1",
+      "query": "new vs old apartment building korea",
+      "source": "Unsplash",
+      "creator": "DOKYUNG KIM",
+      "license": "Unsplash License",
+      "page": "https://unsplash.com/photos/traditional-korean-house-with-modern-additions-against-blue-sky-UWsfqLCMK5E"
+    },
+    {
+      "slot": "scene2",
+      "query": "Korea city apartment building",
+      "source": "Unsplash",
+      "creator": "rawkkim",
+      "license": "Unsplash License",
+      "page": "https://unsplash.com/photos/city-skyline-during-golden-hour-FDdolKrW1nY"
+    },
+    {
+      "slot": "scene3",
+      "query": "follow subscribe social media phone",
+      "source": "Unsplash",
+      "creator": "Karsten Winegeart",
+      "license": "Unsplash License",
+      "page": "https://unsplash.com/photos/red-and-white-love-wall-decor-60GsdOMRFGc"
+    }
+  ],
+  "wanted": 4,
+  "fetched_at": "2026-11-09T07:32:40Z"
+}
