@@ -421,8 +421,9 @@ def extract_angles(items):
     return angles
 
 
-def load_trends(path=None):
-    """트렌드 데이터(out/trends.json)를 로드한다."""
+def load_trends(path=None, max_age_days=7):
+    """트렌드 데이터(out/trends.json)를 로드한다. max_age_days 이내 자료만."""
+    from datetime import datetime, timezone, timedelta
     if path is None:
         path = os.path.join(ROOT, "out", "trends.json")
     if not os.path.exists(path):
@@ -430,8 +431,21 @@ def load_trends(path=None):
     with open(path, encoding="utf-8") as f:
         data = json.load(f)
     items = data.get("items", [])
-    print(f"트렌드 데이터 로드: {len(items)}건 ({data.get('collected_at', '?')})")
-    return items
+    # 1주일 필터: collected_at 또는 파일 수집일 기준
+    cutoff = datetime.now(timezone.utc) - timedelta(days=max_age_days)
+    fresh = []
+    for it in items:
+        ts = it.get("collected_at") or data.get("collected_at", "")
+        if ts:
+            try:
+                dt = datetime.fromisoformat(ts)
+                if dt < cutoff:
+                    continue
+            except (ValueError, TypeError):
+                pass
+        fresh.append(it)
+    print(f"트렌드 데이터 로드: {len(fresh)}/{len(items)}건 (최근 {max_age_days}일)")
+    return fresh
 
 
 def trends_to_angles(trend_items):
@@ -954,7 +968,7 @@ def template_generate(angle):
     scenes.append({
         "image": None,
         "photo_query": "follow subscribe social media phone",
-        "narration": "오늘 내용이 도움이 됐다면 팔로우 해라. 매일 이슈 정리해준다.",
+        "narration": "팔로우 눌러라. 매일 현장 이슈 정리해서 쏜다.",
         "subtitle": "팔로우 · 매일 업데이트",
     })
 
@@ -1055,29 +1069,34 @@ LLM_SYSTEM = """당신은 보험 설계사와 예비 설계사를 위한 보험�
 - 수치는 읽기 쉽게: "230000만원"이 아니라 "23억원", "84.99제곱미터"가 아니라 "84제곱미터"
 - 마지막 장면은 항상 팔로우 유도
 
-## 말투 — 전문가 단정형 반말 (사투리 없음)
-보험 설계사 전문가끼리 정보를 주고받는 톤. 가르치는 말투가 아니라 "이거 알아?" 하고 던지는 톤.
+## 말투 — 강한 단정형 반말 (사투리 없음)
+현장 탑설계사가 후배한테 긴급 정보 쏘는 톤. 부드럽게 풀어주는 거 아니다. 딱딱 끊고 팩트 꽂아라.
 
 ### 핵심
-- **단정형 반말**: "~이다", "~된다", "~한다". 존댓말("~입니다") 사용 금지
-- **짧게 끊어 말하기**: 한 문장 15자 내외. 군더더기 없이 팩트만
-- 전문가에게 전문가가 말하는 톤. 기초 설명은 빼고 핵심만 전달
-- "이거 중요하다", "확인해라", "놓치면 안 된다" 식의 직접적 어투
-- 감탄사는 자연스럽게: "이거 진짜", "방금 나왔다", "확인해봐"
+- **강한 단정형 반말**: "~이다", "~된다", "~해라", "~봐라". 존댓말 절대 금지
+- **한 문장 12자 이내**. 군더더기 없이 팩트만 꽂아라
+- 설계사 10년 차가 후배한테 말하듯이. 기초 설명 빼라
+- "지금 당장 확인해라", "이거 놓치면 끝이다", "오늘 안에 전화해라" 식의 강한 어투
+- 긴급감: "방금 떴다", "어제 확정됐다", "지금 바로"
+- 행동 촉구: "고객한테 연락해라", "포트폴리오 점검해라", "세팅 바꿔라"
 
 ### 금지사항
 - 경상도 사투리 일절 금지 ("~다 아이가", "~카더라", "~노" 등)
-- 가르치는 톤 금지 ("여러분 아시나요?", "오늘은 ~에 대해 알아보겠습니다")
-- 초보자에게 설명하는 톤 금지 ("쉽게 말하면", "간단히 말하자면")
-- **숫자·날짜·기관명·제도명은 절대 바꾸지 마세요.** 말투만 바꿉니다
+- 가르치는 톤 금지 ("여러분 아시나요?", "오늘은 ~에 대해")
+- 부드러운 톤 금지 ("참고하시면", "확인해보세요", "도움이 될 겁니다")
+- 초보자 설명 금지 ("쉽게 말하면", "간단히 말하자면")
+- **숫자·날짜·기관명·제도명은 절대 바꾸지 마세요.** 말투만 바꾼다
 - 비아냥·비하·거친 욕설 금지
 
 ### 예시
 나쁜 예: "오늘은 환율 변동에 대해 알아보겠습니다."
-좋은 예: "원달러 1400 뚫렸다. 달러연금 가입자 지금 웃고 있다."
+좋은 예: "원달러 1400 뚫렸다. 달러연금 가입자 웃고 있다. 너는?"
 
-나쁜 예: "변액보험이란 투자와 보장을 동시에 하는 상품입니다."
-좋은 예: "코스피 반등에 변액 수익률 뒤집혔다. 지금 고객한테 연락해라."
+나쁜 예: "변액보험 수익률이 회복되고 있습니다."
+좋은 예: "코스피 반등. 변액 수익률 뒤집혔다. 지금 당장 고객한테 전화해라."
+
+나쁜 예: "금리 인하가 예상됩니다. 참고하시면 좋겠습니다."
+좋은 예: "금리 인하 확정. 달러종신 지금 들어가야 된다. 내일이면 늦다."
 
 ## 자막
 - **22자 이내**. 내레이션을 그대로 넣지 마세요

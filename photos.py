@@ -84,6 +84,46 @@ KEYWORD_MAP = {
     "안전": "safety helmet warning",
     "재난": "emergency alert phone",
     "보험": "insurance documents desk",
+    # 금융 / 경제
+    "환율": "currency exchange rate board",
+    "달러": "us dollar bills currency",
+    "원달러": "currency exchange money",
+    "금리": "interest rate chart finance",
+    "기준금리": "central bank building",
+    "한은": "bank of korea building",
+    "연준": "federal reserve building",
+    "Fed": "federal reserve building",
+    "FOMC": "federal reserve meeting room",
+    "코스피": "stock market trading screen",
+    "나스닥": "nasdaq stock exchange",
+    "증시": "stock market chart screen",
+    "주가": "stock market trading floor",
+    # 보험 상품
+    "변액": "investment portfolio chart tablet",
+    "연금": "retirement savings pension",
+    "종신": "life insurance family protection",
+    "실손": "medical insurance hospital",
+    "수수료": "commission contract signing",
+    "1200": "insurance regulation documents",
+    "킥스": "insurance regulation chart",
+    "GA": "insurance agency office",
+    "설계사": "insurance agent meeting client",
+    # 선거 / 글로벌
+    "선거": "election voting ballot",
+    "트럼프": "white house washington dc",
+    "대선": "presidential election voting",
+    "미국": "american flag washington",
+    "중국": "china skyline city",
+    "관세": "shipping containers port trade",
+    "무역": "cargo ship port containers",
+    "전쟁": "military defense security",
+    # 경제 일반
+    "GDP": "economic growth chart office",
+    "인플레이션": "inflation prices shopping",
+    "경기": "economic recession chart",
+    "수출": "shipping containers export port",
+    "유가": "oil barrel refinery",
+    "원유": "oil refinery industrial",
 }
 
 # 카테고리 기본 쿼리 (키워드 매칭 실패 시)
@@ -94,8 +134,12 @@ CATEGORY_MAP = {
     "돈": "money finance calculator",
     "주거": "apartment building residential",
     "안전": "safety emergency warning",
+    "보험·금융규제": "insurance regulation documents office",
+    "경제·환율·금리": "currency exchange finance chart",
+    "선거·정책·글로벌": "government policy building",
+    "생활·제도변경": "government document form signing",
 }
-DEFAULT_QUERY = "city office desk modern"
+DEFAULT_QUERY = "business office finance desk"
 
 
 def build_query(text, category=""):
@@ -441,7 +485,13 @@ def fetch_for_script(script_path, out_dir):
         targets.append((f"scene{i+1}", scene.get("subtitle", ""),
                         scene.get("photo_query"), scene.get("image")))
 
-    used = set()  # 같은 대본 안에서 사진 중복 방지
+    # 크로스 에피소드 사진 중복 방지 — 이전에 사용한 URL 로드
+    history_path = os.path.join(os.path.dirname(out_dir) or ".", "used_photos.json")
+    try:
+        with open(history_path, encoding="utf-8") as _hf:
+            used = set(json.load(_hf))
+    except (FileNotFoundError, json.JSONDecodeError):
+        used = set()
     for slot, text, explicit, direct_image in targets:
         # 특정 인물·상품·장소는 대본에 검증된 image URL을 지정한다.
         # 지정 사진이 있는데 일반 검색 결과로 덮어쓰면 다른 인물이 나올 수 있다.
@@ -492,6 +542,12 @@ def fetch_for_script(script_path, out_dir):
 
     manifest["wanted"] = len(targets)
     manifest["fetched_at"] = time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime())
+    # 크로스 에피소드 중복 방지 — 사용한 URL 히스토리 저장 (최근 500개)
+    try:
+        with open(history_path, "w", encoding="utf-8") as _hf:
+            json.dump(sorted(used)[-500:], _hf, ensure_ascii=False)
+    except Exception:
+        pass
     mpath = os.path.join(out_dir, "photos.json")
     with open(mpath, "w", encoding="utf-8") as f:
         json.dump(manifest, f, ensure_ascii=False, indent=2)

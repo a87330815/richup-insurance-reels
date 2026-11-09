@@ -879,10 +879,17 @@ def generate(script_path, out_dir, photo_dir=None, layout="magazine"):
 
     photos = load_photos(photo_dir)
     credits = load_credits(photo_dir)
+    n_scenes = len(sc.get("scenes", []))
+    required_slots = ["cover"] + [f"scene{i+1}" for i in range(n_scenes)]
     if photos:
+        missing = [s for s in required_slots if s not in photos]
         print(f"  사진 {len(photos)}장 적용: {', '.join(sorted(photos))}")
+        if missing:
+            print(f"  [경고] 사진 누락 슬롯: {', '.join(missing)}")
     elif photo_dir:
-        print("  사진 없음 — 그래디언트 배경으로 생성")
+        print("  [오류] 사진이 하나도 없습니다. 사진은 필수입니다.")
+        print("  photos.py를 먼저 실행하거나 UNSPLASH_ACCESS_KEY를 확인하세요.")
+        sys.exit(1)
 
     p = os.path.join(out_dir, "01_cover.png")
     cover_fn(sc, t, photos.get("cover"), credits.get("cover")).save(p, quality=95)

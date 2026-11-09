@@ -25,7 +25,7 @@ import os
 import re
 import sys
 import time
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 OUT_DIR = os.path.join(ROOT, "out")
@@ -233,6 +233,11 @@ def main():
             item["keyword"], item.get("snippet", "")
         )
         item["key"] = trend_key(item["keyword"])
+
+    # 4.5. 수집일 기록 (1주일 필터용)
+    now_iso = datetime.now(timezone.utc).isoformat()
+    for item in filtered:
+        item["collected_at"] = now_iso
 
     # 5. 이미 처리한 트렌드 제거
     seen = load_seen_trends()
