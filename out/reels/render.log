@@ -1,94 +1,46 @@
-run 42342733948 2026-11-07T05:27:06Z
+run 42580204264 2026-11-09T07:35:22Z
 
-=== 20261107_02_오해정정 ===
+=== 20261109_01_오해정정 ===
   [cover] '‘계리가정’ 바꿨더니,' → "new vs old apartment building korea"
-    [openverse] 0건 후보
-    [wikimedia] 0건 후보
-    ↻ 재시도: "new vs old apartment building"
-    [openverse] 8건 후보
-    [wikimedia] 4건 후보
-    적합도 통과 11/12건 (Openverse/Wikimedia)
-    ✓ cover ← flickr (BY)
+    [unsplash] 12건 후보
+    Unsplash 12건 (적합도 필터 생략)
+    ✓ cover ← Unsplash (Unsplash License)
   [scene1] '‘계리가정’ 바꿨더니, 보험사 실적 영향' → "new vs old apartment building korea"
-    [openverse] 0건 후보
-    [wikimedia] 0건 후보
-    ↻ 재시도: "new vs old apartment building"
-    [openverse] 8건 후보
-    [wikimedia] 4건 후보
-    적합도 통과 11/12건 (Openverse/Wikimedia)
-    ✓ scene1 ← flickr (BY)
+    [unsplash] 12건 후보
+    Unsplash 12건 (적합도 필터 생략)
+    ✓ scene1 ← Unsplash (Unsplash License)
   [scene2] '‘계리가정’ 바꿨더니, 보험사 실적 영향' → "Korea city apartment building"
-    [openverse] 10건 후보 (부적합 2건 제외)
-    [wikimedia] 8건 후보
-    적합도 통과 13/18건 (Openverse/Wikimedia)
-    ✓ scene2 ← flickr (BY)
+    [unsplash] 12건 후보
+    Unsplash 12건 (적합도 필터 생략)
+    ✓ scene2 ← Unsplash (Unsplash License)
   [scene3] '팔로우 · 매일 업데이트' → "follow subscribe social media phone"
-    [openverse] 0건 후보
-    [wikimedia] 0건 후보
-    ↻ 재시도: "follow subscribe social media"
-    [openverse] 12건 후보
-    [wikimedia] 7건 후보
-    적합도 통과 12/19건 (Openverse/Wikimedia)
-    ✓ scene3 ← flickr (BY)
-  → 4/4장 저장, 매니페스트: out/photos/20261107_02_오해정정/photos.json
+    [unsplash] 12건 후보
+    Unsplash 12건 (적합도 필터 생략)
+    ✓ scene3 ← Unsplash (Unsplash License)
+  → 4/4장 저장, 매니페스트: out/photos/20261109_01_오해정정/photos.json
 
 총 4/4장 수집
   사진 4장 적용: cover, scene1, scene2, scene3
-카드뉴스 5장 생성 → out/cards_20261107_02_오해정정
-대본: out/scripts/20261107_02_오해정정.json
-카드: out/cards_20261107_02_오해정정 (5장)
-음성: ko-KR-SunHiNeural (속도 +25%, 프리셋 발랄녀)
+카드뉴스 5장 생성 → out/cards_20261109_01_오해정정
+대본: out/scripts/20261109_01_오해정정.json
+카드: out/cards_20261109_01_오해정정 (5장)
+음성: ko-KR-InJoonNeural (속도 +10%, 프리셋 앵커)
 
 1) TTS 생성
 [TTS] ElevenLabs 엔진 사용
 [TTS] Voice ID 직접 사용: Ctl3...A8Hn
-  TTS [1/4] [EL] 1.1초  ‘계리가정’ 바꿨더니,...
-  TTS [2/4] [EL] 8.8초  이거 모르고 지나가면 손해다. ‘계리가정’ 바꿨더니...
-  TTS [3/4] [EL] 149.7초  ‘계리가정’ 바꿨더니, 보험사 실적 영향 엇갈려 -...
-  TTS [4/4] [EL] 4.1초  오늘 내용이 도움이 됐다면 팔로우 해주이소. 매일 ...
+  TTS [1/4] [EL] 1.6초  ‘계리가정’ 바꿨더니,...
+  TTS [2/4] [EL] 9.5초  이거 모르고 지나가면 손해다. ‘계리가정’ 바꿨더니...
+  TTS [3/4] [EL] 173.5초  ‘계리가정’ 바꿨더니, 보험사 실적 영향 엇갈려 -...
+  TTS [4/4] [EL] 2.9초  팔로우 눌러라. 매일 현장 이슈 정리해서 쏜다....
 
 2) 영상 합성
   세그먼트 [1/5] 3.0초
-  세그먼트 [2/5] 9.6초
-  세그먼트 [3/5] 150.5초
-  세그먼트 [4/5] 4.9초
+  세그먼트 [2/5] 10.3초
+  세그먼트 [3/5] 174.3초
+  세그먼트 [4/5] 3.7초
   세그먼트 [5/5] 4.0초
 
-  ✓ 릴스 완성: out/reels/20261107_02_오해정정.mp4
-    길이: 167.8초  /  크기: 13.3MB
--rw-r--r-- 1 runner runner 14M Nov  7 05:29 out/reels/20261107_02_오해정정.mp4
-codec_name=h264
-width=1080
-height=1920
-codec_name=aac
-duration=167.778254
-저장소 백엔드: GitHub Release
-  미디어 저장소  a87330815/issue-reels-media
-  토큰           설정됨
-  저장소 확인    a87330815/issue-reels-media (공개)
-
-설정 완료
-
-업로드 1건 (태그 reels-2026-11-07):
-  20261107_02_오해정정.mp4  13.3MB  →  https://github.com/a87330815/issue-reels-media/releases/download/reels-2026-11-07/20261107_02.mp4
-
-공개 접근 확인:
-  OK  video_url: 200 application/octet-stream
-
-매니페스트: /home/runner/work/richup-insurance-reels/richup-insurance-reels/out/uploaded.json
-
-완료: 성공 1건 / 실패 0건
-남은 발행 가능: 100건
-발행 대상: 1건
-
-── 1/1  20261107_02_오해정정
-  영상: https://github.com/a87330815/issue-reels-media/releases/download/reels-2026-11-07/20261107_02.mp4
-  캡션: ‘계리가정’ 바꿨더니,
-  컨테이너: 18018907127776220
-      0초  IN_PROGRESS
-    115초  FINISHED
-  발행 완료: 18057717056799611
-
-
-발행 기록: /home/runner/work/richup-insurance-reels/richup-insurance-reels/out/published.json
-완료: 발행 1건 / 실패 0건
+  ✓ 릴스 완성: out/reels/20261109_01_오해정정.mp4
+    길이: 191.5초  /  크기: 8.0MB
+-rw-r--r-- 1 runner runner 8.0M Nov  9 07:38 out/reels/20261109_01_오해정정.mp4
