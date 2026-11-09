@@ -124,6 +124,34 @@ KEYWORD_MAP = {
     "수출": "shipping containers export port",
     "유가": "oil barrel refinery",
     "원유": "oil refinery industrial",
+    # 의료·건강 (@ga.world 스타일)
+    "치매": "elderly brain alzheimer medical",
+    "간병": "elderly care nursing hospital",
+    "암": "cancer medical hospital treatment",
+    "항암": "chemotherapy cancer treatment hospital",
+    "의료비": "medical bills hospital expense",
+    "수술": "surgery operating room hospital",
+    "진단": "medical diagnosis doctor patient",
+    "MRI": "mri scan medical imaging",
+    "CT": "ct scan medical imaging",
+    "AI의료": "ai medical technology hospital",
+    "원격진료": "telemedicine video call doctor",
+    "디지털헬스": "digital health wearable technology",
+    # 영업·마인드셋 (@ga.world 스타일)
+    "영업": "business meeting handshake professional",
+    "상담": "consultation meeting office professional",
+    "고객": "customer meeting professional office",
+    "실적": "sales performance chart business",
+    "리쿠르팅": "recruitment hiring interview office",
+    "동기부여": "motivation success business professional",
+    "성과": "achievement success trophy business",
+    "질문": "professional asking question meeting",
+    # 달러·외화 상품
+    "달러연금": "us dollar retirement savings money",
+    "달러종신": "us dollar life insurance protection",
+    "변액연금": "investment pension chart portfolio",
+    "변액종신": "investment life insurance chart",
+    "외화보험": "foreign currency insurance documents",
 }
 
 # 카테고리 기본 쿼리 (키워드 매칭 실패 시)
@@ -138,6 +166,10 @@ CATEGORY_MAP = {
     "경제·환율·금리": "currency exchange finance chart",
     "선거·정책·글로벌": "government policy building",
     "생활·제도변경": "government document form signing",
+    # @ga.world 스타일 주제
+    "보험·상품": "insurance policy documents professional desk",
+    "영업·마인드": "business professional meeting handshake success",
+    "의료·건강": "medical hospital healthcare doctor stethoscope",
 }
 DEFAULT_QUERY = "business office finance desk"
 
@@ -569,13 +601,16 @@ def fetch_for_script(script_path, out_dir):
                 continue
             print(f"    ✗ 커스텀 URL 실패, 폴백 검색으로 전환")
         q = explicit or build_query(text, category)
+        # 첫 번째 사진(cover/scene1)은 주제 정확 매칭 필수 → 후보 2배, 추가 쿼리
+        is_hero = slot in ("cover", "scene1")
+        n_search = 20 if is_hero else 12
         # 네이버 API가 있으면 한국어 원문으로도 검색해서 후보 합침
         naver_cid = os.environ.get("NAVER_CLIENT_ID", "").strip()
         if naver_cid and text and any(ord(c) > 0x1100 for c in text):
             kr_query = re.sub(r"[^\w\s가-힣]", "", text).strip()[:30]
             print(f"  [{slot}] 네이버 한국어: \"{kr_query}\" + 영문: \"{q}\"")
-            kr_cands = search_naver(kr_query)
-            en_cands = search_with_fallback(q)
+            kr_cands = search_naver(kr_query, n=n_search)
+            en_cands = search_with_fallback(q, n=n_search)
             seen_urls = set()
             cands = []
             for c in kr_cands + en_cands:
@@ -583,8 +618,19 @@ def fetch_for_script(script_path, out_dir):
                     seen_urls.add(c["url"])
                     cands.append(c)
         else:
-            print(f"  [{slot}] '{text}' → \"{q}\"")
-            cands = search_with_fallback(q)
+            tag = "🎯 히어로" if is_hero else ""
+            print(f"  [{slot}] {tag} '{text}' → \"{q}\"")
+            cands = search_with_fallback(q, n=n_search)
+        # 히어로 슬롯: 후보가 부족하면 카테고리 기본 쿼리로 추가 검색
+        if is_hero and len(cands) < 5 and category:
+            alt_q = CATEGORY_MAP.get(category, "")
+            if alt_q and alt_q != q:
+                print(f"    🎯 히어로 추가검색: \"{alt_q}\"")
+                extra = search_with_fallback(alt_q, n=12)
+                seen_urls = {c["url"] for c in cands}
+                for c in extra:
+                    if c["url"] not in seen_urls:
+                        cands.append(c)
         if not cands:
             print(f"    ✗ {slot}: 후보 없음")
             continue

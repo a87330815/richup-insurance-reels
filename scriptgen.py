@@ -398,6 +398,7 @@ def analyze_insurance_news(items):
             continue
         category = item.get("category", "보험업계 뉴스")
         desc = (item.get("description") or "").strip()
+        topic = item.get("topic", "")  # news_collect.py가 분류한 주제
         angles.append({
             "type": "시행일훅" if category == "보험 제도 변경" else "오해정정",
             "hook": title[:12],
@@ -406,7 +407,8 @@ def analyze_insurance_news(items):
             "category": category,
             "attribution": "공개 뉴스 RSS · 원문 링크는 캡션에 표기",
             "items": [item],
-            "data": {"title": title, "description": desc, "link": item.get("link", "")},
+            "data": {"title": title, "description": desc, "link": item.get("link", ""),
+                     "topic": topic, "source": category},
         })
     return angles
 
@@ -1739,36 +1741,61 @@ def main():
     elif not args.template:
         print("[알림] ANTHROPIC_API_KEY / OPENAI_API_KEY 없음 → 템플릿 모드로 전환")
 
-    # 앵글 다양화: type(포맷)과 source(소스/카테고리) 모두 겹치지 않게 선택.
-    # 3개 게시물이 전부 아파트 같은 중복을 방지한다.
+    # 앵글 다양화: @ga.world 스타일 주제 비중에 맞춰 선택
+    # 주제 비중: 보험·상품 30%, 영업·마인드 25%, 의료·건강 20%, 경제·환율·금리 25%
+    TOPIC_RATIO = {
+        "보험·상품": 0.30,
+        "영업·마인드": 0.25,
+        "의료·건강": 0.20,
+        "경제·환율·금리": 0.25,
+    }
+
+    # 앵글을 topic별로 분류
+    topic_buckets = {}
+    for angle in angles:
+        topic = angle.get("data", {}).get("topic", "")
+        cat = angle.get("data", {}).get("category", angle.get("data", {}).get("source", ""))
+        # topic 필드가 있으면 그대로, 없으면 category에서 추론
+        if not topic:
+            cat_str = str(cat)
+            if any(k in cat_str for k in ["보험", "변액", "달러", "종신", "연금", "실손", "GA", "제도"]):
+                topic = "보험·상품"
+            elif any(k in cat_str for k in ["영업", "설계사", "세일즈", "상담", "리쿠르팅", "마인드"]):
+                topic = "영업·마인드"
+            elif any(k in cat_str for k in ["치매", "암", "의료", "건강", "간병", "수술", "AI의료"]):
+                topic = "의료·건강"
+            elif any(k in cat_str for k in ["환율", "금리", "경제", "달러", "트럼프", "증시", "FOMC", "글로벌", "관세"]):
+                topic = "경제·환율·금리"
+            else:
+                topic = "경제·환율·금리"  # 기본값
+        topic_buckets.setdefault(topic, []).append(angle)
+
+    # 주제 비중에 따라 할당
+    import random
     selected_angles = []
-    used_types = set()
-    used_sources = set()
-    # 1차: type + source 모두 새로운 것 우선
-    for angle in angles:
-        if len(selected_angles) >= args.count:
-            break
-        src = angle.get("data", {}).get("source", angle.get("source", ""))
-        if angle["type"] not in used_types and src not in used_sources:
-            selected_angles.append(angle)
-            used_types.add(angle["type"])
-            if src:
-                used_sources.add(src)
-    # 2차: source만이라도 새로운 것
-    for angle in angles:
-        if len(selected_angles) >= args.count:
-            break
-        src = angle.get("data", {}).get("source", angle.get("source", ""))
-        if angle not in selected_angles and src not in used_sources:
-            selected_angles.append(angle)
-            if src:
-                used_sources.add(src)
-    # 3차: 그래도 모자라면 남은 것에서 채움
-    for angle in angles:
-        if len(selected_angles) >= args.count:
-            break
-        if angle not in selected_angles:
-            selected_angles.append(angle)
+    for topic, ratio in TOPIC_RATIO.items():
+        n_topic = max(1, round(args.count * ratio))
+        bucket = topic_buckets.get(topic, [])
+        random.shuffle(bucket)
+        selected_angles.extend(bucket[:n_topic])
+
+    # 중복 제거 후 count에 맞추기
+    seen_hooks = set()
+    deduped = []
+    for a in selected_angles:
+        h = a.get("hook", "")
+        if h not in seen_hooks:
+            seen_hooks.add(h)
+            deduped.append(a)
+    selected_angles = deduped[:args.count]
+
+    # 부족하면 남은 앵글에서 채움
+    if len(selected_angles) < args.count:
+        for angle in angles:
+            if len(selected_angles) >= args.count:
+                break
+            if angle not in selected_angles:
+                selected_angles.append(angle)
 
     # 생성
     scripts = []

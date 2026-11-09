@@ -30,7 +30,10 @@ jobs:
 
       # 인증키 없이 점검하면 멀쩡한 소스가 "인증키 없음"으로 찍혀
       # 막힌 것처럼 보인다. 수집과 같은 환경에서 점검해야 실태가 나온다.
-      - name: 보험 뉴스·트렌드 수집
+      - name: 보험 뉴스 수집 (Google News RSS)
+        run: python -u news_collect.py 2>&1 | tee -a out/collect.log
+
+      - name: 트렌드 키워드 수집
         run: python -u collect_trends.py 2>&1 | tee -a out/collect.log
 
       # 수집 결과 기록
@@ -44,7 +47,7 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           # 수집물도 저장소에 남긴다. 아티팩트로만 두면 다음 단계인
           # 대본 생성이 집어갈 수 없다.
-          for p in out/collect.log out/collected.json out/seen.json out/collect_history.log out/trends.json out/seen_trends.json; do
+          for p in out/collect.log out/collected.json out/seen.json out/collect_history.log out/trends.json out/seen_trends.json out/news.json out/news_seen.json; do
             [ -f "$p" ] && git add -f "$p" || true
           done
           git diff --cached --quiet && { echo "커밋할 변경 없음"; exit 0; }

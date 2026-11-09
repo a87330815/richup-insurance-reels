@@ -25,17 +25,90 @@ ROOT = os.path.dirname(os.path.abspath(__file__))
 OUT_DIR = os.path.join(ROOT, "out")
 SEEN_FILE = os.path.join(OUT_DIR, "news_seen.json")
 
-# ── 네이버 뉴스 RSS (공개, 키 불필요) ─────────────────────
-# sid1: 100=정치, 101=경제, 102=사회, 103=생활/문화, 104=세계, 105=IT/과학
-NAVER_RSS = {
-    "보험업계 뉴스": "https://news.google.com/rss/search?q=보험업계+보험사+실적+금융감독원&hl=ko&gl=KR&ceid=KR:ko",
-    "보험 제도 변경": "https://news.google.com/rss/search?q=보험+제도+변경+금융위원회+금융감독원&hl=ko&gl=KR&ceid=KR:ko",
-    "보험 상품 트렌드": "https://news.google.com/rss/search?q=보험+신상품+상품+트렌드+실손+건강보험&hl=ko&gl=KR&ceid=KR:ko",
-    "굿리치 소식": "https://news.google.com/rss/search?q=굿리치+보험&hl=ko&gl=KR&ceid=KR:ko",
-    "기준금리·통화정책": "https://news.google.com/rss/search?q=기준금리+한국은행+동결+인하+금융시장&hl=ko&gl=KR&ceid=KR:ko",
-    "환율 전망": "https://news.google.com/rss/search?q=원달러+환율+전망+외환시장+수출+금리&hl=ko&gl=KR&ceid=KR:ko",
-    "전쟁·국내경제": "https://news.google.com/rss/search?q=전쟁+지정학+한국경제+물가+유가+전망&hl=ko&gl=KR&ceid=KR:ko",
-    "미국 정책·주식시장": "https://news.google.com/rss/search?q=트럼프+공화당+정책+미국주식+증시+전망&hl=ko&gl=KR&ceid=KR:ko",
+# ── Google News RSS (공개, 키 불필요) ─────────────────────
+# @ga.world 스타일 주제 비중:
+#   보험·상품 인사이트  30%  — 변액/달러 상품 중심
+#   영업 스킬·마인드셋  25%  — 설계사 현장 역량
+#   의료·건강 트렌드    20%  — 중대질병·의료비·AI의료
+#   경제·환율·금리      25%  — 환율, 금리, 미국/글로벌
+#
+# ※ 물가·부동산 제외 / 정치·연예·스포츠 제외
+
+TOPIC_WEIGHT = {
+    "보험·상품": 30,
+    "영업·마인드": 25,
+    "의료·건강": 20,
+    "경제·환율·금리": 25,
+}
+
+NEWS_SOURCES = {
+    # ── 보험·상품 인사이트 (30%) ──
+    "변액보험 수익률": {
+        "url": "https://news.google.com/rss/search?q=변액보험+수익률+펀드+투자&hl=ko&gl=KR&ceid=KR:ko",
+        "topic": "보험·상품",
+    },
+    "달러보험 환율": {
+        "url": "https://news.google.com/rss/search?q=달러보험+달러연금+달러종신+환율&hl=ko&gl=KR&ceid=KR:ko",
+        "topic": "보험·상품",
+    },
+    "종신보험 트렌드": {
+        "url": "https://news.google.com/rss/search?q=종신보험+변액종신+저해지+트렌드&hl=ko&gl=KR&ceid=KR:ko",
+        "topic": "보험·상품",
+    },
+    "연금보험 노후": {
+        "url": "https://news.google.com/rss/search?q=연금보험+노후+연금저축+퇴직연금&hl=ko&gl=KR&ceid=KR:ko",
+        "topic": "보험·상품",
+    },
+    "보험 제도·규제": {
+        "url": "https://news.google.com/rss/search?q=보험+제도+금융위+금감원+GA+수수료&hl=ko&gl=KR&ceid=KR:ko",
+        "topic": "보험·상품",
+    },
+
+    # ── 영업 스킬·마인드셋 (25%) ──
+    "보험설계사 영업": {
+        "url": "https://news.google.com/rss/search?q=보험설계사+영업+상담+고객&hl=ko&gl=KR&ceid=KR:ko",
+        "topic": "영업·마인드",
+    },
+    "세일즈 성과": {
+        "url": "https://news.google.com/rss/search?q=세일즈+성과+영업+기법+실적+동기부여&hl=ko&gl=KR&ceid=KR:ko",
+        "topic": "영업·마인드",
+    },
+    "GA 법인보험대리점": {
+        "url": "https://news.google.com/rss/search?q=GA+법인보험대리점+설계사+리쿠르팅&hl=ko&gl=KR&ceid=KR:ko",
+        "topic": "영업·마인드",
+    },
+
+    # ── 의료·건강 트렌드 (20%) ──
+    "치매 간병": {
+        "url": "https://news.google.com/rss/search?q=치매+간병+치매환자+치매보험&hl=ko&gl=KR&ceid=KR:ko",
+        "topic": "의료·건강",
+    },
+    "암 의료비": {
+        "url": "https://news.google.com/rss/search?q=암+의료비+항암+치료비+건강보험&hl=ko&gl=KR&ceid=KR:ko",
+        "topic": "의료·건강",
+    },
+    "AI 의료기술": {
+        "url": "https://news.google.com/rss/search?q=AI+의료+디지털헬스+원격진료+의료기술&hl=ko&gl=KR&ceid=KR:ko",
+        "topic": "의료·건강",
+    },
+
+    # ── 경제·환율·금리 (25%) ──
+    "기준금리·통화정책": {
+        "url": "https://news.google.com/rss/search?q=기준금리+한국은행+FOMC+연준+금리인하&hl=ko&gl=KR&ceid=KR:ko",
+        "topic": "경제·환율·금리",
+    },
+    "환율 전망": {
+        "url": "https://news.google.com/rss/search?q=원달러+환율+전망+달러강세+외환시장&hl=ko&gl=KR&ceid=KR:ko",
+        "topic": "경제·환율·금리",
+    },
+    "미국 경제·정책": {
+        "url": "https://news.google.com/rss/search?q=트럼프+관세+미국경제+증시+무역전쟁&hl=ko&gl=KR&ceid=KR:ko",
+        "topic": "경제·환율·금리",
+    },
+    "글로벌 시장": {
+        "url": "https://news.google.com/rss/search?q=글로벌+증시+나스닥+코스피+전망+경기&hl=ko&gl=KR&ceid=KR:ko",
+        "topic": "경제·환율·금리",
+    },
 }
 
 # 언론사 표현 필터 (저작권 보호)
@@ -118,17 +191,21 @@ def fetch_news_via_search(query, category, timeout=15):
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--category", default=None, help="특정 카테고리만 수집")
-    ap.add_argument("--max", type=int, default=20, help="카테고리당 최대 기사 수")
+    ap.add_argument("--max", type=int, default=15, help="카테고리당 최대 기사 수")
     args = ap.parse_args()
 
-    categories = {args.category: NAVER_RSS[args.category]} if args.category and args.category in NAVER_RSS else NAVER_RSS
+    sources = NEWS_SOURCES
+    if args.category:
+        sources = {k: v for k, v in NEWS_SOURCES.items() if v["topic"] == args.category or k == args.category}
 
     seen = load_seen()
     all_articles = []
     dropped = 0
 
-    for cat, url in categories.items():
-        print(f"  [{cat}] 수집 중...")
+    for cat, src in sources.items():
+        url = src["url"]
+        topic = src["topic"]
+        print(f"  [{topic} > {cat}] 수집 중...")
         articles = fetch_rss(url, cat)
         count = 0
         for art in articles:
@@ -143,9 +220,17 @@ def main():
                 continue
             seen.add(k)
             art["key"] = k
+            art["topic"] = topic  # 주제 분류 태그
             all_articles.append(art)
             count += 1
         print(f"    → {count}건 수집")
+
+    # 주제별 통계
+    topic_counts = {}
+    for art in all_articles:
+        t = art.get("topic", "기타")
+        topic_counts[t] = topic_counts.get(t, 0) + 1
+    print(f"\n주제별 수집: {topic_counts}")
 
     # 저장
     os.makedirs(OUT_DIR, exist_ok=True)
@@ -153,6 +238,8 @@ def main():
     with open(out_path, "w", encoding="utf-8") as f:
         json.dump({
             "collected_at": datetime.now(timezone.utc).isoformat(),
+            "topic_weight": TOPIC_WEIGHT,
+            "topic_counts": topic_counts,
             "items": all_articles,
         }, f, ensure_ascii=False, indent=2)
     save_seen(seen)
