@@ -93,7 +93,13 @@ jobs:
           git commit -m "대본 생성 $(date +%Y-%m-%d\ %H:%M)"
           # 다른 워크플로가 같은 브랜치에 밀어넣는 중일 수 있다.
           for i in 1 2 3; do
-            git pull --rebase --autostash origin main && git push origin main && exit 0
+            git fetch origin main
+            git reset --soft HEAD~1
+            git checkout origin/main -- . 2>/dev/null || true
+            git add -f out/scripts/
+            git diff --cached --quiet && { echo "커밋할 변경 없음"; exit 0; }
+            git commit -m "# 대본 생성 $(date +%Y-%m-%d\ %H:%M)"
+            git push origin HEAD:main && exit 0
             sleep 5
           done
           echo "::error::대본 푸시 실패"; exit 1
