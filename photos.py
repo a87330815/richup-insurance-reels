@@ -260,6 +260,49 @@ def search_wikimedia(query, n=12):
     return out
 
 
+def search_naver(query, n=10):
+    """네이버 이미지 검색 API — 한국어 키워드로 정확한 사진 검색.
+    NAVER_CLIENT_ID / NAVER_CLIENT_SECRET 환경변수 필요."""
+    cid = os.environ.get("NAVER_CLIENT_ID", "").strip()
+    csec = os.environ.get("NAVER_CLIENT_SECRET", "").strip()
+    if not cid or not csec:
+        return []
+    # 한국어 키워드는 그대로 검색 (영문 변환하지 않음)
+    url = "https://openapi.naver.com/v1/search/image"
+    params = {
+        "query": query,
+        "display": str(n),
+        "sort": "sim",
+        "filter": "large",
+    }
+    headers = {
+        "X-Naver-Client-Id": cid,
+        "X-Naver-Client-Secret": csec,
+        "User-Agent": UA,
+    }
+    try:
+        r = requests.get(url, params=params, headers=headers, timeout=TIMEOUT)
+        r.raise_for_status()
+        data = r.json()
+    except Exception as e:
+        print(f"    [naver] API 실패: {e}")
+        return []
+    out = []
+    for item in data.get("items", []):
+        link = item.get("link", "")
+        if not link:
+            continue
+        out.append({
+            "url": link,
+            "title": re.sub(r"<[^>]+>", "", item.get("title", "")),
+            "source": "Naver",
+            "creator": urllib.parse.urlparse(item.get("sizeheight", item.get("link", ""))).netloc or "Naver",
+            "license": "editorial",
+            "page": item.get("link", ""),
+        })
+    return out
+
+
 # 한국 소비자 대상 카드뉴스에 실리면 곤란한 소재를 제목·출처 URL에서 걸러낸다.
 # (예: "korean won" 검색에 북한 원화 지폐가 걸려 김일성 초상이 배경으로 깔린 사례)
 _BLOCK_RE = re.compile(
@@ -301,7 +344,11 @@ def search_all(query, n=12):
     앞 공급자 결과가 적으면 뒤 공급자 결과를 이어 붙여 중복 회피 여지를 남긴다.
     Unsplash 결과는 trusted=True로 표시해 적합도 필터를 건너뛴다."""
     key = os.environ.get("UNSPLASH_ACCESS_KEY", "").strip()
+    naver_cid = os.environ.get("NAVER_CLIENT_ID", "").strip()
     providers = []
+    # 네이버: 한국어 키워드로 가장 정확한 사진. 최우선
+    if naver_cid:
+        providers.append(("naver", lambda: search_naver(query, n), True))
     if key:
         providers.append(("unsplash", lambda: search_unsplash(query, key, n), True))
     providers.append(("openverse", lambda: search_openverse(query, n), False))
@@ -522,8 +569,22 @@ def fetch_for_script(script_path, out_dir):
                 continue
             print(f"    ✗ 커스텀 URL 실패, 폴백 검색으로 전환")
         q = explicit or build_query(text, category)
-        print(f"  [{slot}] '{text}' → \"{q}\"")
-        cands = search_with_fallback(q)
+        # 네이버 API가 있으면 한국어 원문으로도 검색해서 후보 합침
+        naver_cid = os.environ.get("NAVER_CLIENT_ID", "").strip()
+        if naver_cid and text and any(ord(c) > 0x1100 for c in text):
+            kr_query = re.sub(r"[^\w\s가-힣]", "", text).strip()[:30]
+            print(f"  [{slot}] 네이버 한국어: \"{kr_query}\" + 영문: \"{q}\"")
+            kr_cands = search_naver(kr_query)
+            en_cands = search_with_fallback(q)
+            seen_urls = set()
+            cands = []
+            for c in kr_cands + en_cands:
+                if c["url"] not in seen_urls:
+                    seen_urls.add(c["url"])
+                    cands.append(c)
+        else:
+            print(f"  [{slot}] '{text}' → \"{q}\"")
+            cands = search_with_fallback(q)
         if not cands:
             print(f"    ✗ {slot}: 후보 없음")
             continue
