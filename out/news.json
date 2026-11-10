@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-09T23:20:01.381366+00:00",
+  "collected_at": "2026-11-10T04:27:32.635656+00:00",
   "topic_weight": {
     "보험·상품": 30,
     "영업·마인드": 25,
@@ -7,360 +7,152 @@
     "경제·환율·금리": 25
   },
   "topic_counts": {
-    "보험·상품": 8,
-    "의료·건강": 12,
-    "경제·환율·금리": 19
+    "보험·상품": 2,
+    "경제·환율·금리": 14
   },
   "items": [
     {
-      "title": "삼성생명, '변액보험 펀드관리 서비스' 도입…수익률 관리 대폭 강화 - 금융신문",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5pcEhOeDM0LWhWY3MxZS1qVmNLQlBFejFCZFJFZTFRRTgxdF8yV0JrNHB6bGx0U2xHTEtQNU1GZXVWR0l0MWRhVVJlXzNRQkoyTkJWYkVPNUlBOUFXQm85Z2pvMkNkMkFZSlY5MkdOOVdfcERKNHdVdGNQaVM?oc=5",
-      "description": "삼성생명, '변액보험 펀드관리 서비스' 도입…수익률 관리 대폭 강화 금융신문",
-      "pub_date": "Wed, 17 Oct 2018 07:00:00 GMT",
-      "category": "변액보험 수익률",
-      "key": "f443c32344ab49d5",
+      "title": "[금융지혜 ❷] 국민연금 고갈 불안한데…연금보험으로 노후 보장 - 웰스매니지먼트",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA2RmI0NlY3bWlFTHVsUWtoM01KdTlpa1o2eFBnTGRhMzJub0hCQ0pNeDJ4RkphSjF0SmNxUXpjYzRneVp1MUpTMHRYT2hiU3hBUktISDNjYlE3MWphLWpwMjNQbkRER203SEHSAW5BVV95cUxOcUtNZzN4Z3NDMVFLbnE5TDl2cTVqWDVsUVRZMkwyaXJPMFNweFBjN3YxcF82U1JOV2pna3Rxa2t3cGFUbGEybnBVQ2NZUVZvLVRmNnhNRkpGR0tlSWRralhuMGFaZmxXQURXZjFaZw?oc=5",
+      "description": "[금융지혜 ❷] 국민연금 고갈 불안한데…연금보험으로 노후 보장 웰스매니지먼트",
+      "pub_date": "Wed, 16 Jul 2025 07:00:00 GMT",
+      "category": "연금보험 노후",
+      "key": "01a4e829297836fc",
       "topic": "보험·상품"
     },
     {
-      "title": "[머니]변액보험·적립식 펀드 뭐가 좋을까? - 주간경향",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4yODdnenhMb0F1Y1ZXR2xQVnprSW04TW5PTENmZkt3MHRNY2pwZDVIZmdIUHNIVTlsMVo2dy1ram5IM1FEMFZpMHhuQUVJemha?oc=5",
-      "description": "[머니]변액보험·적립식 펀드 뭐가 좋을까? 주간경향",
-      "pub_date": "Tue, 28 Aug 2007 07:00:00 GMT",
-      "category": "변액보험 수익률",
-      "key": "fe70de769606bc11",
-      "topic": "보험·상품"
-    },
-    {
-      "title": "투자면 펀드, 보장이면 변액보험 - economychosun.com",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1oY0J0Y0ZLU3dwMjNiRVFKNEJoajVuRzFkX3lRb3NpWFhrXzRCZFBoRnZaY3FscjlBVWdqV3c2ZW4yT0pSZl91czNHT3BuYUwwSzg1Z0Uwc0JuNmItVFZoYmRINWFmTDFnb3FpMnVkMnZXLWc4bzJJWHpPcGZSb0E?oc=5",
-      "description": "투자면 펀드, 보장이면 변액보험 economychosun.com",
-      "pub_date": "Sat, 23 Jul 2005 07:00:00 GMT",
-      "category": "변액보험 수익률",
-      "key": "7cb8954d49c8875e",
-      "topic": "보험·상품"
-    },
-    {
-      "title": "[저금리 투자대안 변액보험] 장기투자 땐 복리효과·차익 비과세 혜택… 긴 호흡으로 접근해야 - 서울경제",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4tRlhlVzFGalo0UTVFWXNsYkxsQXI4dUxPVy0td2thN0tCWlZ4OVJLNmlQVkYwRVJxU3hRQTlOaUhLM2VpUGNURHk3cV8tRHdqUXfSAVNBVV95cUxPdlpIR3JNZGxwdHVoa200dVY1Q00xNHJDcVB3WlhPREFyMWh2bUYza3M4cFp6WjZ1WHJ3OUxqa08zS3JCZUVyTG80OWxBWjRydlFuSQ?oc=5",
-      "description": "[저금리 투자대안 변액보험] 장기투자 땐 복리효과·차익 비과세 혜택… 긴 호흡으로 접근해야 서울경제",
-      "pub_date": "Sun, 28 Sep 2014 07:00:00 GMT",
-      "category": "변액보험 수익률",
-      "key": "82222192cfe4ae8f",
-      "topic": "보험·상품"
-    },
-    {
-      "title": "물가상승률도 못따라가는 변액연금보험 수익률 논란 - 한겨레",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5OZFdPZUN5QnNSZkZ3Q28yUDFBT3V0eXFhMjZmVC1lNFJDNXlsUkozNzdNdTJHVWJLMkloVkF0dWJmc2JILWxGeW0tNHM1d3A4VHliOGMwQ3pWeXJFTGEwWTBYNFhZQQ?oc=5",
-      "description": "물가상승률도 못따라가는 변액연금보험 수익률 논란 한겨레",
-      "pub_date": "Tue, 10 Apr 2012 07:00:00 GMT",
-      "category": "변액보험 수익률",
-      "key": "b29128e045c53a9c",
-      "topic": "보험·상품"
-    },
-    {
-      "title": "자금 몰리는 '달러 보험'…신한라이프·KB라이프 쌍끌이 - 뉴스저널리즘",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE00RUkybmhEam1tS2xCc2phLUhVTU05UDdUcGNFQnR1WjBNZ2tTNVBpeTRhRWppdDNNLWJpZ1g0blZRTjlJTnFETGswUE5XbG90NWs0WHFlalFlN3BtWlBGRkFUZDhkZmhwYzkw?oc=5",
-      "description": "자금 몰리는 '달러 보험'…신한라이프·KB라이프 쌍끌이 뉴스저널리즘",
-      "pub_date": "Mon, 29 Sep 2025 07:00:00 GMT",
-      "category": "달러보험 환율",
-      "key": "04d286f55c085380",
-      "topic": "보험·상품"
-    },
-    {
-      "title": "보험 판매 비중 커진 GA, 내부통제·소비자보호 책임 강화 - 한국보험신문",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9Bc28zVzlXQ1NHUGE4OUtlRFFnUUQ2dmRfazhwZEtjcnRvRXUzWjlvZWxfdWdfLXU1Wk5TRHhGMUlWQ3I1eUZkVUptcGtoLTVIWU9BbFR4ZFVKelBzOVlmWjZQX3BnMy1ocVRv0gFvQVVfeXFMUDJlZHNLQTNzOFEtNmljWDBsM2xxU0VRX0FDOW5oRko3Rk5EUGNTaEd4MFl4YTRVbUNTSlN3T21hTms0WWFRTlpXNDBnNG5MSXpacjZ1aGRIY1gtS19wU0tIR01paENjOWs2Ml9JSmxj?oc=5",
-      "description": "보험 판매 비중 커진 GA, 내부통제·소비자보호 책임 강화 한국보험신문",
-      "pub_date": "Sun, 08 Nov 2026 15:00:00 GMT",
+      "title": "내년 7월 ‘1200%룰’ GA 적용… 4년 분급 시대 본격 돌입 - 한국보험신문",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE01dUIyQ2FLTzFEYTBGUzc2dEl1MWhWYXc3QVhTTHNsXzBNQ0VoSmFwbzZKQmttSTJfQ3RHZjM2eUVqdmdDNEwtVlRNdmVpVVJMODNIUlEyeTVMdk1NTVJwRklGQkxWWWIwMHZz0gFvQVVfeXFMTkpvaFZ1NmNjd3B3QllxNzExWVBnS1h5bnhORERoRTNISlNjZ1Vaa0Q0WktmaVRxTWJFcmhMekxVTmJXb0R2M09VYW9BZGk2eEdvTEJSaEgwYkkxNU1JaU5LeWQxdVZubGo3MUpJcFlJ?oc=5",
+      "description": "내년 7월 ‘1200%룰’ GA 적용… 4년 분급 시대 본격 돌입 한국보험신문",
+      "pub_date": "Mon, 08 Dec 2025 08:00:00 GMT",
       "category": "보험 제도·규제",
-      "key": "41d0c4d08468659e",
+      "key": "21b02f32f4ce8fff",
       "topic": "보험·상품"
     },
     {
-      "title": "금융감독원, 보험 판매질서·건전성 감독 강화 - 한국보험신문",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ZN3pLYjBmc2o3amxOR0V5VmRTRzVEOUwwZlVhVlFCM09vUTRDZjIwUHhYMGV5N25nRnM1VGRVdWs2UDFjYmhDQlB4SzdMSHFUaFptNFBOdnljSURHZUh6ek1hb3A3R0tRejAw0gFvQVVfeXFMTkpIRTVuQ0dJRFZENE84c1AwUkpaNjJvb3QzdjdPcVRYZnlVYm9Rb2RuWjlUSU1CV2pxRVJWWHRkSGNLQzhnM0RJSlhrRDdyLWUxMmloNmFKZHVKRjZEbzJTWHZxakNxdm14YXllQ093?oc=5",
-      "description": "금융감독원, 보험 판매질서·건전성 감독 강화 한국보험신문",
-      "pub_date": "Wed, 11 Mar 2026 07:00:00 GMT",
-      "category": "보험 제도·규제",
-      "key": "f5bb8a82ee344808",
-      "topic": "보험·상품"
+      "title": "연준 3년 만에 금리인상…한은도 속도 내나 - https://www.yonhapmidas.com/",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB6SV9RZXNUVHVIRWRfalBTbEFULXB5NGNHLWNnMlh2NzhTRUhOa2VsV05USzdVal9MM3BvU2E2Z3FKdDhLWjA3eTFFeXFqLUpMWmo2dW5URzJ4SzdHZjk2a2oxVXhyU29wUk43aVlB?oc=5",
+      "description": "연준 3년 만에 금리인상…한은도 속도 내나 https://www.yonhapmidas.com/",
+      "pub_date": "Fri, 02 Oct 2026 07:00:00 GMT",
+      "category": "기준금리·통화정책",
+      "key": "c158a090dbb86bc7",
+      "topic": "경제·환율·금리"
     },
     {
-      "title": "치매보험 수요 확산 가속화?...'알츠하이머 치매', 국민 입원 치료비 부담 1위 - 녹색경제신문",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5sYU5LM2RIZlJhOUxQQUNYNllzbDd1bVltQXVGRU9nZ29ZMEhBQXIxS04yUlFjTVJydGFYRkp6TEl1Mmx6NlU2ejBEWUtjcjNCNmdJZ0EyazJKY1lzeEhyc2JTdmt2cGNV?oc=5",
-      "description": "치매보험 수요 확산 가속화?...'알츠하이머 치매', 국민 입원 치료비 부담 1위 녹색경제신문",
-      "pub_date": "Thu, 11 Jun 2026 07:00:00 GMT",
-      "category": "치매 간병",
-      "key": "f230dd6644fd9e88",
-      "topic": "의료·건강"
+      "title": "美연준, 9월 기준금리 인하 ‘확실시’…한국은행은 3.25% 동결 - 인사이드비나",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tN2o2SWxKanVOY09Ja0hndWRjcEVYMmJaSGRzLXJvLXdaWXpISkU1VDV3c0kwMFJ0TFcwd3hlejVDaHdCai02bkowTHZhYXpic0tQdHcxWE5IUmtMV2V1akd3NGRHci1JLUZYQg?oc=5",
+      "description": "美연준, 9월 기준금리 인하 ‘확실시’…한국은행은 3.25% 동결 인사이드비나",
+      "pub_date": "Thu, 22 Aug 2024 07:00:00 GMT",
+      "category": "기준금리·통화정책",
+      "key": "ade4a396c4ab83e9",
+      "topic": "경제·환율·금리"
     },
     {
-      "title": "재가급여부터 노치원까지…치매간병보험으로 대비 ‘든든’ - 금융신문",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9oYktXajdDM2lvQ1FsMkFWMkZZalk5WS1jSFQtMDNFNG9wU1ZoRlNRQlRnNlB4TWlfbUd0c1dBN05kRExwNFQ4Z1l6Z2gxZUc1ZVVWZmszMEdhWTBwNG9sa2Nza1p2Y2tHdnhOUGZNTW5UQmY5V1BELVRFWFg?oc=5",
-      "description": "재가급여부터 노치원까지…치매간병보험으로 대비 ‘든든’ 금융신문",
-      "pub_date": "Mon, 11 Nov 2024 08:00:00 GMT",
-      "category": "치매 간병",
-      "key": "12a6578684193ac7",
-      "topic": "의료·건강"
-    },
-    {
-      "title": "국내 치매보험 발전 중…간병-관리 등 보장범위 확대 - 디멘시아뉴스",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA5QWUwTkdITGNpSWlIWWNwNUFKSVl4NUU5eWt0TFRwSEU5dXdOb0dldEg5UHNFN0Vja0VjdVNLZ1QwY1ctSHpuSUdoUV91QmstaU1RU3hPbzFFRzFLYnV0eWhDWmlqbks5My1Xc3dqNjE?oc=5",
-      "description": "국내 치매보험 발전 중…간병-관리 등 보장범위 확대 디멘시아뉴스",
-      "pub_date": "Thu, 14 Oct 2021 07:00:00 GMT",
-      "category": "치매 간병",
-      "key": "ccef444a0495bf51",
-      "topic": "의료·건강"
-    },
-    {
-      "title": "65세 노인 10%가 치매 환자…100세 시대 인기끄는 치매보험 - 중앙일보",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5lWDNfN2JSNVB2MUlwbk5mNW1EYWVaY2R4aVF3MWt2RjFuVEtDMjRyT19LejdOdFdNeUxTSkN0OTRLdWtvRVZZNUYtV1VTdVRJZjRLcFl3?oc=5",
-      "description": "65세 노인 10%가 치매 환자…100세 시대 인기끄는 치매보험 중앙일보",
-      "pub_date": "Thu, 21 Mar 2019 07:00:00 GMT",
-      "category": "치매 간병",
-      "key": "f5119c298c5bd8e7",
-      "topic": "의료·건강"
-    },
-    {
-      "title": "치매환자 1인당 비용 2061만원…치매간병보험으로 대비 가능 - 금융신문",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0wbERQZ3E5R2xDRW5wdlVEQzJ1a2NUV3pYLVpLRXZoUW85RUlhWGRQNWtXSW1vYXQ5YXB1ZnZzeUgyMU1VaDBCQ2JMc2VlcWxjbFBmWTNZdy1FcnZmWGxWbnhEdFRDRGIyMktfQ1o5QmpCdVpMQmFHN2Q1Umk?oc=5",
-      "description": "치매환자 1인당 비용 2061만원…치매간병보험으로 대비 가능 금융신문",
-      "pub_date": "Thu, 01 Sep 2022 07:00:00 GMT",
-      "category": "치매 간병",
-      "key": "eda0fd925a053357",
-      "topic": "의료·건강"
-    },
-    {
-      "title": "\"비갱신형 간병보험은 일찍, 갱신형은 필요할 때 가입을\" - 한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tcnhBekZXR3ZfU25DQ3hfUkZUTTYwallmQnZ1Z0MtM1p0akRSSGgzYmFkSmM3TVRTU0ZqVmp2N2JLb1R3bk92eTN6VERPaDV6Z3J0cVZjamowUQ?oc=5",
-      "description": "\"비갱신형 간병보험은 일찍, 갱신형은 필요할 때 가입을\" 한국경제",
-      "pub_date": "Tue, 04 Mar 2025 08:00:00 GMT",
-      "category": "치매 간병",
-      "key": "2a628bf970adc3f1",
-      "topic": "의료·건강"
-    },
-    {
-      "title": "동양생명, 치매 장기 요양·생활비 종신 지급, 49종 특약…80세까지 가입 가능 - 한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1oLUdxZ2lTZlhkUkwzdWlwQ1lJVFoxeDQtZmRTVkl3S21tUUhraWt2LWtSVjVsUTdyUFY2eVozMzFla0xuU1R5UjRPaTdkQlVWU1lidWJGU2M4QQ?oc=5",
-      "description": "동양생명, 치매 장기 요양·생활비 종신 지급, 49종 특약…80세까지 가입 가능 한국경제",
-      "pub_date": "Thu, 15 May 2025 07:00:00 GMT",
-      "category": "치매 간병",
-      "key": "b0d2d2e762ba2735",
-      "topic": "의료·건강"
-    },
-    {
-      "title": "치매보험 가입 주의사항은? 진단비-보장 나이·범위 등 꼼꼼히 따져봐야 - 농민신문",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9sU25XWWFCNTlfSU16UkNacXFFR1B1TkhtNDRONlFjdmVWdDVPOFp3VU5WVUQ0MkZhSjg4VjJ6R0pPX19iMFZDZktfLUpscW9ZNms2d3RhczR5dw?oc=5",
-      "description": "치매보험 가입 주의사항은? 진단비-보장 나이·범위 등 꼼꼼히 따져봐야 농민신문",
-      "pub_date": "Sun, 02 May 2021 07:00:00 GMT",
-      "category": "치매 간병",
-      "key": "8fe4200ca6170b52",
-      "topic": "의료·건강"
-    },
-    {
-      "title": "‘눈이 부시게’ 늘어난 치매보험 가입 - 중앙일보",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5WSTdhYlBIaU1JNThNMVUweDJwaEhMNGhGVHZsWFYyNlRWMW9qR0h6bjZTRW1JbmNtUlhwWlVTZnlPSEZxYlhKWXl6c1E4ZW1kSlJuMGpB?oc=5",
-      "description": "‘눈이 부시게’ 늘어난 치매보험 가입 중앙일보",
-      "pub_date": "Mon, 25 Mar 2019 07:00:00 GMT",
-      "category": "치매 간병",
-      "key": "855df38812f5672c",
-      "topic": "의료·건강"
-    },
-    {
-      "title": "유병자·경증치매까지 보장…맞춤형 치매보험 쏟아져 - 한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1NdlBWakpmaFpVN1R6bjR0QTJlNkI3ZEJBVFZpYmdiMzlkbnR2TTNRMkZPbzQzaGFuOFA1RE9VOV9rSWY0YlBSUzR0OWI3MlNXT2FMSE9fREVZUQ?oc=5",
-      "description": "유병자·경증치매까지 보장…맞춤형 치매보험 쏟아져 한국경제",
-      "pub_date": "Wed, 23 Jan 2019 08:00:00 GMT",
-      "category": "치매 간병",
-      "key": "103c4ce38a6f2f18",
-      "topic": "의료·건강"
-    },
-    {
-      "title": "흥국생명, 생활자금 지급하는 '가족사랑치매간병보험' - 메트로신문",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE94VGRHVEVYREZfellrLU9jQmNxQUZfcjN1M3ZIS3d0cER4RGItMTFXUEItZXpKdW5Cd1hHUk5OOXFuUThlWkZrZkxQWWFPUGQ3V09IV2d2Y3hRVU56eTBB?oc=5",
-      "description": "흥국생명, 생활자금 지급하는 '가족사랑치매간병보험' 메트로신문",
-      "pub_date": "Sun, 29 Jul 2018 07:00:00 GMT",
-      "category": "치매 간병",
-      "key": "e7bee36bff86b051",
-      "topic": "의료·건강"
-    },
-    {
-      "title": "한화생명, 선별급여 암 주요치료 특약 9개월 '배타적사용권' - 마켓인",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBBbHNIYk55MTZISDhYV25leFdrekwzTTFNRUZMam5nTnk3eGFkenNWU2ZLMnNCWU5pSFYzZU9DR0ROYVpOV0N2SUtjZFhVd0twVHRBb3pCLWFWOWxhblVKLUcyQjRqYzRRczA2V1daMERyQkU?oc=5",
-      "description": "한화생명, 선별급여 암 주요치료 특약 9개월 '배타적사용권' 마켓인",
-      "pub_date": "Fri, 03 Jul 2026 07:00:00 GMT",
-      "category": "암 의료비",
-      "key": "767cdc99aab06745",
-      "topic": "의료·건강"
-    },
-    {
-      "title": "[환율 전망] 대외 악재는 산더미, 반도체 하나로 딸깍 - KB Think",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9oZVBSLS0wOGtxWUkzN2ZWMEhBVUdROUJiQ3BCNl9QQ2NEemtackZwcVhRZXFOQllTcHJFQWRDdk1sRFZFaFVuX1FMbGZ5Z0E3YV9aOWJIaWJ6TEFCN1B1cQ?oc=5",
-      "description": "[환율 전망] 대외 악재는 산더미, 반도체 하나로 딸깍 KB Think",
-      "pub_date": "Tue, 13 Oct 2026 07:00:00 GMT",
+      "title": "[환율 전망] 왜 KRW는 TWD가 될 수 없을까? - KB Think",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE45cExRVTdSWm9jY0p6T04tZ2JLemx1MWg1MUpkQUtseV9LQlJpZFJIdDIwNkYzYzlsYk5uTmZGOThnbDJScjF2RTBmeENZU3ROanNLc2R0bUE1am5fZ2ttWA?oc=5",
+      "description": "[환율 전망] 왜 KRW는 TWD가 될 수 없을까? KB Think",
+      "pub_date": "Wed, 01 Jul 2026 07:00:00 GMT",
       "category": "환율 전망",
-      "key": "fbf79ac4deddf1cc",
+      "key": "7f544e0c0070ec26",
       "topic": "경제·환율·금리"
     },
     {
-      "title": "[환율 전망] 물가 둔화와 위험선호, 환율도 하방 압력 지속 - KB Think",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBiNk03QWQ1X2tCNGFEa3pDaUJPUmN1dnptR3B6NHA0VFl6TmNRVVJCd1FoV0F4VVE5dlU0WGhmRnpuUXpIWm5zSjZZQ3pPWGtmWG1ySktLTUFOZW5PLWdnNQ?oc=5",
-      "description": "[환율 전망] 물가 둔화와 위험선호, 환율도 하방 압력 지속 KB Think",
-      "pub_date": "Fri, 14 Aug 2026 07:00:00 GMT",
+      "title": "[환율 전망] 아직은 검증 덜 된 미국 예외주의 - KB Think",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1QcUx6RVdJaWgwY2hKYW9GSktlUk9TWUMxTUw4MkxUeXp3RUVJdjVkMDZfNzBnSEJ1emVsbFpVTGYzRFJQNUJRZ0pnQkR2RGtDWmtGeUxqaE5EcDJHRmVsNQ?oc=5",
+      "description": "[환율 전망] 아직은 검증 덜 된 미국 예외주의 KB Think",
+      "pub_date": "Fri, 26 Jun 2026 07:00:00 GMT",
       "category": "환율 전망",
-      "key": "66e1431d25a1df9d",
+      "key": "cb6f1e3d618f0b18",
       "topic": "경제·환율·금리"
     },
     {
-      "title": "[환율 전망] 대외 악재 풀코스 vs. 매도 압력 풀충전 - KB Think",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE40eUpPSS1KZ1AyeGx0UlV5TkotS2RNbjhoNkw4S0x3TW1SYVRGcE1Vbl9KSzFJM0hDM2t2UjRFMENDNmdrQXA3M0RENDUtNXdYdTNWZ3Nxa3JCRGhrZWQ2QQ?oc=5",
-      "description": "[환율 전망] 대외 악재 풀코스 vs. 매도 압력 풀충전 KB Think",
-      "pub_date": "Fri, 21 Aug 2026 07:00:00 GMT",
+      "title": "[환율 전망] 차오르는 한일 당국 게이지 - KB Think",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBBdTRLdkZLMUlUV2JhVGRWZFNVODF4NHVUT1Y1blE2Q0tJMjFkUlpLRGpVRHhLZWU1aXBRaXB3OWxZXy0xdFg0cmNEeVF3cmZZTFpHal9Fekp4OVNaN0N3eQ?oc=5",
+      "description": "[환율 전망] 차오르는 한일 당국 게이지 KB Think",
+      "pub_date": "Wed, 24 Jun 2026 07:00:00 GMT",
       "category": "환율 전망",
-      "key": "32deba15dbe8262e",
+      "key": "d1a95975505c63c8",
       "topic": "경제·환율·금리"
     },
     {
-      "title": "[환율 전망] 수급 듬뿍 원화 레시피에 금통위 한 스푼 추가 - KB Think",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TUl9qdmNuQ2RKbTRhY0RFbnp0QkIyYkpTYUZ5Ti1hNHZSYmRFV0NVWjNDUFpKbU9EQUZpOWFyMmNzQkFIOE5LUDZLdVJPeUg5UGNoQUZ4NVQ5VVUtRDltSw?oc=5",
-      "description": "[환율 전망] 수급 듬뿍 원화 레시피에 금통위 한 스푼 추가 KB Think",
-      "pub_date": "Thu, 27 Aug 2026 07:00:00 GMT",
+      "title": "[환율 전망] 어제의 환율이 오늘의 눈높이 - KB Think",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8tTmhQUGZLMjE2Vm9WYjE2TlVTek5wQ0I2M1pNS1Izdm9udy1LakJkS1R3N2drWk5pamduNEpPd1NfaTBObE00aGliNjJITm9yamoxT1hzQ1ptem5zdXJ1NQ?oc=5",
+      "description": "[환율 전망] 어제의 환율이 오늘의 눈높이 KB Think",
+      "pub_date": "Tue, 23 Jun 2026 07:00:00 GMT",
       "category": "환율 전망",
-      "key": "a23dc258a3ced9b5",
+      "key": "e826e40b4fb4ba01",
       "topic": "경제·환율·금리"
     },
     {
-      "title": "[환율 전망] 엔화 기습작전, 달러 긴급후퇴 - KB Think",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE15WTh3bTdWMDJVblR3UGhNeHIxNHRJYU1HUktteTZRZUxZY2hzZWFrQ0hSQ0gtaUZRMHJ2LUMxaHVuM1VoWDVxZWlVczVlU0xtcnFfOURla1dwajUtSUUxUA?oc=5",
-      "description": "[환율 전망] 엔화 기습작전, 달러 긴급후퇴 KB Think",
-      "pub_date": "Fri, 31 Jul 2026 07:00:00 GMT",
+      "title": "[환율 전망] 인하 기대 깨끗이 지워버린 워시 - KB Think",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE85ODVEdHljZHZGaWZSQno1TWhfSmdWYWJpRkpnV2V5ZHRoc3JKOHNKRTN1SUExak9IazJUMV9nSGZCREtqRWp2NWJjazRfMktOS1lQb2tqV29Oa0dwZ1pDXw?oc=5",
+      "description": "[환율 전망] 인하 기대 깨끗이 지워버린 워시 KB Think",
+      "pub_date": "Thu, 18 Jun 2026 07:00:00 GMT",
       "category": "환율 전망",
-      "key": "efcbbc8a7bbfc845",
+      "key": "72dbe1e6ed1dc38a",
       "topic": "경제·환율·금리"
     },
     {
-      "title": "[환율 전망] 원만해선 원화를 막을 수 없다 - KB Think",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBMTkREX0RoSFFxUVNZb0JUYlo1VFhmSFV0NFE4aDhtc2J6SkFBYUh6WW9SWHU5SlpPUnFPOGhteUNGeFlzakNMZ0M0TjVzZ1BzSTJRVWNHMTc3NDFVOFA4eg?oc=5",
-      "description": "[환율 전망] 원만해선 원화를 막을 수 없다 KB Think",
-      "pub_date": "Mon, 27 Jul 2026 07:00:00 GMT",
+      "title": "[환율 전망] 킹 받는 달러, 아무것도 못하는 원화 - KB Think",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE50WmVfbENwMjNwSU1Tc3BFQVNZbnNEUGJnTVZTbkhhMFVYWVJzQWQtcnNrMDUxMEtGYjFteV9qVHhhT2I0RWVMVkFMY24wWWtVYnctS2E0U2V0ZFQxdzZ3cg?oc=5",
+      "description": "[환율 전망] 킹 받는 달러, 아무것도 못하는 원화 KB Think",
+      "pub_date": "Thu, 04 Jun 2026 07:00:00 GMT",
       "category": "환율 전망",
-      "key": "1ae970443da28c9a",
+      "key": "18184d1ec81bac5f",
       "topic": "경제·환율·금리"
     },
     {
-      "title": "[환율 전망] 진격의 엔화, 열리는 하단 - KB Think",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBSWEkyRHN5eXFiYjFaZmJSc29zblVpZmlTYnFkQnB1ay1LYUpMZE1FMzhVbGlRZ1VlMVZjYlFTU0VkRXBzVEVtTDBadDRSbjVSNWRqSXFmRTM3VlBOVEEzaQ?oc=5",
-      "description": "[환율 전망] 진격의 엔화, 열리는 하단 KB Think",
-      "pub_date": "Tue, 04 Aug 2026 07:00:00 GMT",
+      "title": "[환율 전망] 외국인이 쥐고 흔드는 원화, 당국도 대응 고심 - KB Think",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5mRWUySHBPaTNGbjNNRnZYc3B3MmR3UWtQNGRhWmNJczlmSWllalpkdTRGd0FBRm8xNzhub0NpYkdwQjFuRHRpZXQ4MEJLdDQ3Q2UwV1VLeklKSUhzZ0lVXw?oc=5",
+      "description": "[환율 전망] 외국인이 쥐고 흔드는 원화, 당국도 대응 고심 KB Think",
+      "pub_date": "Fri, 05 Jun 2026 07:00:00 GMT",
       "category": "환율 전망",
-      "key": "3f0a20d855187832",
+      "key": "e1d45473dcf59ced",
       "topic": "경제·환율·금리"
     },
     {
-      "title": "[환율 전망] 중동은 뒷전, 반도체로 대동단결 - KB Think",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5TZDRZOU1OWWNsVGZ5a2g0bG1hOTc4aXBKejNoN21kbVlBRl9FSjhvdUJfcjJPM2lZajg3SmlpdnYzcTU5T3YwRXoxLVJtXzVEcEdlNExhZGkyRTljQUJsVA?oc=5",
-      "description": "[환율 전망] 중동은 뒷전, 반도체로 대동단결 KB Think",
-      "pub_date": "Wed, 22 Jul 2026 07:00:00 GMT",
+      "title": "[환율 전망] 당국 급브레이크, 숨 고르는 환율 - KB Think",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE41QUFGUHg0bHFkUzNYdXV1VzFfeU1UM0w2Q2gwQ185dXdvaExVMTA2bHBLMEdWdWd0N056QTF3WmpuYjdtVWxPWkYwMVQ2Nmk1eHpxUG4yOWZUR19LSkhBaQ?oc=5",
+      "description": "[환율 전망] 당국 급브레이크, 숨 고르는 환율 KB Think",
+      "pub_date": "Tue, 09 Jun 2026 07:00:00 GMT",
       "category": "환율 전망",
-      "key": "51a6bae9cd5bde91",
+      "key": "027458b09933f1a8",
       "topic": "경제·환율·금리"
     },
     {
-      "title": "[환율 전망] 기름 묻은 반도체, 원화까지 합선되나 - KB Think",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5kejZrZVNJQlZlTHIwcEFadmFZWFZrcVc0MFRYMEJJeFJzSGMtS3cycG5ITHplUVhDdzJyT0tHaE02dTFkN05Dbkx2UVM4bl9xMDYxdGxCUGx6UDRIU19VQw?oc=5",
-      "description": "[환율 전망] 기름 묻은 반도체, 원화까지 합선되나 KB Think",
-      "pub_date": "Fri, 24 Jul 2026 07:00:00 GMT",
+      "title": "[환율 전망] 달러는 약세장, 수급은 난장판 - KB Think",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9rREcwV2hCRTQzWElzN1d1ajY3SmhwUFBLSGt1M202bjR2WlJEcTRyOWFlT05JWnhRYlBsajVudXJvc250UkhuMkh3bEZUVkpUa0Y0LWtuMXQ5MEVkeHRFbA?oc=5",
+      "description": "[환율 전망] 달러는 약세장, 수급은 난장판 KB Think",
+      "pub_date": "Fri, 29 May 2026 07:00:00 GMT",
       "category": "환율 전망",
-      "key": "7d9614a1394b78ef",
+      "key": "a222f2383a25829d",
       "topic": "경제·환율·금리"
     },
     {
-      "title": "[환율 전망] 당국의 고환율 참교육 - KB Think",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5FVWhzLXdWWDV5c2xqNWZfQW9ac1ZDXzBxSjI3dWNrWGdxUzZWbEhfSWY4TkpGX2lNNWgzcEI3YnYzenlhYXRrSkpnd2pndzFOQU1LMDdBZ2NkX3NHOEk1Zw?oc=5",
-      "description": "[환율 전망] 당국의 고환율 참교육 KB Think",
-      "pub_date": "Mon, 13 Jul 2026 07:00:00 GMT",
+      "title": "2026년 하반기 외환시장 전망: AI 패권이 지지하는 달러와 원화 흐름-불리기 - 신한금융그룹",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAtTDdJUmdfdWJOXy1OWlRmSW56QUUtUUxkeXBiZXVEeU91WDg1Q0lYemJVVXFDRHgyZUhVZ09zc3BpajlKWTd3OVFqaGY3U0tkSWRRRVBaTXBibGpMMFU2MHN0cU45SlhJbTJzaDdRaDFacmdDWnc?oc=5",
+      "description": "2026년 하반기 외환시장 전망: AI 패권이 지지하는 달러와 원화 흐름-불리기 신한금융그룹",
+      "pub_date": "Fri, 22 May 2026 07:00:00 GMT",
       "category": "환율 전망",
-      "key": "f0923ded31436fb7",
+      "key": "ae3510ccd336011a",
       "topic": "경제·환율·금리"
     },
     {
-      "title": "[환율 전망] 우리 원화가 달라졌어요 - KB Think",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE04Z2NDV0pYa1JweG5xdzg1YkZoQzlpNFVaa0FhZWw5bFNuTFE5TFZINUFTdVFjWVNFUWl4UXRSVTFOM3B5YWpOdmdqTVhuUWMxWDJmb21XdHZiS2NZbHhVaw?oc=5",
-      "description": "[환율 전망] 우리 원화가 달라졌어요 KB Think",
-      "pub_date": "Tue, 21 Jul 2026 07:00:00 GMT",
+      "title": "[환율 전망] 잇따른 충격, 길어진 오버슈팅 - KB Think",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9SMEV5NllFdWdsQk9kZUlfQ0NTMU84U2RvWTNSRFpCN0sybTVPTWx5dkYyNS1WajBSdWFtdW5jUmE2aUZ2M2NGeHo5T1JTU21RTEFHb0djRkxuZHR6Zk5Jdg?oc=5",
+      "description": "[환율 전망] 잇따른 충격, 길어진 오버슈팅 KB Think",
+      "pub_date": "Mon, 11 May 2026 07:00:00 GMT",
       "category": "환율 전망",
-      "key": "e61ff840b41bec68",
+      "key": "22912f01fe56bcdb",
       "topic": "경제·환율·금리"
     },
     {
-      "title": "[환율 전망] 미 고용 둔화와 엔화 강세에 환율 큰 폭 하락 - KB Think",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1NR2x1S2Fwcldwa2FUQWRMTjdCeFpPaEJpVUxPREJfWkJ4Qmg5ZE14TXNDLVVqckxHLVg2anhJdHdnanpQOWJRdjlQZXJxYlFSZWhqeHVHMDBmMVdBWndibA?oc=5",
-      "description": "[환율 전망] 미 고용 둔화와 엔화 강세에 환율 큰 폭 하락 KB Think",
-      "pub_date": "Fri, 03 Jul 2026 07:00:00 GMT",
+      "title": "2026 원·달러 환율 전망 | 고환율 이유와 향후 환율 흐름 정리 - KB Think",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1vZjJWamU5WUVCTzREaVFtbkhSRkhnVVh6OHNwby1kOUdDVWhyOTI1S3lHRkpya256Zk9DTVFyTVkxQmVHRnYwYXk4LTZNMGc2MmZKb25XczlzXzVYQUxRVHI4SzZYNF9PcjhNVllOdzM?oc=5",
+      "description": "2026 원·달러 환율 전망 | 고환율 이유와 향후 환율 흐름 정리 KB Think",
+      "pub_date": "Tue, 16 Dec 2025 08:00:00 GMT",
       "category": "환율 전망",
-      "key": "73de6e8bdf64c6c2",
-      "topic": "경제·환율·금리"
-    },
-    {
-      "title": "[환율 전망] 앞서간 인상 베팅, 과도한 달러 랠리 - KB Think",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBVTXEzcmJjM3A3ZXp4OVkteFpKekZ1aXEtczZoSnNqMDYxY3llck9aNzIwQmRWeGZIWXVwY29xd21JMDZLOHBTRUVVRVh0M3JsUlVnbG4zNlhldmI4Tng4Wg?oc=5",
-      "description": "[환율 전망] 앞서간 인상 베팅, 과도한 달러 랠리 KB Think",
-      "pub_date": "Thu, 25 Jun 2026 07:00:00 GMT",
-      "category": "환율 전망",
-      "key": "b17b700e56d5614d",
-      "topic": "경제·환율·금리"
-    },
-    {
-      "title": "[환율 전망] 왜 KRW는 JPY를 따라갈까? - KB Think",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0yN1p3aDZlaGRmMlBoYWpFclVsNG1IVTlmdlFFbjVXNGs5NUtlQTI4dWR1MGlQbUV5bG1DV3RUdnhodno5enpPX3pJREZrRFYwQVRrSEZnMDlGcW5Jb3JBRg?oc=5",
-      "description": "[환율 전망] 왜 KRW는 JPY를 따라갈까? KB Think",
-      "pub_date": "Mon, 06 Jul 2026 07:00:00 GMT",
-      "category": "환율 전망",
-      "key": "c2b12d2e63e1414a",
-      "topic": "경제·환율·금리"
-    },
-    {
-      "title": "[환율 전망] 상반기 마지막 날, 큰 거 하나 온다 | KB의 생각 - KB Think",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5NajAwcVhWVVpLOTFxSXVQMnZmODgwWWJQelBrQ0FlRXZRS0xSeDNhYTJTdWJZNGpOUFA1Q0FMUE5qZU1pU1U1SVBGYWl6R1c5TWpsNDJ2eUdtODM5aVNIbQ?oc=5",
-      "description": "[환율 전망] 상반기 마지막 날, 큰 거 하나 온다 | KB의 생각 KB Think",
-      "pub_date": "Tue, 30 Jun 2026 07:00:00 GMT",
-      "category": "환율 전망",
-      "key": "8159354928b77c82",
-      "topic": "경제·환율·금리"
-    },
-    {
-      "title": "“올해는 국장이 답이었네”…시총 1960조 코스피, 1년새 3390조로 불었다 - 매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8wRTBvYnZDOEVBVUdHR2N0S2JOOHhqTnpDVlltdFZUT0NvU2tvS0swZ2cxSVRLUVhFaC00eUNxZXlHczBLaTZ3Wjlfd0lPTjlw?oc=5",
-      "description": "“올해는 국장이 답이었네”…시총 1960조 코스피, 1년새 3390조로 불었다 매일경제 마켓",
-      "pub_date": "Tue, 30 Dec 2025 08:00:00 GMT",
-      "category": "글로벌 시장",
-      "key": "a5195386bbe83c12",
-      "topic": "경제·환율·금리"
-    },
-    {
-      "title": "[6월 둘째 주 세계경제동향 브리핑]코스피 숨 고르기…美 증시는 일제히 반등 - 기호일보",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE90amJsLTZZTkJGcjFEems2SERWTl9fQVFmd2tkcElsUnZTX0Vuc2NsVkhrSmN5eUltb1UyYlRVWFl2TWtnWm5SdzNheV9heWR4VWVpTkEwYnlsOHVJd0t0YnNxdVF2MWUwU1FUTTZtRQ?oc=5",
-      "description": "[6월 둘째 주 세계경제동향 브리핑]코스피 숨 고르기…美 증시는 일제히 반등 기호일보",
-      "pub_date": "Sat, 13 Jun 2026 07:00:00 GMT",
-      "category": "글로벌 시장",
-      "key": "36efc37b1615ba0a",
-      "topic": "경제·환율·금리"
-    },
-    {
-      "title": "[오늘 증시 ] 뉴욕증시 3대 지수 동반 반등…코스피 5,000선 방어 여부 주목 - 톱뉴스",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ZMnBVQW1ibmpUd2FERzVmazhWcUoyNlIwNGlKeGhxSTRmclJJQThZU0UwY2trTEVYVDZPdWJuVi1iMlNJM3lvTXE0SHVidlUtSzl4TjN6R0JoeVBZV2ZZVDlLYW0zQXk4T3YwRjNQNA?oc=5",
-      "description": "[오늘 증시 ] 뉴욕증시 3대 지수 동반 반등…코스피 5,000선 방어 여부 주목 톱뉴스",
-      "pub_date": "Mon, 09 Nov 2026 22:58:14 GMT",
-      "category": "글로벌 시장",
-      "key": "74c594386ca75512",
-      "topic": "경제·환율·금리"
-    },
-    {
-      "title": "글로벌 증시는 랠리…경기와 동떨어진 것처럼 느껴지는 까닭 - KB Think",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYV9QdW9xUjV2M1ZXQTZQNDFyMm1WbTBSeUhtanRRd2UtdWNaSE9KdlZCV21Md29IczBhVngxMHd1R21LR1dVTUlDY25sbENyR1k4OG0zZ2U5RUxfZEpnN213TTA1S2poRGZfQ3BXSWg1YlhVRWtMS0gyOVVrZUJMNTdDbkl2VW10SmFIQ1NPMDVkVEoxOU9jQTF0TTBIc2ZZSEE?oc=5",
-      "description": "글로벌 증시는 랠리…경기와 동떨어진 것처럼 느껴지는 까닭 KB Think",
-      "pub_date": "Tue, 13 Jun 2023 07:00:00 GMT",
-      "category": "글로벌 시장",
-      "key": "e7fe58f4bb921d33",
+      "key": "5a74b8bbf3b3feb9",
       "topic": "경제·환율·금리"
     }
   ]
