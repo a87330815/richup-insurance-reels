@@ -1,105 +1,105 @@
 {
-  "collected_at": "2026-11-10T15:53:18.499837+00:00",
+  "collected_at": "2026-11-10T20:44:36.357494+00:00",
   "items": [
     {
-      "keyword": "장동윤",
+      "keyword": "브래드 갈링하우스",
+      "traffic": "100+",
+      "news_title": "리플 1.16달러 흔들…비트코인 ETF 4억달러 유출 직격",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "f02b3fed17e38d09",
+      "collected_at": "2026-11-10T20:44:36.357125+00:00"
+    },
+    {
+      "keyword": "경찰",
       "traffic": "200+",
-      "news_title": "“햇살 같은 아이라서” 이유진, 첫 만남에 생각한 ‘아내’ 차경은의 첫인상♥",
+      "news_title": "취재진 질문에 답변하는 천호성 전북교육감",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "dd1874795cae0759",
-      "collected_at": "2026-11-10T15:53:18.499175+00:00"
+      "key": "3e9972d3207c9273",
+      "collected_at": "2026-11-10T20:44:36.357125+00:00"
     },
     {
-      "keyword": "코어위브",
-      "traffic": "200+",
-      "news_title": "CoreWeave, 자율주행 기업 Wayve와 다년간 클라우드 계약 체결",
+      "keyword": "전원주",
+      "traffic": "2000+",
+      "news_title": "&apos;87세&apos; 전원주...&quot;병원 가보시라&quot; 누리꾼 걱정 산 영상 - 머니투데이",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "5c604d7fed8b01a7",
-      "collected_at": "2026-11-10T15:53:18.499175+00:00"
+      "key": "d572a0c5b61e38b0",
+      "collected_at": "2026-11-10T20:44:36.357125+00:00"
     },
     {
-      "keyword": "철도",
-      "traffic": "500+",
-      "news_title": "앞으로의 철도, 어떤 모습이면 좋을까요? - 전체 | 카드/한컷 | 멀티미디어",
+      "keyword": "메이저 리그 베이스볼",
+      "traffic": "100+",
+      "news_title": "[MLB] 2026 WBC 韓 상대 SV 기록한 대만 쩡쥔웨, 美 진출 선언",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "69d65cdd8d06aa16",
-      "collected_at": "2026-11-10T15:53:18.499175+00:00"
+      "key": "03cd23c1b86c7b66",
+      "collected_at": "2026-11-10T20:44:36.357125+00:00"
     },
     {
-      "keyword": "고발",
-      "traffic": "200+",
-      "news_title": "&quot;낑낑&quot; 묶인 채 봉투 속에‥&apos;이거 심상치 않다&apos; 주변 뒤졌더니‥",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "56654564833c875c",
-      "collected_at": "2026-11-10T15:53:18.499175+00:00"
-    },
-    {
-      "keyword": "공공",
+      "keyword": "예금",
       "traffic": "1000+",
-      "news_title": "이 대통령, 공공기관 개혁 협조 당부‥전국 불법행위 실태 보고 지시",
+      "news_title": "‘소액대출’ 금리도 상승…취약계층 울상",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "df68c156b83d2b0f",
-      "collected_at": "2026-11-10T15:53:18.499175+00:00"
+      "key": "f37cb8067ba0ea2c",
+      "collected_at": "2026-11-10T20:44:36.357125+00:00"
     },
     {
-      "keyword": "한수아",
+      "keyword": "넥슨",
       "traffic": "200+",
-      "news_title": "한수아, 카리나와 절친 된 사연 &quot;먼저 번호 물어보더라…거의 매일 집에서 만나&quot; (우사편)",
+      "news_title": "넥슨 3분기 영업익 3천718억…메이플·FC 성과에 전망치 상회",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "617b04e7a65016a8",
-      "collected_at": "2026-11-10T15:53:18.499175+00:00"
+      "key": "f269b4a419bc608e",
+      "collected_at": "2026-11-10T20:44:36.357125+00:00"
     },
     {
-      "keyword": "정승제",
+      "keyword": "espn",
+      "traffic": "100+",
+      "news_title": "How idle week impacts Indiana football in CFP rankings, projections",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "9f9ec6be27366fda",
+      "collected_at": "2026-11-10T20:44:36.357125+00:00"
+    },
+    {
+      "keyword": "이재진",
       "traffic": "200+",
-      "news_title": "정승제 &quot;아이돌처럼 대학 때부터 키운다&quot;…스타 강사도 &apos;연습생&apos; 시대",
+      "news_title": "[단독] 무산된 젝키 디너쇼, 결국 경찰서까지…주최측 “오늘부터 공식 환불”",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "7873120124195543",
-      "collected_at": "2026-11-10T15:53:18.499175+00:00"
+      "key": "0c19c7a643fa6c9e",
+      "collected_at": "2026-11-10T20:44:36.357125+00:00"
     },
     {
-      "keyword": "뉴데일리",
-      "traffic": "2000+",
-      "news_title": "[속보]‘돌아선 50대’ 대통령 부정 61.7%·긍정 37.8%-리서치뷰",
+      "keyword": "gta",
+      "traffic": "100+",
+      "news_title": "Pre-load Grand Theft Auto VI on PS5 starting today",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "52e4d6b2634c232b",
-      "collected_at": "2026-11-10T15:53:18.499175+00:00"
+      "key": "74b9739e885fa4cc",
+      "collected_at": "2026-11-10T20:44:36.357125+00:00"
     },
     {
-      "keyword": "jtbc",
-      "traffic": "2000+",
-      "news_title": "JTBC launches sale, to pick preferred buyer in January",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "bb2fcb9327de4baa",
-      "collected_at": "2026-11-10T15:53:18.499175+00:00"
-    },
-    {
-      "keyword": "금융보안원",
+      "keyword": "로스앤젤레스 다저스",
       "traffic": "500+",
-      "news_title": "&apos;금융보안 문지기&apos; 금융보안원마저 해킹으로 정보유출‥긴급 차단조치",
+      "news_title": "Hot Stove rumors: Padres, Skubal, Seiya, Morejon, Yanks",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "10fca55a335b8749",
-      "collected_at": "2026-11-10T15:53:18.499175+00:00"
+      "key": "3b29b195705b51cb",
+      "collected_at": "2026-11-10T20:44:36.357125+00:00"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-10T15:53:16.947356+00:00",
+  "collected_at": "2026-11-10T20:44:34.784048+00:00",
   "topic_weight": {
     "보험·상품": 30,
     "영업·마인드": 25,
@@ -7,36 +7,35 @@
     "경제·환율·금리": 25
   },
   "topic_counts": {
-    "보험·상품": 1,
     "영업·마인드": 1,
-    "경제·환율·금리": 1
+    "경제·환율·금리": 2
   },
   "items": [
     {
-      "title": "삼성생명, 수익률 관리 '변액보험 펀드관리' 서비스 도입 - 뉴스핌",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1UME8yV3lsNjJvZHRIbGhWVV8tclljY1lSdU54UFIzQXRfeEJ4ZXFZWkpGVUthTVhfOTZKWWVtejRGZUQxdnpWUUQ4cGRLOVh4ZG5aSEd2TC1fVmNv?oc=5",
-      "description": "삼성생명, 수익률 관리 '변액보험 펀드관리' 서비스 도입 뉴스핌",
-      "pub_date": "Wed, 17 Oct 2018 07:00:00 GMT",
-      "category": "변액보험 수익률",
-      "key": "b2bf2b49698b0e36",
-      "topic": "보험·상품"
-    },
-    {
-      "title": "“지인영업은 더 안 통한다”…토스인슈 신입 설계사 교육 가보니 [현장스케치] - 금융신문",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE40Qk52SGJUdXo3ZkQ5WEJGSXYzOFpOLWpOR1UxeDNiQ25LcFpLcHc1aDJxb09GSUJ5a0FTSnk0SWlkVHFmSTBpLU5uclJKd1NfblVNeE00M3pOd2NQOHBYNm5PZ0llZnNUZk9ITDFKS0NMYV8wMnN0ZWVUOTM?oc=5",
-      "description": "“지인영업은 더 안 통한다”…토스인슈 신입 설계사 교육 가보니 [현장스케치] 금융신문",
-      "pub_date": "Thu, 16 Jul 2026 07:00:00 GMT",
-      "category": "보험설계사 영업",
-      "key": "313c52810d426c70",
+      "title": "세일즈랩, 실무와 동기부여를 겸비한 법인영업 원포인트 특강, 뜨거운 호응 속 종료 - 개미신문",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1pdS1LNDRscV84Ym5lYkMtVUpQNUFYM0NrRE9Xd3E3OVl3RnAtbldNdU1pcVNaek9UMEpudk5WMS1lbFhvNHVEVkNnSQ?oc=5",
+      "description": "세일즈랩, 실무와 동기부여를 겸비한 법인영업 원포인트 특강, 뜨거운 호응 속 종료 개미신문",
+      "pub_date": "Sun, 12 Jan 2025 08:00:00 GMT",
+      "category": "세일즈 성과",
+      "key": "b18820557d3eb369",
       "topic": "영업·마인드"
     },
     {
-      "title": "'블루 쓰나미'에 휘청 코스피, 美증시 반등에 충격 벗어날까 - 연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwN3dPNUlneHp3eXZwUmFFbVlsSG5jTVlSZDNhV1ZuQjJTNXc0WGtGTmVZUDFNQzZMclFCYm96X3hpUGlvMy1pRUpsc2VsbHg1eXdXa2JBZV85VWPSAWBBVV95cUxNVDU0a1hFSlczZzJjNkxfY2VWRlY3TGJ2UDJzQjIyMGJXd3J6djFlUmdVaDBKUUtjeEIzUFRva2l4cUFvMGNETnp0VWcySEF6Nl82bjd2eExtRkNFTEg2UW0?oc=5",
-      "description": "'블루 쓰나미'에 휘청 코스피, 美증시 반등에 충격 벗어날까 연합뉴스",
-      "pub_date": "Sat, 07 Nov 2026 21:00:06 GMT",
+      "title": "[환율 전망] 상반기 마지막 날, 큰 거 하나 온다 - KB Think",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5NajAwcVhWVVpLOTFxSXVQMnZmODgwWWJQelBrQ0FlRXZRS0xSeDNhYTJTdWJZNGpOUFA1Q0FMUE5qZU1pU1U1SVBGYWl6R1c5TWpsNDJ2eUdtODM5aVNIbQ?oc=5",
+      "description": "[환율 전망] 상반기 마지막 날, 큰 거 하나 온다 KB Think",
+      "pub_date": "Tue, 30 Jun 2026 07:00:00 GMT",
+      "category": "환율 전망",
+      "key": "933cde0b1855eb86",
+      "topic": "경제·환율·금리"
+    },
+    {
+      "title": "[AI MY 증시전망] 중동발 유가 상승에 코스피·코스닥 흔들리나 \"주도주 대응\" - 뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBqZGVBSHFSUWhENGdBXzRpdDZrYS04dTNzQzZGa3ZYN0VkUHBfVFlQUndwMXZhTndxdmNYblNUaTZWTzV6Z3NfWU9xdDE5STBGQVUwRXNnNWk2aUtF?oc=5",
+      "description": "[AI MY 증시전망] 중동발 유가 상승에 코스피·코스닥 흔들리나 \"주도주 대응\" 뉴스핌",
+      "pub_date": "Tue, 18 Aug 2026 07:00:00 GMT",
       "category": "글로벌 시장",
-      "key": "1ec3f6674f700fe0",
+      "key": "1d0166ef6d0b0ecb",
       "topic": "경제·환율·금리"
     }
   ]
