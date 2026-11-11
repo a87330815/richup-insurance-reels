@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-11T02:27:58.984930+00:00",
+  "collected_at": "2026-11-11T10:08:17.564218+00:00",
   "topic_weight": {
     "보험·상품": 30,
     "영업·마인드": 25,
@@ -7,62 +7,145 @@
     "경제·환율·금리": 25
   },
   "topic_counts": {
-    "보험·상품": 1,
-    "경제·환율·금리": 5
+    "보험·상품": 2,
+    "영업·마인드": 4,
+    "의료·건강": 1,
+    "경제·환율·금리": 8
   },
   "items": [
     {
-      "title": "환율 하락에 ‘달러 보험’ 인기…연 6%대 확정이율 상품도 - 서울경제",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ybVVVcTJkQ1dISEVXTEN6b2xlcF9BWEhIVFgxcEFJUEZkZjFQb3k1WElseFlVV2NpaVR4UVU1a3J4TEt6ZTZaN2lrdjlGdXJLekHSAVNBVV95cUxPSUZkN1RiaEpIVDhuR19tMzdDM1JDbWwzUERWeGVnQ3JYU3ZfLVV3T0Qtb2RqQm9QN2wwR0VYVmR6TUt5ci1PcUdZZ19sbF9SbGRLZw?oc=5",
-      "description": "환율 하락에 ‘달러 보험’ 인기…연 6%대 확정이율 상품도 서울경제",
-      "pub_date": "Tue, 10 Nov 2026 20:30:00 GMT",
-      "category": "달러보험 환율",
-      "key": "0a82a99e79441260",
+      "title": "'15년 수익률 689%' 메트라이프, 변액보험 신계약 절반 싹쓸이 - 굿모닝경제",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5qaEpZLV9fV09SZFpaYk1pVnBZU3hEb2Vid0hCWFQzeV9hMkh1SWhXaXRVdUl6WG1UM0phR2VpQ0tlZ19tMWNyeGQyTm8ybS1HQ3VaLXRRQW55OU9Ua05tcmFxOWNjV2xQZGtyag?oc=5",
+      "description": "'15년 수익률 689%' 메트라이프, 변액보험 신계약 절반 싹쓸이 굿모닝경제",
+      "pub_date": "Wed, 11 Nov 2026 06:18:32 GMT",
+      "category": "변액보험 수익률",
+      "key": "0662f3fe436ab1d3",
       "topic": "보험·상품"
     },
     {
-      "title": "美 물가 예상 웃돌자 달러 강세…달러·원 1343.5원 출발 - 뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9xTDFOTTZLSlNZaF9oYWFNR3Zocks4VTBHN2dSNTJucU9VU1ZxZkZqMDhnbVZCOU1vQmFaNkQ3UjJHRllVZ2w3dFRScFFIR21lU0VKM1hpWGpOeUE?oc=5",
-      "description": "美 물가 예상 웃돌자 달러 강세…달러·원 1343.5원 출발 뉴스1",
-      "pub_date": "Wed, 11 Nov 2026 00:32:14 GMT",
-      "category": "환율 전망",
-      "key": "62856970199cffcf",
+      "title": "개인형퇴직연금, 회사에 안 다녀도 가입하면 좋아요 - toss.im",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TZGVpdXdTWDBpRHJjd2pCTjdwNld3QmpwNF9mSWRBcW51djg1TTFzWS1XbmtrMC1GeHVRWWFNNlM5dnM2TnVYQ05CdUttYnZiTnc?oc=5",
+      "description": "개인형퇴직연금, 회사에 안 다녀도 가입하면 좋아요 toss.im",
+      "pub_date": "Mon, 02 Jun 2025 09:25:38 GMT",
+      "category": "연금보험 노후",
+      "key": "61e594b56d890f79",
+      "topic": "보험·상품"
+    },
+    {
+      "title": "[DBR/Special Report]일하고 싶게끔 동기 부여하고, 직원 역량을 키워줘라 - 동아일보",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9HNlg0b0tGZi1JN3d0NGlEaUJON2NNTkpTRDhzVW5UN3BhakxmdXJDS3RCdldUSzZCS0g5TUdLeGp3ZDFGZmYzSUVoVnFHQWI3eWhlTkdnaHNHTFc2WlFCNlV1YWFCVENReUhZVml0SkUwWmZKVFHSAWZBVV95cUxOZVppTWF4RU9uQW0ydDRScHc1VmVVTFVtOVFKRnZYLTFnU3F5MVUwTl9hYXB2NjQ0a1I1MnJvWkFlMTJ4RS1UbE5zbzNNaTl5WFFZYk1QYTVNa2F6NmF0QzZwUU1RMUE?oc=5",
+      "description": "[DBR/Special Report]일하고 싶게끔 동기 부여하고, 직원 역량을 키워줘라 동아일보",
+      "pub_date": "Wed, 18 May 2022 07:00:00 GMT",
+      "category": "세일즈 성과",
+      "key": "4af5d7e6bbcf0199",
+      "topic": "영업·마인드"
+    },
+    {
+      "title": "GA, 수수료 개편안에 인력 확보 혈안 - 보험매일",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBKWDBGMjd5OFBpS25kc3NXaTZZQmlpd1RnTl91bDJPSFJ6VExCcXJiaVV3SGJabUtDTVFBa0ZTbnhvd0hiQ0NFS1JaMzhLRmRFRmN0LTk3eFU3ODViTnBzbS10Tmd0Z1U4?oc=5",
+      "description": "GA, 수수료 개편안에 인력 확보 혈안 보험매일",
+      "pub_date": "Tue, 27 Jan 2026 08:00:00 GMT",
+      "category": "GA 법인보험대리점",
+      "key": "270c895e8965d7da",
+      "topic": "영업·마인드"
+    },
+    {
+      "title": "보험설계사 리쿠르팅 비용은 ‘1200% 룰’서 제외? - DFT 대한금융신문",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5fNmk5NXZMT1dVMU1kbVJySUR6dEpZU2pDLVJuNGpyQnRwNUVrclJhNkxTVE1RRGp5ZWFvdms0QUNPd0xsU3Rxc0lieElOUW5JbTlEaUN3amZxQlpKU1dvVGU5d09ZMVB4UmRhRNIBcEFVX3lxTE45bHNVYzE2Nnlia3NYMXM5aTVqSVdhUFc4THl5ZzdxeHVvU2hnZFhTdDBrRTlueUxzSjZBVHVXMzR2VjRKbVl6SF9yS2liQ042bWswZkluZUowR0dUTkZCR3BmZXVNUHNSLUlIWnd2Wmo?oc=5",
+      "description": "보험설계사 리쿠르팅 비용은 ‘1200% 룰’서 제외? DFT 대한금융신문",
+      "pub_date": "Fri, 20 Aug 2021 07:00:00 GMT",
+      "category": "GA 법인보험대리점",
+      "key": "ccb1542bb521b20e",
+      "topic": "영업·마인드"
+    },
+    {
+      "title": "금융당국 설계사 스카우트 비용 전수조사 착수 - 보험매일",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB1RjdkVnA1LWtTZWlEWG1XWFotZjRFLURZaXJGMndSZk96cF81V2djVzNaQU51R0h1MWRiWHVMXzdIV2liV1FqOXp5UkRXRHBaOENPa251SVN2Y0o0a3dwc3lEZWMwYm8?oc=5",
+      "description": "금융당국 설계사 스카우트 비용 전수조사 착수 보험매일",
+      "pub_date": "Tue, 14 Dec 2021 08:00:00 GMT",
+      "category": "GA 법인보험대리점",
+      "key": "784e8e33ce9db132",
+      "topic": "영업·마인드"
+    },
+    {
+      "title": "[노성열의 AI경제] 원격 진료도 못하는 한국, 원격 수술 1위의 중국 - KPI뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE16Z21nTTJ2c1dZZllVd2tDcGxpdU5XRzByTXhPU25GTkdtNm5SOGdpN2xVYjloeExlbXVxWWhvanluaDZyM1V1YXUyRm9DZkZaVi02bzdLTdIBU0FVX3lxTE8ydmt0akN6MG9PdlFUclhsOVc4T1BuaDE1WGlvWVFnbkNuMkRlWE1mVXQ1cEI0RDB0TmRmcU9LWnBMVjJfNm5RaGZqODgxaklUU3ZJ?oc=5",
+      "description": "[노성열의 AI경제] 원격 진료도 못하는 한국, 원격 수술 1위의 중국 KPI뉴스",
+      "pub_date": "Thu, 12 Feb 2026 08:00:00 GMT",
+      "category": "AI 의료기술",
+      "key": "4dabae50f2150b63",
+      "topic": "의료·건강"
+    },
+    {
+      "title": "연방준비제도 기준금리 동결 결정, 동결 이유 & 전망 & 우리나라 금리 영향 정리 🧊💰 - 뉴닉",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9rWHl6OTJycVlObWxRemdOaWRWSm0xeVdZSzN6OFhHelhWLU5STTBzWVR2czlGemZ0c3pPdGYzZ0UyeVRqaEhYSDF2cndncmV3bU9z?oc=5",
+      "description": "연방준비제도 기준금리 동결 결정, 동결 이유 & 전망 & 우리나라 금리 영향 정리 🧊💰 뉴닉",
+      "pub_date": "Wed, 28 Jan 2026 08:00:00 GMT",
+      "category": "기준금리·통화정책",
+      "key": "47ec076067d3c075",
       "topic": "경제·환율·금리"
     },
     {
-      "title": "美 '블루웨이브'에도 환율 잠잠…단기 전망은 엇갈려 - 마켓인",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAzTVgxSUNiWlkwTmV4SllIZVYzaXI2a2p6eXZaX2t2R05yZlJxcWNMOWJsZGlFTE1FaThqVlVldjgwblNJckx1ODdRMVYzLWZaZUdMVXJpa0F6TmRuYUozNkxJTXJpTnRYTWl0aGRFakdxRzA?oc=5",
-      "description": "美 '블루웨이브'에도 환율 잠잠…단기 전망은 엇갈려 마켓인",
-      "pub_date": "Wed, 04 Nov 2026 08:00:00 GMT",
-      "category": "환율 전망",
-      "key": "9b2816f8623cc32a",
+      "title": "美 연준, 기준금리 0.25%p 인하…한국은행은 ‘금리동결’ 기조 이어갈 듯 - 파이낸셜투데이",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1VQTg1MlpQTlJrWTVRM3RZdVZuZWV1VmUyc1lOMTdFS2w2TnpGZmlvbzZuM1VnMV9QZEtnd1N2NlB3OU0waEtIUUdfQXo5Y1lySDVhbUp3US1YMEFVMFR1cm4zcU5sTWxOT3fSAW5BVV95cUxNLV9MTGdxNVdqMURqTWtJWGh0dWViTE5iTEJZUFZYeDM5ai1GMUwwWUlDa2JwRFJXTWNqUzBEQnhocEZEOFcweDdubWVjS3JMVkE4NnBGZUsyOGRrQzlzWHMxMDdxY3NNUzNSdU84Zw?oc=5",
+      "description": "美 연준, 기준금리 0.25%p 인하…한국은행은 ‘금리동결’ 기조 이어갈 듯 파이낸셜투데이",
+      "pub_date": "Thu, 11 Dec 2025 08:00:00 GMT",
+      "category": "기준금리·통화정책",
+      "key": "3eb4415bc675ccc6",
       "topic": "경제·환율·금리"
     },
     {
-      "title": "[환율 전망] 밸런스 게임, 美고금리 대 韓무역흑자 - KB Think",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9RRFhzekY0cVd5T1lLUGJsYXV2cWJaXzlySXc1RkVUWHE4YUhGNkFMdHdCa3NyZnIwNGxiWmNZVVk4YU1VTU5ZalV0ZV9tN2xpeFNySFdVb3lHV2xDQ3BMQg?oc=5",
-      "description": "[환율 전망] 밸런스 게임, 美고금리 대 韓무역흑자 KB Think",
-      "pub_date": "Thu, 01 Oct 2026 07:00:00 GMT",
+      "title": "[환율 전망] 빼빼로보다 길어진 연준의 긴축 그림자 - KB Think",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAtZ0kzdW8yUjVYMlJuVGhJendfLXJ5dXN3MTNhWGREVzljclVWY3NoZ3BLemE0a1dRNldyNmFCRS1ZNE9fa1JnU0NPb20xZW1paEdBWDlzWWhQcS0yUHREdg?oc=5",
+      "description": "[환율 전망] 빼빼로보다 길어진 연준의 긴축 그림자 KB Think",
+      "pub_date": "Tue, 10 Nov 2026 23:03:45 GMT",
       "category": "환율 전망",
-      "key": "8124929b62e3af64",
+      "key": "19263ad6a6dd91a3",
       "topic": "경제·환율·금리"
     },
     {
-      "title": "[경제 이슈] 금융위, 금융시장 변동성에 단계적 대응...AI 전망에 따라 글로벌 금융시장 변동성 커져 - 시사캐스트",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE50V2s0cFBzQ0ZYYmdTLWRGZXJmZmt4S2tWdGkwVkpDWkZQdlpHeGh1QlBqUXpkNlVHS0xyWTBUaUtTZFUySy1KVDAzMXhnWVdyM2R2MHNBc0ZObXVrNGpBQjk5RGlONUh6?oc=5",
-      "description": "[경제 이슈] 금융위, 금융시장 변동성에 단계적 대응...AI 전망에 따라 글로벌 금융시장 변동성 커져 시사캐스트",
-      "pub_date": "Wed, 11 Nov 2026 00:17:47 GMT",
+      "title": "내년엔 환율 '1200원대'?…달러 강세에도 원화는 '꿋꿋' - 메트로신문",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA0QTNBTnRzREdBV1JyRUFIZ0xDT0tncHhKZmFTYUZxOWVqb0tDRXpSeWN5UWl0U3lsVlFLSVZXT0xXQTdnNWd6WnVIbENMUjRJNENYeWZPVktnN0F6a1l4OA?oc=5",
+      "description": "내년엔 환율 '1200원대'?…달러 강세에도 원화는 '꿋꿋' 메트로신문",
+      "pub_date": "Wed, 11 Nov 2026 05:08:25 GMT",
+      "category": "환율 전망",
+      "key": "e8f7d43d25e6f237",
+      "topic": "경제·환율·금리"
+    },
+    {
+      "title": "[2026년 하반기 환율 전망] 중동전에 ‘고환율 뉴노멀’ 여부 달렸다 - 한국무역협회-KITA.NET",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNckZTSVladENXMXRlc3FGa3YwYmxnbHlxcUpHa1VTN1NGY0kyQWN2M1pxNWp5YmdIVEhZdS1mZjNaVWlhai0wX1ZpNXRCTDJXWFpkSFZIQmh2dVJRSXY1MlF1Qm9ZSmZhZDY4UmdyZDJOM1VheVg5YjVMcDVUSUh2d1pITW82dXFienZ3SQ?oc=5",
+      "description": "[2026년 하반기 환율 전망] 중동전에 ‘고환율 뉴노멀’ 여부 달렸다 한국무역협회-KITA.NET",
+      "pub_date": "Fri, 15 May 2026 08:44:47 GMT",
+      "category": "환율 전망",
+      "key": "3fd6c95d609791b4",
+      "topic": "경제·환율·금리"
+    },
+    {
+      "title": "물가 쇼크·긴축 우려, 미 증시 하락 - KB Think",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5jWlJLRExsWDMwMXpJcWFXSk9qSUllbXQxYXVWUFVrZVEycDA4ZGNZcEwzUjQ5X0tBVEtHQnQ0enF1WmphbHE3WHVuRVhOQm51QUZKR2Z1MzNzTWVLZG1KM0o0b1M4NHA4bTBEeA?oc=5",
+      "description": "물가 쇼크·긴축 우려, 미 증시 하락 KB Think",
+      "pub_date": "Tue, 10 Nov 2026 22:45:30 GMT",
       "category": "글로벌 시장",
-      "key": "76e4e177167fdd60",
+      "key": "c311605bde465045",
       "topic": "경제·환율·금리"
     },
     {
-      "title": "2008년 봄, 폭락 앞둔 탐욕의 증시...지금은 그때와 닮았다 - 인베스트조선",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdko4ZHVZUU5lVm11aWdqVmhOUXVsVnFEQ1B6VHotZ0Y0T29kRXVfd2t1UHVMOGtaczNtN1dMT1ZWZWlfaGpXYjNlZ1loc3o4c0NGQWJSTXN3Qzc1T1NLUk1INDZPWXh1X1ZGb1NYZXlFSGJUZnhWNXJ3dTdvZFVEdVJUcw?oc=5",
-      "description": "2008년 봄, 폭락 앞둔 탐욕의 증시...지금은 그때와 닮았다 인베스트조선",
-      "pub_date": "Mon, 06 Apr 2020 07:00:00 GMT",
+      "title": "나스닥 간다던 토스, 2년만에 코스피 입성 절차 살핀 배경은 - 녹색경제신문",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBZczJNRFhZamZ3SGVxYU1kMEtlNFhYMzdGR2NuME0ta0NUWlhGSklzcHFfVXN4SEZNcGNaVFpNS09aRkdaa0x4S2NFblVKMlQycHI0RDBkZVBtam1XTEJYaURvWHktMEJw?oc=5",
+      "description": "나스닥 간다던 토스, 2년만에 코스피 입성 절차 살핀 배경은 녹색경제신문",
+      "pub_date": "Fri, 06 Mar 2026 08:00:00 GMT",
       "category": "글로벌 시장",
-      "key": "15b91d42b5a04fc8",
+      "key": "9ef32365844fcf7a",
+      "topic": "경제·환율·금리"
+    },
+    {
+      "title": "[마켓뷰] 코스피, '인텔 급락 등 美증시 삭풍' 이어받나 - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9rTDNNVGZtMVZNV1hIMThJdFJTQVBDekdBSzJMRFJSNVdZT1Q1SVRKZ0hTanNKMlB0czJJR2ZNcHE2eEZCT3JSbXRKR1lDYnhQNXVGemlmaEZCdFHSAWBBVV95cUxONDJaaF83Vzltd2FiV2ZJOW94amtDcWwzRGFBUTByZ1JESlhna0V2V1Vsc01lekVrdUtoMVM1MmhtRXg3bkJtcVFxYWF5dnQza29jYmpOQ0xGdkUxblFENUI?oc=5",
+      "description": "[마켓뷰] 코스피, '인텔 급락 등 美증시 삭풍' 이어받나 연합뉴스",
+      "pub_date": "Mon, 02 Nov 2026 08:00:00 GMT",
+      "category": "글로벌 시장",
+      "key": "7b003c5291077fbd",
       "topic": "경제·환율·금리"
     }
   ]
