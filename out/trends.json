@@ -1,105 +1,105 @@
 {
-  "collected_at": "2026-11-11T10:08:19.055503+00:00",
+  "collected_at": "2026-11-11T15:40:40.263795+00:00",
   "items": [
     {
-      "keyword": "김태희",
+      "keyword": "라라랜드",
+      "traffic": "100+",
+      "news_title": "‘재개봉·공연실황·실험작’… 극장가, 비수기를 飛수기로!",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "aaf2e559e9ad9141",
+      "collected_at": "2026-11-11T15:40:40.263314+00:00"
+    },
+    {
+      "keyword": "더 스카이 184",
+      "traffic": "200+",
+      "news_title": "볼거리 더한 청라하늘대교, 이용료 부담 덜고 손님맞이",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "b1c27c13d4156e57",
+      "collected_at": "2026-11-11T15:40:40.263314+00:00"
+    },
+    {
+      "keyword": "고잔동",
       "traffic": "500+",
-      "news_title": "김태희, ♥비도 감탄할 등근육…한때 액션 구미호 뒤태 [DA★]",
+      "news_title": "인천 고잔동 도금 공장서 가스 누출 신고…5명 연기 흡입",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "256c1938099635b6",
-      "collected_at": "2026-11-11T10:08:19.055141+00:00"
+      "key": "728c4a128013aa8c",
+      "collected_at": "2026-11-11T15:40:40.263314+00:00"
     },
     {
-      "keyword": "일본 마운자로 가격",
-      "traffic": "1000+",
-      "news_title": "[단독] 일본서 산 마운자로, 국내 반입 허용된다…최대 12개",
+      "keyword": "이종석",
+      "traffic": "5000+",
+      "news_title": "‘황후’ 신민아·새로 변신하는 이종석이 낯설다고요? 세계 여성들은 왜 이 장르에 푹 빠졌을까 [이윤정 기자의 소소월드]",
       "snippet": "",
       "source_type": "google_trends",
-      "category": "선거·정책·글로벌",
-      "key": "0f7bb6d1effbb3c3",
-      "collected_at": "2026-11-11T10:08:19.055141+00:00"
+      "category": "당일 화제 이슈",
+      "key": "de7816fb7c71950b",
+      "collected_at": "2026-11-11T15:40:40.263314+00:00"
     },
     {
-      "keyword": "포체티노",
+      "keyword": "외교관",
+      "traffic": "500+",
+      "news_title": "탈북 외교관 &quot;김여정 스스로 공주라 생각…말도 안 섞어&quot;",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "eb7e6b22c0c9e903",
+      "collected_at": "2026-11-11T15:40:40.263314+00:00"
+    },
+    {
+      "keyword": "xsmb",
+      "traffic": "500+",
+      "news_title": "Kết quả xổ số miền Trung hôm nay 11.11: Khánh Hòa, Đà Nẵng",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "dc16568a739fa7d0",
+      "collected_at": "2026-11-11T15:40:40.263314+00:00"
+    },
+    {
+      "keyword": "멜론티켓",
       "traffic": "2000+",
-      "news_title": "‘리그 10경기 1승, 18위’ 최악의 맨유, 캐릭 감독 경질 가닥",
+      "news_title": "AGF 2026, 12일부터 일반 티켓 판매…역대 최대 106개사 참가",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "09f8262032ca4ef8",
-      "collected_at": "2026-11-11T10:08:19.055141+00:00"
+      "key": "f40b18f0ec784add",
+      "collected_at": "2026-11-11T15:40:40.263314+00:00"
     },
     {
-      "keyword": "세무사 수석",
-      "traffic": "200+",
-      "news_title": "대기업 10년차·벼랑끝 자영업 거쳐 세무사시험 수석 합격한 한원석씨",
+      "keyword": "일진전기",
+      "traffic": "5000+",
+      "news_title": "어제는 9% 오늘은 14% 급등…그래도 &quot;가장 저평가&quot;",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "8255a97b25bbb191",
-      "collected_at": "2026-11-11T10:08:19.055141+00:00"
+      "key": "ad8f245aaf250e17",
+      "collected_at": "2026-11-11T15:40:40.263314+00:00"
     },
     {
-      "keyword": "마운자로",
-      "traffic": "200+",
-      "news_title": "살 빼려다 시력 잃을 수도 있다···‘비만 치료제’ 위고비·마운자로, 시신경 손상 위험 ‘비상’",
+      "keyword": "주차장",
+      "traffic": "500+",
+      "news_title": "서부발전, 대전산단 에너지 자립사업 참여…320억 규모",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "96d3825746ecc59a",
-      "collected_at": "2026-11-11T10:08:19.055141+00:00"
+      "key": "00d7eb2fb28ba43f",
+      "collected_at": "2026-11-11T15:40:40.263314+00:00"
     },
     {
-      "keyword": "pakistan vs sri lanka",
-      "traffic": "200+",
-      "news_title": "De Silva, Kamindu fifties guide Sri Lanka to 221-4 in first Test",
+      "keyword": "임신",
+      "traffic": "500+",
+      "news_title": "임신 34주에 마라톤 완주 ‘찬사’와 ‘우려’…태아는 괜찮을까? [건강팩트체크]",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "cd7524562bb5acc3",
-      "collected_at": "2026-11-11T10:08:19.055141+00:00"
-    },
-    {
-      "keyword": "남지현",
-      "traffic": "200+",
-      "news_title": "아이브 리즈, 동화 속 공주 비주얼… 눈부신 미모 [N샷]",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "5353639282ca3fd4",
-      "collected_at": "2026-11-11T10:08:19.055141+00:00"
-    },
-    {
-      "keyword": "임영웅",
-      "traffic": "2000+",
-      "news_title": "임영웅 10주년 콘서트 실황 영화, IMAX로 본다…포스터 공개",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "a69a118997c6229b",
-      "collected_at": "2026-11-11T10:08:19.055141+00:00"
-    },
-    {
-      "keyword": "쇠족제비",
-      "traffic": "200+",
-      "news_title": "충주시, 멸종위기 야생생물 Ⅰ급 무산쇠족제비 서식 확인",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "15a9b3e2fa44b299",
-      "collected_at": "2026-11-11T10:08:19.055141+00:00"
-    },
-    {
-      "keyword": "ai안경",
-      "traffic": "2000+",
-      "news_title": "수능 8일 앞으로…제주 16개 시험장서 7414명 응시",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "a645901650bb08cf",
-      "collected_at": "2026-11-11T10:08:19.055141+00:00"
+      "key": "b90d5c7fd0fb95a2",
+      "collected_at": "2026-11-11T15:40:40.263314+00:00"
     }
   ]
 }
