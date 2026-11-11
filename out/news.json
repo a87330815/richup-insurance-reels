@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-10T20:44:34.784048+00:00",
+  "collected_at": "2026-11-11T02:27:58.984930+00:00",
   "topic_weight": {
     "보험·상품": 30,
     "영업·마인드": 25,
@@ -7,35 +7,62 @@
     "경제·환율·금리": 25
   },
   "topic_counts": {
-    "영업·마인드": 1,
-    "경제·환율·금리": 2
+    "보험·상품": 1,
+    "경제·환율·금리": 5
   },
   "items": [
     {
-      "title": "세일즈랩, 실무와 동기부여를 겸비한 법인영업 원포인트 특강, 뜨거운 호응 속 종료 - 개미신문",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1pdS1LNDRscV84Ym5lYkMtVUpQNUFYM0NrRE9Xd3E3OVl3RnAtbldNdU1pcVNaek9UMEpudk5WMS1lbFhvNHVEVkNnSQ?oc=5",
-      "description": "세일즈랩, 실무와 동기부여를 겸비한 법인영업 원포인트 특강, 뜨거운 호응 속 종료 개미신문",
-      "pub_date": "Sun, 12 Jan 2025 08:00:00 GMT",
-      "category": "세일즈 성과",
-      "key": "b18820557d3eb369",
-      "topic": "영업·마인드"
+      "title": "환율 하락에 ‘달러 보험’ 인기…연 6%대 확정이율 상품도 - 서울경제",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ybVVVcTJkQ1dISEVXTEN6b2xlcF9BWEhIVFgxcEFJUEZkZjFQb3k1WElseFlVV2NpaVR4UVU1a3J4TEt6ZTZaN2lrdjlGdXJLekHSAVNBVV95cUxPSUZkN1RiaEpIVDhuR19tMzdDM1JDbWwzUERWeGVnQ3JYU3ZfLVV3T0Qtb2RqQm9QN2wwR0VYVmR6TUt5ci1PcUdZZ19sbF9SbGRLZw?oc=5",
+      "description": "환율 하락에 ‘달러 보험’ 인기…연 6%대 확정이율 상품도 서울경제",
+      "pub_date": "Tue, 10 Nov 2026 20:30:00 GMT",
+      "category": "달러보험 환율",
+      "key": "0a82a99e79441260",
+      "topic": "보험·상품"
     },
     {
-      "title": "[환율 전망] 상반기 마지막 날, 큰 거 하나 온다 - KB Think",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5NajAwcVhWVVpLOTFxSXVQMnZmODgwWWJQelBrQ0FlRXZRS0xSeDNhYTJTdWJZNGpOUFA1Q0FMUE5qZU1pU1U1SVBGYWl6R1c5TWpsNDJ2eUdtODM5aVNIbQ?oc=5",
-      "description": "[환율 전망] 상반기 마지막 날, 큰 거 하나 온다 KB Think",
-      "pub_date": "Tue, 30 Jun 2026 07:00:00 GMT",
+      "title": "美 물가 예상 웃돌자 달러 강세…달러·원 1343.5원 출발 - 뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9xTDFOTTZLSlNZaF9oYWFNR3Zocks4VTBHN2dSNTJucU9VU1ZxZkZqMDhnbVZCOU1vQmFaNkQ3UjJHRllVZ2w3dFRScFFIR21lU0VKM1hpWGpOeUE?oc=5",
+      "description": "美 물가 예상 웃돌자 달러 강세…달러·원 1343.5원 출발 뉴스1",
+      "pub_date": "Wed, 11 Nov 2026 00:32:14 GMT",
       "category": "환율 전망",
-      "key": "933cde0b1855eb86",
+      "key": "62856970199cffcf",
       "topic": "경제·환율·금리"
     },
     {
-      "title": "[AI MY 증시전망] 중동발 유가 상승에 코스피·코스닥 흔들리나 \"주도주 대응\" - 뉴스핌",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBqZGVBSHFSUWhENGdBXzRpdDZrYS04dTNzQzZGa3ZYN0VkUHBfVFlQUndwMXZhTndxdmNYblNUaTZWTzV6Z3NfWU9xdDE5STBGQVUwRXNnNWk2aUtF?oc=5",
-      "description": "[AI MY 증시전망] 중동발 유가 상승에 코스피·코스닥 흔들리나 \"주도주 대응\" 뉴스핌",
-      "pub_date": "Tue, 18 Aug 2026 07:00:00 GMT",
+      "title": "美 '블루웨이브'에도 환율 잠잠…단기 전망은 엇갈려 - 마켓인",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAzTVgxSUNiWlkwTmV4SllIZVYzaXI2a2p6eXZaX2t2R05yZlJxcWNMOWJsZGlFTE1FaThqVlVldjgwblNJckx1ODdRMVYzLWZaZUdMVXJpa0F6TmRuYUozNkxJTXJpTnRYTWl0aGRFakdxRzA?oc=5",
+      "description": "美 '블루웨이브'에도 환율 잠잠…단기 전망은 엇갈려 마켓인",
+      "pub_date": "Wed, 04 Nov 2026 08:00:00 GMT",
+      "category": "환율 전망",
+      "key": "9b2816f8623cc32a",
+      "topic": "경제·환율·금리"
+    },
+    {
+      "title": "[환율 전망] 밸런스 게임, 美고금리 대 韓무역흑자 - KB Think",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9RRFhzekY0cVd5T1lLUGJsYXV2cWJaXzlySXc1RkVUWHE4YUhGNkFMdHdCa3NyZnIwNGxiWmNZVVk4YU1VTU5ZalV0ZV9tN2xpeFNySFdVb3lHV2xDQ3BMQg?oc=5",
+      "description": "[환율 전망] 밸런스 게임, 美고금리 대 韓무역흑자 KB Think",
+      "pub_date": "Thu, 01 Oct 2026 07:00:00 GMT",
+      "category": "환율 전망",
+      "key": "8124929b62e3af64",
+      "topic": "경제·환율·금리"
+    },
+    {
+      "title": "[경제 이슈] 금융위, 금융시장 변동성에 단계적 대응...AI 전망에 따라 글로벌 금융시장 변동성 커져 - 시사캐스트",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE50V2s0cFBzQ0ZYYmdTLWRGZXJmZmt4S2tWdGkwVkpDWkZQdlpHeGh1QlBqUXpkNlVHS0xyWTBUaUtTZFUySy1KVDAzMXhnWVdyM2R2MHNBc0ZObXVrNGpBQjk5RGlONUh6?oc=5",
+      "description": "[경제 이슈] 금융위, 금융시장 변동성에 단계적 대응...AI 전망에 따라 글로벌 금융시장 변동성 커져 시사캐스트",
+      "pub_date": "Wed, 11 Nov 2026 00:17:47 GMT",
       "category": "글로벌 시장",
-      "key": "1d0166ef6d0b0ecb",
+      "key": "76e4e177167fdd60",
+      "topic": "경제·환율·금리"
+    },
+    {
+      "title": "2008년 봄, 폭락 앞둔 탐욕의 증시...지금은 그때와 닮았다 - 인베스트조선",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdko4ZHVZUU5lVm11aWdqVmhOUXVsVnFEQ1B6VHotZ0Y0T29kRXVfd2t1UHVMOGtaczNtN1dMT1ZWZWlfaGpXYjNlZ1loc3o4c0NGQWJSTXN3Qzc1T1NLUk1INDZPWXh1X1ZGb1NYZXlFSGJUZnhWNXJ3dTdvZFVEdVJUcw?oc=5",
+      "description": "2008년 봄, 폭락 앞둔 탐욕의 증시...지금은 그때와 닮았다 인베스트조선",
+      "pub_date": "Mon, 06 Apr 2020 07:00:00 GMT",
+      "category": "글로벌 시장",
+      "key": "15b91d42b5a04fc8",
       "topic": "경제·환율·금리"
     }
   ]
