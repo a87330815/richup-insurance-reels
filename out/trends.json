@@ -1,95 +1,95 @@
 {
-  "collected_at": "2026-11-12T03:30:42.362058+00:00",
+  "collected_at": "2026-11-12T10:31:43.843353+00:00",
   "items": [
     {
-      "keyword": "류효승",
-      "traffic": "100+",
-      "news_title": "SSG, 베테랑 포수 김민식과 결별…선수단 추가 정비",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "71e372878c88be47",
-      "collected_at": "2026-11-12T03:30:42.361606+00:00"
-    },
-    {
-      "keyword": "sk그룹",
-      "traffic": "500+",
-      "news_title": "SK그룹, 최태원 주재 CEO 세미나 연다…AI 사업 전략 점검",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "e348c5bcf75fbf8b",
-      "collected_at": "2026-11-12T03:30:42.361606+00:00"
-    },
-    {
-      "keyword": "던파",
-      "traffic": "500+",
-      "news_title": "[1보] 넥슨, 3분기 매출 1조2312억원·영업익 3718억원…전망치 상회 By EBN",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "cc1f0ad503adbf61",
-      "collected_at": "2026-11-12T03:30:42.361606+00:00"
-    },
-    {
-      "keyword": "베이비몬스터",
-      "traffic": "100+",
-      "news_title": "지수·이날치·NCT·베몬, 내년 ‘코첼라’ 선다",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "3cc48db9080a9767",
-      "collected_at": "2026-11-12T03:30:42.361606+00:00"
-    },
-    {
-      "keyword": "제주항공",
-      "traffic": "1000+",
-      "news_title": "제주항공 주식 하락, 쪼그라든 제주도 자산? &quot;주식이 다가 아니다&quot;",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "f81e3aece2b24560",
-      "collected_at": "2026-11-12T03:30:42.361606+00:00"
-    },
-    {
-      "keyword": "jyp",
-      "traffic": "100+",
-      "news_title": "Eugene Securities raises JYP Ent target as Stray Kids fuel Western gains",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "df58710713fa9946",
-      "collected_at": "2026-11-12T03:30:42.361606+00:00"
-    },
-    {
-      "keyword": "신유빈",
-      "traffic": "1000+",
-      "news_title": "신유빈, 일본에 공포였구나…&apos;日 에이스&apos; 하리모토 미와 &quot;제일 힘들어&quot;→&quot;다시 만나고 싶지 않다&quot; 깜짝 고백",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "4d3bb43b3b49982a",
-      "collected_at": "2026-11-12T03:30:42.361606+00:00"
-    },
-    {
-      "keyword": "이더리움",
+      "keyword": "박충권",
       "traffic": "200+",
-      "news_title": "Bitmine, 암호화폐·현금 보유액 143억 달러 발표",
+      "news_title": "정동영에 “북동영” 했다가…“탈충권” 역공 당한 박충권 [이런뉴스]",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "7ff2ff625945bc2a",
-      "collected_at": "2026-11-12T03:30:42.361606+00:00"
+      "key": "eab52091d61fbcb4",
+      "collected_at": "2026-11-12T10:31:43.842932+00:00"
     },
     {
-      "keyword": "은행나무",
-      "traffic": "100+",
-      "news_title": "황금빛 은행나무숲으로 가을 나들이…고령서 주말 축제",
+      "keyword": "한강 벨트",
+      "traffic": "200+",
+      "news_title": "서울 아파트값 92주 연속 상승… 성동·강동구 하락 전환",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "faa671ddae5bdbb6",
-      "collected_at": "2026-11-12T03:30:42.361606+00:00"
+      "key": "0f1042a4c8aeb8eb",
+      "collected_at": "2026-11-12T10:31:43.842932+00:00"
+    },
+    {
+      "keyword": "성시경 콘서트",
+      "traffic": "100+",
+      "news_title": "[단독] 성시경 막걸리, 세븐일레븐에 입점한다",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "9f97c77f95036012",
+      "collected_at": "2026-11-12T10:31:43.842932+00:00"
+    },
+    {
+      "keyword": "국제 a 매치",
+      "traffic": "1000+",
+      "news_title": "“에이~ 매치” 되어버린 A매치···축구대표팀 인기 추락하는 소리",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "841b9d175be0247a",
+      "collected_at": "2026-11-12T10:31:43.842932+00:00"
+    },
+    {
+      "keyword": "인벤",
+      "traffic": "100+",
+      "news_title": "Lost Ark celebrates 8th anniversary with spooky event island",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "441ee77906795c1b",
+      "collected_at": "2026-11-12T10:31:43.842932+00:00"
+    },
+    {
+      "keyword": "035420",
+      "traffic": "200+",
+      "news_title": "Naver&apos;s Q3 operating profit falls 21% as it bets on 2 trillion won deal, AI agent app and logistics subsidiary",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "6682568715ab1861",
+      "collected_at": "2026-11-12T10:31:43.842932+00:00"
+    },
+    {
+      "keyword": "이부진",
+      "traffic": "500+",
+      "news_title": "이부진은 ‘3년 전 그 재킷’, 지수는 ‘레이디 디올’… 디올 패션도 화제",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "6549bc230d5ff5d3",
+      "collected_at": "2026-11-12T10:31:43.842932+00:00"
+    },
+    {
+      "keyword": "김승우",
+      "traffic": "500+",
+      "news_title": "배우 김승우, 2200만원 절도 혐의 피소…“술자리 장난이었다”",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "85a4deb5b0573ad4",
+      "collected_at": "2026-11-12T10:31:43.842932+00:00"
+    },
+    {
+      "keyword": "아르헨티나",
+      "traffic": "200+",
+      "news_title": "두 개의 아르헨티나: 유전 대박과 실직한 가장들[딥다이브]",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "114af6464ac66af2",
+      "collected_at": "2026-11-12T10:31:43.842932+00:00"
     }
   ]
 }

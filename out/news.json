@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-12T03:30:40.683404+00:00",
+  "collected_at": "2026-11-12T10:31:42.628509+00:00",
   "topic_weight": {
     "보험·상품": 30,
     "영업·마인드": 25,
@@ -7,44 +7,90 @@
     "경제·환율·금리": 25
   },
   "topic_counts": {
-    "의료·건강": 1,
-    "경제·환율·금리": 3
+    "보험·상품": 1,
+    "영업·마인드": 1,
+    "경제·환율·금리": 7
   },
   "items": [
     {
-      "title": "고령자 간병·치매보험 가입률 17.9%…\"초고령화 시대 간병 위험 준비해야\" - 연합인포맥스",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5IZjFmX19TQTFaTm1DWWN4WGtGWFhuQndZWG4xR1puN3FJWFYyUEpJYXB5WWlTWnVEQWE4UkQtamxDV25PRUhhTTNtS2FFb1A0TlJSNm1rdWFieUtkUWNhUnk3aEwxLXRURnoxVUFweXQ?oc=5",
-      "description": "고령자 간병·치매보험 가입률 17.9%…\"초고령화 시대 간병 위험 준비해야\" 연합인포맥스",
-      "pub_date": "Thu, 02 Nov 2023 07:00:00 GMT",
-      "category": "치매 간병",
-      "key": "e2e1ca891393b454",
-      "topic": "의료·건강"
+      "title": "“노후 위해 모은 연금인데 건보료까지?”…사적연금·ISA 보험료 부과 논란 - 용인신문",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBEZkFwek82WHE2cE9BbkdhZFNtOXhGS2FMWDVIem5CeHNfNHJtazhzbUMzRWw4Nm8zb25EbUl2djhXc2tBd0N2bnFKeVVaaU9CU2N3YU1kbkYtT3Z6Tl9LYzU5R2Y?oc=5",
+      "description": "“노후 위해 모은 연금인데 건보료까지?”…사적연금·ISA 보험료 부과 논란 용인신문",
+      "pub_date": "Mon, 09 Nov 2026 01:28:29 GMT",
+      "category": "연금보험 노후",
+      "key": "503403bced6badbc",
+      "topic": "보험·상품"
     },
     {
-      "title": "[환율 전망] 요즘 환시에서 FOMC는 감다죽, AI는 감다살 - KB Think",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBBXzZJUUs1aWg0X0RPdTNRR183UTJLZkFfU3pQcXEzZUJUWXpiUVBrWHRtbjNrbjlxRlZsT2tCOEgzS0NfTFYxeDhPdUF5OUg3RmlJaHU3Mm1LZjAySlREcg?oc=5",
-      "description": "[환율 전망] 요즘 환시에서 FOMC는 감다죽, AI는 감다살 KB Think",
-      "pub_date": "Wed, 28 Oct 2026 07:00:00 GMT",
+      "title": "프라임에셋, ‘픽앤플랜’ 서비스 고도화로 이용자 확대 추진 - 보험신보",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5TSnBIRFJ2TFlFVG83bE04MXIyR1pBdUZEc3R1N2FveWw5VWlUVnRSWVJuYTNUdDVLRWpnVEp5N3BJWDJpTjE1S3JKTmlNZDlqRUtYVkNISDVPQkp5NEctMllJODJwa2UyZkNr?oc=5",
+      "description": "프라임에셋, ‘픽앤플랜’ 서비스 고도화로 이용자 확대 추진 보험신보",
+      "pub_date": "Thu, 12 Nov 2026 06:45:42 GMT",
+      "category": "보험설계사 영업",
+      "key": "24997c3e57c10d66",
+      "topic": "영업·마인드"
+    },
+    {
+      "title": "이번주 케빈 워시 첫 FOMC…한은 금리 경로 촉각 - ebn.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBDMWhaSWt0cnFyTzFWeUVCNm1abjd2M1ctRzg4b29uTld5UHFPd2x1cDJ4V0x0S1E5LXBvc2xxQ2NNYjIwZTFwakdIaWhyY2puMHBsT09pS3ZVbXJEdkE2VjEtaktnVmN1?oc=5",
+      "description": "이번주 케빈 워시 첫 FOMC…한은 금리 경로 촉각 ebn.co.kr",
+      "pub_date": "Mon, 15 Jun 2026 07:00:00 GMT",
+      "category": "기준금리·통화정책",
+      "key": "15807a1323849588",
+      "topic": "경제·환율·금리"
+    },
+    {
+      "title": "기준금리 4연속 동결될 듯…\"집값·대출·환율 여전히 불안\" - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5BSGxkWl84VXRtUk9sbldDaVp0TjVKZ28xaXBpYTRJYzVqcDAtMTM3SXJBWGQyaldsUHpQZDVmb0RUWU9iUXFqaThSdzdEc3JwYkUxM1Z5NUM4MDTSAWBBVV95cUxNRHRiSEZwMHhGSDN3UGNVQi03bEp1TWhyZkViUXdoNGRLQ0xib28xc1J0Yld1a2k0MUFPTmt1b0RDT2dpRjhaYU5WeURSdTBZc1BFUEdhODNBVDk1NVZFSjk?oc=5",
+      "description": "기준금리 4연속 동결될 듯…\"집값·대출·환율 여전히 불안\" 연합뉴스",
+      "pub_date": "Mon, 24 Nov 2025 08:00:00 GMT",
+      "category": "기준금리·통화정책",
+      "key": "0117421c7e162f66",
+      "topic": "경제·환율·금리"
+    },
+    {
+      "title": "[환율 전망] 반도체 주도의 수출 호황, 여전히 풍부한 달러 - KB Think",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1LR0Z3LTFQZjFLSng1RmFyckdrY1pIVlZzMjZ5eFQzWm5CVGhMajFlcEpXY3JpX3J3VUJyYjRQVC1HcUI4cXZmZERJUklLeFl6WTlzd05NdjZ2NXJrM0pPWg?oc=5",
+      "description": "[환율 전망] 반도체 주도의 수출 호황, 여전히 풍부한 달러 KB Think",
+      "pub_date": "Thu, 12 Nov 2026 06:49:34 GMT",
       "category": "환율 전망",
-      "key": "c3ff55bc4ce44f9e",
+      "key": "0b9607780dd58145",
       "topic": "경제·환율·금리"
     },
     {
-      "title": "폭락장세 뒤 반등했지만 악재는 여전…이번주 코스피 향배는 - 매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9EQnFwNW5wRXNsdHFUOURDMmw4Q1h4X0k0NmwzUnEyekJUNEFMaHdiQjV1bER3LWlLT1I1ZDZJTW55VGJHREZ3b0dRNFNaMU5GUmc?oc=5",
-      "description": "폭락장세 뒤 반등했지만 악재는 여전…이번주 코스피 향배는 매일경제 마켓",
-      "pub_date": "Sun, 18 Oct 2026 07:00:00 GMT",
-      "category": "글로벌 시장",
-      "key": "3494cf0be8225f73",
+      "title": "[환율 전망] 유가와 금리 하락, 원화에는 더욱 긍정적 - KB Think",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE01LVZqNExGdmlkWmZ2V2RMRnA5NW1PdjZDRjc3Vzh2V1U0cjFQU1BfTEVXVDd5dFBUbDl4eER1UkRsVk4yd0NVMUY0dy1SZFlJb2JuYkgyQTQwQjMtMVlPOQ?oc=5",
+      "description": "[환율 전망] 유가와 금리 하락, 원화에는 더욱 긍정적 KB Think",
+      "pub_date": "Wed, 26 Aug 2026 07:00:00 GMT",
+      "category": "환율 전망",
+      "key": "14d7ffdb48c8211c",
       "topic": "경제·환율·금리"
     },
     {
-      "title": "日·대만 달리는데…3대 걸림돌에 막힌 코스피 - 매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBjSFUtejZWUXZuRWE3a1RzLVByTkN4bTFtWVFReVVNcEtnZkQtMGZlNllaaGU1TmU5aUJtaE4yUTNDMkNaM1pMMURVWWJYSjY0aXc?oc=5",
-      "description": "日·대만 달리는데…3대 걸림돌에 막힌 코스피 매일경제 마켓",
-      "pub_date": "Fri, 09 Oct 2026 07:00:00 GMT",
+      "title": "[환율 전망] 달러는 시험대, 원화는 버티기 - KB Think",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9iUEF2SWEtbHhZMmJ3Y1FVMC1WQktnSEI3TV9teEhEWVFSNVNIV3pCN3ZVR24wa2VVR3VJU1hoeXota1lHcVlPQTNQdXl0cGlTdGY2MldLRFFpZlQ4c0IzRw?oc=5",
+      "description": "[환율 전망] 달러는 시험대, 원화는 버티기 KB Think",
+      "pub_date": "Mon, 29 Jun 2026 07:00:00 GMT",
+      "category": "환율 전망",
+      "key": "b160484c07be0443",
+      "topic": "경제·환율·금리"
+    },
+    {
+      "title": "트럼프 '관세 전쟁', 미국 전역서 퇴진 시위 - 네이버페이 머니스토리",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB3WGtkMlQ1eDVZR3lfeTl1dHhRZU5kX1JrbkpMcV8tdS1KcEUyTzdUaDgtSUlaUGlXTENqNGZ1dXVIMkNpOWwxNDI1c3pHMG9kNThrWTF2QQ?oc=5",
+      "description": "트럼프 '관세 전쟁', 미국 전역서 퇴진 시위 네이버페이 머니스토리",
+      "pub_date": "Mon, 07 Apr 2025 07:00:00 GMT",
+      "category": "미국 경제·정책",
+      "key": "82a571bb959c493c",
+      "topic": "경제·환율·금리"
+    },
+    {
+      "title": "[3분증시] 뉴욕증시, 미국 디폴트 우려에 하락…나스닥 1.3%↓ - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5VXpyQ2o0dmxUVkhkTVBkSFZGcGhQX2tsOFMxMWpWRkhMTVhfQmVFNVZOd3ZrSFdPeFM2SmVwbkZIUEgtTGM1REowb3d2eEtPYldoQWd4VmRKM0nSAWBBVV95cUxNTXRIREVYQmVqN2xhWThpU1d5aDBIX3dWbDRnWHo5ZkFjemNyeldDdE9DNTRkQ3Bva0RJRzVUcmJpUVZiZ3dxYTVhaXFvQ01ucVVTZVZNbFI0SmRVTkloVXU?oc=5",
+      "description": "[3분증시] 뉴욕증시, 미국 디폴트 우려에 하락…나스닥 1.3%↓ 연합뉴스",
+      "pub_date": "Wed, 24 May 2023 07:00:00 GMT",
       "category": "글로벌 시장",
-      "key": "5092fbe3b28fa5da",
+      "key": "3d7eaf7ce256800d",
       "topic": "경제·환율·금리"
     }
   ]
