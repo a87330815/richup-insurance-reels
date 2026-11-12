@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-12T16:24:58.637111+00:00",
+  "collected_at": "2026-11-12T21:23:13.826036+00:00",
   "topic_weight": {
     "보험·상품": 30,
     "영업·마인드": 25,
@@ -7,91 +7,54 @@
     "경제·환율·금리": 25
   },
   "topic_counts": {
-    "보험·상품": 3,
-    "영업·마인드": 3,
-    "의료·건강": 1,
-    "경제·환율·금리": 2
+    "보험·상품": 2,
+    "의료·건강": 2,
+    "경제·환율·금리": 1
   },
   "items": [
     {
-      "title": "“수익률 40%라더니 겨우 원금 회복?” … 변액보험 통장 열어보고 ‘깜짝’ - 매일경제",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1lMXlWVUhNVWI3U3lCNG8yV2hhRWp6UVBGbVhUaGh3MXhrTWZZY3FLa3BMQTRjZXFmT205Q3ZsaWY4SEJEYWJHcmhfbmlQb0pGX29JSQ?oc=5",
-      "description": "“수익률 40%라더니 겨우 원금 회복?” … 변액보험 통장 열어보고 ‘깜짝’ 매일경제",
-      "pub_date": "Sat, 06 Jun 2026 07:00:00 GMT",
-      "category": "변액보험 수익률",
-      "key": "58254c966e8d4e2f",
-      "topic": "보험·상품"
-    },
-    {
-      "title": "고환율에 달러보험 ‘불티’…올해 1.7조 돌파 유력 - 마켓인",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ldnV3cUdtUFFlUDRuMlMyUWJ0OWxITnRpUlJnN0RmRHY2VzZlT1JzVWdmMkxGdzVLRmZXdklwNy03V1B1SzktcF9lT1dIQVdzWnkzYm5aNUNJeF9BNUhjeGpkZzhtQ1hvN0lpdDFqeEZ2Q3c?oc=5",
-      "description": "고환율에 달러보험 ‘불티’…올해 1.7조 돌파 유력 마켓인",
-      "pub_date": "Thu, 23 Oct 2025 07:00:00 GMT",
-      "category": "달러보험 환율",
-      "key": "0c4109126abd911a",
-      "topic": "보험·상품"
-    },
-    {
-      "title": "연금 말고도 월 100만원 나온다…4050 '평생 돈줄' 전략 - 중앙일보",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBUN1dVdTAtaTdzQWVpUWF5ZWc3VjJ2eTc0RktzMzYweG1PVTFzcVBCeVczNlNPc29pRmNfSXpMb3dPYjNHYWhvRnVIaDVBWnVIMUJKR1l3?oc=5",
-      "description": "연금 말고도 월 100만원 나온다…4050 '평생 돈줄' 전략 중앙일보",
-      "pub_date": "Wed, 29 May 2024 07:00:00 GMT",
+      "title": "월급 끊긴 뒤 생활비는 어느 연금에서 나올까? - 이투데이",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBiOG1VM2d2VFlTQ1M1anNjYjBVRDB6YVo5QzBTLUVxWlJldVRuQmliV3d5djRmQV9vTW5MNXRVZ0Zkb2VQeGlRZjlRaTcxaFVWVGFBR0JJRVoydw?oc=5",
+      "description": "월급 끊긴 뒤 생활비는 어느 연금에서 나올까? 이투데이",
+      "pub_date": "Thu, 12 Nov 2026 21:00:00 GMT",
       "category": "연금보험 노후",
-      "key": "48deec7715867490",
+      "key": "1bb180f205dd28d2",
       "topic": "보험·상품"
     },
     {
-      "title": "삼성화재, AI 영업지원 시스템 도입 - 서울경제TV",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5hemZWZDNhLUpFN181QU1YTmFFT0NraUlFdnJ5czBMdnl4NmRZMzBCQWZLdkVudHhHbkJSS0I2M0EyM1RuQTFVWURUa0FDWXU3a0JqMU1rN2VTWl9NbE9PMTRVNW1yRURyekE0?oc=5",
-      "description": "삼성화재, AI 영업지원 시스템 도입 서울경제TV",
-      "pub_date": "Mon, 26 Oct 2026 07:00:00 GMT",
-      "category": "보험설계사 영업",
-      "key": "d97017070d451ca5",
-      "topic": "영업·마인드"
+      "title": "\"연금저축보험 세액공제분, IRP계좌로 돌려줘야\" - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGTEVPQkgyd3QxdDA2MzRKSjJRODVZdnJ6eWN2bWhnTkJrcVJKUC1falFOcE9uVERmLUJsLUtEdUdqUC1zX0hjZUJjSlN3VFhyNWtxNS12N3Jqb3PSAWBBVV95cUxOeEItVmItSVJsTjhWTlRIUlJUMFJtUzFOX2cxcFVoSU1laDVHUWhmVjZWbHhkcDlydGx5d0JjMGVVR1BTTmctcm5wRjZ1anFVZVRKeFRXZDVEc2ZrVUttcUY?oc=5",
+      "description": "\"연금저축보험 세액공제분, IRP계좌로 돌려줘야\" 연합뉴스",
+      "pub_date": "Fri, 02 Nov 2018 07:00:00 GMT",
+      "category": "연금보험 노후",
+      "key": "4a66cd74588b3ddd",
+      "topic": "보험·상품"
     },
     {
-      "title": "보험 영업도 데이터 경쟁···핀다·토스 '고객 발굴' 전략 보니 - 뉴스웨이",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE51YjVSd1hDUWU4dnN0Y1Iwa3NUWnM2NXdxSFZBZERXN3FaSmdpZi1GUnQ5Rm1BWG9CYlR0QWxxV2FjSG4ycGJGVllfYzBRNTJoVmtYZ3lKX3NwTXZSTHdrWWNNc0JUNFpPTGc?oc=5",
-      "description": "보험 영업도 데이터 경쟁···핀다·토스 '고객 발굴' 전략 보니 뉴스웨이",
-      "pub_date": "Wed, 21 Oct 2026 07:00:00 GMT",
-      "category": "보험설계사 영업",
-      "key": "25aeed9e61731349",
-      "topic": "영업·마인드"
-    },
-    {
-      "title": "[2026 GA 우수인증설계사] 유퍼스트, 25년 노하우로 ‘고객 중심’ 컨설팅 강화 - 한국보험신문",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBuNl9JZ2JROFJhQ2NoUXpQRWFFYWFXZExsNWRrRDBDTEU0V3JlajkwbURRYjNkSXNSREFLQnN4cGZYZ3pxbkkxaEJCZlhvY1JXaTl1RkR4NnJMSzhjejdvVURvMmpFdXc0OGRR0gFvQVVfeXFMTkpvLVdGdEV3T2l0YmIyZ1hEcjRHTk9wOHFQcVRuc1dMT1AxR2pmcmVSZ2xlUTRxWFRwZlJOMnNNaDQzUnB1NWd4dnhQbVpSM3ZYRldJaTJXZzFPU1JxcEoyNnRHRktHWW43MXlqSzc0?oc=5",
-      "description": "[2026 GA 우수인증설계사] 유퍼스트, 25년 노하우로 ‘고객 중심’ 컨설팅 강화 한국보험신문",
-      "pub_date": "Mon, 31 Aug 2026 07:00:00 GMT",
-      "category": "보험설계사 영업",
-      "key": "5277a2597f5f09d6",
-      "topic": "영업·마인드"
-    },
-    {
-      "title": "\"5만원이던 진료비가 어느날 갑자기 60만원으로...\" - 청년의사",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0ybUEzTklBTnBMYm55c3JncHY5RXJJRTl1WDd1NlhMUFhObnBGMG9pZTFldDZ3RnRYZGpYeVNScjJQZGoxOUFRTHZGMXJDbnlhMENCQXFPVFdEcnVIeHZOcUhqQ1VWREpTc3dZVNIBcEFVX3lxTE9HR0hMdmZaQTV6aFZtc3lfU3hvOFVWZEFVYm5XYmdra0t5T0tBa20yYXBuQlg1S3hQZXJBLTdtZzNKTlYydFNfdkJjNVVSU3oxRXUzZTFnWnZjeWs5dXhGNVRBbmRPbFZvOHhQSmY0VUI?oc=5",
-      "description": "\"5만원이던 진료비가 어느날 갑자기 60만원으로...\" 청년의사",
-      "pub_date": "Fri, 10 Sep 2010 07:00:00 GMT",
-      "category": "암 의료비",
-      "key": "b53e906c0e7f8c1f",
+      "title": "고령화 시대, 내게 맞는 치매·간병보험은? - 매일경제",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1qdkdCSHgyVGJlSnZLNVRCMGs5UjFTOVdPYkR6bWdubE5LVVFqbjBrRkltUlFobWYzR0xldVZ4a2ZxT3d1UXducTNPdWZ1b1dFVzZTag?oc=5",
+      "description": "고령화 시대, 내게 맞는 치매·간병보험은? 매일경제",
+      "pub_date": "Wed, 25 Jun 2025 07:00:00 GMT",
+      "category": "치매 간병",
+      "key": "b35c5c68eb976d7c",
       "topic": "의료·건강"
     },
     {
-      "title": "[환율 전망] 물가에 스며든 관세, 곧이어 나타난 달러 강세 - KB Think",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE05NU1YbjFmOTBVX0NLbGd4TjZWOTk4RHJncUNaQ09zaFdLSld6WHRrWWNqWkNnNzhzbENaUGdoT3JFY2ZUc25sX0h3YVpaSWtYZGNjbGZLRWJWUFVrczFybA?oc=5",
-      "description": "[환율 전망] 물가에 스며든 관세, 곧이어 나타난 달러 강세 KB Think",
-      "pub_date": "Wed, 16 Jul 2025 07:00:00 GMT",
-      "category": "환율 전망",
-      "key": "41a9e43e962ac0ce",
-      "topic": "경제·환율·금리"
+      "title": "5대 생보사 치매보험…경도치매 최고보장은 '한화생명' - 디멘시아뉴스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9zNUQ4a3IwTE8xcFByU003WmdPcE5ZZ0M4Skd1NGF4b21HcXNBR0FKMzZxQlplTWh4NGRDQ001bWtHRlduVVJzMXV2UkNkS0FzVUk1bVpvR01vd1RGRTZuREtGdXhocV9CRnZMdmpsaks?oc=5",
+      "description": "5대 생보사 치매보험…경도치매 최고보장은 '한화생명' 디멘시아뉴스",
+      "pub_date": "Tue, 31 May 2022 07:00:00 GMT",
+      "category": "치매 간병",
+      "key": "12428e2d9e16c132",
+      "topic": "의료·건강"
     },
     {
-      "title": "‘트럼프 관세’ 증시 쇼크, 9·11 테러보다 컸다 - 조선일보",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNR204TUd2cHYxQzZNNHdNazNnUXVKa20wZEdpTUdOd2FZalBDSzlaS194SnpiY2h1V05nRVFiYzk4c3hfQVJoc0RmczAweTlBOVlTWFlFRllsdE1WM3FYNEhMSS1lcWFNVExtZkxkeklWcjhrNU1IZzQtX0gzalBDWGZNQUFNbUFUb2VudFBn?oc=5",
-      "description": "‘트럼프 관세’ 증시 쇼크, 9·11 테러보다 컸다 조선일보",
-      "pub_date": "Tue, 08 Apr 2025 07:00:00 GMT",
-      "category": "미국 경제·정책",
-      "key": "1df7612588c8a987",
+      "title": "연준 금리 2연속 동결⋯한은 '2.50% 장기 고정' 시나리오 부상 - 포커스온경제",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBDLXhPbDZoX1lPODdfMlJQXzdJQmxKcE9kanR5OXJqUVFXNlcxbmVnaHUwZG5uc2t0T1Uxa2hqSjFSeDNILTdaUlkwd1VMZjd3a1pmcmFSa2dmaGptTnhGaA?oc=5",
+      "description": "연준 금리 2연속 동결⋯한은 '2.50% 장기 고정' 시나리오 부상 포커스온경제",
+      "pub_date": "Thu, 19 Mar 2026 07:00:00 GMT",
+      "category": "기준금리·통화정책",
+      "key": "f8d16b3e02a37ef0",
       "topic": "경제·환율·금리"
     }
   ]

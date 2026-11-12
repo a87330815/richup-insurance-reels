@@ -1,105 +1,95 @@
 {
-  "collected_at": "2026-11-12T16:25:00.442759+00:00",
+  "collected_at": "2026-11-12T21:23:15.307796+00:00",
   "items": [
     {
-      "keyword": "13일의 금요일",
+      "keyword": "장례",
+      "traffic": "5000+",
+      "news_title": "유재철 명장 “조문객보다 고인 중심 장례문화로 바뀌어야”",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "6d1ac0bc9b11c12d",
+      "collected_at": "2026-11-12T21:23:15.307359+00:00"
+    },
+    {
+      "keyword": "삼성 우승 할인",
+      "traffic": "1000+",
+      "news_title": "[단독]&quot;12년 만의 우승에 가전 할인&quot;…삼성스토어, 13일부터 할인",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "b10dbbb882f0a0e9",
+      "collected_at": "2026-11-12T21:23:15.307359+00:00"
+    },
+    {
+      "keyword": "조선민주주의인민공화국",
       "traffic": "100+",
-      "news_title": "빗나간 66년 전 ‘인구종말론’…AI 종말론은 다를까?",
+      "news_title": "北 “핵보유국 지위, 서방 논의 대상 될수없어”",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "9ca61f76b2e2abc2",
-      "collected_at": "2026-11-12T16:25:00.440979+00:00"
+      "key": "06545ca75900be23",
+      "collected_at": "2026-11-12T21:23:15.307359+00:00"
     },
     {
-      "keyword": "100 일 의 거짓말",
+      "keyword": "돔 경기장",
       "traffic": "100+",
-      "news_title": "‘100일의 거짓말’, 시청률 10% 넘더니 일 냈다…드라마 브랜드 평판 1위",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "56b0350ba12963d3",
-      "collected_at": "2026-11-12T16:25:00.440979+00:00"
-    },
-    {
-      "keyword": "msci",
-      "traffic": "200+",
-      "news_title": "Strategy, the World’s Biggest Corporate Bitcoin Holder, to Be Dropped From MSCI Indexes",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "e370e68c571fbaa2",
-      "collected_at": "2026-11-12T16:25:00.440979+00:00"
-    },
-    {
-      "keyword": "amd 주가",
-      "traffic": "200+",
-      "news_title": "AMD, AI 데이터센터 투자 기대에 강세… 서버용 CPU 수요까지 주목",
+      "news_title": "정명근, 화성 미래 담을 5만석 ‘K-MARS’ 돔 유치 승부수",
       "snippet": "",
       "source_type": "google_trends",
       "category": "경제·환율·금리",
-      "key": "cf39707d7280797b",
-      "collected_at": "2026-11-12T16:25:00.440979+00:00"
+      "key": "f121d3e01acd48f7",
+      "collected_at": "2026-11-12T21:23:15.307359+00:00"
     },
     {
-      "keyword": "토스증권",
-      "traffic": "1000+",
-      "news_title": "“AI 돈맥 어디로 흐르나”…5개국 발로 뛴 토스증권, 투자 지도 그렸다",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "2652bbefafe8c0bb",
-      "collected_at": "2026-11-12T16:25:00.440979+00:00"
-    },
-    {
-      "keyword": "해변",
-      "traffic": "500+",
-      "news_title": "해변 실종 박세나씨 수색 중단…지난 8일 샌타크루즈서 실종돼",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "1ac48e040023601b",
-      "collected_at": "2026-11-12T16:25:00.440979+00:00"
-    },
-    {
-      "keyword": "jyp 엔터테인먼트",
-      "traffic": "200+",
-      "news_title": "역대급 실적 낸 JYP, 주가 17% 급등한 이유는?",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "2dcdab50aada56f9",
-      "collected_at": "2026-11-12T16:25:00.440979+00:00"
-    },
-    {
-      "keyword": "학대",
+      "keyword": "물류",
       "traffic": "100+",
-      "news_title": "&quot;학대냐 아니냐&quot; 불붙은 논란‥&apos;어둠의 오은영&apos; 이제 못 보나",
+      "news_title": "물류-기술 기업 매칭의 장 열린다…13일 밋업 개최",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "738f021ed9ddf28b",
-      "collected_at": "2026-11-12T16:25:00.440979+00:00"
+      "key": "b15d7c03231a8846",
+      "collected_at": "2026-11-12T21:23:15.307359+00:00"
     },
     {
-      "keyword": "김태규",
+      "keyword": "시청률",
       "traffic": "500+",
-      "news_title": "개혁신당 &quot;국힘에 &apos;조작기소 특검 저지&apos; 연대투쟁 제안&quot;",
+      "news_title": "&quot;40시간 밤샘 촬영에 주먹다짐?&quot;…김윤석, 나홍진 감독과 불화설 해명 - 머니투데이",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "757c265f547ce3c9",
-      "collected_at": "2026-11-12T16:25:00.440979+00:00"
+      "key": "d79034c80ed30351",
+      "collected_at": "2026-11-12T21:23:15.307359+00:00"
     },
     {
-      "keyword": "폭설",
-      "traffic": "100+",
-      "news_title": "[Y현장] &apos;폭설&apos; 김윤석·구교환 &quot;영화 최대 무기는 나약하지만 강한 인간의 모습&quot;",
+      "keyword": "김하성",
+      "traffic": "500+",
+      "news_title": "“필라델피아, FA 김하성 영입 검토…단기 계약 내야수 찾는다”",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "b457587cba0e7eef",
-      "collected_at": "2026-11-12T16:25:00.440979+00:00"
+      "key": "64a8f2f19d03a7ba",
+      "collected_at": "2026-11-12T21:23:15.307359+00:00"
+    },
+    {
+      "keyword": "디에고 시메오네",
+      "traffic": "100+",
+      "news_title": "&apos;이강인 포함 18명 이탈&apos; ATM 또 대형악재! &apos;훈련 정상진행 불가&apos; 긴급 수혈…시메오네 한숨 깊어진다",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "08aaaa1e562c749a",
+      "collected_at": "2026-11-12T21:23:15.307359+00:00"
+    },
+    {
+      "keyword": "김상식",
+      "traffic": "100+",
+      "news_title": "딘 박은 호날두를 우상으로 여기기 때문에 7번 유니폼을 입는 것을 좋아하며, 호날두가 국가대표팀에서 8골을 넣었다는 사실에 &apos;놀랍다&apos;고 말합니다.",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "78fba19e040ce7b6",
+      "collected_at": "2026-11-12T21:23:15.307359+00:00"
     }
   ]
 }
