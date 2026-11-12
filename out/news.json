@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-12T10:31:42.628509+00:00",
+  "collected_at": "2026-11-12T16:24:58.637111+00:00",
   "topic_weight": {
     "보험·상품": 30,
     "영업·마인드": 25,
@@ -7,90 +7,91 @@
     "경제·환율·금리": 25
   },
   "topic_counts": {
-    "보험·상품": 1,
-    "영업·마인드": 1,
-    "경제·환율·금리": 7
+    "보험·상품": 3,
+    "영업·마인드": 3,
+    "의료·건강": 1,
+    "경제·환율·금리": 2
   },
   "items": [
     {
-      "title": "“노후 위해 모은 연금인데 건보료까지?”…사적연금·ISA 보험료 부과 논란 - 용인신문",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBEZkFwek82WHE2cE9BbkdhZFNtOXhGS2FMWDVIem5CeHNfNHJtazhzbUMzRWw4Nm8zb25EbUl2djhXc2tBd0N2bnFKeVVaaU9CU2N3YU1kbkYtT3Z6Tl9LYzU5R2Y?oc=5",
-      "description": "“노후 위해 모은 연금인데 건보료까지?”…사적연금·ISA 보험료 부과 논란 용인신문",
-      "pub_date": "Mon, 09 Nov 2026 01:28:29 GMT",
-      "category": "연금보험 노후",
-      "key": "503403bced6badbc",
+      "title": "“수익률 40%라더니 겨우 원금 회복?” … 변액보험 통장 열어보고 ‘깜짝’ - 매일경제",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1lMXlWVUhNVWI3U3lCNG8yV2hhRWp6UVBGbVhUaGh3MXhrTWZZY3FLa3BMQTRjZXFmT205Q3ZsaWY4SEJEYWJHcmhfbmlQb0pGX29JSQ?oc=5",
+      "description": "“수익률 40%라더니 겨우 원금 회복?” … 변액보험 통장 열어보고 ‘깜짝’ 매일경제",
+      "pub_date": "Sat, 06 Jun 2026 07:00:00 GMT",
+      "category": "변액보험 수익률",
+      "key": "58254c966e8d4e2f",
       "topic": "보험·상품"
     },
     {
-      "title": "프라임에셋, ‘픽앤플랜’ 서비스 고도화로 이용자 확대 추진 - 보험신보",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5TSnBIRFJ2TFlFVG83bE04MXIyR1pBdUZEc3R1N2FveWw5VWlUVnRSWVJuYTNUdDVLRWpnVEp5N3BJWDJpTjE1S3JKTmlNZDlqRUtYVkNISDVPQkp5NEctMllJODJwa2UyZkNr?oc=5",
-      "description": "프라임에셋, ‘픽앤플랜’ 서비스 고도화로 이용자 확대 추진 보험신보",
-      "pub_date": "Thu, 12 Nov 2026 06:45:42 GMT",
+      "title": "고환율에 달러보험 ‘불티’…올해 1.7조 돌파 유력 - 마켓인",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ldnV3cUdtUFFlUDRuMlMyUWJ0OWxITnRpUlJnN0RmRHY2VzZlT1JzVWdmMkxGdzVLRmZXdklwNy03V1B1SzktcF9lT1dIQVdzWnkzYm5aNUNJeF9BNUhjeGpkZzhtQ1hvN0lpdDFqeEZ2Q3c?oc=5",
+      "description": "고환율에 달러보험 ‘불티’…올해 1.7조 돌파 유력 마켓인",
+      "pub_date": "Thu, 23 Oct 2025 07:00:00 GMT",
+      "category": "달러보험 환율",
+      "key": "0c4109126abd911a",
+      "topic": "보험·상품"
+    },
+    {
+      "title": "연금 말고도 월 100만원 나온다…4050 '평생 돈줄' 전략 - 중앙일보",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBUN1dVdTAtaTdzQWVpUWF5ZWc3VjJ2eTc0RktzMzYweG1PVTFzcVBCeVczNlNPc29pRmNfSXpMb3dPYjNHYWhvRnVIaDVBWnVIMUJKR1l3?oc=5",
+      "description": "연금 말고도 월 100만원 나온다…4050 '평생 돈줄' 전략 중앙일보",
+      "pub_date": "Wed, 29 May 2024 07:00:00 GMT",
+      "category": "연금보험 노후",
+      "key": "48deec7715867490",
+      "topic": "보험·상품"
+    },
+    {
+      "title": "삼성화재, AI 영업지원 시스템 도입 - 서울경제TV",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5hemZWZDNhLUpFN181QU1YTmFFT0NraUlFdnJ5czBMdnl4NmRZMzBCQWZLdkVudHhHbkJSS0I2M0EyM1RuQTFVWURUa0FDWXU3a0JqMU1rN2VTWl9NbE9PMTRVNW1yRURyekE0?oc=5",
+      "description": "삼성화재, AI 영업지원 시스템 도입 서울경제TV",
+      "pub_date": "Mon, 26 Oct 2026 07:00:00 GMT",
       "category": "보험설계사 영업",
-      "key": "24997c3e57c10d66",
+      "key": "d97017070d451ca5",
       "topic": "영업·마인드"
     },
     {
-      "title": "이번주 케빈 워시 첫 FOMC…한은 금리 경로 촉각 - ebn.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBDMWhaSWt0cnFyTzFWeUVCNm1abjd2M1ctRzg4b29uTld5UHFPd2x1cDJ4V0x0S1E5LXBvc2xxQ2NNYjIwZTFwakdIaWhyY2puMHBsT09pS3ZVbXJEdkE2VjEtaktnVmN1?oc=5",
-      "description": "이번주 케빈 워시 첫 FOMC…한은 금리 경로 촉각 ebn.co.kr",
-      "pub_date": "Mon, 15 Jun 2026 07:00:00 GMT",
-      "category": "기준금리·통화정책",
-      "key": "15807a1323849588",
-      "topic": "경제·환율·금리"
+      "title": "보험 영업도 데이터 경쟁···핀다·토스 '고객 발굴' 전략 보니 - 뉴스웨이",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE51YjVSd1hDUWU4dnN0Y1Iwa3NUWnM2NXdxSFZBZERXN3FaSmdpZi1GUnQ5Rm1BWG9CYlR0QWxxV2FjSG4ycGJGVllfYzBRNTJoVmtYZ3lKX3NwTXZSTHdrWWNNc0JUNFpPTGc?oc=5",
+      "description": "보험 영업도 데이터 경쟁···핀다·토스 '고객 발굴' 전략 보니 뉴스웨이",
+      "pub_date": "Wed, 21 Oct 2026 07:00:00 GMT",
+      "category": "보험설계사 영업",
+      "key": "25aeed9e61731349",
+      "topic": "영업·마인드"
     },
     {
-      "title": "기준금리 4연속 동결될 듯…\"집값·대출·환율 여전히 불안\" - 연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5BSGxkWl84VXRtUk9sbldDaVp0TjVKZ28xaXBpYTRJYzVqcDAtMTM3SXJBWGQyaldsUHpQZDVmb0RUWU9iUXFqaThSdzdEc3JwYkUxM1Z5NUM4MDTSAWBBVV95cUxNRHRiSEZwMHhGSDN3UGNVQi03bEp1TWhyZkViUXdoNGRLQ0xib28xc1J0Yld1a2k0MUFPTmt1b0RDT2dpRjhaYU5WeURSdTBZc1BFUEdhODNBVDk1NVZFSjk?oc=5",
-      "description": "기준금리 4연속 동결될 듯…\"집값·대출·환율 여전히 불안\" 연합뉴스",
-      "pub_date": "Mon, 24 Nov 2025 08:00:00 GMT",
-      "category": "기준금리·통화정책",
-      "key": "0117421c7e162f66",
-      "topic": "경제·환율·금리"
+      "title": "[2026 GA 우수인증설계사] 유퍼스트, 25년 노하우로 ‘고객 중심’ 컨설팅 강화 - 한국보험신문",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBuNl9JZ2JROFJhQ2NoUXpQRWFFYWFXZExsNWRrRDBDTEU0V3JlajkwbURRYjNkSXNSREFLQnN4cGZYZ3pxbkkxaEJCZlhvY1JXaTl1RkR4NnJMSzhjejdvVURvMmpFdXc0OGRR0gFvQVVfeXFMTkpvLVdGdEV3T2l0YmIyZ1hEcjRHTk9wOHFQcVRuc1dMT1AxR2pmcmVSZ2xlUTRxWFRwZlJOMnNNaDQzUnB1NWd4dnhQbVpSM3ZYRldJaTJXZzFPU1JxcEoyNnRHRktHWW43MXlqSzc0?oc=5",
+      "description": "[2026 GA 우수인증설계사] 유퍼스트, 25년 노하우로 ‘고객 중심’ 컨설팅 강화 한국보험신문",
+      "pub_date": "Mon, 31 Aug 2026 07:00:00 GMT",
+      "category": "보험설계사 영업",
+      "key": "5277a2597f5f09d6",
+      "topic": "영업·마인드"
     },
     {
-      "title": "[환율 전망] 반도체 주도의 수출 호황, 여전히 풍부한 달러 - KB Think",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1LR0Z3LTFQZjFLSng1RmFyckdrY1pIVlZzMjZ5eFQzWm5CVGhMajFlcEpXY3JpX3J3VUJyYjRQVC1HcUI4cXZmZERJUklLeFl6WTlzd05NdjZ2NXJrM0pPWg?oc=5",
-      "description": "[환율 전망] 반도체 주도의 수출 호황, 여전히 풍부한 달러 KB Think",
-      "pub_date": "Thu, 12 Nov 2026 06:49:34 GMT",
+      "title": "\"5만원이던 진료비가 어느날 갑자기 60만원으로...\" - 청년의사",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0ybUEzTklBTnBMYm55c3JncHY5RXJJRTl1WDd1NlhMUFhObnBGMG9pZTFldDZ3RnRYZGpYeVNScjJQZGoxOUFRTHZGMXJDbnlhMENCQXFPVFdEcnVIeHZOcUhqQ1VWREpTc3dZVNIBcEFVX3lxTE9HR0hMdmZaQTV6aFZtc3lfU3hvOFVWZEFVYm5XYmdra0t5T0tBa20yYXBuQlg1S3hQZXJBLTdtZzNKTlYydFNfdkJjNVVSU3oxRXUzZTFnWnZjeWs5dXhGNVRBbmRPbFZvOHhQSmY0VUI?oc=5",
+      "description": "\"5만원이던 진료비가 어느날 갑자기 60만원으로...\" 청년의사",
+      "pub_date": "Fri, 10 Sep 2010 07:00:00 GMT",
+      "category": "암 의료비",
+      "key": "b53e906c0e7f8c1f",
+      "topic": "의료·건강"
+    },
+    {
+      "title": "[환율 전망] 물가에 스며든 관세, 곧이어 나타난 달러 강세 - KB Think",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE05NU1YbjFmOTBVX0NLbGd4TjZWOTk4RHJncUNaQ09zaFdLSld6WHRrWWNqWkNnNzhzbENaUGdoT3JFY2ZUc25sX0h3YVpaSWtYZGNjbGZLRWJWUFVrczFybA?oc=5",
+      "description": "[환율 전망] 물가에 스며든 관세, 곧이어 나타난 달러 강세 KB Think",
+      "pub_date": "Wed, 16 Jul 2025 07:00:00 GMT",
       "category": "환율 전망",
-      "key": "0b9607780dd58145",
+      "key": "41a9e43e962ac0ce",
       "topic": "경제·환율·금리"
     },
     {
-      "title": "[환율 전망] 유가와 금리 하락, 원화에는 더욱 긍정적 - KB Think",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE01LVZqNExGdmlkWmZ2V2RMRnA5NW1PdjZDRjc3Vzh2V1U0cjFQU1BfTEVXVDd5dFBUbDl4eER1UkRsVk4yd0NVMUY0dy1SZFlJb2JuYkgyQTQwQjMtMVlPOQ?oc=5",
-      "description": "[환율 전망] 유가와 금리 하락, 원화에는 더욱 긍정적 KB Think",
-      "pub_date": "Wed, 26 Aug 2026 07:00:00 GMT",
-      "category": "환율 전망",
-      "key": "14d7ffdb48c8211c",
-      "topic": "경제·환율·금리"
-    },
-    {
-      "title": "[환율 전망] 달러는 시험대, 원화는 버티기 - KB Think",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9iUEF2SWEtbHhZMmJ3Y1FVMC1WQktnSEI3TV9teEhEWVFSNVNIV3pCN3ZVR24wa2VVR3VJU1hoeXota1lHcVlPQTNQdXl0cGlTdGY2MldLRFFpZlQ4c0IzRw?oc=5",
-      "description": "[환율 전망] 달러는 시험대, 원화는 버티기 KB Think",
-      "pub_date": "Mon, 29 Jun 2026 07:00:00 GMT",
-      "category": "환율 전망",
-      "key": "b160484c07be0443",
-      "topic": "경제·환율·금리"
-    },
-    {
-      "title": "트럼프 '관세 전쟁', 미국 전역서 퇴진 시위 - 네이버페이 머니스토리",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB3WGtkMlQ1eDVZR3lfeTl1dHhRZU5kX1JrbkpMcV8tdS1KcEUyTzdUaDgtSUlaUGlXTENqNGZ1dXVIMkNpOWwxNDI1c3pHMG9kNThrWTF2QQ?oc=5",
-      "description": "트럼프 '관세 전쟁', 미국 전역서 퇴진 시위 네이버페이 머니스토리",
-      "pub_date": "Mon, 07 Apr 2025 07:00:00 GMT",
+      "title": "‘트럼프 관세’ 증시 쇼크, 9·11 테러보다 컸다 - 조선일보",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNR204TUd2cHYxQzZNNHdNazNnUXVKa20wZEdpTUdOd2FZalBDSzlaS194SnpiY2h1V05nRVFiYzk4c3hfQVJoc0RmczAweTlBOVlTWFlFRllsdE1WM3FYNEhMSS1lcWFNVExtZkxkeklWcjhrNU1IZzQtX0gzalBDWGZNQUFNbUFUb2VudFBn?oc=5",
+      "description": "‘트럼프 관세’ 증시 쇼크, 9·11 테러보다 컸다 조선일보",
+      "pub_date": "Tue, 08 Apr 2025 07:00:00 GMT",
       "category": "미국 경제·정책",
-      "key": "82a571bb959c493c",
-      "topic": "경제·환율·금리"
-    },
-    {
-      "title": "[3분증시] 뉴욕증시, 미국 디폴트 우려에 하락…나스닥 1.3%↓ - 연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5VXpyQ2o0dmxUVkhkTVBkSFZGcGhQX2tsOFMxMWpWRkhMTVhfQmVFNVZOd3ZrSFdPeFM2SmVwbkZIUEgtTGM1REowb3d2eEtPYldoQWd4VmRKM0nSAWBBVV95cUxNTXRIREVYQmVqN2xhWThpU1d5aDBIX3dWbDRnWHo5ZkFjemNyeldDdE9DNTRkQ3Bva0RJRzVUcmJpUVZiZ3dxYTVhaXFvQ01ucVVTZVZNbFI0SmRVTkloVXU?oc=5",
-      "description": "[3분증시] 뉴욕증시, 미국 디폴트 우려에 하락…나스닥 1.3%↓ 연합뉴스",
-      "pub_date": "Wed, 24 May 2023 07:00:00 GMT",
-      "category": "글로벌 시장",
-      "key": "3d7eaf7ce256800d",
+      "key": "1df7612588c8a987",
       "topic": "경제·환율·금리"
     }
   ]

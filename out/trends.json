@@ -1,95 +1,105 @@
 {
-  "collected_at": "2026-11-12T10:31:43.843353+00:00",
+  "collected_at": "2026-11-12T16:25:00.442759+00:00",
   "items": [
     {
-      "keyword": "박충권",
-      "traffic": "200+",
-      "news_title": "정동영에 “북동영” 했다가…“탈충권” 역공 당한 박충권 [이런뉴스]",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "eab52091d61fbcb4",
-      "collected_at": "2026-11-12T10:31:43.842932+00:00"
-    },
-    {
-      "keyword": "한강 벨트",
-      "traffic": "200+",
-      "news_title": "서울 아파트값 92주 연속 상승… 성동·강동구 하락 전환",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "0f1042a4c8aeb8eb",
-      "collected_at": "2026-11-12T10:31:43.842932+00:00"
-    },
-    {
-      "keyword": "성시경 콘서트",
+      "keyword": "13일의 금요일",
       "traffic": "100+",
-      "news_title": "[단독] 성시경 막걸리, 세븐일레븐에 입점한다",
+      "news_title": "빗나간 66년 전 ‘인구종말론’…AI 종말론은 다를까?",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "9f97c77f95036012",
-      "collected_at": "2026-11-12T10:31:43.842932+00:00"
+      "key": "9ca61f76b2e2abc2",
+      "collected_at": "2026-11-12T16:25:00.440979+00:00"
     },
     {
-      "keyword": "국제 a 매치",
+      "keyword": "100 일 의 거짓말",
+      "traffic": "100+",
+      "news_title": "‘100일의 거짓말’, 시청률 10% 넘더니 일 냈다…드라마 브랜드 평판 1위",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "56b0350ba12963d3",
+      "collected_at": "2026-11-12T16:25:00.440979+00:00"
+    },
+    {
+      "keyword": "msci",
+      "traffic": "200+",
+      "news_title": "Strategy, the World’s Biggest Corporate Bitcoin Holder, to Be Dropped From MSCI Indexes",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "e370e68c571fbaa2",
+      "collected_at": "2026-11-12T16:25:00.440979+00:00"
+    },
+    {
+      "keyword": "amd 주가",
+      "traffic": "200+",
+      "news_title": "AMD, AI 데이터센터 투자 기대에 강세… 서버용 CPU 수요까지 주목",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "경제·환율·금리",
+      "key": "cf39707d7280797b",
+      "collected_at": "2026-11-12T16:25:00.440979+00:00"
+    },
+    {
+      "keyword": "토스증권",
       "traffic": "1000+",
-      "news_title": "“에이~ 매치” 되어버린 A매치···축구대표팀 인기 추락하는 소리",
+      "news_title": "“AI 돈맥 어디로 흐르나”…5개국 발로 뛴 토스증권, 투자 지도 그렸다",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "841b9d175be0247a",
-      "collected_at": "2026-11-12T10:31:43.842932+00:00"
+      "key": "2652bbefafe8c0bb",
+      "collected_at": "2026-11-12T16:25:00.440979+00:00"
     },
     {
-      "keyword": "인벤",
+      "keyword": "해변",
+      "traffic": "500+",
+      "news_title": "해변 실종 박세나씨 수색 중단…지난 8일 샌타크루즈서 실종돼",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "1ac48e040023601b",
+      "collected_at": "2026-11-12T16:25:00.440979+00:00"
+    },
+    {
+      "keyword": "jyp 엔터테인먼트",
+      "traffic": "200+",
+      "news_title": "역대급 실적 낸 JYP, 주가 17% 급등한 이유는?",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "2dcdab50aada56f9",
+      "collected_at": "2026-11-12T16:25:00.440979+00:00"
+    },
+    {
+      "keyword": "학대",
       "traffic": "100+",
-      "news_title": "Lost Ark celebrates 8th anniversary with spooky event island",
+      "news_title": "&quot;학대냐 아니냐&quot; 불붙은 논란‥&apos;어둠의 오은영&apos; 이제 못 보나",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "441ee77906795c1b",
-      "collected_at": "2026-11-12T10:31:43.842932+00:00"
+      "key": "738f021ed9ddf28b",
+      "collected_at": "2026-11-12T16:25:00.440979+00:00"
     },
     {
-      "keyword": "035420",
-      "traffic": "200+",
-      "news_title": "Naver&apos;s Q3 operating profit falls 21% as it bets on 2 trillion won deal, AI agent app and logistics subsidiary",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "6682568715ab1861",
-      "collected_at": "2026-11-12T10:31:43.842932+00:00"
-    },
-    {
-      "keyword": "이부진",
+      "keyword": "김태규",
       "traffic": "500+",
-      "news_title": "이부진은 ‘3년 전 그 재킷’, 지수는 ‘레이디 디올’… 디올 패션도 화제",
+      "news_title": "개혁신당 &quot;국힘에 &apos;조작기소 특검 저지&apos; 연대투쟁 제안&quot;",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "6549bc230d5ff5d3",
-      "collected_at": "2026-11-12T10:31:43.842932+00:00"
+      "key": "757c265f547ce3c9",
+      "collected_at": "2026-11-12T16:25:00.440979+00:00"
     },
     {
-      "keyword": "김승우",
-      "traffic": "500+",
-      "news_title": "배우 김승우, 2200만원 절도 혐의 피소…“술자리 장난이었다”",
+      "keyword": "폭설",
+      "traffic": "100+",
+      "news_title": "[Y현장] &apos;폭설&apos; 김윤석·구교환 &quot;영화 최대 무기는 나약하지만 강한 인간의 모습&quot;",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "85a4deb5b0573ad4",
-      "collected_at": "2026-11-12T10:31:43.842932+00:00"
-    },
-    {
-      "keyword": "아르헨티나",
-      "traffic": "200+",
-      "news_title": "두 개의 아르헨티나: 유전 대박과 실직한 가장들[딥다이브]",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "114af6464ac66af2",
-      "collected_at": "2026-11-12T10:31:43.842932+00:00"
+      "key": "b457587cba0e7eef",
+      "collected_at": "2026-11-12T16:25:00.440979+00:00"
     }
   ]
 }
