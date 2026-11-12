@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-11T21:08:44.254068+00:00",
+  "collected_at": "2026-11-12T03:30:40.683404+00:00",
   "topic_weight": {
     "보험·상품": 30,
     "영업·마인드": 25,
@@ -7,63 +7,44 @@
     "경제·환율·금리": 25
   },
   "topic_counts": {
-    "보험·상품": 2,
-    "영업·마인드": 1,
+    "의료·건강": 1,
     "경제·환율·금리": 3
   },
   "items": [
     {
-      "title": "미래에셋생명, 변액보험 장기 수익률 1위 - 한경매거진&북",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1yRE1ZS3A4elF5S3hvdVYzc01XTlROUko2QXV1OXJzODdESDl4Nk9PS0sxSVlNSzdfV2QxM3JaWUNqZXpTNk94ZXQ0cnpSYkdtRHNRdDUxdzJiazY3MWlpOGRWa0ZWVE9jV3JiTw?oc=5",
-      "description": "미래에셋생명, 변액보험 장기 수익률 1위 한경매거진&북",
-      "pub_date": "Wed, 27 Mar 2019 07:00:00 GMT",
-      "category": "변액보험 수익률",
-      "key": "5b4566f086134c19",
-      "topic": "보험·상품"
+      "title": "고령자 간병·치매보험 가입률 17.9%…\"초고령화 시대 간병 위험 준비해야\" - 연합인포맥스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5IZjFmX19TQTFaTm1DWWN4WGtGWFhuQndZWG4xR1puN3FJWFYyUEpJYXB5WWlTWnVEQWE4UkQtamxDV25PRUhhTTNtS2FFb1A0TlJSNm1rdWFieUtkUWNhUnk3aEwxLXRURnoxVUFweXQ?oc=5",
+      "description": "고령자 간병·치매보험 가입률 17.9%…\"초고령화 시대 간병 위험 준비해야\" 연합인포맥스",
+      "pub_date": "Thu, 02 Nov 2023 07:00:00 GMT",
+      "category": "치매 간병",
+      "key": "e2e1ca891393b454",
+      "topic": "의료·건강"
     },
     {
-      "title": "보험GA협회, 설계사 1천명 이상 ‘대형 GA’ 6개사 자율협약 가입 완료 - 한국보험신문",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5XbG1VN3dnYm02Q214X0VKbDh1MHZnV3Zrczl3bGhMQlFBMUlIaV9PRGtoazZ5QkVfQjA5UC14Mm9NanFRTHNFS0JiZ0xNUUF4UlVfaGhaTnp1WnZTMjd4VGM2THVuN0p1SzRR0gFvQVVfeXFMUGtDMUp4MG9Da3Y4aFJjZmFyR2t6RDI1RHE2dGpuRXJUZ3hMZlpYQkotV3VLYnZnN3BfMk5BOUhuNFVXTXc2blQ3THhkc2h5ZmJJM2Q4dUlHcWw2RmMtUjhWT2lSWjQ0MkpvQlhfQ2g4?oc=5",
-      "description": "보험GA협회, 설계사 1천명 이상 ‘대형 GA’ 6개사 자율협약 가입 완료 한국보험신문",
-      "pub_date": "Thu, 30 Apr 2026 07:00:00 GMT",
-      "category": "보험 제도·규제",
-      "key": "444af6c55c96fc79",
-      "topic": "보험·상품"
-    },
-    {
-      "title": "'1200%룰' GA 경력 설계사 리쿠르팅… \"선별 영입 계속\" 57.7% vs \"급격 위축\" 42.3% (영상+) - 보험저널",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1pSHY3M2JrWGh2b3ZlMFBaUVM4ZS1ZX1I3Y3FmTF9LYnJzUURqaGdPQko2OEhuRGctUXdabzlTTlk1M2gyN1pnTE5zYXA2SGhTTW9pYjEwOFE3V0tCSVhDVkEtWlBYa3EtQkQxX2tJZw?oc=5",
-      "description": "'1200%룰' GA 경력 설계사 리쿠르팅… \"선별 영입 계속\" 57.7% vs \"급격 위축\" 42.3% (영상+) 보험저널",
-      "pub_date": "Sat, 06 Jun 2026 07:00:00 GMT",
-      "category": "GA 법인보험대리점",
-      "key": "6e201d92fb5d3815",
-      "topic": "영업·마인드"
-    },
-    {
-      "title": "3연속 동결 택한 美 연준…눈치 보는 한은, 하반기 인상론 ‘고개’ - CEO스코어데일리",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1YZnZYY0NkZGZkMFgwX3FFSHBRcmlmQ1ZtY1ltRDMzMHV2cVE2WFZlSlMxVUVUVG9Wa0JfUWd3b1hLUU5wY1JYRmVqeTZhUlJnY0VudDNJMXoyMldGaXNIMXNiZWtlVnZ2UnNj?oc=5",
-      "description": "3연속 동결 택한 美 연준…눈치 보는 한은, 하반기 인상론 ‘고개’ CEO스코어데일리",
-      "pub_date": "Thu, 30 Apr 2026 07:00:00 GMT",
-      "category": "기준금리·통화정책",
-      "key": "e6161599ffe35f04",
-      "topic": "경제·환율·금리"
-    },
-    {
-      "title": "\"환율 단기 상·하방 압력 상존…달러 강세에 반등 가능성 有\" - 연합인포맥스",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBKb0RGZUE2QnlocldMbWFaMDEyRmVQQWhrZEFjSnl5aERST1ViRDdNUEJFZWJsY1JGUU84bkRUTW00aTlfWkZjUC1ZVTNFTWk3SUh4SjdqZjdjdzhSTGd5SDJTWTl1V0JKc0w4c2NSY3Q?oc=5",
-      "description": "\"환율 단기 상·하방 압력 상존…달러 강세에 반등 가능성 有\" 연합인포맥스",
-      "pub_date": "Fri, 09 Oct 2026 07:00:00 GMT",
+      "title": "[환율 전망] 요즘 환시에서 FOMC는 감다죽, AI는 감다살 - KB Think",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBBXzZJUUs1aWg0X0RPdTNRR183UTJLZkFfU3pQcXEzZUJUWXpiUVBrWHRtbjNrbjlxRlZsT2tCOEgzS0NfTFYxeDhPdUF5OUg3RmlJaHU3Mm1LZjAySlREcg?oc=5",
+      "description": "[환율 전망] 요즘 환시에서 FOMC는 감다죽, AI는 감다살 KB Think",
+      "pub_date": "Wed, 28 Oct 2026 07:00:00 GMT",
       "category": "환율 전망",
-      "key": "33f28fa36fc66403",
+      "key": "c3ff55bc4ce44f9e",
       "topic": "경제·환율·금리"
     },
     {
-      "title": "나스닥 한때 2% 급락…코스피發 투매에 AI 랠리 '제동' - 이데일리TV",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9jUnN3dDBCbjVLTTIwaUdHbWIzVVd0NGlQNnk2Z0NVU3hmSjVtVFVwbUpFdnFEMkpMQk1KVm9VTzNUTHBEY1ZvcjdUdzR2V1FaeldWUmpRd1lqYUFsYXhOMmI2YnNiRkw3TFVMUDhBY0pKWjV1R2tXNHJDbw?oc=5",
-      "description": "나스닥 한때 2% 급락…코스피發 투매에 AI 랠리 '제동' 이데일리TV",
-      "pub_date": "Wed, 24 Jun 2026 07:00:00 GMT",
+      "title": "폭락장세 뒤 반등했지만 악재는 여전…이번주 코스피 향배는 - 매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9EQnFwNW5wRXNsdHFUOURDMmw4Q1h4X0k0NmwzUnEyekJUNEFMaHdiQjV1bER3LWlLT1I1ZDZJTW55VGJHREZ3b0dRNFNaMU5GUmc?oc=5",
+      "description": "폭락장세 뒤 반등했지만 악재는 여전…이번주 코스피 향배는 매일경제 마켓",
+      "pub_date": "Sun, 18 Oct 2026 07:00:00 GMT",
       "category": "글로벌 시장",
-      "key": "026f5323413a6454",
+      "key": "3494cf0be8225f73",
+      "topic": "경제·환율·금리"
+    },
+    {
+      "title": "日·대만 달리는데…3대 걸림돌에 막힌 코스피 - 매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBjSFUtejZWUXZuRWE3a1RzLVByTkN4bTFtWVFReVVNcEtnZkQtMGZlNllaaGU1TmU5aUJtaE4yUTNDMkNaM1pMMURVWWJYSjY0aXc?oc=5",
+      "description": "日·대만 달리는데…3대 걸림돌에 막힌 코스피 매일경제 마켓",
+      "pub_date": "Fri, 09 Oct 2026 07:00:00 GMT",
+      "category": "글로벌 시장",
+      "key": "5092fbe3b28fa5da",
       "topic": "경제·환율·금리"
     }
   ]
