@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-13T15:45:20.898478+00:00",
+  "collected_at": "2026-11-13T20:48:43.481599+00:00",
   "topic_weight": {
     "보험·상품": 30,
     "영업·마인드": 25,
@@ -7,64 +7,26 @@
     "경제·환율·금리": 25
   },
   "topic_counts": {
-    "보험·상품": 1,
-    "의료·건강": 3,
-    "경제·환율·금리": 2
+    "영업·마인드": 2
   },
   "items": [
     {
-      "title": "삼성생명 '변액보험 펀드추가' 도입…기존 가입자도 적용 - 한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE04SmxpdXZuLTRjT3A5Z1g2SERHUm13TmNHd1gyUWRkdmU3aFZBay1CQloza25DTEg0d2tDZWpuUGtWTHNsamNkbkVfTEstSERkZGVXblZUOERidw?oc=5",
-      "description": "삼성생명 '변액보험 펀드추가' 도입…기존 가입자도 적용 한국경제",
-      "pub_date": "Wed, 17 Oct 2018 07:00:00 GMT",
-      "category": "변액보험 수익률",
-      "key": "24f1a1a1e66854fe",
-      "topic": "보험·상품"
+      "title": "토스인슈어런스, 연말까지 신입 보험설계사 육성 ‘지원’ - 한국보험신문",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBqc21kVEdjOWpLUzRYbTRWV1I0S1FtaEF0QlRmWWFGWkx1SDluMF9DZmlxMldMVEpQUTY4Z2JiQ0hZWGJvbmczTC1zXzhjalBXa3dGU2M5dEN5eGE4OGFhVGZWYl9qSmgtYktz0gFvQVVfeXFMT1pwOWF6bWJNOTZyejFLdEhFdEc1VEVjOUxhb0s4cjJhQzd6WWxYZjREM3cyNWxuZU84LTh3aFNodkdMRVlDZ1IwLWd3YmZZel9EM21RZWhoRHROWXZBdEJVX3N1LUYzOUVSZUVTQWlB?oc=5",
+      "description": "토스인슈어런스, 연말까지 신입 보험설계사 육성 ‘지원’ 한국보험신문",
+      "pub_date": "Fri, 13 Nov 2026 02:43:13 GMT",
+      "category": "보험설계사 영업",
+      "key": "66f5e46ab88c1352",
+      "topic": "영업·마인드"
     },
     {
-      "title": "치매환자 100만명…치매·간병보험금만 연 1조 달한다 - 마켓인",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE51YmZ1OGFvQTNDdW01eFBJWnJfendwYkd0c2xfUDlIWExSNnEwajlXZWpXNDdOdHhpOG9kcTdxeVNFdUV1a0ZJblJSMll6WUtRYVFNM2ZURDNBdzE2bnBsT2hBSzdWdkprenQyeFdzbWlSUlU?oc=5",
-      "description": "치매환자 100만명…치매·간병보험금만 연 1조 달한다 마켓인",
-      "pub_date": "Mon, 09 Mar 2026 07:00:00 GMT",
-      "category": "치매 간병",
-      "key": "36677d0857df6d7f",
-      "topic": "의료·건강"
-    },
-    {
-      "title": "치매보험 가입 증가… “재정 능력 고려해 신중히 - M이코노미뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9HbGpzMzVFQ1NjM0gyR25RcG1WdDNVRDBUYXIwNFgtdlZ6bWZrTTdQNzV0LVlaSDQ3NXZMZHhkS2ljTm4weTdiMHluaVVzb2JaMVNXMW1lRzlIV2xSejVKV0pR?oc=5",
-      "description": "치매보험 가입 증가… “재정 능력 고려해 신중히 M이코노미뉴스",
-      "pub_date": "Fri, 20 Mar 2020 07:00:00 GMT",
-      "category": "치매 간병",
-      "key": "d593be982d15b3a6",
-      "topic": "의료·건강"
-    },
-    {
-      "title": "흥국생명, ‘가족사랑치매간병보험’ 출시 - 보험신보",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAwX2dBeTRCMnBJWUdLaG43enBBSUpQNTdJbUpiNjNoSTVzMm1Mck5PcGphWUNWcHY5RHJRZDhZNFBtNzJMWmNEYUZKMFgyYjFlOVN3djhjT2JNLUtVZkJ3dGtfektBM0hFeEdR?oc=5",
-      "description": "흥국생명, ‘가족사랑치매간병보험’ 출시 보험신보",
-      "pub_date": "Mon, 02 Jul 2018 07:00:00 GMT",
-      "category": "치매 간병",
-      "key": "31471f5f891cd574",
-      "topic": "의료·건강"
-    },
-    {
-      "title": "[환율 전망] 미국의 '끈적한 물가' 확인, 환율은 혼조 예상 - KB Think",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ZSS1kWXlpSjRIalBGaXBpWjc5NnZaVWEtanVlVUkwRDhVSk9vUnNyS2FmMzJrTEtyb0xvUGxVb1c5Z2pUaFBuSENDM2pKUEpmdzQycjI2MGFJLTlTY0VZMQ?oc=5",
-      "description": "[환율 전망] 미국의 '끈적한 물가' 확인, 환율은 혼조 예상 KB Think",
-      "pub_date": "Thu, 13 Aug 2026 07:00:00 GMT",
-      "category": "환율 전망",
-      "key": "3a6230ed2d94dcc1",
-      "topic": "경제·환율·금리"
-    },
-    {
-      "title": "[AI MY 증시전망] 엔비디아發 투심 위축…코스피 반등 제한 - 뉴스핌",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBIUDE2QkZsMkZJNjZqdTB5Qy1fdHF5Wi1zV1RPSm9FT2RDbmFQZU9PWUFGOWZ0TzlmRkxWdGJHVm8ycTVmcXVaRW5uM0FTYzA1Y2dTbHI3TW9SUVFK?oc=5",
-      "description": "[AI MY 증시전망] 엔비디아發 투심 위축…코스피 반등 제한 뉴스핌",
-      "pub_date": "Thu, 12 Nov 2026 22:58:00 GMT",
-      "category": "글로벌 시장",
-      "key": "c7cec5c26a5cbc3a",
-      "topic": "경제·환율·금리"
+      "title": "토스인슈어런스, ‘언더라이팅 지원센터’로 설계사 영업 지원 강화 - 조세일보",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9WVEtNbjFDS2tMVi1reGV0S0JJOFlPVTE4TUcyb0N2cWRldFVjcWxlYzRDakRLMFNoOVJueExaMm9idVY2cmkzZnk2WVhIOXRlY0hCTkFma1hBQTI0UlVv?oc=5",
+      "description": "토스인슈어런스, ‘언더라이팅 지원센터’로 설계사 영업 지원 강화 조세일보",
+      "pub_date": "Wed, 24 Dec 2025 08:00:00 GMT",
+      "category": "보험설계사 영업",
+      "key": "b4c1725d8242cff9",
+      "topic": "영업·마인드"
     }
   ]
 }

@@ -1,85 +1,65 @@
 {
-  "collected_at": "2026-11-13T15:45:22.332648+00:00",
+  "collected_at": "2026-11-13T20:48:44.580134+00:00",
   "items": [
     {
-      "keyword": "김수현",
-      "traffic": "1000+",
-      "news_title": "“이미지 실추로 손해, 모델료 반환해야”···법원, 배우 김수현 측 11억여원 반환 판결",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "90a966ac7ce34c30",
-      "collected_at": "2026-11-13T15:45:22.332183+00:00"
-    },
-    {
-      "keyword": "쿠플",
-      "traffic": "200+",
-      "news_title": "",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "2a3561c6ceff4a16",
-      "collected_at": "2026-11-13T15:45:22.332183+00:00"
-    },
-    {
-      "keyword": "대한민국",
-      "traffic": "200+",
-      "news_title": "[게시판] 농식품부, 15일까지 &apos;2026 대한민국 우리술 대축제&apos;",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "4f12e8995f9606c6",
-      "collected_at": "2026-11-13T15:45:22.332183+00:00"
-    },
-    {
-      "keyword": "포수",
+      "keyword": "항공 엔진",
       "traffic": "100+",
-      "news_title": "KBO FA 시장 개장! 원태인·구자욱·양의지 등 28명 자격 공시",
+      "news_title": "한화, 국내 첫 1만파운드급 항공엔진 개발한다…1천773억 규모",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "5f31470d7115460a",
-      "collected_at": "2026-11-13T15:45:22.332183+00:00"
+      "key": "4a9889b39538b71f",
+      "collected_at": "2026-11-13T20:48:44.579812+00:00"
     },
     {
-      "keyword": "광천동주택재개발",
-      "traffic": "100+",
-      "news_title": "광천동 재개발 철거 착수…교통망 확충은 ‘난항’",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "d35fb9659230cfd1",
-      "collected_at": "2026-11-13T15:45:22.332183+00:00"
-    },
-    {
-      "keyword": "민희진",
-      "traffic": "1000+",
-      "news_title": "“아일릿이 뉴진스 카피” 민희진에 20억 손배소송한 빌리프랩 패소",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "e8b9bd2776c78635",
-      "collected_at": "2026-11-13T15:45:22.332183+00:00"
-    },
-    {
-      "keyword": "대한민국 기후에너지환경부",
+      "keyword": "월즈 결승",
       "traffic": "200+",
-      "news_title": "“기후행동 실천하면 포인트·금리우대”…민관 금융협력 체계 구축",
+      "news_title": "[롤드컵]쵸비·기인·듀로의 첫 우승 꿈…룰러·캐니언과 이룰까",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "7167f3b725989e1e",
-      "collected_at": "2026-11-13T15:45:22.332183+00:00"
+      "key": "28f9cfd59178c628",
+      "collected_at": "2026-11-13T20:48:44.579812+00:00"
     },
     {
-      "keyword": "明天的天氣",
-      "traffic": "100+",
-      "news_title": "氣溫漸升東偶雨週六短波槽掠過",
+      "keyword": "정몽구",
+      "traffic": "500+",
+      "news_title": "정무성 현대차 정몽구재단 이사장 별세…향년 68세",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "4ad0f6728558aaba",
-      "collected_at": "2026-11-13T15:45:22.332183+00:00"
+      "key": "7080c4636e4a2239",
+      "collected_at": "2026-11-13T20:48:44.579812+00:00"
+    },
+    {
+      "keyword": "닥터x 의사놀이",
+      "traffic": "100+",
+      "news_title": "닥터X : 하얀 마피아의 시대 : [최종회 예고] “용케 살아서 여기까지 왔네” 김지원, 환자 수술 도중 중단 선언♨ (ft. 폐원)",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "f06eccbaa043b120",
+      "collected_at": "2026-11-13T20:48:44.579812+00:00"
+    },
+    {
+      "keyword": "박지현",
+      "traffic": "200+",
+      "news_title": "나 혼자 산다",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "6538ddebe64d2401",
+      "collected_at": "2026-11-13T20:48:44.579812+00:00"
+    },
+    {
+      "keyword": "구성환",
+      "traffic": "200+",
+      "news_title": "&quot;초콜릿에 러브레터 많이 받아&quot; 구성환, 4대 천왕 비주얼 공개 (&apos;나혼산&apos;)",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "c7cab2aa84c01041",
+      "collected_at": "2026-11-13T20:48:44.579812+00:00"
     }
   ]
 }
