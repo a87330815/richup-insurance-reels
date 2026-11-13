@@ -1,95 +1,85 @@
 {
-  "collected_at": "2026-11-13T10:24:27.874768+00:00",
+  "collected_at": "2026-11-13T15:45:22.332648+00:00",
   "items": [
     {
-      "keyword": "단타",
-      "traffic": "2000+",
-      "news_title": "&quot;하루 600만원도 벌었다&quot;…주식 올인한 &apos;단타&apos; 여성, 현재 계좌는",
+      "keyword": "김수현",
+      "traffic": "1000+",
+      "news_title": "“이미지 실추로 손해, 모델료 반환해야”···법원, 배우 김수현 측 11억여원 반환 판결",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "c2ef833ab40e6ca0",
-      "collected_at": "2026-11-13T10:24:27.874282+00:00"
+      "key": "90a966ac7ce34c30",
+      "collected_at": "2026-11-13T15:45:22.332183+00:00"
     },
     {
-      "keyword": "한국 사우디",
-      "traffic": "100+",
-      "news_title": "[오늘의 키워드] 한국–사우디 오늘 밤 11시 30분…2027학년도 수능 D-6",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "8d0bc950db367aad",
-      "collected_at": "2026-11-13T10:24:27.874282+00:00"
-    },
-    {
-      "keyword": "미스 베트남",
-      "traffic": "500+",
-      "news_title": "&quot;준우승자가 더 예쁜데&quot;…외모 지적받은 미스 베트남 우승자의 대답 - 머니투데이",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "26a4dc7dd2affb1b",
-      "collected_at": "2026-11-13T10:24:27.874282+00:00"
-    },
-    {
-      "keyword": "뮤직뱅크",
-      "traffic": "100+",
-      "news_title": "[NOTICE] 261113 KBS2 뮤직뱅크 본방송 참여 신청 안내(+참여자 발표 완료)",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "9055fdfe95bcc58f",
-      "collected_at": "2026-11-13T10:24:27.874282+00:00"
-    },
-    {
-      "keyword": "에이티즈",
-      "traffic": "100+",
-      "news_title": "[잇슈 컬처] 에이티즈 새 앨범 발표…“‘배드’ 열풍에 꿈 같은 나날”",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "e8cecda857ebcf68",
-      "collected_at": "2026-11-13T10:24:27.874282+00:00"
-    },
-    {
-      "keyword": "대한민국 해군",
-      "traffic": "500+",
-      "news_title": "병역 면제 가능했지만 자진 입영…최근 3년 영주권자 1,622명 현역 복무",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "c0922e92c792fe9d",
-      "collected_at": "2026-11-13T10:24:27.874282+00:00"
-    },
-    {
-      "keyword": "우크라이나",
+      "keyword": "쿠플",
       "traffic": "200+",
-      "news_title": "평화 협상서 물러서지 않는 푸틴···영토 요구 고수·평화유지군 배치 거부",
+      "news_title": "",
       "snippet": "",
       "source_type": "google_trends",
-      "category": "선거·정책·글로벌",
-      "key": "eb497401c3598437",
-      "collected_at": "2026-11-13T10:24:27.874282+00:00"
+      "category": "당일 화제 이슈",
+      "key": "2a3561c6ceff4a16",
+      "collected_at": "2026-11-13T15:45:22.332183+00:00"
     },
     {
-      "keyword": "김종민",
+      "keyword": "대한민국",
       "traffic": "200+",
-      "news_title": "김종민, 아빠 될 준비 중…“맞춤법·띄어쓰기 배우고 있어” (1박2일)",
+      "news_title": "[게시판] 농식품부, 15일까지 &apos;2026 대한민국 우리술 대축제&apos;",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "1a4989da70e04b35",
-      "collected_at": "2026-11-13T10:24:27.874282+00:00"
+      "key": "4f12e8995f9606c6",
+      "collected_at": "2026-11-13T15:45:22.332183+00:00"
     },
     {
-      "keyword": "김현태",
-      "traffic": "500+",
-      "news_title": "법원, ‘국회 봉쇄’ 김현태 전 707 단장 구속취소 요청 기각",
+      "keyword": "포수",
+      "traffic": "100+",
+      "news_title": "KBO FA 시장 개장! 원태인·구자욱·양의지 등 28명 자격 공시",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "37bdfda71ce3070e",
-      "collected_at": "2026-11-13T10:24:27.874282+00:00"
+      "key": "5f31470d7115460a",
+      "collected_at": "2026-11-13T15:45:22.332183+00:00"
+    },
+    {
+      "keyword": "광천동주택재개발",
+      "traffic": "100+",
+      "news_title": "광천동 재개발 철거 착수…교통망 확충은 ‘난항’",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "d35fb9659230cfd1",
+      "collected_at": "2026-11-13T15:45:22.332183+00:00"
+    },
+    {
+      "keyword": "민희진",
+      "traffic": "1000+",
+      "news_title": "“아일릿이 뉴진스 카피” 민희진에 20억 손배소송한 빌리프랩 패소",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "e8b9bd2776c78635",
+      "collected_at": "2026-11-13T15:45:22.332183+00:00"
+    },
+    {
+      "keyword": "대한민국 기후에너지환경부",
+      "traffic": "200+",
+      "news_title": "“기후행동 실천하면 포인트·금리우대”…민관 금융협력 체계 구축",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "7167f3b725989e1e",
+      "collected_at": "2026-11-13T15:45:22.332183+00:00"
+    },
+    {
+      "keyword": "明天的天氣",
+      "traffic": "100+",
+      "news_title": "氣溫漸升東偶雨週六短波槽掠過",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "4ad0f6728558aaba",
+      "collected_at": "2026-11-13T15:45:22.332183+00:00"
     }
   ]
 }

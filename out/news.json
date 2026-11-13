@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-13T10:24:26.130343+00:00",
+  "collected_at": "2026-11-13T15:45:20.898478+00:00",
   "topic_weight": {
     "보험·상품": 30,
     "영업·마인드": 25,
@@ -7,63 +7,63 @@
     "경제·환율·금리": 25
   },
   "topic_counts": {
-    "보험·상품": 2,
-    "영업·마인드": 1,
-    "경제·환율·금리": 3
+    "보험·상품": 1,
+    "의료·건강": 3,
+    "경제·환율·금리": 2
   },
   "items": [
     {
-      "title": "연금저축 ‘이것’ 알아두세요…“실제 수령액 달라질수도” - 한겨레",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1uTFp4ZWl2aEw4enBkd1had0JMU01BWi0tOWFaMC1veEhhOTFicnhDU2U3OGt5b0x4ZGlzaFNNQjhKWTRPb3ZjelU2SDY4ODZfd2RKd2JPc1NoYWwzTElVQU4wRW5QZWc?oc=5",
-      "description": "연금저축 ‘이것’ 알아두세요…“실제 수령액 달라질수도” 한겨레",
-      "pub_date": "Wed, 21 Oct 2026 07:00:00 GMT",
-      "category": "연금보험 노후",
-      "key": "75f7d846b8719692",
+      "title": "삼성생명 '변액보험 펀드추가' 도입…기존 가입자도 적용 - 한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE04SmxpdXZuLTRjT3A5Z1g2SERHUm13TmNHd1gyUWRkdmU3aFZBay1CQloza25DTEg0d2tDZWpuUGtWTHNsamNkbkVfTEstSERkZGVXblZUOERidw?oc=5",
+      "description": "삼성생명 '변액보험 펀드추가' 도입…기존 가입자도 적용 한국경제",
+      "pub_date": "Wed, 17 Oct 2018 07:00:00 GMT",
+      "category": "변액보험 수익률",
+      "key": "24f1a1a1e66854fe",
       "topic": "보험·상품"
     },
     {
-      "title": "[인터뷰] “노후 준비, 연금만으로 충분할까”… 미래에셋금융서비스 권성근 자산관리사의 조언 - CCBS뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1lN2dSdzFKZ2NyaHU4UTJMYmdUaUxzYnQtaGNOSWxlWjZCdVNlWlF6TWJhYzkyZmp6S3NhNFM4YmtWNndhRm45ZHctQk5jTTg?oc=5",
-      "description": "[인터뷰] “노후 준비, 연금만으로 충분할까”… 미래에셋금융서비스 권성근 자산관리사의 조언 CCBS뉴스",
-      "pub_date": "Tue, 10 Nov 2026 02:32:39 GMT",
-      "category": "연금보험 노후",
-      "key": "489ab68316f36ec1",
-      "topic": "보험·상품"
+      "title": "치매환자 100만명…치매·간병보험금만 연 1조 달한다 - 마켓인",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE51YmZ1OGFvQTNDdW01eFBJWnJfendwYkd0c2xfUDlIWExSNnEwajlXZWpXNDdOdHhpOG9kcTdxeVNFdUV1a0ZJblJSMll6WUtRYVFNM2ZURDNBdzE2bnBsT2hBSzdWdkprenQyeFdzbWlSUlU?oc=5",
+      "description": "치매환자 100만명…치매·간병보험금만 연 1조 달한다 마켓인",
+      "pub_date": "Mon, 09 Mar 2026 07:00:00 GMT",
+      "category": "치매 간병",
+      "key": "36677d0857df6d7f",
+      "topic": "의료·건강"
     },
     {
-      "title": "토스인슈어런스, 연말까지 신입 보험설계사 육성 ‘지원’ - 한국보험신문",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9acDlhem1iTTk2cnoxS3RIRXRHNVRFYzlMYW9LOHIyYUM3ellsWGY0RDN3MjVsbmVPOC04d2hTaHZHTEVZQ2dSMC1nd2JmWXpfRDNtUWVoaER0Tll2QXRCVV9zdS1GMzlFUmVFU0FpQdIBb0FVX3lxTE9acDlhem1iTTk2cnoxS3RIRXRHNVRFYzlMYW9LOHIyYUM3ellsWGY0RDN3MjVsbmVPOC04d2hTaHZHTEVZQ2dSMC1nd2JmWXpfRDNtUWVoaER0Tll2QXRCVV9zdS1GMzlFUmVFU0FpQQ?oc=5",
-      "description": "토스인슈어런스, 연말까지 신입 보험설계사 육성 ‘지원’ 한국보험신문",
-      "pub_date": "Fri, 13 Nov 2026 02:43:13 GMT",
-      "category": "보험설계사 영업",
-      "key": "65266c1c79674313",
-      "topic": "영업·마인드"
+      "title": "치매보험 가입 증가… “재정 능력 고려해 신중히 - M이코노미뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9HbGpzMzVFQ1NjM0gyR25RcG1WdDNVRDBUYXIwNFgtdlZ6bWZrTTdQNzV0LVlaSDQ3NXZMZHhkS2ljTm4weTdiMHluaVVzb2JaMVNXMW1lRzlIV2xSejVKV0pR?oc=5",
+      "description": "치매보험 가입 증가… “재정 능력 고려해 신중히 M이코노미뉴스",
+      "pub_date": "Fri, 20 Mar 2020 07:00:00 GMT",
+      "category": "치매 간병",
+      "key": "d593be982d15b3a6",
+      "topic": "의료·건강"
     },
     {
-      "title": "[환율 전망] 미국 빅스텝 우려에 금리 급등, 달러 연일 강세 - KB Think",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4wdktyb2FNQlhPNGhmVHNEOGRrbTVyeC01TUhldmpfOHVpLXpJT05pLS1BdGl0QzZVQ2R2YmFqYURjak1MdGNTRUlLMF91a041N29SRjZYX3JVM2JqaG9MOQ?oc=5",
-      "description": "[환율 전망] 미국 빅스텝 우려에 금리 급등, 달러 연일 강세 KB Think",
-      "pub_date": "Thu, 12 Nov 2026 23:11:02 GMT",
+      "title": "흥국생명, ‘가족사랑치매간병보험’ 출시 - 보험신보",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAwX2dBeTRCMnBJWUdLaG43enBBSUpQNTdJbUpiNjNoSTVzMm1Mck5PcGphWUNWcHY5RHJRZDhZNFBtNzJMWmNEYUZKMFgyYjFlOVN3djhjT2JNLUtVZkJ3dGtfektBM0hFeEdR?oc=5",
+      "description": "흥국생명, ‘가족사랑치매간병보험’ 출시 보험신보",
+      "pub_date": "Mon, 02 Jul 2018 07:00:00 GMT",
+      "category": "치매 간병",
+      "key": "31471f5f891cd574",
+      "topic": "의료·건강"
+    },
+    {
+      "title": "[환율 전망] 미국의 '끈적한 물가' 확인, 환율은 혼조 예상 - KB Think",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ZSS1kWXlpSjRIalBGaXBpWjc5NnZaVWEtanVlVUkwRDhVSk9vUnNyS2FmMzJrTEtyb0xvUGxVb1c5Z2pUaFBuSENDM2pKUEpmdzQycjI2MGFJLTlTY0VZMQ?oc=5",
+      "description": "[환율 전망] 미국의 '끈적한 물가' 확인, 환율은 혼조 예상 KB Think",
+      "pub_date": "Thu, 13 Aug 2026 07:00:00 GMT",
       "category": "환율 전망",
-      "key": "1fe2b698c8e8e632",
+      "key": "3a6230ed2d94dcc1",
       "topic": "경제·환율·금리"
     },
     {
-      "title": "\"경기 나쁜데 4000피 달성, 왜?\" 주식 베테랑이 말하는 진짜 이유 - 조선일보",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPanhDdGxnbnFEVjNFUUNCX1dKQzcxOEZ2LXNlelBPX3RWQlNpYVFEUnV2b2YxODBSdHJiLW5RTnJ1a2NyYmRZMEc4dEFYR2NtTmpYcmVQUWlFMkpRY2xfQ1o3aWxMTmxiYUVKRkFFbUNoSFBqV3UzYzlkNnEwUkZxaQ?oc=5",
-      "description": "\"경기 나쁜데 4000피 달성, 왜?\" 주식 베테랑이 말하는 진짜 이유 조선일보",
-      "pub_date": "Mon, 27 Oct 2025 07:00:00 GMT",
+      "title": "[AI MY 증시전망] 엔비디아發 투심 위축…코스피 반등 제한 - 뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBIUDE2QkZsMkZJNjZqdTB5Qy1fdHF5Wi1zV1RPSm9FT2RDbmFQZU9PWUFGOWZ0TzlmRkxWdGJHVm8ycTVmcXVaRW5uM0FTYzA1Y2dTbHI3TW9SUVFK?oc=5",
+      "description": "[AI MY 증시전망] 엔비디아發 투심 위축…코스피 반등 제한 뉴스핌",
+      "pub_date": "Thu, 12 Nov 2026 22:58:00 GMT",
       "category": "글로벌 시장",
-      "key": "9a49aace524a1ada",
-      "topic": "경제·환율·금리"
-    },
-    {
-      "title": "코스피와 나스닥, AI로 묶였다…\"한미 분산투자 효과 약화\" - 뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9WTlQtcVR2TjFqTk50eUtseXdTNmdqazB4MDNUUDBTalpmTTkyQnpRUms3TXR2OWxpZnhhLVdsdHVTRWNFSEVzaHN0b1VtaVA1Nk9pRmM4dHVkNVpMNWhIZDd5V0MxTVk?oc=5",
-      "description": "코스피와 나스닥, AI로 묶였다…\"한미 분산투자 효과 약화\" 뉴스1",
-      "pub_date": "Tue, 28 Jul 2026 07:00:00 GMT",
-      "category": "글로벌 시장",
-      "key": "a60915021408cfb0",
+      "key": "c7cec5c26a5cbc3a",
       "topic": "경제·환율·금리"
     }
   ]
