@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-12T21:23:13.826036+00:00",
+  "collected_at": "2026-11-13T03:04:16.992908+00:00",
   "topic_weight": {
     "보험·상품": 30,
     "영업·마인드": 25,
@@ -7,54 +7,136 @@
     "경제·환율·금리": 25
   },
   "topic_counts": {
-    "보험·상품": 2,
+    "보험·상품": 3,
+    "영업·마인드": 4,
     "의료·건강": 2,
-    "경제·환율·금리": 1
+    "경제·환율·금리": 5
   },
   "items": [
     {
-      "title": "월급 끊긴 뒤 생활비는 어느 연금에서 나올까? - 이투데이",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBiOG1VM2d2VFlTQ1M1anNjYjBVRDB6YVo5QzBTLUVxWlJldVRuQmliV3d5djRmQV9vTW5MNXRVZ0Zkb2VQeGlRZjlRaTcxaFVWVGFBR0JJRVoydw?oc=5",
-      "description": "월급 끊긴 뒤 생활비는 어느 연금에서 나올까? 이투데이",
-      "pub_date": "Thu, 12 Nov 2026 21:00:00 GMT",
-      "category": "연금보험 노후",
-      "key": "1bb180f205dd28d2",
+      "title": "미래에셋생명, 변액보험 수익률 1위…글로벌 분산투자 효과 - fetv.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB6UFJpaUt4T1V4OFU1a2xGRjBNT1EyZFJ1ZUE0OVdQNzBDd3VSSmRDOUhiTkFORy1GdFplMGtzdlRvTW9ELWY3UV9uSXNkZy1pd3ktSWFRcUdSUzJzYWVVT1R0SXk0QTJX?oc=5",
+      "description": "미래에셋생명, 변액보험 수익률 1위…글로벌 분산투자 효과 fetv.co.kr",
+      "pub_date": "Tue, 24 Oct 2023 07:00:00 GMT",
+      "category": "변액보험 수익률",
+      "key": "1cc6afe8b746c6da",
       "topic": "보험·상품"
     },
     {
-      "title": "\"연금저축보험 세액공제분, IRP계좌로 돌려줘야\" - 연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGTEVPQkgyd3QxdDA2MzRKSjJRODVZdnJ6eWN2bWhnTkJrcVJKUC1falFOcE9uVERmLUJsLUtEdUdqUC1zX0hjZUJjSlN3VFhyNWtxNS12N3Jqb3PSAWBBVV95cUxOeEItVmItSVJsTjhWTlRIUlJUMFJtUzFOX2cxcFVoSU1laDVHUWhmVjZWbHhkcDlydGx5d0JjMGVVR1BTTmctcm5wRjZ1anFVZVRKeFRXZDVEc2ZrVUttcUY?oc=5",
-      "description": "\"연금저축보험 세액공제분, IRP계좌로 돌려줘야\" 연합뉴스",
-      "pub_date": "Fri, 02 Nov 2018 07:00:00 GMT",
-      "category": "연금보험 노후",
-      "key": "4a66cd74588b3ddd",
+      "title": "삼성생명 '변액보험 펀드관리 서비스' 도입 - 프라임경제",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9yY1JLdG84MHM5aXFJTGEtZ1B2RmowLU43MEEwckpoMGVTbDhZRnBpbEw5RkVLUUpTc3kxZ2dodWEtT2RtMjIzalZsdV9IOXJjRkV6VU5fYWZtOHM1YVNyT0prbw?oc=5",
+      "description": "삼성생명 '변액보험 펀드관리 서비스' 도입 프라임경제",
+      "pub_date": "Wed, 17 Oct 2018 07:00:00 GMT",
+      "category": "변액보험 수익률",
+      "key": "48bdc64bd5618f88",
       "topic": "보험·상품"
     },
     {
-      "title": "고령화 시대, 내게 맞는 치매·간병보험은? - 매일경제",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1qdkdCSHgyVGJlSnZLNVRCMGs5UjFTOVdPYkR6bWdubE5LVVFqbjBrRkltUlFobWYzR0xldVZ4a2ZxT3d1UXducTNPdWZ1b1dFVzZTag?oc=5",
-      "description": "고령화 시대, 내게 맞는 치매·간병보험은? 매일경제",
-      "pub_date": "Wed, 25 Jun 2025 07:00:00 GMT",
+      "title": "'노후 연금술사' 연금저축…많이 넣는 것보다 잘 받는 게 중요 - 한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE15c1RvUE4zTXIxa0VBanZXTjFPWGREcXYybUI3RDNEMUZVSjlLN0oyMGtnUHNwajk4LVNDU0RVSGpFVmRUSnQxSG9rRVpaRkFGMV9nenpfelNiQQ?oc=5",
+      "description": "'노후 연금술사' 연금저축…많이 넣는 것보다 잘 받는 게 중요 한국경제",
+      "pub_date": "Sun, 01 Nov 2026 07:00:00 GMT",
+      "category": "연금보험 노후",
+      "key": "e2d342b0580f2842",
+      "topic": "보험·상품"
+    },
+    {
+      "title": "“지인 영업 부담 덜고 상담만 집중”… 토스인슈어런스, ‘2030이 60%’ 신입 설계사 판 키운다 - 보험저널",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1yV3k4cDEyMkNJVV9iN08xMWJxb3ZrZXhobVBndWxaRnVzRkZtUk1kQWNZWkxvbXNYQU9GNTFBU3BUamp2SC1PLTg3SGlWbHU5WGpLenNBblo1Mm9yVTdaUTA3WXdZSEJGcFhzTWdIaw?oc=5",
+      "description": "“지인 영업 부담 덜고 상담만 집중”… 토스인슈어런스, ‘2030이 60%’ 신입 설계사 판 키운다 보험저널",
+      "pub_date": "Thu, 12 Nov 2026 23:46:38 GMT",
+      "category": "보험설계사 영업",
+      "key": "2f4ff03fbd8318b4",
+      "topic": "영업·마인드"
+    },
+    {
+      "title": "토스인슈어런스, 앱 기반 '온디맨드' 보험영업 확대…신입 설계사에 500만 원 지원 - 이코노미사이언스",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBKbW9KRlczUFJvcnd0WEVDY3pKOTVRbU55MUtfeDlBY291Z2JuN3lVLW9QX1BaMnFFZDR1TDg1ekFZZ3dkS2tBalcxQmU4ZFpadkFEYTlDbTFKRjBmSnR4dFg0OGdQRzFiNW5rTVdCYw?oc=5",
+      "description": "토스인슈어런스, 앱 기반 '온디맨드' 보험영업 확대…신입 설계사에 500만 원 지원 이코노미사이언스",
+      "pub_date": "Fri, 13 Nov 2026 02:04:43 GMT",
+      "category": "보험설계사 영업",
+      "key": "0dc900d92c9821dd",
+      "topic": "영업·마인드"
+    },
+    {
+      "title": "토스인슈어런스, 신입 설계사에 500만원 지원 - 포인트데일리",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1MbXJMcnprdzRWcV9wSzB4TVhlbl9pUGg4VnBnbVhHM2txblVfUTZaN2lpR1ExSmtlTkJ0dGdIS2dCWjBCV0tRRnlKU0lXZzJNZHF1c3RqbVRNMk5FSmlnaWx2OXhVbF9uQ0JXODl2WkrSAXRBVV95cUxQcnBiemdJZm1MTVQtUkdWa1RxZHp5bmZrcVJPUDIzcnNSSHlKX0pKYVV0Vjkza2ZxQzVBdEQybUg4ZDdDby1NLU8xYTlDRmhuQmlxMFh0dG9XLUNSdU9SWDJaYk9CbHc3c3JiWHFrWFk5UGZMSw?oc=5",
+      "description": "토스인슈어런스, 신입 설계사에 500만원 지원 포인트데일리",
+      "pub_date": "Fri, 13 Nov 2026 00:17:35 GMT",
+      "category": "보험설계사 영업",
+      "key": "b6d6693d1b0fc34a",
+      "topic": "영업·마인드"
+    },
+    {
+      "title": "영업조직도 생성형AI 활용 본격···1200%룰 확대·수수료 분급제 도입 여파 - 보험신보",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA2REQ0TlVmMjRVTlZiRVNldm9SalB6Wk16eU9DQTR2S19uTGRLckhHODUxQUlZU1J5MmxLdU9JSzdsUUFkdjNRaGV5LVhYVUMxbDY3TUpkYzhiZXpMeEY3d29vR3UwOTVaVnZF?oc=5",
+      "description": "영업조직도 생성형AI 활용 본격···1200%룰 확대·수수료 분급제 도입 여파 보험신보",
+      "pub_date": "Tue, 15 Sep 2026 07:00:00 GMT",
+      "category": "보험설계사 영업",
+      "key": "fcf2b0f92b09b0b9",
+      "topic": "영업·마인드"
+    },
+    {
+      "title": "[특집]한화생명, 치매·간병 통합보험 하나로 노후 자금까지 준비해볼까 - 경향신문",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ZWmVwRnpDS1JDUlgwWWNNN3VtajhJdTktc2pxYnphdFJJWDZRaThnbE13aFFBNzBVM3BMYW4xQlhqVFZIdEdqZ2JLNkxQSlEtakIwcFNCTjlZZ9IBX0FVX3lxTFBSUmpfamI2Vkl3ZlhXQ0xrandsOTZnNmFNS19qRU1xbGUyUTJvNTFWR3piY2hhbFlZZzFUUHZLLWZ4azNncXJTZXd4WUk0OWVZV1Z0a3g4ck1SUTlJLTFR?oc=5",
+      "description": "[특집]한화생명, 치매·간병 통합보험 하나로 노후 자금까지 준비해볼까 경향신문",
+      "pub_date": "Tue, 21 Apr 2026 07:00:00 GMT",
       "category": "치매 간병",
-      "key": "b35c5c68eb976d7c",
+      "key": "cee6e852502379db",
       "topic": "의료·건강"
     },
     {
-      "title": "5대 생보사 치매보험…경도치매 최고보장은 '한화생명' - 디멘시아뉴스",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9zNUQ4a3IwTE8xcFByU003WmdPcE5ZZ0M4Skd1NGF4b21HcXNBR0FKMzZxQlplTWh4NGRDQ001bWtHRlduVVJzMXV2UkNkS0FzVUk1bVpvR01vd1RGRTZuREtGdXhocV9CRnZMdmpsaks?oc=5",
-      "description": "5대 생보사 치매보험…경도치매 최고보장은 '한화생명' 디멘시아뉴스",
-      "pub_date": "Tue, 31 May 2022 07:00:00 GMT",
+      "title": "韓 치매 환자 100만 시대, 1인당 관리 비용만 年 2,000만 원…선진국은? - 바이오타임즈",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5GRjhrU25CYzZpM1loakEtX2s4M3RCQUw2b1lCcElGblRiMWtET0xESUdfc0NGZlF5MXNDMkp0eWJLRFlSMk0wNXh5U3VCSmJVaE1YX192SDB6QlB4MzdFTFZ2T3RiZUUxUGFheQ?oc=5",
+      "description": "韓 치매 환자 100만 시대, 1인당 관리 비용만 年 2,000만 원…선진국은? 바이오타임즈",
+      "pub_date": "Tue, 08 Oct 2024 07:00:00 GMT",
       "category": "치매 간병",
-      "key": "12428e2d9e16c132",
+      "key": "b1768a41502e8fca",
       "topic": "의료·건강"
     },
     {
-      "title": "연준 금리 2연속 동결⋯한은 '2.50% 장기 고정' 시나리오 부상 - 포커스온경제",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBDLXhPbDZoX1lPODdfMlJQXzdJQmxKcE9kanR5OXJqUVFXNlcxbmVnaHUwZG5uc2t0T1Uxa2hqSjFSeDNILTdaUlkwd1VMZjd3a1pmcmFSa2dmaGptTnhGaA?oc=5",
-      "description": "연준 금리 2연속 동결⋯한은 '2.50% 장기 고정' 시나리오 부상 포커스온경제",
-      "pub_date": "Thu, 19 Mar 2026 07:00:00 GMT",
+      "title": "2연속 금리 인하 결정한 연방준비제도, 여기서 인하 멈출 수도 있다고? 📉 - 뉴닉",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5BOGhlaHpYQ0U2TFBNSjBZd1U2NkhSN1Zub19kLXdGb3ljT1dGU2Q0elpqZTd6WUtWb2VhV0VvUGNaR183ZDF0NElRZHk1ZWZ5NjhN?oc=5",
+      "description": "2연속 금리 인하 결정한 연방준비제도, 여기서 인하 멈출 수도 있다고? 📉 뉴닉",
+      "pub_date": "Thu, 30 Oct 2025 07:00:00 GMT",
       "category": "기준금리·통화정책",
-      "key": "f8d16b3e02a37ef0",
+      "key": "e1c456acc3aa0310",
+      "topic": "경제·환율·금리"
+    },
+    {
+      "title": "원화 강세 질주, 미국 CPI 앞두고 경계태세 - KB Think",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE93X2M0ckhjRFVwSHM4V0J6MHJlVlBDbU1ZaWdZZ0NKd2pHYnR5WWR3ZjdOZlhYcTVCR3huRW9Ca2pvVXVEN1kwSXg5U2hSbW5XWUxvVktNTWhDODBqTlhnMm5R?oc=5",
+      "description": "원화 강세 질주, 미국 CPI 앞두고 경계태세 KB Think",
+      "pub_date": "Mon, 07 Sep 2026 07:00:00 GMT",
+      "category": "환율 전망",
+      "key": "d9b2aa5093fd5708",
+      "topic": "경제·환율·금리"
+    },
+    {
+      "title": "‘관세 충격’ 미국 증시 5년만에 최악의 하루…경기침체 우려 - 경향신문",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE51UnptV3VGbkNxdjh1MjJkV3p4cTg2U191Y3E3RE9ZYnVoTms3OTZJd0VxTTdmRlozeWI1ZlhjOUlyRlVLMVhfc0JoZlZkMmNvSHlkUlJYWDFzd9IBX0FVX3lxTE5xRDBMTzltWUJja3F5M2JYb3JIN2phd0FMUWNPWnNhYndPemFIZ1pmSWl4ZjRQX1MydGlSNVNKVFdveXVEVjFScFgyMmZhN0RJOFZkUkdHRFlxb2UxR3VR?oc=5",
+      "description": "‘관세 충격’ 미국 증시 5년만에 최악의 하루…경기침체 우려 경향신문",
+      "pub_date": "Sat, 05 Apr 2025 07:00:00 GMT",
+      "category": "미국 경제·정책",
+      "key": "bc12e7e3a868c90a",
+      "topic": "경제·환율·금리"
+    },
+    {
+      "title": "'M7' 너마저…트럼프 관세전쟁에 美 증시 피난처 실종 - edaily.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQS1A2V0FzM0N2MzRNNE5GMHFTRmlNZG81cDg4N0l2TUZFYUh1WWhEbDhzZHk2Ylhhdko2cU91aVBMM0xVVlRuMmhkaUNaV1NYVS1MUHFDWmNjY1VfTVZ3ajJyclRlOXRpUVdyYnpINVc1aGdFMHNiU3JsSXlvWFpQZw?oc=5",
+      "description": "'M7' 너마저…트럼프 관세전쟁에 美 증시 피난처 실종 edaily.co.kr",
+      "pub_date": "Sun, 09 Mar 2025 08:00:00 GMT",
+      "category": "미국 경제·정책",
+      "key": "79029c00723fc9f3",
+      "topic": "경제·환율·금리"
+    },
+    {
+      "title": "[뉴욕증시 마감시황] 나스닥 반도체주 반등에 코스피 한숨 돌리나…AI 규제 불안은 여전 - https://www.moneystorm.kr/",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Ua2JQdmdGUUpSTVVaWjk2a2VWamxfX1F1dFNqR1Y2djYzckZnMmk1QTBOckN6U0NWbXkxbVFvLUIxbm9kSkgtd1RiRGtUcHVmWGlueG51bklBRWlUbERwMm1SdXhfVTFFNVE?oc=5",
+      "description": "[뉴욕증시 마감시황] 나스닥 반도체주 반등에 코스피 한숨 돌리나…AI 규제 불안은 여전 https://www.moneystorm.kr/",
+      "pub_date": "Fri, 06 Nov 2026 21:59:18 GMT",
+      "category": "글로벌 시장",
+      "key": "5df46a672c593950",
       "topic": "경제·환율·금리"
     }
   ]

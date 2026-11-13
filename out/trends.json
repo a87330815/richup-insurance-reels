@@ -1,95 +1,95 @@
 {
-  "collected_at": "2026-11-12T21:23:15.307796+00:00",
+  "collected_at": "2026-11-13T03:04:18.643829+00:00",
   "items": [
     {
-      "keyword": "장례",
+      "keyword": "도지코인",
+      "traffic": "200+",
+      "news_title": "도지코인 밈코인 꼬리표 뗀다…디파이·예측시장 영토 확장",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "831615bc6894ed4d",
+      "collected_at": "2026-11-13T03:04:18.643294+00:00"
+    },
+    {
+      "keyword": "스마트 글래스",
+      "traffic": "2000+",
+      "news_title": "삼성전자, 구글·젠틀몬스터·워비파커와 협업한 인텔리전트 아이웨어 전격 공개 - 삼성전자 뉴스룸",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "f889305c4d994fe1",
+      "collected_at": "2026-11-13T03:04:18.643294+00:00"
+    },
+    {
+      "keyword": "진학사",
+      "traffic": "500+",
+      "news_title": "진학사 캐치 조사서 취준생 70% AI 면접 연습 의향…실전은 대면 선호",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "90acf35f6ae83a28",
+      "collected_at": "2026-11-13T03:04:18.643294+00:00"
+    },
+    {
+      "keyword": "공군사관학교",
+      "traffic": "100+",
+      "news_title": "국방부, 사관학교 생도 대상 설문조사 실시‥&quot;국군사관학교 보완 의견 수렴&quot;",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "434f361ae8e10560",
+      "collected_at": "2026-11-13T03:04:18.643294+00:00"
+    },
+    {
+      "keyword": "평가",
+      "traffic": "2000+",
+      "news_title": "ESG 성적 &apos;A+&apos; 자랑한 KB·신한금융…옥에 티는 &apos;LTV 담합&apos;",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "0ca3544877029425",
+      "collected_at": "2026-11-13T03:04:18.643294+00:00"
+    },
+    {
+      "keyword": "금융통화위원회",
+      "traffic": "100+",
+      "news_title": "11월엔 올린다지만 그다음은…금통위가 주목한 소비의 온도",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "149168bbbbbc638e",
+      "collected_at": "2026-11-13T03:04:18.643294+00:00"
+    },
+    {
+      "keyword": "메르세데스-벤츠",
       "traffic": "5000+",
-      "news_title": "유재철 명장 “조문객보다 고인 중심 장례문화로 바뀌어야”",
+      "news_title": "벤츠도 독일 공장 폐쇄 검토…&quot;국내 투자 중단&quot;",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "6d1ac0bc9b11c12d",
-      "collected_at": "2026-11-12T21:23:15.307359+00:00"
+      "key": "c612f9abe4ca39a5",
+      "collected_at": "2026-11-13T03:04:18.643294+00:00"
     },
     {
-      "keyword": "삼성 우승 할인",
-      "traffic": "1000+",
-      "news_title": "[단독]&quot;12년 만의 우승에 가전 할인&quot;…삼성스토어, 13일부터 할인",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "b10dbbb882f0a0e9",
-      "collected_at": "2026-11-12T21:23:15.307359+00:00"
-    },
-    {
-      "keyword": "조선민주주의인민공화국",
-      "traffic": "100+",
-      "news_title": "北 “핵보유국 지위, 서방 논의 대상 될수없어”",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "06545ca75900be23",
-      "collected_at": "2026-11-12T21:23:15.307359+00:00"
-    },
-    {
-      "keyword": "돔 경기장",
-      "traffic": "100+",
-      "news_title": "정명근, 화성 미래 담을 5만석 ‘K-MARS’ 돔 유치 승부수",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "경제·환율·금리",
-      "key": "f121d3e01acd48f7",
-      "collected_at": "2026-11-12T21:23:15.307359+00:00"
-    },
-    {
-      "keyword": "물류",
-      "traffic": "100+",
-      "news_title": "물류-기술 기업 매칭의 장 열린다…13일 밋업 개최",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "b15d7c03231a8846",
-      "collected_at": "2026-11-12T21:23:15.307359+00:00"
-    },
-    {
-      "keyword": "시청률",
+      "keyword": "gemini 4 hydrogen",
       "traffic": "500+",
-      "news_title": "&quot;40시간 밤샘 촬영에 주먹다짐?&quot;…김윤석, 나홍진 감독과 불화설 해명 - 머니투데이",
+      "news_title": "Introducing Gemini 4 Hydrogen for Agentic Workflows",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "d79034c80ed30351",
-      "collected_at": "2026-11-12T21:23:15.307359+00:00"
+      "key": "4de20046fdd1d59c",
+      "collected_at": "2026-11-13T03:04:18.643294+00:00"
     },
     {
-      "keyword": "김하성",
-      "traffic": "500+",
-      "news_title": "“필라델피아, FA 김하성 영입 검토…단기 계약 내야수 찾는다”",
+      "keyword": "zoom",
+      "traffic": "200+",
+      "news_title": "Critical Zoom Workplace Flaw Could Allow Unauthenticated Remote Privilege Escalation",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "64a8f2f19d03a7ba",
-      "collected_at": "2026-11-12T21:23:15.307359+00:00"
-    },
-    {
-      "keyword": "디에고 시메오네",
-      "traffic": "100+",
-      "news_title": "&apos;이강인 포함 18명 이탈&apos; ATM 또 대형악재! &apos;훈련 정상진행 불가&apos; 긴급 수혈…시메오네 한숨 깊어진다",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "08aaaa1e562c749a",
-      "collected_at": "2026-11-12T21:23:15.307359+00:00"
-    },
-    {
-      "keyword": "김상식",
-      "traffic": "100+",
-      "news_title": "딘 박은 호날두를 우상으로 여기기 때문에 7번 유니폼을 입는 것을 좋아하며, 호날두가 국가대표팀에서 8골을 넣었다는 사실에 &apos;놀랍다&apos;고 말합니다.",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "78fba19e040ce7b6",
-      "collected_at": "2026-11-12T21:23:15.307359+00:00"
+      "key": "92298812107bb17e",
+      "collected_at": "2026-11-13T03:04:18.643294+00:00"
     }
   ]
 }
