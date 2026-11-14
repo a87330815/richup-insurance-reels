@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-14T09:42:01.161608+00:00",
+  "collected_at": "2026-11-14T14:35:56.643428+00:00",
   "topic_weight": {
     "보험·상품": 30,
     "영업·마인드": 25,
@@ -7,82 +7,72 @@
     "경제·환율·금리": 25
   },
   "topic_counts": {
-    "보험·상품": 1,
+    "보험·상품": 3,
     "영업·마인드": 1,
-    "의료·건강": 3,
     "경제·환율·금리": 3
   },
   "items": [
     {
-      "title": "변액보험 다시 인기…\"펀드변경으로 수익률 관리 필요\" - www.edaily.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQjdjSFFXUllLbHFRYjVBWXVyQnpPS1pNbkVlbEtYRzMzZlFrRjJmQktMRlg5SzBFaGp0OGtqUkF4aDIxWW9STGhRVWxSN0xLM3VOLTdKZmtPY0YzQThNaEZZOHdLd1d2bmF3d1pPRy1WdklEN0R2SVFFRndJZVB6Zg?oc=5",
-      "description": "변액보험 다시 인기…\"펀드변경으로 수익률 관리 필요\" www.edaily.co.kr",
-      "pub_date": "Sat, 21 Nov 2020 08:00:00 GMT",
+      "title": "\"변액보험 -2800만원\" 불장에 패닉...당장 깨는 게 이득? - 머니투데이 - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBudU9qdmdydkJfTkc4WWk1U0h3UXlZeHkwc0k1RE1pOEllanppQmVDQ3Z0UHpGVE13eUxuSFJKam1wRG1MVkNwajNDaWc1QWJUa1Q0UmJvdGV5NjhnRDA3b3MtSXRfTUdCcWpR0gFwQVVfeXFMUFU2ZzJDcE55NjZNYWEyNnFYQjVhdkJuaDNvelUwak9ZLTh3aUU3NVNFTjBqamQtWE55RTZ2c2tHQzNXWHE2d0xjT3pQSGttUXh1bV9jc3NxX3p5WDV3VnZfR0p5WkFCalNFM0FPaUpTUg?oc=5",
+      "description": "\"변액보험 -2800만원\" 불장에 패닉...당장 깨는 게 이득? - 머니투데이 머니투데이",
+      "pub_date": "Sat, 07 Mar 2026 08:00:00 GMT",
       "category": "변액보험 수익률",
-      "key": "49fcf1402167f523",
+      "key": "4f8fbab1615831d4",
       "topic": "보험·상품"
     },
     {
-      "title": "이문화 삼성화재 대표, AI 에이전트 앞세워 디지털 혁신 가속 [보험사 AI 전략] - 한국금융신문",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5DbjdtRTdVc1UyRC1xS0NFMjZnSi1HaE84OEFtUmNhbkU4MndLR1VDN3NZcUhFNnJQOTlOLS1HT2tIZjR4YW5ZOEZ6aG5UYUo5cGlRc25ib1JYNzc0eWY0MXA0RTZ0WFpCX25MME1Qb2VtZV9sNE1ZRk42SQ?oc=5",
-      "description": "이문화 삼성화재 대표, AI 에이전트 앞세워 디지털 혁신 가속 [보험사 AI 전략] 한국금융신문",
-      "pub_date": "Tue, 03 Nov 2026 08:00:00 GMT",
+      "title": "만55세가 되었다면, IRP 연금개시 서두르자 - KB Think",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUnprT3BDR1M0WEQ0Z1pFblBwbTVXd01hbnowb1QxYk10dFRqMTFwQ0VsMW9JSEg0VHFKNlBMOGVBOXdIdFc5aXJtOEtqWk40NlJnbmx5NUVhdXZxNTVyVmZaeE5DZG5sZVFMUHBERlFLbzl1dVR5NzRJU2FxakI4aEVBUHlvXzdMcndxUVk1Q1FGb0tTOW56V2hhQWd3M0QtVEF6YWltSQ?oc=5",
+      "description": "만55세가 되었다면, IRP 연금개시 서두르자 KB Think",
+      "pub_date": "Fri, 25 Oct 2024 07:00:00 GMT",
+      "category": "연금보험 노후",
+      "key": "0de4f02a332e00d2",
+      "topic": "보험·상품"
+    },
+    {
+      "title": "국감, GA 수수료 환수 관행 재점화… “대형 GA 점검 촉구” - 한국보험신문",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5oVkswSEtaUkh1RWhuOUhJbHMybUR1bjZBSU82M2pKT1lZdy1BellJSW1yWnNsb21CRTF3c19iRTZ6b05NMWFzcWhwdF9uUmd5UmM4Vk81cUpIbksyT0JOWERjdGNGSVR6R1ow0gFvQVVfeXFMTXhxNWg3R1Vnc2twemlvWmM0SEE1Q3FVdHVLYUx3UXdlY2ZaRE0zN3NhWnNXTWVvTzFKZnMyLXdKckxqRU90cTBVaUZVb2dvMkhmM21OSlc2cERuZGVzTXBpdmpQeGZoaVo1X1NGRG9Z?oc=5",
+      "description": "국감, GA 수수료 환수 관행 재점화… “대형 GA 점검 촉구” 한국보험신문",
+      "pub_date": "Mon, 19 Oct 2026 07:00:00 GMT",
+      "category": "보험 제도·규제",
+      "key": "1b7f787788fb562b",
+      "topic": "보험·상품"
+    },
+    {
+      "title": "삼성화재, 고객·계약 분석 'AI 영업지원 시스템' 도입 - 세이프머니",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBmYndWX1VOMWdjdlB2OVFzV25CakVZYUd0OU5CUXF0bUVFZ3B1VjBudzB5aENlbmJBT0FXLTZtMW1CLUJURzc1aURCamhVak0xVl9kaUN5cnItZGdQT2lMb0FZRFc3eUNyNzU5dlFB?oc=5",
+      "description": "삼성화재, 고객·계약 분석 'AI 영업지원 시스템' 도입 세이프머니",
+      "pub_date": "Mon, 26 Oct 2026 07:00:00 GMT",
       "category": "보험설계사 영업",
-      "key": "730189c656e93e22",
+      "key": "45de6a17f0c50abc",
       "topic": "영업·마인드"
     },
     {
-      "title": "\"용돈 대신 보험 선물\"…설 연휴 '효도상품'으로 치매·간병보험 인기 - 뉴스웍스",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0wak5sYlZNSHh6aF91N3RFRVRjXzNwVzloaS1UTmhzSkZ3WVdYdHFhb0ViSWktdWFjZExleE1zdndLUW9YMUIyVnJGb2cxVWEzYU5ySkdXQ25iV0p6anhZUmdubWlXTEhrcGhGWDRSWdIBc0FVX3lxTE93NHNPNEVjcVh4THdTdGpYbTh6NVNqaEVPekwtSEhuY0VDc0RxY1BabW9fX2djTFRCNlctV3hoUDg3R1QxU3pFLXo4YnFLSnFpQkVJOV9tRFlrMWtVbjVTMGRVVXMwUlNmdUNCYmh3SzQtZTQ?oc=5",
-      "description": "\"용돈 대신 보험 선물\"…설 연휴 '효도상품'으로 치매·간병보험 인기 뉴스웍스",
-      "pub_date": "Mon, 16 Feb 2026 08:00:00 GMT",
-      "category": "치매 간병",
-      "key": "fc897e4a20dbad49",
-      "topic": "의료·건강"
-    },
-    {
-      "title": "치매 환자 한 명 관리비용 연간 2000만원...생보사 ‘치매간병보험’ 어떤 혜택 있나 - 보험저널",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1vQUVBU3lvWjVCM2hLZVludGVLYm95c0d0VjNhd1RzQjlQVVg0YTRZYUs5S0UweWNydGE3Y3RadGk5Z3pqbnQ4aXBIRVU1Um43T2F4TEFFY0hKZDAxNnplVU5QOG54YmxtTEVWd2dR?oc=5",
-      "description": "치매 환자 한 명 관리비용 연간 2000만원...생보사 ‘치매간병보험’ 어떤 혜택 있나 보험저널",
-      "pub_date": "Thu, 01 Sep 2022 07:00:00 GMT",
-      "category": "치매 간병",
-      "key": "728ea261dcc1a80b",
-      "topic": "의료·건강"
-    },
-    {
-      "title": "연구보고서 - 서울연구원",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE41LUlKTkFrOXlqT2k0X1ZDTTVTSjcyX3lHUHVDVXRFcXlobjE1ZWVmSkgxdG9nbjVfNDhBZDUxQUhJZVdMX21QVGw0RUJHdnB2N0hJaDBGalhTYjlEQ2FqV2JfRE9XSjV1RGdyY2RNTG1Wdw?oc=5",
-      "description": "연구보고서 서울연구원",
-      "pub_date": "Wed, 24 Jun 2026 23:39:59 GMT",
-      "category": "AI 의료기술",
-      "key": "183a264258119135",
-      "topic": "의료·건강"
-    },
-    {
-      "title": "미국 금리 또 내렸는데···기준금리 인하 두고 고심하는 한국은행 - 시사저널e",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9SVFc5TDFFeTN2VTBwdmliYUZIekZWcDM4VGJyMXpISUhwSk03ZjNha0NYeGtlSEwxQ0hYUi1nTWdtVXZQV2JhaVhkVy1ZQ3FMMTNHZ3VHdkhlTkxqbnVqMUhkOGliRHJMOGV6REFSZ2poQdIBdkFVX3lxTE5mcG51NlRsQkpuVF92TlNPSjI5OHN3OFUyUXNfR05jbTNCa05VUjdIcmxfRHREYzdIcmhkMlFZVnF3RE02U0Jad25QcF8yZzVOdEtmNXpKcVlIb2JEY1VKQTlqZm9tUDA3aWRMbC13amFXWUZObnc?oc=5",
-      "description": "미국 금리 또 내렸는데···기준금리 인하 두고 고심하는 한국은행 시사저널e",
-      "pub_date": "Thu, 19 Dec 2024 08:00:00 GMT",
-      "category": "기준금리·통화정책",
-      "key": "2ac759add4fe1239",
-      "topic": "경제·환율·금리"
-    },
-    {
-      "title": "[11월 2주차] 환율(FX) 전망 - KB Think",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE83dnFfM0NkcGpacnNicVBNSEpZQlFKOFltZldMdEQyQzE4RFJIRWNNVVpBemNhU1Z5ZUxXaTZBSFIwakhOa1AzMjVwVEhaNmhBSENnMTZ2dUhrS0d0RkJSNzFJLVk5c01Pc3QtUA?oc=5",
-      "description": "[11월 2주차] 환율(FX) 전망 KB Think",
-      "pub_date": "Mon, 09 Nov 2026 03:43:00 GMT",
-      "category": "환율 전망",
-      "key": "377961aadeddf283",
-      "topic": "경제·환율·금리"
-    },
-    {
-      "title": "버핏도 트럼프 관세 비판…\"상품에 대한 세금, 전쟁행위\" - 연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1vNElwOHd1RVg4RWhjeEhjNDJUN1VkcEJKa1pkMkFObzhFTzRoUkF6MGM3dUExWGx2TTItdHlnbkZ3OTZDc0hOZHppanZHM3lYVmtSTlJMUndyQkXSAWBBVV95cUxQOElFa2EtVDl0aVQtbTFtcnk5SHR5MkVkQTNPOERDc3FkT1ZCaFhYVUtEd01xd2xYMk9Vb3ZVc0hxY2U5bVc4bFJVdFZvczBMN2hKbUZkMERCdnVaOURzaFI?oc=5",
-      "description": "버핏도 트럼프 관세 비판…\"상품에 대한 세금, 전쟁행위\" 연합뉴스",
-      "pub_date": "Mon, 03 Mar 2025 08:00:00 GMT",
+      "title": "트럼프 관세 전쟁의 진짜 목표물은 중국이었을까 - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBDMmJEdkNVOG9DNURtRi1PVW5SYzV0VnlfSnY5MHREQ3VmcWQycHhKbWZZdk1SVWYtSHBjY3gyZ1JZdlJ4S3pzSFNOM0ZMR3NNNWJrYVd0VFlyamZS0gFiQVVfeXFMUGl2a2xfTlVtSS1TWmhIREpyakhHbmxNdWFOUnA3bmV4MmUwMS1ZM2FIX0laaEhkWnJZYXZDNXVETDJUTGM1XzBGSGtOME1rNWROWm14YTF2eVIwTGdkNnlqelE?oc=5",
+      "description": "트럼프 관세 전쟁의 진짜 목표물은 중국이었을까 BBC",
+      "pub_date": "Mon, 14 Apr 2025 07:00:00 GMT",
       "category": "미국 경제·정책",
-      "key": "5429a633c6e3f90d",
+      "key": "4903308dde306f03",
+      "topic": "경제·환율·금리"
+    },
+    {
+      "title": "상호관세 : 트럼프의 선택으로 자유무역 중심의 세계 경제 질서가 완전히 뒤바뀔까? - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBaRFRBRDNTTTZJMXJKaTFVdHR1WEtnbDRLQTJnX0tuWUdxLWpwT2lPeUdPQ25BdF9FX0FZSVJONTRiUlhrMzV1dlpVdGh2NjM4cC1jVmhuMXRadXJH0gFiQVVfeXFMTmducFBoc2E2NTlKTmNQbDVtcmV6TzFxXzRDMk5JRWsxeGFlZ2laTEpCemhEMDNIRmx6bUR3S01ka1dPVzJtMXo1T1Joa2lyclpvb21ubjdYd01IT1p3ZzNXb1E?oc=5",
+      "description": "상호관세 : 트럼프의 선택으로 자유무역 중심의 세계 경제 질서가 완전히 뒤바뀔까? BBC",
+      "pub_date": "Sun, 06 Apr 2025 07:00:00 GMT",
+      "category": "미국 경제·정책",
+      "key": "5d298880ea40f517",
+      "topic": "경제·환율·금리"
+    },
+    {
+      "title": "[美관세폭풍] 트럼프 상호관세로 무역전쟁 격화…新보호무역시대 접어드나 - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzbExfRkJkOUVuclQyekR2Ty1CcmxwVERzclM1ZHRjTm1MNlFac1o3SmFiNmVpakZiQnZHdzh2Smo2T29LaldraGF5RGZKdWNfT2Zod2N4TWlnYWPSAWBBVV95cUxNZVpsT2ppaUlUbDc2RXYwOGZZZXJvQ3ZyMm1OX3FfVlFsUDlXM3Q0V2xmcFBSeGtSWFI3TlNZR1RHSm12MEdaNExaMzN5WnBER3lob0FiQlRnMWFnM1hhUFQ?oc=5",
+      "description": "[美관세폭풍] 트럼프 상호관세로 무역전쟁 격화…新보호무역시대 접어드나 연합뉴스",
+      "pub_date": "Thu, 03 Apr 2025 07:00:00 GMT",
+      "category": "미국 경제·정책",
+      "key": "c7659177d5207985",
       "topic": "경제·환율·금리"
     }
   ]
