@@ -1,105 +1,85 @@
 {
-  "collected_at": "2026-11-14T02:51:49.906721+00:00",
+  "collected_at": "2026-11-14T09:42:02.533796+00:00",
   "items": [
     {
-      "keyword": "김지원",
-      "traffic": "2000+",
-      "news_title": "전국환, 아동 성폭력 과거…김우석 피해자였다 ’충격’ (닥터X)",
+      "keyword": "웨이브",
+      "traffic": "500+",
+      "news_title": "[OTT리뷰]",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "1e9a9e9ec1d18b42",
-      "collected_at": "2026-11-14T02:51:49.906249+00:00"
+      "key": "fe1fb24836ccb0bb",
+      "collected_at": "2026-11-14T09:42:02.533203+00:00"
     },
     {
-      "keyword": "그랜드 테프트 오토",
+      "keyword": "이로운",
+      "traffic": "500+",
+      "news_title": "일본이 도와준 한국 야구... 오늘 밤 대만 꺾으면 APBC 결승행",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "c036f8d7c1f8c5cf",
+      "collected_at": "2026-11-14T09:42:02.533203+00:00"
+    },
+    {
+      "keyword": "대한민국 국군",
       "traffic": "100+",
-      "news_title": "Travis Scott Shows Off What Appears to Be a Copy of ‘GTA 6’ Before Its Release: ‘Bring Ya Own Controller’",
+      "news_title": "국방홍보원, 국방일보 창간 62주년 맞이 보도 사진전 개최",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "176d8a522e55851d",
-      "collected_at": "2026-11-14T02:51:49.906249+00:00"
+      "key": "15000fcd50e86a19",
+      "collected_at": "2026-11-14T09:42:02.533203+00:00"
     },
     {
-      "keyword": "광진구",
+      "keyword": "수수료",
+      "traffic": "500+",
+      "news_title": "배민發 수수료 개편, 쿠팡이츠로 확산되나",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "보험·금융규제",
+      "key": "34f036ed06c9f5a1",
+      "collected_at": "2026-11-14T09:42:02.533203+00:00"
+    },
+    {
+      "keyword": "닭한마리",
+      "traffic": "500+",
+      "news_title": "&quot;먹다 남긴 마늘·부추를 다시?&quot;…닭한마리집 주방 영상 논란 - 머니투데이",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "973ca35d4c799787",
+      "collected_at": "2026-11-14T09:42:02.533203+00:00"
+    },
+    {
+      "keyword": "인수 합병",
       "traffic": "100+",
-      "news_title": "광진구, 음식물 소형감량기 부산물 배출기준 완화…수분 25% 미만 종량제봉투 허용",
+      "news_title": "&quot;지분 높을수록 소액주주 몫 줄어&quot;…의무공개매수법 &apos;역진&apos; 논란",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "7cb812215eefd6f9",
-      "collected_at": "2026-11-14T02:51:49.906249+00:00"
+      "key": "81fa556cf0b311f6",
+      "collected_at": "2026-11-14T09:42:02.533203+00:00"
     },
     {
-      "keyword": "기내식",
-      "traffic": "100+",
-      "news_title": "[데스크시각] 한앤코가 남긴 아이스크림",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "253ca65887f76f92",
-      "collected_at": "2026-11-14T02:51:49.906249+00:00"
-    },
-    {
-      "keyword": "고용노동부",
+      "keyword": "문지애",
       "traffic": "200+",
-      "news_title": "&apos;가짜 3.3 계약&apos;·&apos;사업장 쪼개기&apos; 잡는다…탈법 기획감독 착수",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "경제·환율·금리",
-      "key": "693f4c5296971512",
-      "collected_at": "2026-11-14T02:51:49.906249+00:00"
-    },
-    {
-      "keyword": "삼천당제약",
-      "traffic": "500+",
-      "news_title": "삼천당제약 R&amp;D 투자 3배 확대, 경구용 치료제 승부수",
+      "news_title": "문지애♥전종환 “아들, 수학 시험 27점에 온 집안 비상…결국 3등 들어”",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "c023491d3cc51441",
-      "collected_at": "2026-11-14T02:51:49.906249+00:00"
+      "key": "a8a0645bbc4ea090",
+      "collected_at": "2026-11-14T09:42:02.533203+00:00"
     },
     {
-      "keyword": "항공기",
-      "traffic": "1000+",
-      "news_title": "미 전역 항공기 운항 중단, 8천 건 이상 지연‥3만 대 이륙 불투명",
+      "keyword": "북대서양 조약 기구",
+      "traffic": "200+",
+      "news_title": "Elbit Systems, NATO 회원국과 2억6,000만 달러 규모 로켓포 계약",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "c35917940a765411",
-      "collected_at": "2026-11-14T02:51:49.906249+00:00"
-    },
-    {
-      "keyword": "법학적성시험",
-      "traffic": "500+",
-      "news_title": "&quot;스마트안경 못 잡은거 아니야?&quot; 다른 자격시험까지 번진 불신",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "e0ef0bf305bfbdb4",
-      "collected_at": "2026-11-14T02:51:49.906249+00:00"
-    },
-    {
-      "keyword": "argentina đấu với uruguay",
-      "traffic": "100+",
-      "news_title": "Không có Messi, đội tuyển Argentina gục ngã trước Uruguay",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "f6a96393447efc66",
-      "collected_at": "2026-11-14T02:51:49.906249+00:00"
-    },
-    {
-      "keyword": "고경표",
-      "traffic": "20000+",
-      "news_title": "[단독] 배우 고경표 음주사고…면허취소 만취상태",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "4a4d5dbb8935aa24",
-      "collected_at": "2026-11-14T02:51:49.906249+00:00"
+      "key": "662647f66000d2c9",
+      "collected_at": "2026-11-14T09:42:02.533203+00:00"
     }
   ]
 }
