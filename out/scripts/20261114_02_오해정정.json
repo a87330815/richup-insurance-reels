@@ -1,0 +1,41 @@
+{
+  "title": "연구보고서 - 서울연구",
+  "cover": {
+    "image": null,
+    "photo_query": "new vs old apartment building korea",
+    "lines": [
+      "이거 반대로",
+      "<y>알고 계셨죠</y>"
+    ],
+    "badge": null
+  },
+  "scenes": [
+    {
+      "image": null,
+      "photo_query": "new vs old apartment building korea",
+      "narration": "이거 모르고 지나가면 손해다. 연구보고서 - 서울연구원 다들 잘못 알고 있다. 사실은 이렇다.",
+      "subtitle": "연구보고서 - 서울연구원"
+    },
+    {
+      "image": null,
+      "photo_query": "Korea city apartment building",
+      "narration": "연구보고서 - 서울연구원 연구보고서 서울연구원 Wed, 24 Jun 2026 23:39:59 GMT",
+      "subtitle": "연구보고서 - 서울연구원"
+    },
+    {
+      "image": null,
+      "photo_query": "follow subscribe social media phone",
+      "narration": "팔로우 눌러라. 매일 현장 이슈 정리해서 쏜다.",
+      "subtitle": "팔로우 · 매일 업데이트"
+    }
+  ],
+  "meta": {
+    "format": "오해정정",
+    "source": "",
+    "category": "AI 의료기술",
+    "attribution": "",
+    "chart": null,
+    "tone": "단정형반말",
+    "generated_at": "2026-11-14T02:52:32.364811+00:00"
+  }
+}
