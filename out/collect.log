@@ -870,3 +870,59 @@ kosis.kr → 302
 
 트렌드 수집 6건 · 제외 2건 → /home/runner/work/richup-insurance-reels/richup-insurance-reels/out/trends.json
   당일 화제 이슈: 6건
+  [보험·상품 > 변액보험 수익률] 수집 중...
+  [경고] RSS 실패 (변액보험 수익률): 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%EB%B3%80%EC%95%A1%EB%B3%B4%ED%97%98+%EC%88%98%EC%9D%B5%EB%A5%A0+%ED%8E%80%EB%93%9C+%ED%88%AC%EC%9E%90&hl=ko&gl=KR&ceid=KR:ko
+    → 0건 수집
+  [보험·상품 > 달러보험 환율] 수집 중...
+  [경고] RSS 실패 (달러보험 환율): 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%EB%8B%AC%EB%9F%AC%EB%B3%B4%ED%97%98+%EB%8B%AC%EB%9F%AC%EC%97%B0%EA%B8%88+%EB%8B%AC%EB%9F%AC%EC%A2%85%EC%8B%A0+%ED%99%98%EC%9C%A8&hl=ko&gl=KR&ceid=KR:ko
+    → 0건 수집
+  [보험·상품 > 종신보험 트렌드] 수집 중...
+  [경고] RSS 실패 (종신보험 트렌드): 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%EC%A2%85%EC%8B%A0%EB%B3%B4%ED%97%98+%EB%B3%80%EC%95%A1%EC%A2%85%EC%8B%A0+%EC%A0%80%ED%95%B4%EC%A7%80+%ED%8A%B8%EB%A0%8C%EB%93%9C&hl=ko&gl=KR&ceid=KR:ko
+    → 0건 수집
+  [보험·상품 > 연금보험 노후] 수집 중...
+  [경고] RSS 실패 (연금보험 노후): 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%EC%97%B0%EA%B8%88%EB%B3%B4%ED%97%98+%EB%85%B8%ED%9B%84+%EC%97%B0%EA%B8%88%EC%A0%80%EC%B6%95+%ED%87%B4%EC%A7%81%EC%97%B0%EA%B8%88&hl=ko&gl=KR&ceid=KR:ko
+    → 0건 수집
+  [보험·상품 > 보험 제도·규제] 수집 중...
+  [경고] RSS 실패 (보험 제도·규제): 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%EB%B3%B4%ED%97%98+%EC%A0%9C%EB%8F%84+%EA%B8%88%EC%9C%B5%EC%9C%84+%EA%B8%88%EA%B0%90%EC%9B%90+GA+%EC%88%98%EC%88%98%EB%A3%8C&hl=ko&gl=KR&ceid=KR:ko
+    → 0건 수집
+  [영업·마인드 > 보험설계사 영업] 수집 중...
+  [경고] RSS 실패 (보험설계사 영업): 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%EB%B3%B4%ED%97%98%EC%84%A4%EA%B3%84%EC%82%AC+%EC%98%81%EC%97%85+%EC%83%81%EB%8B%B4+%EA%B3%A0%EA%B0%9D&hl=ko&gl=KR&ceid=KR:ko
+    → 0건 수집
+  [영업·마인드 > 세일즈 성과] 수집 중...
+  [경고] RSS 실패 (세일즈 성과): 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%EC%84%B8%EC%9D%BC%EC%A6%88+%EC%84%B1%EA%B3%BC+%EC%98%81%EC%97%85+%EA%B8%B0%EB%B2%95+%EC%8B%A4%EC%A0%81+%EB%8F%99%EA%B8%B0%EB%B6%80%EC%97%AC&hl=ko&gl=KR&ceid=KR:ko
+    → 0건 수집
+  [영업·마인드 > GA 법인보험대리점] 수집 중...
+  [경고] RSS 실패 (GA 법인보험대리점): 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=GA+%EB%B2%95%EC%9D%B8%EB%B3%B4%ED%97%98%EB%8C%80%EB%A6%AC%EC%A0%90+%EC%84%A4%EA%B3%84%EC%82%AC+%EB%A6%AC%EC%BF%A0%EB%A5%B4%ED%8C%85&hl=ko&gl=KR&ceid=KR:ko
+    → 0건 수집
+  [의료·건강 > 치매 간병] 수집 중...
+  [경고] RSS 실패 (치매 간병): 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%EC%B9%98%EB%A7%A4+%EA%B0%84%EB%B3%91+%EC%B9%98%EB%A7%A4%ED%99%98%EC%9E%90+%EC%B9%98%EB%A7%A4%EB%B3%B4%ED%97%98&hl=ko&gl=KR&ceid=KR:ko
+    → 0건 수집
+  [의료·건강 > 암 의료비] 수집 중...
+  [경고] RSS 실패 (암 의료비): 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%EC%95%94+%EC%9D%98%EB%A3%8C%EB%B9%84+%ED%95%AD%EC%95%94+%EC%B9%98%EB%A3%8C%EB%B9%84+%EA%B1%B4%EA%B0%95%EB%B3%B4%ED%97%98&hl=ko&gl=KR&ceid=KR:ko
+    → 0건 수집
+  [의료·건강 > AI 의료기술] 수집 중...
+  [경고] RSS 실패 (AI 의료기술): 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=AI+%EC%9D%98%EB%A3%8C+%EB%94%94%EC%A7%80%ED%84%B8%ED%97%AC%EC%8A%A4+%EC%9B%90%EA%B2%A9%EC%A7%84%EB%A3%8C+%EC%9D%98%EB%A3%8C%EA%B8%B0%EC%88%A0&hl=ko&gl=KR&ceid=KR:ko
+    → 0건 수집
+  [경제·환율·금리 > 기준금리·통화정책] 수집 중...
+  [경고] RSS 실패 (기준금리·통화정책): 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%EA%B8%B0%EC%A4%80%EA%B8%88%EB%A6%AC+%ED%95%9C%EA%B5%AD%EC%9D%80%ED%96%89+FOMC+%EC%97%B0%EC%A4%80+%EA%B8%88%EB%A6%AC%EC%9D%B8%ED%95%98&hl=ko&gl=KR&ceid=KR:ko
+    → 0건 수집
+  [경제·환율·금리 > 환율 전망] 수집 중...
+  [경고] RSS 실패 (환율 전망): 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%EC%9B%90%EB%8B%AC%EB%9F%AC+%ED%99%98%EC%9C%A8+%EC%A0%84%EB%A7%9D+%EB%8B%AC%EB%9F%AC%EA%B0%95%EC%84%B8+%EC%99%B8%ED%99%98%EC%8B%9C%EC%9E%A5&hl=ko&gl=KR&ceid=KR:ko
+    → 0건 수집
+  [경제·환율·금리 > 미국 경제·정책] 수집 중...
+  [경고] RSS 실패 (미국 경제·정책): 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%ED%8A%B8%EB%9F%BC%ED%94%84+%EA%B4%80%EC%84%B8+%EB%AF%B8%EA%B5%AD%EA%B2%BD%EC%A0%9C+%EC%A6%9D%EC%8B%9C+%EB%AC%B4%EC%97%AD%EC%A0%84%EC%9F%81&hl=ko&gl=KR&ceid=KR:ko
+    → 0건 수집
+  [경제·환율·금리 > 글로벌 시장] 수집 중...
+  [경고] RSS 실패 (글로벌 시장): 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%EA%B8%80%EB%A1%9C%EB%B2%8C+%EC%A6%9D%EC%8B%9C+%EB%82%98%EC%8A%A4%EB%8B%A5+%EC%BD%94%EC%8A%A4%ED%94%BC+%EC%A0%84%EB%A7%9D+%EA%B2%BD%EA%B8%B0&hl=ko&gl=KR&ceid=KR:ko
+    → 0건 수집
+
+주제별 수집: {}
+
+수집 완료: 0건 · 폐기 0건 → /home/runner/work/richup-insurance-reels/richup-insurance-reels/out/news.json
+트렌드 수집 시작
+  Google Trends: 10건
+  네이버 DataLab: 0건
+
+트렌드 수집 10건 · 제외 0건 → /home/runner/work/richup-insurance-reels/richup-insurance-reels/out/trends.json
+  경제·환율·금리: 1건
+  당일 화제 이슈: 9건

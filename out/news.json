@@ -1,32 +1,11 @@
 {
-  "collected_at": "2026-11-13T20:48:43.481599+00:00",
+  "collected_at": "2026-11-14T02:51:48.482129+00:00",
   "topic_weight": {
     "보험·상품": 30,
     "영업·마인드": 25,
     "의료·건강": 20,
     "경제·환율·금리": 25
   },
-  "topic_counts": {
-    "영업·마인드": 2
-  },
-  "items": [
-    {
-      "title": "토스인슈어런스, 연말까지 신입 보험설계사 육성 ‘지원’ - 한국보험신문",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBqc21kVEdjOWpLUzRYbTRWV1I0S1FtaEF0QlRmWWFGWkx1SDluMF9DZmlxMldMVEpQUTY4Z2JiQ0hZWGJvbmczTC1zXzhjalBXa3dGU2M5dEN5eGE4OGFhVGZWYl9qSmgtYktz0gFvQVVfeXFMT1pwOWF6bWJNOTZyejFLdEhFdEc1VEVjOUxhb0s4cjJhQzd6WWxYZjREM3cyNWxuZU84LTh3aFNodkdMRVlDZ1IwLWd3YmZZel9EM21RZWhoRHROWXZBdEJVX3N1LUYzOUVSZUVTQWlB?oc=5",
-      "description": "토스인슈어런스, 연말까지 신입 보험설계사 육성 ‘지원’ 한국보험신문",
-      "pub_date": "Fri, 13 Nov 2026 02:43:13 GMT",
-      "category": "보험설계사 영업",
-      "key": "66f5e46ab88c1352",
-      "topic": "영업·마인드"
-    },
-    {
-      "title": "토스인슈어런스, ‘언더라이팅 지원센터’로 설계사 영업 지원 강화 - 조세일보",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9WVEtNbjFDS2tMVi1reGV0S0JJOFlPVTE4TUcyb0N2cWRldFVjcWxlYzRDakRLMFNoOVJueExaMm9idVY2cmkzZnk2WVhIOXRlY0hCTkFma1hBQTI0UlVv?oc=5",
-      "description": "토스인슈어런스, ‘언더라이팅 지원센터’로 설계사 영업 지원 강화 조세일보",
-      "pub_date": "Wed, 24 Dec 2025 08:00:00 GMT",
-      "category": "보험설계사 영업",
-      "key": "b4c1725d8242cff9",
-      "topic": "영업·마인드"
-    }
-  ]
+  "topic_counts": {},
+  "items": []
 }
