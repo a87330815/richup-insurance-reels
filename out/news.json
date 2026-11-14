@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-14T14:35:56.643428+00:00",
+  "collected_at": "2026-11-14T18:59:02.084822+00:00",
   "topic_weight": {
     "보험·상품": 30,
     "영업·마인드": 25,
@@ -7,72 +7,35 @@
     "경제·환율·금리": 25
   },
   "topic_counts": {
-    "보험·상품": 3,
-    "영업·마인드": 1,
-    "경제·환율·금리": 3
+    "보험·상품": 2,
+    "경제·환율·금리": 1
   },
   "items": [
     {
-      "title": "\"변액보험 -2800만원\" 불장에 패닉...당장 깨는 게 이득? - 머니투데이 - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBudU9qdmdydkJfTkc4WWk1U0h3UXlZeHkwc0k1RE1pOEllanppQmVDQ3Z0UHpGVE13eUxuSFJKam1wRG1MVkNwajNDaWc1QWJUa1Q0UmJvdGV5NjhnRDA3b3MtSXRfTUdCcWpR0gFwQVVfeXFMUFU2ZzJDcE55NjZNYWEyNnFYQjVhdkJuaDNvelUwak9ZLTh3aUU3NVNFTjBqamQtWE55RTZ2c2tHQzNXWHE2d0xjT3pQSGttUXh1bV9jc3NxX3p5WDV3VnZfR0p5WkFCalNFM0FPaUpTUg?oc=5",
-      "description": "\"변액보험 -2800만원\" 불장에 패닉...당장 깨는 게 이득? - 머니투데이 머니투데이",
-      "pub_date": "Sat, 07 Mar 2026 08:00:00 GMT",
-      "category": "변액보험 수익률",
-      "key": "4f8fbab1615831d4",
+      "title": "달러보험, 고환율 타고 ‘질주’…올해도 외국계 보험사가 견인 - 에너지경제신문",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9OeHlTbTlHSy1IX254clFDRnpMdmYxSzFqYXFhNVRnd1lXakh2ZjFRTjVONkxtZWw5WWxMNEFzLTNtWkVkbkY1bkNBcXgtbUVRMHV2QVZDWFJybFE?oc=5",
+      "description": "달러보험, 고환율 타고 ‘질주’…올해도 외국계 보험사가 견인 에너지경제신문",
+      "pub_date": "Thu, 08 Jan 2026 08:00:00 GMT",
+      "category": "달러보험 환율",
+      "key": "111cd32875259884",
       "topic": "보험·상품"
     },
     {
-      "title": "만55세가 되었다면, IRP 연금개시 서두르자 - KB Think",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUnprT3BDR1M0WEQ0Z1pFblBwbTVXd01hbnowb1QxYk10dFRqMTFwQ0VsMW9JSEg0VHFKNlBMOGVBOXdIdFc5aXJtOEtqWk40NlJnbmx5NUVhdXZxNTVyVmZaeE5DZG5sZVFMUHBERlFLbzl1dVR5NzRJU2FxakI4aEVBUHlvXzdMcndxUVk1Q1FGb0tTOW56V2hhQWd3M0QtVEF6YWltSQ?oc=5",
-      "description": "만55세가 되었다면, IRP 연금개시 서두르자 KB Think",
-      "pub_date": "Fri, 25 Oct 2024 07:00:00 GMT",
+      "title": "다가오는 연말정산, 연금계좌 절세 노하우 - 이투데이",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43a2xBMUR0TjJlcHNvelJLQnNXbnlFZmF6ck9VaVN5ZXkxNDN3ZFBzcUpEbXlmRUNoZnJ1dThnNmRsalhKdHZURjlXZVFPMHh4US1zTWM3dmJHdw?oc=5",
+      "description": "다가오는 연말정산, 연금계좌 절세 노하우 이투데이",
+      "pub_date": "Mon, 21 Dec 2020 08:00:00 GMT",
       "category": "연금보험 노후",
-      "key": "0de4f02a332e00d2",
+      "key": "ead692d2433fbe50",
       "topic": "보험·상품"
     },
     {
-      "title": "국감, GA 수수료 환수 관행 재점화… “대형 GA 점검 촉구” - 한국보험신문",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5oVkswSEtaUkh1RWhuOUhJbHMybUR1bjZBSU82M2pKT1lZdy1BellJSW1yWnNsb21CRTF3c19iRTZ6b05NMWFzcWhwdF9uUmd5UmM4Vk81cUpIbksyT0JOWERjdGNGSVR6R1ow0gFvQVVfeXFMTXhxNWg3R1Vnc2twemlvWmM0SEE1Q3FVdHVLYUx3UXdlY2ZaRE0zN3NhWnNXTWVvTzFKZnMyLXdKckxqRU90cTBVaUZVb2dvMkhmM21OSlc2cERuZGVzTXBpdmpQeGZoaVo1X1NGRG9Z?oc=5",
-      "description": "국감, GA 수수료 환수 관행 재점화… “대형 GA 점검 촉구” 한국보험신문",
-      "pub_date": "Mon, 19 Oct 2026 07:00:00 GMT",
-      "category": "보험 제도·규제",
-      "key": "1b7f787788fb562b",
-      "topic": "보험·상품"
-    },
-    {
-      "title": "삼성화재, 고객·계약 분석 'AI 영업지원 시스템' 도입 - 세이프머니",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBmYndWX1VOMWdjdlB2OVFzV25CakVZYUd0OU5CUXF0bUVFZ3B1VjBudzB5aENlbmJBT0FXLTZtMW1CLUJURzc1aURCamhVak0xVl9kaUN5cnItZGdQT2lMb0FZRFc3eUNyNzU5dlFB?oc=5",
-      "description": "삼성화재, 고객·계약 분석 'AI 영업지원 시스템' 도입 세이프머니",
-      "pub_date": "Mon, 26 Oct 2026 07:00:00 GMT",
-      "category": "보험설계사 영업",
-      "key": "45de6a17f0c50abc",
-      "topic": "영업·마인드"
-    },
-    {
-      "title": "트럼프 관세 전쟁의 진짜 목표물은 중국이었을까 - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBDMmJEdkNVOG9DNURtRi1PVW5SYzV0VnlfSnY5MHREQ3VmcWQycHhKbWZZdk1SVWYtSHBjY3gyZ1JZdlJ4S3pzSFNOM0ZMR3NNNWJrYVd0VFlyamZS0gFiQVVfeXFMUGl2a2xfTlVtSS1TWmhIREpyakhHbmxNdWFOUnA3bmV4MmUwMS1ZM2FIX0laaEhkWnJZYXZDNXVETDJUTGM1XzBGSGtOME1rNWROWm14YTF2eVIwTGdkNnlqelE?oc=5",
-      "description": "트럼프 관세 전쟁의 진짜 목표물은 중국이었을까 BBC",
-      "pub_date": "Mon, 14 Apr 2025 07:00:00 GMT",
-      "category": "미국 경제·정책",
-      "key": "4903308dde306f03",
-      "topic": "경제·환율·금리"
-    },
-    {
-      "title": "상호관세 : 트럼프의 선택으로 자유무역 중심의 세계 경제 질서가 완전히 뒤바뀔까? - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBaRFRBRDNTTTZJMXJKaTFVdHR1WEtnbDRLQTJnX0tuWUdxLWpwT2lPeUdPQ25BdF9FX0FZSVJONTRiUlhrMzV1dlpVdGh2NjM4cC1jVmhuMXRadXJH0gFiQVVfeXFMTmducFBoc2E2NTlKTmNQbDVtcmV6TzFxXzRDMk5JRWsxeGFlZ2laTEpCemhEMDNIRmx6bUR3S01ka1dPVzJtMXo1T1Joa2lyclpvb21ubjdYd01IT1p3ZzNXb1E?oc=5",
-      "description": "상호관세 : 트럼프의 선택으로 자유무역 중심의 세계 경제 질서가 완전히 뒤바뀔까? BBC",
-      "pub_date": "Sun, 06 Apr 2025 07:00:00 GMT",
-      "category": "미국 경제·정책",
-      "key": "5d298880ea40f517",
-      "topic": "경제·환율·금리"
-    },
-    {
-      "title": "[美관세폭풍] 트럼프 상호관세로 무역전쟁 격화…新보호무역시대 접어드나 - 연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzbExfRkJkOUVuclQyekR2Ty1CcmxwVERzclM1ZHRjTm1MNlFac1o3SmFiNmVpakZiQnZHdzh2Smo2T29LaldraGF5RGZKdWNfT2Zod2N4TWlnYWPSAWBBVV95cUxNZVpsT2ppaUlUbDc2RXYwOGZZZXJvQ3ZyMm1OX3FfVlFsUDlXM3Q0V2xmcFBSeGtSWFI3TlNZR1RHSm12MEdaNExaMzN5WnBER3lob0FiQlRnMWFnM1hhUFQ?oc=5",
-      "description": "[美관세폭풍] 트럼프 상호관세로 무역전쟁 격화…新보호무역시대 접어드나 연합뉴스",
-      "pub_date": "Thu, 03 Apr 2025 07:00:00 GMT",
-      "category": "미국 경제·정책",
-      "key": "c7659177d5207985",
+      "title": "[마켓인사이트] '블루 쓰나미'에 휘청 코스피, 美증시 반등에 충격 벗어날까 - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwN3dPNUlneHp3eXZwUmFFbVlsSG5jTVlSZDNhV1ZuQjJTNXc0WGtGTmVZUDFNQzZMclFCYm96X3hpUGlvMy1pRUpsc2VsbHg1eXdXa2JBZV85VWPSAWBBVV95cUxNVDU0a1hFSlczZzJjNkxfY2VWRlY3TGJ2UDJzQjIyMGJXd3J6djFlUmdVaDBKUUtjeEIzUFRva2l4cUFvMGNETnp0VWcySEF6Nl82bjd2eExtRkNFTEg2UW0?oc=5",
+      "description": "[마켓인사이트] '블루 쓰나미'에 휘청 코스피, 美증시 반등에 충격 벗어날까 연합뉴스",
+      "pub_date": "Sat, 07 Nov 2026 21:00:06 GMT",
+      "category": "글로벌 시장",
+      "key": "0883851cd8073e95",
       "topic": "경제·환율·금리"
     }
   ]
