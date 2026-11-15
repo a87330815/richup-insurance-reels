@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-14T18:59:02.084822+00:00",
+  "collected_at": "2026-11-15T02:18:45.825698+00:00",
   "topic_weight": {
     "보험·상품": 30,
     "영업·마인드": 25,
@@ -7,35 +7,45 @@
     "경제·환율·금리": 25
   },
   "topic_counts": {
-    "보험·상품": 2,
+    "영업·마인드": 2,
+    "의료·건강": 1,
     "경제·환율·금리": 1
   },
   "items": [
     {
-      "title": "달러보험, 고환율 타고 ‘질주’…올해도 외국계 보험사가 견인 - 에너지경제신문",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9OeHlTbTlHSy1IX254clFDRnpMdmYxSzFqYXFhNVRnd1lXakh2ZjFRTjVONkxtZWw5WWxMNEFzLTNtWkVkbkY1bkNBcXgtbUVRMHV2QVZDWFJybFE?oc=5",
-      "description": "달러보험, 고환율 타고 ‘질주’…올해도 외국계 보험사가 견인 에너지경제신문",
-      "pub_date": "Thu, 08 Jan 2026 08:00:00 GMT",
-      "category": "달러보험 환율",
-      "key": "111cd32875259884",
-      "topic": "보험·상품"
+      "title": "삼성화재, AI 영업지원 시스템 도입 - PRESS9",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE83WlhJQV9QbkFhbUxBeDhDdkR6VHZnSXV3dGtYcE02dERUdmNHalUyYTYza184eGVVZnFBeWRMenYydW0zYm9OZG1IQVhBdmhvYTFxcHBJN1RxQTBxQ0NTQzl3U2Fpdw?oc=5",
+      "description": "삼성화재, AI 영업지원 시스템 도입 PRESS9",
+      "pub_date": "Mon, 26 Oct 2026 00:00:00 GMT",
+      "category": "보험설계사 영업",
+      "key": "0e3fb8a767e3ee8f",
+      "topic": "영업·마인드"
     },
     {
-      "title": "다가오는 연말정산, 연금계좌 절세 노하우 - 이투데이",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43a2xBMUR0TjJlcHNvelJLQnNXbnlFZmF6ck9VaVN5ZXkxNDN3ZFBzcUpEbXlmRUNoZnJ1dThnNmRsalhKdHZURjlXZVFPMHh4US1zTWM3dmJHdw?oc=5",
-      "description": "다가오는 연말정산, 연금계좌 절세 노하우 이투데이",
-      "pub_date": "Mon, 21 Dec 2020 08:00:00 GMT",
-      "category": "연금보험 노후",
-      "key": "ead692d2433fbe50",
-      "topic": "보험·상품"
+      "title": "설계사 리쿠르팅 방식 다양화…고아계약 ‘숙제’ - 보험매일",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBXTGEzSDdmX1VpMjhuUGdkaFRLM1hfTkZ5RGJKekFURjhmNjd3R2c1ejByc2huQmo3SHdEQzNkdUh3STY2R2VKM2VabXRCRE9vbk1hRndySzNnQ3FWTUFyZzRFd3NYUk0?oc=5",
+      "description": "설계사 리쿠르팅 방식 다양화…고아계약 ‘숙제’ 보험매일",
+      "pub_date": "Mon, 19 Jun 2023 07:00:00 GMT",
+      "category": "GA 법인보험대리점",
+      "key": "1b4326f6f1a31aeb",
+      "topic": "영업·마인드"
     },
     {
-      "title": "[마켓인사이트] '블루 쓰나미'에 휘청 코스피, 美증시 반등에 충격 벗어날까 - 연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwN3dPNUlneHp3eXZwUmFFbVlsSG5jTVlSZDNhV1ZuQjJTNXc0WGtGTmVZUDFNQzZMclFCYm96X3hpUGlvMy1pRUpsc2VsbHg1eXdXa2JBZV85VWPSAWBBVV95cUxNVDU0a1hFSlczZzJjNkxfY2VWRlY3TGJ2UDJzQjIyMGJXd3J6djFlUmdVaDBKUUtjeEIzUFRva2l4cUFvMGNETnp0VWcySEF6Nl82bjd2eExtRkNFTEg2UW0?oc=5",
-      "description": "[마켓인사이트] '블루 쓰나미'에 휘청 코스피, 美증시 반등에 충격 벗어날까 연합뉴스",
-      "pub_date": "Sat, 07 Nov 2026 21:00:06 GMT",
-      "category": "글로벌 시장",
-      "key": "0883851cd8073e95",
+      "title": "보험업계 \"올해 대세는 치매보험\"...똘똘한 신상품 줄줄이 선봬 - 녹색경제신문",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAyTUVBTS1WenF3d0M5Y3kxcTBUbzA5N0U5ZXVXc0dqR2FOX2FNWnRmeWZpTzl4MWFMZFB0dFR4TUpQRXR5S2xpSmlnRG1yR2VNTklrdXhBWjFIQmp1WHc5Tk1rT3NBeGFP?oc=5",
+      "description": "보험업계 \"올해 대세는 치매보험\"...똘똘한 신상품 줄줄이 선봬 녹색경제신문",
+      "pub_date": "Mon, 17 Feb 2025 08:00:00 GMT",
+      "category": "치매 간병",
+      "key": "1b724b4b2db1f9b1",
+      "topic": "의료·건강"
+    },
+    {
+      "title": "강달러에 환율 반등 압력…'반도체 달러'가 막아설까[주간외환전망] - 이데일리",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRjhFa1RxcHlacXA5cndvOUpCZlRyMjZUY2pqRlRleU1uelVCRUhwblVFRG5lUE9xRHB0Vm9CUnBxVmc3SkZSWFY2bmt0cGNzTkJncTRrT1NNZktpTWQ1dFZEQzB3MnNob20zMGRkS19wUDdjemRUOFBncGlGZG85Wg?oc=5",
+      "description": "강달러에 환율 반등 압력…'반도체 달러'가 막아설까[주간외환전망] 이데일리",
+      "pub_date": "Sat, 14 Nov 2026 20:00:13 GMT",
+      "category": "환율 전망",
+      "key": "b6eddd6a9603c301",
       "topic": "경제·환율·금리"
     }
   ]

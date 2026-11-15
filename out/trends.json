@@ -1,95 +1,105 @@
 {
-  "collected_at": "2026-11-14T18:59:03.234435+00:00",
+  "collected_at": "2026-11-15T02:18:46.972086+00:00",
   "items": [
     {
-      "keyword": "젠지",
-      "traffic": "500+",
-      "news_title": "&apos;월즈 우승 도전&apos; 젠지 &quot;상대 탑·정글 경계…밴픽 자신있다&quot;",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "911375a1798806a0",
-      "collected_at": "2026-11-14T18:59:03.233935+00:00"
-    },
-    {
-      "keyword": "천준호",
+      "keyword": "진양곤",
       "traffic": "100+",
-      "news_title": "이 대통령 &quot;가장 힘든 건 등 뒤에서 날아오는 화살&quot;",
+      "news_title": "HLB제약, 3분기 영업이익 8억5천만원…전년 대비 급증",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "e349ac99067a317a",
-      "collected_at": "2026-11-14T18:59:03.233935+00:00"
+      "key": "0fa79d33ff0aab9c",
+      "collected_at": "2026-11-15T02:18:46.971633+00:00"
     },
     {
-      "keyword": "raf",
-      "traffic": "100+",
-      "news_title": "Six from Team Nurmagomedov, eight in all get prison time over Dvalishvili brawl",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "3cc95b3704d4ac1c",
-      "collected_at": "2026-11-14T18:59:03.233935+00:00"
-    },
-    {
-      "keyword": "강신철",
-      "traffic": "10000+",
-      "news_title": "미 전문가들 &quot;트럼프, 전작권 전환을 주한미군 철수 수단으로 봐&quot;",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "9f7f3dc13a46fc62",
-      "collected_at": "2026-11-14T18:59:03.233935+00:00"
-    },
-    {
-      "keyword": "저축",
-      "traffic": "2000+",
-      "news_title": "같은 900만 원 넣어도 세금 29만원 차이? 청년 IRP 공제율 15% 핵심 정리",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "98ae5928aeeb1c29",
-      "collected_at": "2026-11-14T18:59:03.233935+00:00"
-    },
-    {
-      "keyword": "비트코인",
-      "traffic": "500+",
-      "news_title": "&quot;비트코인 하락, 앤트로픽 IPO 전 투자자금 이동 때문&quot;",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "f779529e797bb698",
-      "collected_at": "2026-11-14T18:59:03.233935+00:00"
-    },
-    {
-      "keyword": "bangladesh vs pakistan",
-      "traffic": "500+",
-      "news_title": "Bangladesh vs Pakistan LIVE streaming info: When, where to watch BAN v PAK SAFF Championship 2026 semifinal?",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "112a19c503a9dd47",
-      "collected_at": "2026-11-14T18:59:03.233935+00:00"
-    },
-    {
-      "keyword": "나의 이방인",
-      "traffic": "500+",
-      "news_title": "&apos;그것이 알고 싶다&apos;(그알) 14일 결방 이유는?",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "5f135b0bfcfe38c2",
-      "collected_at": "2026-11-14T18:59:03.233935+00:00"
-    },
-    {
-      "keyword": "1250 회 로또",
+      "keyword": "카리나",
       "traffic": "1000+",
-      "news_title": "제1250회 로또 1등 9명···당첨금 31억원",
+      "news_title": "BTS 3관왕·에스파 2관왕…&apos;MMA2026&apos; 첫날 나란히 대상",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "434995eaff888700",
-      "collected_at": "2026-11-14T18:59:03.233935+00:00"
+      "key": "6eaaa1d58667560f",
+      "collected_at": "2026-11-15T02:18:46.971633+00:00"
+    },
+    {
+      "keyword": "서초구",
+      "traffic": "500+",
+      "news_title": "서초구, 겨울 앞두고 공중·민간 개방화장실 139곳 점검",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "9a8214d63c6f1eea",
+      "collected_at": "2026-11-15T02:18:46.971633+00:00"
+    },
+    {
+      "keyword": "세무사 시험 ai 안경",
+      "traffic": "500+",
+      "news_title": "[속보] &apos;AI 안경 의혹&apos; 세무사 수석합격자 &quot;전자기기·생성형 AI로 부정행위 했다&quot;",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "7f7298b1630462b0",
+      "collected_at": "2026-11-15T02:18:46.971633+00:00"
+    },
+    {
+      "keyword": "케일라 해리슨",
+      "traffic": "200+",
+      "news_title": "&apos;첫 헤비급 방어전&apos; 시릴 간, 호킷과 맞대결 &quot;마음가짐 늘 똑같아... 반드시 승리할 것&quot; - 머니투데이",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "b0069f3bf9f2fb71",
+      "collected_at": "2026-11-15T02:18:46.971633+00:00"
+    },
+    {
+      "keyword": "ufc",
+      "traffic": "2000+",
+      "news_title": "Live Now! UFC 334 ‘Gane vs. Hokit’ play-by-play, results &amp; round scoring",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "35e9bf634d235160",
+      "collected_at": "2026-11-15T02:18:46.971633+00:00"
+    },
+    {
+      "keyword": "로스앤젤레스 fc",
+      "traffic": "1000+",
+      "news_title": "&apos;충격 또 충격&apos; 손흥민, MLS MVP 후보 5인에도 들지 못했다...메시 MVP 3연패 유력",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "d1e94d4329f8a18c",
+      "collected_at": "2026-11-15T02:18:46.971633+00:00"
+    },
+    {
+      "keyword": "주간한국",
+      "traffic": "100+",
+      "news_title": "",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "502ff791c2da0f77",
+      "collected_at": "2026-11-15T02:18:46.971633+00:00"
+    },
+    {
+      "keyword": "주영훈",
+      "traffic": "200+",
+      "news_title": "주영훈, 전 연인과 학부모로 재회 &quot;내 딸과 그 집 아들 짝으로 만나&quot;",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "fcf264c0b017f82c",
+      "collected_at": "2026-11-15T02:18:46.971633+00:00"
+    },
+    {
+      "keyword": "술",
+      "traffic": "2000+",
+      "news_title": "비틀거리다 청소 차에 ‘쾅’…만취 운전자는 배우 고경표",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "500b9e606183f2cf",
+      "collected_at": "2026-11-15T02:18:46.971633+00:00"
     }
   ]
 }
