@@ -1,95 +1,55 @@
 {
-  "collected_at": "2026-11-15T15:03:50.536743+00:00",
+  "collected_at": "2026-11-15T19:38:30.536972+00:00",
   "items": [
     {
-      "keyword": "입양",
-      "traffic": "200+",
-      "news_title": "&quot;여기가 미감 종착지&quot;…김나영, ♥마이큐 작업실서 허리 감싸 안으며 &apos;사랑꾼 면모&apos; 과시",
+      "keyword": "빙그레",
+      "traffic": "100+",
+      "news_title": "“한국인은 언제든 먹잖아요”에 우유 양보…빙그레도 나섰다 [잇슈#태그]",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "e0885505926f1112",
-      "collected_at": "2026-11-15T15:03:50.536188+00:00"
+      "key": "ed5949221fda1cdc",
+      "collected_at": "2026-11-15T19:38:30.536441+00:00"
     },
     {
-      "keyword": "퇴직금",
-      "traffic": "200+",
-      "news_title": "퇴직연금 대수술, 뭐가 달라질까?",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "f4e5fe586e1307dd",
-      "collected_at": "2026-11-15T15:03:50.536188+00:00"
-    },
-    {
-      "keyword": "미미미누",
-      "traffic": "1000+",
-      "news_title": "힐링 아일릿",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "2d1fb952465a6b5b",
-      "collected_at": "2026-11-15T15:03:50.536188+00:00"
-    },
-    {
-      "keyword": "부고",
-      "traffic": "200+",
-      "news_title": "[부음] 권형택(기술보증기금 이사장)씨 장인상",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "a7272a5b63de9ad4",
-      "collected_at": "2026-11-15T15:03:50.536188+00:00"
-    },
-    {
-      "keyword": "박현주",
-      "traffic": "200+",
-      "news_title": "&quot;겸손은 연기, 반대하면 폭언&quot;… 젠슨 황 전기 작가의 폭로",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "c3696de971a2842e",
-      "collected_at": "2026-11-15T15:03:50.536188+00:00"
-    },
-    {
-      "keyword": "수상함",
-      "traffic": "200+",
-      "news_title": "HD현대, 美 안두릴과 600t급 무인 군함 건조… 내년 美 해군 수주 도전",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "a6aa60eaedd03de4",
-      "collected_at": "2026-11-15T15:03:50.536188+00:00"
-    },
-    {
-      "keyword": "재건축",
+      "keyword": "아파트",
       "traffic": "5000+",
       "news_title": "강남 집값 내리는데 경기 규제지역은 상승…연말 토허제 ‘딜레마’",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "9c5790c8226d52ff",
-      "collected_at": "2026-11-15T15:03:50.536188+00:00"
+      "key": "2ec17a6f2b049bbf",
+      "collected_at": "2026-11-15T19:38:30.536441+00:00"
     },
     {
-      "keyword": "안재석",
+      "keyword": "스포츠조선",
       "traffic": "100+",
-      "news_title": "[사진]도루 성공하는 쇼지",
+      "news_title": "김민하 착시현상 뭐길래? 살구빛 &apos;누드톤&apos; 의상으로 존재감 과시",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "b462acdad1f0defe",
-      "collected_at": "2026-11-15T15:03:50.536188+00:00"
+      "key": "e36ced1f6c181499",
+      "collected_at": "2026-11-15T19:38:30.536441+00:00"
     },
     {
-      "keyword": "공습",
-      "traffic": "200+",
-      "news_title": "이란, 두달 만에 미군 기지 공습…미국 ‘봉쇄 강화’ 기조에 강경 대응",
+      "keyword": "한일전",
+      "traffic": "5000+",
+      "news_title": "日 APBC 우승 제물은 3연속 한국... 11년째 일본전 무승 이어가",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "71561504952efbc5",
-      "collected_at": "2026-11-15T15:03:50.536188+00:00"
+      "key": "54af9af3091b6511",
+      "collected_at": "2026-11-15T19:38:30.536441+00:00"
+    },
+    {
+      "keyword": "알렉산더 즈베레프",
+      "traffic": "1000+",
+      "news_title": "즈베레프, 험난한 조 편성 속 호다르와 첫판… 알카라스는 &apos;비교적 수월&apos;",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "5888d365955609d6",
+      "collected_at": "2026-11-15T19:38:30.536441+00:00"
     }
   ]
 }

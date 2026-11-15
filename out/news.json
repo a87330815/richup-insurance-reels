@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-15T15:03:48.953752+00:00",
+  "collected_at": "2026-11-15T19:38:28.969169+00:00",
   "topic_weight": {
     "보험·상품": 30,
     "영업·마인드": 25,
@@ -7,82 +7,54 @@
     "경제·환율·금리": 25
   },
   "topic_counts": {
-    "보험·상품": 2,
     "영업·마인드": 1,
-    "의료·건강": 2,
+    "의료·건강": 1,
     "경제·환율·금리": 3
   },
   "items": [
     {
-      "title": "‘환율 고공행진’…노후대비 달러연금보험 어떤게 좋을까 - 한국금융신문",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9WUV9uSV9sWUptN1JIQzd2SFMwcDJaTVdkd2pVenlza0ZzdVVuSHI2YklRdmRUT213aDd6XzFwSlhYM3NSTmY0WUtZV2QzLTVzYzdfZ21Xb3VBNjZtN2w4NXd5ekt2SkJ0a1FQUVpJX3AyTTlMMVBka1hBaHY?oc=5",
-      "description": "‘환율 고공행진’…노후대비 달러연금보험 어떤게 좋을까 한국금융신문",
-      "pub_date": "Mon, 19 Sep 2022 07:00:00 GMT",
-      "category": "달러보험 환율",
-      "key": "dee94b945d959070",
-      "topic": "보험·상품"
-    },
-    {
-      "title": "7월부터 GA도 1200%룰 시행… 판매채널 간 규제차익 해소 - 한국보험신문",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0yVDNHUkdLS2h1NWN0ODNuQmxyZDJydFJjTDl3RjQwT3dFOURTQ0RnMEMxbEtZVmxqUWhhc2M4OXZNbkxkZmlCUWJNSWZJOXlnZUxmS0ZzbS1uOVpraHJyODdETWJETDJfZ3ZJ0gFvQVVfeXFMUHY5U2Y2WDZnN2wtRVlpMUNtR0U5UDZiS004NW5pSzd0T2g3Mkdhb3RsSEVtcTFDMUgybERjdkRjZmZDWXBENjlxWlBDT0FhaHVvR0otWk56akJSV3hmMTRRQ25wQlU3MVpOWTEzTVlj?oc=5",
-      "description": "7월부터 GA도 1200%룰 시행… 판매채널 간 규제차익 해소 한국보험신문",
-      "pub_date": "Tue, 30 Jun 2026 07:00:00 GMT",
-      "category": "보험 제도·규제",
-      "key": "76d7e188dd947412",
-      "topic": "보험·상품"
-    },
-    {
-      "title": "삼성화재, AI 영업지원 시스템 도입…고객 맞춤형 보험 상담 강화 - 금융경제신문",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBORG0wZEdXQUVPZGthVGF1UDVGSnZIU0pVRkU3UE5ZLUlZck1zLXg4SVREbmZSeDJLWDFKTi1sNGN2d1VrY3ZXRWU5bGxfWXowTThKUmoySUluQlJOY3VlejVzanJBbTlKR3JXVtIBb0FVX3lxTE5GZWIxa1dLRHFGMWZZdWZzUFVfX3ZSVXpzVnR4ZTN5VXg2ZVgtb3MwTWVyRXUybzhiZkxnLVFMRlNVYnpkSU1RbWxhYk1FWTlidHk1OVJUcDJYMWZrYWpIU3NDb0kzbEZlZ01hV1J0WQ?oc=5",
-      "description": "삼성화재, AI 영업지원 시스템 도입…고객 맞춤형 보험 상담 강화 금융경제신문",
+      "title": "고객 선별부터 상담 전략까지..삼성화재, 설계사 경험에 AI 더한다 - 포쓰저널",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBQRWptS2VhY2hkVmJWeFhKTzM3WGhFSERRUjBBOUR3ZHM1WlM0RjljYTNaTkNucG1teVJBT3l1YzhPQ0RLOFh5T200Nk9KdFpzSHRGemxOU3huanR0TlpzNVdRYXI?oc=5",
+      "description": "고객 선별부터 상담 전략까지..삼성화재, 설계사 경험에 AI 더한다 포쓰저널",
       "pub_date": "Mon, 26 Oct 2026 07:00:00 GMT",
       "category": "보험설계사 영업",
-      "key": "06e38c097c51d9cb",
+      "key": "102e8d6ba3819c66",
       "topic": "영업·마인드"
     },
     {
-      "title": "비급여 항암제 환자 81% ‘월 300만원+’…암보험, 진단금 넘어 ‘치료비 구조’가 갈린다 - 보험저널",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE42cjd5N2tRREwwUERHdU5ZMDhzU04wTVQ1YWo4dFpfcUFNdnhNVmdnSFpyWjdITUJzNzF6OG5FbkpvT3NESjZwazJBUU83czNUZWN6Umw5QVlkNXE4Y2pHLURaMEpCVFFXems2N0RkRQ?oc=5",
-      "description": "비급여 항암제 환자 81% ‘월 300만원+’…암보험, 진단금 넘어 ‘치료비 구조’가 갈린다 보험저널",
-      "pub_date": "Tue, 15 Sep 2026 07:00:00 GMT",
-      "category": "암 의료비",
-      "key": "56cc175bfa77be4b",
-      "topic": "의료·건강"
-    },
-    {
-      "title": "국제성모병원, 카자흐스탄에 원격의료센터 개소…AI 의료 협력 확대 - 메디파나뉴스",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ybHFFUHkyZFEwSEZFMWU2Sk9vbmdURUQ5RnhmdVJQcnFzVjlNbmhydGZRejVrYjNNbE85S1c1MjdKeEV2M0RJVWxOQ1BYS3hpdjJRNmEyTVFIQ1FndUVHRTVpQ1hNQnRzRjFn?oc=5",
-      "description": "국제성모병원, 카자흐스탄에 원격의료센터 개소…AI 의료 협력 확대 메디파나뉴스",
-      "pub_date": "Thu, 15 Oct 2026 07:57:43 GMT",
+      "title": "맞춤형·원격 진료 확산 추세…디지털 헬스케어 시장 성숙기 접어들어 - 바이오타임즈",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Bc1RKT2hrRTVGSEhEUlpIMXJaZTgwazFlQnNmZDU2NDJ5djlvNTc0UVh2emJJTHhUcnNTWHJ3Vlg5VWpiMmpnNmpTWS1ucGJKYnVFRFA5cVI0SjhMMEtfN09ZZGxvQUpsQW5zbw?oc=5",
+      "description": "맞춤형·원격 진료 확산 추세…디지털 헬스케어 시장 성숙기 접어들어 바이오타임즈",
+      "pub_date": "Tue, 16 Jul 2024 07:00:00 GMT",
       "category": "AI 의료기술",
-      "key": "be1ad8b16a81deae",
+      "key": "a363bdb094c9f2a9",
       "topic": "의료·건강"
     },
     {
-      "title": "트럼프 관세 폭탄 '부메랑'…미 증시부터 때렸다 - 세상을 바꾸는 시민언론 민들레",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBOeVp0SERWRVJrNmhmbVZaOGduSUNvbFFYSXhBSmpLb3FOVFo0WGVUQjJUbkJEYzVhMkVwdmZMM0hscHlXRHFiWWxSa05wVDQtSnYyUjJ0VFhlM1AzcFlQY1JMUkt0U3A3WDVnVA?oc=5",
-      "description": "트럼프 관세 폭탄 '부메랑'…미 증시부터 때렸다 세상을 바꾸는 시민언론 민들레",
-      "pub_date": "Tue, 11 Mar 2025 07:00:00 GMT",
-      "category": "미국 경제·정책",
-      "key": "c7c335460b7f6b29",
+      "title": "중동사태에 연준 추가 금리인하 기대 '뚝'…한은 금리인상 전망까지 - 마켓인",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBpVDFWRngyTHRZdDVlZnBnTlloR3NndFhHWC1CZVhONmZNcURVVUw4QkMwaHBFYmtaeUdSLXNYRUU1TmkxY3dYLThfaEpJanZQUnpFZEEwUjFkV2J6VFlIZGtEZ29VcjBfNVpVeVBwVllabEk?oc=5",
+      "description": "중동사태에 연준 추가 금리인하 기대 '뚝'…한은 금리인상 전망까지 마켓인",
+      "pub_date": "Thu, 19 Mar 2026 07:00:00 GMT",
+      "category": "기준금리·통화정책",
+      "key": "9d980fc4894f61a0",
       "topic": "경제·환율·금리"
     },
     {
-      "title": "미중 무역전쟁: 중국 6월부터 600억달러 규모의 미국 제품에 보복 관세 부과 - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE43M1VkeEk2Tmp5Q2NSMTM1Z0J0bDJpQ1BjQlZVS19LTmdYaUhTeVJQay1abU1UdTNlMWdpcVpKVFY4QlBzZjhzVjl1NWVXdDN2Mm5sTjMxTzlsa0FobVHSAWNBVV95cUxONVo1NEZsa0ZRUkM5YjZNXzVUM3JwOUhhSE5zclZoOEJWeS1JM2d5MTFxYUpjdzRNMWtQbnVMOC1YLVlTdERHRjRNbFczeF8tZ1FnY0JzN0NfUTFsd3lkcmtTNzg?oc=5",
-      "description": "미중 무역전쟁: 중국 6월부터 600억달러 규모의 미국 제품에 보복 관세 부과 BBC",
-      "pub_date": "Tue, 14 May 2019 07:00:00 GMT",
-      "category": "미국 경제·정책",
-      "key": "5e575f474da56319",
+      "title": "[AI MY 증시전망] 나스닥 2.6%↓·반도체지수 6.7%↓…국내 증시 변동성 확대 - 뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5IMUlMRW13Wm02TlY0NUFhSnBNa3dta1hVLXZpdnJjUEJseFh4My1Fc2V3SFZQZGJoOVg1eElRYVkwQXhWUTl2cnpSTGpwbUZ0SWtRTGV3bjhNQjJK?oc=5",
+      "description": "[AI MY 증시전망] 나스닥 2.6%↓·반도체지수 6.7%↓…국내 증시 변동성 확대 뉴스핌",
+      "pub_date": "Fri, 23 Oct 2026 07:00:00 GMT",
+      "category": "글로벌 시장",
+      "key": "31f80c2015c9a98e",
       "topic": "경제·환율·금리"
     },
     {
-      "title": "나스닥 한때 2% 급락…코스피發 투매에 AI 랠리 '제동' - 마켓인",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE83dVBuU1RuZ05RQXNQa3d4ajQ5QTZqcmpzR09GNEczbFdkLWtBUVA5V3pYUksxdnlHdUJydzI4TEtxQ0dydjd4WFBqalBGbmo0WHM3Sl8tQk1NWEktVTdERi12eEtUTklReG53Z3k2SGFoSXM?oc=5",
-      "description": "나스닥 한때 2% 급락…코스피發 투매에 AI 랠리 '제동' 마켓인",
+      "title": "나스닥 한때 2% 급락…코스피發 투매에 AI 랠리 '제동' - edaily.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNV19NMGZkRGpkSUNHclJ5amk3cTkxOVpSbEJ3ZjFpU2kwVFRMSmJDOUhFcWgxREhoWVhlanVXN3lwdVZuU2xobmFIcGlFeGhLTWRiNUxpN2ViNTd3emMtSjdJdkhtdGJuYV9qdnBMa1lYTnNJRUx4QTdjQlNHMm9NWQ?oc=5",
+      "description": "나스닥 한때 2% 급락…코스피發 투매에 AI 랠리 '제동' edaily.co.kr",
       "pub_date": "Wed, 24 Jun 2026 07:00:00 GMT",
       "category": "글로벌 시장",
-      "key": "0862a2d3493d1677",
+      "key": "4c6cc8ef521db027",
       "topic": "경제·환율·금리"
     }
   ]
