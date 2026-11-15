@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-15T02:18:45.825698+00:00",
+  "collected_at": "2026-11-15T10:14:50.656385+00:00",
   "topic_weight": {
     "보험·상품": 30,
     "영업·마인드": 25,
@@ -7,45 +7,71 @@
     "경제·환율·금리": 25
   },
   "topic_counts": {
-    "영업·마인드": 2,
-    "의료·건강": 1,
-    "경제·환율·금리": 1
+    "보험·상품": 1,
+    "경제·환율·금리": 6
   },
   "items": [
     {
-      "title": "삼성화재, AI 영업지원 시스템 도입 - PRESS9",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE83WlhJQV9QbkFhbUxBeDhDdkR6VHZnSXV3dGtYcE02dERUdmNHalUyYTYza184eGVVZnFBeWRMenYydW0zYm9OZG1IQVhBdmhvYTFxcHBJN1RxQTBxQ0NTQzl3U2Fpdw?oc=5",
-      "description": "삼성화재, AI 영업지원 시스템 도입 PRESS9",
-      "pub_date": "Mon, 26 Oct 2026 00:00:00 GMT",
-      "category": "보험설계사 영업",
-      "key": "0e3fb8a767e3ee8f",
-      "topic": "영업·마인드"
+      "title": "보험계약부터 판매·보상까지… 국정감사 금융감독원에 제도 개선 주문 - 한국보험신문",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBINFhYS1lSbGxGcWc3MXJSRzBtVkMzNzdXaE0xUHA0djJLTXBxOTlYSkFYYzR3Yld6SjZHVE5ETEE2U0QzMlpDVkRWYzFBX1VxUWRTZlRyRmp1eXJMY0RpRi1qQmtvRmxsWS130gFvQVVfeXFMTUJ3eWpEX3g3X2xJWnYtOEZ5NXMyaWJZSUdBeWpJZlpNVjU1aGk1TUFleEFnWXdKRzNnSDdLU3NCSXdaaWdMaWI5Um5rU2Q3ZERFM3BmSGFmMi0yVHpDekxrWDVuXzFMaWg5a3JQYWtF?oc=5",
+      "description": "보험계약부터 판매·보상까지… 국정감사 금융감독원에 제도 개선 주문 한국보험신문",
+      "pub_date": "Tue, 20 Oct 2026 07:00:00 GMT",
+      "category": "보험 제도·규제",
+      "key": "ee5457e6c8ed62f3",
+      "topic": "보험·상품"
     },
     {
-      "title": "설계사 리쿠르팅 방식 다양화…고아계약 ‘숙제’ - 보험매일",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBXTGEzSDdmX1VpMjhuUGdkaFRLM1hfTkZ5RGJKekFURjhmNjd3R2c1ejByc2huQmo3SHdEQzNkdUh3STY2R2VKM2VabXRCRE9vbk1hRndySzNnQ3FWTUFyZzRFd3NYUk0?oc=5",
-      "description": "설계사 리쿠르팅 방식 다양화…고아계약 ‘숙제’ 보험매일",
-      "pub_date": "Mon, 19 Jun 2023 07:00:00 GMT",
-      "category": "GA 법인보험대리점",
-      "key": "1b4326f6f1a31aeb",
-      "topic": "영업·마인드"
+      "title": "\"원화도 달러도 비싸졌다\"…금리 인하 기다린 기업들 조달 '비상’ - 인베스트조선",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcWdPWGxydHdKNkxqWk9rVDRNY2syQWo0QnppTTZyWjQ2UjBfTFpMSjB1MHNUYVA1UzdiWnljVlRheEJ0Y3NJbTVVcGNyZHExOGp3N1YwTFRsZU80bHVRSUJRVXN5Rzc4MUdjR0NQeUtPRnZ4NTQtc0lOMFMwMk9adjh4dw?oc=5",
+      "description": "\"원화도 달러도 비싸졌다\"…금리 인하 기다린 기업들 조달 '비상’ 인베스트조선",
+      "pub_date": "Mon, 21 Sep 2026 07:00:00 GMT",
+      "category": "기준금리·통화정책",
+      "key": "76052fd321675bb0",
+      "topic": "경제·환율·금리"
     },
     {
-      "title": "보험업계 \"올해 대세는 치매보험\"...똘똘한 신상품 줄줄이 선봬 - 녹색경제신문",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAyTUVBTS1WenF3d0M5Y3kxcTBUbzA5N0U5ZXVXc0dqR2FOX2FNWnRmeWZpTzl4MWFMZFB0dFR4TUpQRXR5S2xpSmlnRG1yR2VNTklrdXhBWjFIQmp1WHc5Tk1rT3NBeGFP?oc=5",
-      "description": "보험업계 \"올해 대세는 치매보험\"...똘똘한 신상품 줄줄이 선봬 녹색경제신문",
-      "pub_date": "Mon, 17 Feb 2025 08:00:00 GMT",
-      "category": "치매 간병",
-      "key": "1b724b4b2db1f9b1",
-      "topic": "의료·건강"
+      "title": "기준금리 4연속 동결될 듯…\"집값·대출·환율 여전히 불안\" - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5BSGxkWl84VXRtUk9sbldDaVp0TjVKZ28xaXBpYTRJYzVqcDAtMTM3SXJBWGQyaldsUHpQZDVmb0RUWU9iUXFqaThSdzdEc3JwYkUxM1Z5NUM4MDQ?oc=5",
+      "description": "기준금리 4연속 동결될 듯…\"집값·대출·환율 여전히 불안\" 연합뉴스",
+      "pub_date": "Mon, 24 Nov 2025 08:00:00 GMT",
+      "category": "기준금리·통화정책",
+      "key": "7e5203d4587598d1",
+      "topic": "경제·환율·금리"
     },
     {
-      "title": "강달러에 환율 반등 압력…'반도체 달러'가 막아설까[주간외환전망] - 이데일리",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRjhFa1RxcHlacXA5cndvOUpCZlRyMjZUY2pqRlRleU1uelVCRUhwblVFRG5lUE9xRHB0Vm9CUnBxVmc3SkZSWFY2bmt0cGNzTkJncTRrT1NNZktpTWQ1dFZEQzB3MnNob20zMGRkS19wUDdjemRUOFBncGlGZG85Wg?oc=5",
-      "description": "강달러에 환율 반등 압력…'반도체 달러'가 막아설까[주간외환전망] 이데일리",
-      "pub_date": "Sat, 14 Nov 2026 20:00:13 GMT",
+      "title": "[주간환율전망] 강달러 VS 수출네고 '줄다리기'···1330원대 공방 - 서울파이낸스",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5jcHlPdXl3VXFjclg2ZlVlbF9LRkxWblNERDBaMWk3NGlGMkVDVFl5SjFmTkRORWlJb1dib3JReEw3NEJLNEFFMjdWY3d1YUlzQTlQd0VYVTBBV1FvZmNWdDJmYXdVd195MXc?oc=5",
+      "description": "[주간환율전망] 강달러 VS 수출네고 '줄다리기'···1330원대 공방 서울파이낸스",
+      "pub_date": "Sun, 15 Nov 2026 08:00:00 GMT",
       "category": "환율 전망",
-      "key": "b6eddd6a9603c301",
+      "key": "d98199fdab5d99be",
+      "topic": "경제·환율·금리"
+    },
+    {
+      "title": "[환율 전망] 벼랑 끝에서 간신히 살아난 원화 - KB Think",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5LaHI3VUVwRlhQU1BoM0xKQk9lWFp4U01KTklmTjZfWUk3MlhoQXN2TG5XMUliYzdjLWNzSENrVFUxam1DNzRQUFdBcnpLSjNkOEVEMjFYTXpQTUFxekZESQ?oc=5",
+      "description": "[환율 전망] 벼랑 끝에서 간신히 살아난 원화 KB Think",
+      "pub_date": "Thu, 21 May 2026 07:00:00 GMT",
+      "category": "환율 전망",
+      "key": "9eb10312f5451dfa",
+      "topic": "경제·환율·금리"
+    },
+    {
+      "title": "미국증시 전망 : 트럼프는 관세 정책으로 정말 미국이 망하길 바라는 걸까? (feat. 2018, 2025 무역전쟁) - 네이버 프리미엄콘텐츠",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNUQ5UnlBRnF0RS05LUZkRWFtdW5xOWtGelNZTUJpd3M5ZGRHdGM1bHdkcFRxTE40eFFoY3lqc1pRRGZHSWVIajVGUE1BalQ4RGtVUUdCbTVFMjhzc3BkM2pTQmlPcUxaTi15QTBfTEpaMFpJc2xLelNPbGdaMTg3YnhNZw?oc=5",
+      "description": "미국증시 전망 : 트럼프는 관세 정책으로 정말 미국이 망하길 바라는 걸까? (feat. 2018, 2025 무역전쟁) 네이버 프리미엄콘텐츠",
+      "pub_date": "Sat, 05 Apr 2025 07:00:00 GMT",
+      "category": "미국 경제·정책",
+      "key": "d167024b74e00317",
+      "topic": "경제·환율·금리"
+    },
+    {
+      "title": "“다우지수 5만·코스피 5천 돌파” 전 세계 증시 동시 폭발한 3가지 이유 - 비즈한국",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9mTUlCTDFxdERnUEVaRUlETUZqQjNwbGFWck5jSzBLbmZNS0FzQ1dPTTkyc2NoWUM4NGJiYkplV1JJUmdyQmlKQzhxOFdWU3VQWXZXZA?oc=5",
+      "description": "“다우지수 5만·코스피 5천 돌파” 전 세계 증시 동시 폭발한 3가지 이유 비즈한국",
+      "pub_date": "Sat, 07 Feb 2026 08:00:00 GMT",
+      "category": "글로벌 시장",
+      "key": "cc43e5757c9fd997",
       "topic": "경제·환율·금리"
     }
   ]
