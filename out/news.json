@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-15T19:38:28.969169+00:00",
+  "collected_at": "2026-11-16T02:31:11.295347+00:00",
   "topic_weight": {
     "보험·상품": 30,
     "영업·마인드": 25,
@@ -7,54 +7,82 @@
     "경제·환율·금리": 25
   },
   "topic_counts": {
+    "보험·상품": 1,
     "영업·마인드": 1,
     "의료·건강": 1,
-    "경제·환율·금리": 3
+    "경제·환율·금리": 5
   },
   "items": [
     {
-      "title": "고객 선별부터 상담 전략까지..삼성화재, 설계사 경험에 AI 더한다 - 포쓰저널",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBQRWptS2VhY2hkVmJWeFhKTzM3WGhFSERRUjBBOUR3ZHM1WlM0RjljYTNaTkNucG1teVJBT3l1YzhPQ0RLOFh5T200Nk9KdFpzSHRGemxOU3huanR0TlpzNVdRYXI?oc=5",
-      "description": "고객 선별부터 상담 전략까지..삼성화재, 설계사 경험에 AI 더한다 포쓰저널",
-      "pub_date": "Mon, 26 Oct 2026 07:00:00 GMT",
+      "title": "\"연금 타가세요\" 보험사에서 연락 받은 50대가 해야 할 일 - 조선일보",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOS2NYVzJjZmJsUDRVZFRKZ3NlMzl2ekJPSm9GUzktczJMQURxRUJlemtuaE9ibkpNMFhrVHVkRTVJNmtOMExUWFdScXdmbjBoT3YzYUlhbC1qdUdsbm01YWVaZU1mbXhhWkhSRklwbnhyS0UycGQ2ZkprUkcxRThxRw?oc=5",
+      "description": "\"연금 타가세요\" 보험사에서 연락 받은 50대가 해야 할 일 조선일보",
+      "pub_date": "Thu, 21 Dec 2023 08:00:00 GMT",
+      "category": "연금보험 노후",
+      "key": "84d91a5f13069adb",
+      "topic": "보험·상품"
+    },
+    {
+      "title": "토스인슈어런스, 전국 6대 광역시 영업망 완성… 무경력 설계사 육성 확대 - 한국보험신문",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5jM2EtbXFqWUNMb2tqYTFXUll5U0Z2MEduaHJHOVRQeUpUZVRJNzdjUWdvSGR5WGtPQmdLRHJOazFKNzBEU3JzSUdDVkZCaFdaWDEwQlNFcGNYRVNLSnVPMld5SWd2MUk1djNhVDNmc9IBb0FVX3lxTE5jM2EtbXFqWUNMb2tqYTFXUll5U0Z2MEduaHJHOVRQeUpUZVRJNzdjUWdvSGR5WGtPQmdLRHJOazFKNzBEU3JzSUdDVkZCaFdaWDEwQlNFcGNYRVNLSnVPMld5SWd2MUk1djNhVDNmcw?oc=5",
+      "description": "토스인슈어런스, 전국 6대 광역시 영업망 완성… 무경력 설계사 육성 확대 한국보험신문",
+      "pub_date": "Sun, 15 Nov 2026 15:00:00 GMT",
       "category": "보험설계사 영업",
-      "key": "102e8d6ba3819c66",
+      "key": "0d9bffec861d10a1",
       "topic": "영업·마인드"
     },
     {
-      "title": "맞춤형·원격 진료 확산 추세…디지털 헬스케어 시장 성숙기 접어들어 - 바이오타임즈",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Bc1RKT2hrRTVGSEhEUlpIMXJaZTgwazFlQnNmZDU2NDJ5djlvNTc0UVh2emJJTHhUcnNTWHJ3Vlg5VWpiMmpnNmpTWS1ucGJKYnVFRFA5cVI0SjhMMEtfN09ZZGxvQUpsQW5zbw?oc=5",
-      "description": "맞춤형·원격 진료 확산 추세…디지털 헬스케어 시장 성숙기 접어들어 바이오타임즈",
-      "pub_date": "Tue, 16 Jul 2024 07:00:00 GMT",
-      "category": "AI 의료기술",
-      "key": "a363bdb094c9f2a9",
+      "title": "경증 진단 2천만원?…치매보험에 ‘숨은 변수’ 있다 - 한겨레",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1SQkV2UnFyVjJDV0E3NDZSOUlIVG9Qb0NwMG00YzJ2QlBScF9XQVhRRlhMcENoV2ctNmhUR1BSa3VLOXhyOEVoS2dBMEl0NEM5LUZDNWRlSy1iTjJPdDAwZDlNLUxMQQ?oc=5",
+      "description": "경증 진단 2천만원?…치매보험에 ‘숨은 변수’ 있다 한겨레",
+      "pub_date": "Sun, 07 Apr 2019 07:00:00 GMT",
+      "category": "치매 간병",
+      "key": "4a61e7304a985f9b",
       "topic": "의료·건강"
     },
     {
-      "title": "중동사태에 연준 추가 금리인하 기대 '뚝'…한은 금리인상 전망까지 - 마켓인",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBpVDFWRngyTHRZdDVlZnBnTlloR3NndFhHWC1CZVhONmZNcURVVUw4QkMwaHBFYmtaeUdSLXNYRUU1TmkxY3dYLThfaEpJanZQUnpFZEEwUjFkV2J6VFlIZGtEZ29VcjBfNVpVeVBwVllabEk?oc=5",
-      "description": "중동사태에 연준 추가 금리인하 기대 '뚝'…한은 금리인상 전망까지 마켓인",
-      "pub_date": "Thu, 19 Mar 2026 07:00:00 GMT",
-      "category": "기준금리·통화정책",
-      "key": "9d980fc4894f61a0",
+      "title": "[환율 전망] 반도체 가격의 방향이 곧 원화의 향방 - KB Think",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TUEN6a1NLS3lsQkFtU20xNl9QQlNCQmx3RGM0RzlCbWxVQk9xYnI4NzIyU2VoZ3R5aDZUM284RjMwUWJ3M0owcVYyYzI1MWJZbUtuM1A4U0dmSUZsWHJTXw?oc=5",
+      "description": "[환율 전망] 반도체 가격의 방향이 곧 원화의 향방 KB Think",
+      "pub_date": "Mon, 16 Nov 2026 02:08:02 GMT",
+      "category": "환율 전망",
+      "key": "9b5435adaa536617",
       "topic": "경제·환율·금리"
     },
     {
-      "title": "[AI MY 증시전망] 나스닥 2.6%↓·반도체지수 6.7%↓…국내 증시 변동성 확대 - 뉴스핌",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5IMUlMRW13Wm02TlY0NUFhSnBNa3dta1hVLXZpdnJjUEJseFh4My1Fc2V3SFZQZGJoOVg1eElRYVkwQXhWUTl2cnpSTGpwbUZ0SWtRTGV3bjhNQjJK?oc=5",
-      "description": "[AI MY 증시전망] 나스닥 2.6%↓·반도체지수 6.7%↓…국내 증시 변동성 확대 뉴스핌",
-      "pub_date": "Fri, 23 Oct 2026 07:00:00 GMT",
-      "category": "글로벌 시장",
-      "key": "31f80c2015c9a98e",
+      "title": "[주간환율전망] 강달러에도 1330원대…엔비디아가 변수 - 자본시장뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCaFBGc0Y1YjRfVlFqVGY2NWlNZDcyN3lhNTJIUldGZFVPV2F5Yl8yQk1nc3lQdFc1Zi1XNHF4Z2V3SXJNVmI1bjFqMlVDemtiQ280RFRDd0JNS1Z5WTJNNlRwV3I4WDQ?oc=5",
+      "description": "[주간환율전망] 강달러에도 1330원대…엔비디아가 변수 자본시장뉴스",
+      "pub_date": "Mon, 16 Nov 2026 00:21:42 GMT",
+      "category": "환율 전망",
+      "key": "29adebfac466b0f7",
       "topic": "경제·환율·금리"
     },
     {
-      "title": "나스닥 한때 2% 급락…코스피發 투매에 AI 랠리 '제동' - edaily.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNV19NMGZkRGpkSUNHclJ5amk3cTkxOVpSbEJ3ZjFpU2kwVFRMSmJDOUhFcWgxREhoWVhlanVXN3lwdVZuU2xobmFIcGlFeGhLTWRiNUxpN2ViNTd3emMtSjdJdkhtdGJuYV9qdnBMa1lYTnNJRUx4QTdjQlNHMm9NWQ?oc=5",
-      "description": "나스닥 한때 2% 급락…코스피發 투매에 AI 랠리 '제동' edaily.co.kr",
-      "pub_date": "Wed, 24 Jun 2026 07:00:00 GMT",
+      "title": "\"달러 강세에도 수급은 원활…주간 환율 1320~1360원\" - 뉴스투데이",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1TTVU5V0otaW5KenhVbS1fZDdDZHdhbExQby1XQ0U2THV6bUxWTUtJdDB2ZXgtVmtkM0tYSGJzMDBLYU43dUhISkNZMzJqZ1lzYWVPYW9mRkVIWmRfMVE?oc=5",
+      "description": "\"달러 강세에도 수급은 원활…주간 환율 1320~1360원\" 뉴스투데이",
+      "pub_date": "Mon, 16 Nov 2026 00:22:00 GMT",
+      "category": "환율 전망",
+      "key": "e590861313cbd495",
+      "topic": "경제·환율·금리"
+    },
+    {
+      "title": "[다음주 환율전망] 중동 긴장에 다시 고개 든 강달러…원·달러 환율 1330원대 공방 전망 - 굿모닝경제",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCdnZ3Zzd1S2lyUmNqX2w3cUlqa1FZSkcxRDRmeEJjenBhU3lVR1U3VmgxSEpVcGJ3VEx6RE1NdlNrVENzQk9BSVRCWGRJN1BOaHRFWlJIdkdaUlFTZ0hrNF9HY2U0TV9Mb2pDRw?oc=5",
+      "description": "[다음주 환율전망] 중동 긴장에 다시 고개 든 강달러…원·달러 환율 1330원대 공방 전망 굿모닝경제",
+      "pub_date": "Fri, 13 Nov 2026 22:00:00 GMT",
+      "category": "환율 전망",
+      "key": "72fe5dde34c68189",
+      "topic": "경제·환율·금리"
+    },
+    {
+      "title": "미·일 증시 천장 뚫는데… \"국내 주식은 하는 게 아니다?\" - 부산일보",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBiVUZTWXVMX3RaRWdnQ2Njc0JOT1BuM3A2Z0p4YWRyQ0dweG4xeVhZTERvYmxLYTZKX2RzaEZYR1JqMjAzNEpCTGVBeXZ3dDZGeENvVUozNmJCN28tOTNCN3dQU1FjTWJUbEk1VDFFd2lCSkJk?oc=5",
+      "description": "미·일 증시 천장 뚫는데… \"국내 주식은 하는 게 아니다?\" 부산일보",
+      "pub_date": "Tue, 23 Jan 2024 08:00:00 GMT",
       "category": "글로벌 시장",
-      "key": "4c6cc8ef521db027",
+      "key": "e2ff91ea8f29bc91",
       "topic": "경제·환율·금리"
     }
   ]

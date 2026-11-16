@@ -1,55 +1,105 @@
 {
-  "collected_at": "2026-11-15T19:38:30.536972+00:00",
+  "collected_at": "2026-11-16T02:31:13.069988+00:00",
   "items": [
     {
-      "keyword": "빙그레",
+      "keyword": "무역",
+      "traffic": "200+",
+      "news_title": "뱀 잡아 팔던 나라가 반도체 강국으로…80년 만에 벌어진 일",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "경제·환율·금리",
+      "key": "e6ada65b15b7716a",
+      "collected_at": "2026-11-16T02:31:13.069451+00:00"
+    },
+    {
+      "keyword": "즉석밥",
+      "traffic": "500+",
+      "news_title": "CJ제일제당, 햇반 30주년 기념 한정판 신제품 ‘햇반 30곡밥’ 출시 – CJ 뉴스룸",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "8cfdb4a5808c5027",
+      "collected_at": "2026-11-16T02:31:13.069451+00:00"
+    },
+    {
+      "keyword": "이현중",
+      "traffic": "500+",
+      "news_title": "이현중, G리그서 커리어 하이 폭발…NBA 향한 ‘무력시위’",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "c295814fd5b790ea",
+      "collected_at": "2026-11-16T02:31:13.069451+00:00"
+    },
+    {
+      "keyword": "공모",
       "traffic": "100+",
-      "news_title": "“한국인은 언제든 먹잖아요”에 우유 양보…빙그레도 나섰다 [잇슈#태그]",
+      "news_title": "삼성바이오, 2.7조원 유증 성공…청약증거금 11.4조 &apos;역대 최대규모&apos; - 머니투데이",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "ed5949221fda1cdc",
-      "collected_at": "2026-11-15T19:38:30.536441+00:00"
+      "key": "38e29852130b14bf",
+      "collected_at": "2026-11-16T02:31:13.069451+00:00"
     },
     {
-      "keyword": "아파트",
+      "keyword": "박혜연",
       "traffic": "5000+",
-      "news_title": "강남 집값 내리는데 경기 규제지역은 상승…연말 토허제 ‘딜레마’",
+      "news_title": "미운 우리 새끼 : [11월 22일 예고] “전 안 돼요?” 김승수, 박혜연에게 진심 담아 조심스럽게 전한 고백",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "2ec17a6f2b049bbf",
-      "collected_at": "2026-11-15T19:38:30.536441+00:00"
+      "key": "b927089c26de3c97",
+      "collected_at": "2026-11-16T02:31:13.069451+00:00"
     },
     {
-      "keyword": "스포츠조선",
+      "keyword": "초고층",
+      "traffic": "500+",
+      "news_title": "월 2만원 내던 아파트 수선비, 초고층은 20만원…그래도 사실 건가요?[올앳부동산]",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "8dc6da252eca63b8",
+      "collected_at": "2026-11-16T02:31:13.069451+00:00"
+    },
+    {
+      "keyword": "공직",
+      "traffic": "200+",
+      "news_title": "[행감 인물] 경기도의회 안전행정위원회 국힘 박영선",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "7ece0fc6e0beec31",
+      "collected_at": "2026-11-16T02:31:13.069451+00:00"
+    },
+    {
+      "keyword": "청년미래적금",
+      "traffic": "200+",
+      "news_title": "최대 금리 8%? 청년미래적금도 빈익빈부익부",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "1fa7b7e8e7450800",
+      "collected_at": "2026-11-16T02:31:13.069451+00:00"
+    },
+    {
+      "keyword": "카우보이스 대 포티나이너스",
       "traffic": "100+",
-      "news_title": "김민하 착시현상 뭐길래? 살구빛 &apos;누드톤&apos; 의상으로 존재감 과시",
+      "news_title": "Brock Purdy&apos;s Best Plays from 3-TD Game vs. Cowboys | Week 10",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "e36ced1f6c181499",
-      "collected_at": "2026-11-15T19:38:30.536441+00:00"
+      "key": "ef851c279163ae8d",
+      "collected_at": "2026-11-16T02:31:13.069451+00:00"
     },
     {
-      "keyword": "한일전",
-      "traffic": "5000+",
-      "news_title": "日 APBC 우승 제물은 3연속 한국... 11년째 일본전 무승 이어가",
+      "keyword": "커버드 콜",
+      "traffic": "500+",
+      "news_title": "[단독] 과세관청, 서학개미 이의제기 첫 인정…美 커버드콜 분배금 환급 잇따르나",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "54af9af3091b6511",
-      "collected_at": "2026-11-15T19:38:30.536441+00:00"
-    },
-    {
-      "keyword": "알렉산더 즈베레프",
-      "traffic": "1000+",
-      "news_title": "즈베레프, 험난한 조 편성 속 호다르와 첫판… 알카라스는 &apos;비교적 수월&apos;",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "5888d365955609d6",
-      "collected_at": "2026-11-15T19:38:30.536441+00:00"
+      "key": "198b24278bad514e",
+      "collected_at": "2026-11-16T02:31:13.069451+00:00"
     }
   ]
 }
