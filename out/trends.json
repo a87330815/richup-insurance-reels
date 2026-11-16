@@ -1,95 +1,105 @@
 {
-  "collected_at": "2026-11-16T17:36:04.128810+00:00",
+  "collected_at": "2026-11-16T23:16:00.756203+00:00",
   "items": [
     {
-      "keyword": "robert pattinson",
-      "traffic": "500+",
-      "news_title": "There’s a New James Bond, Again. How Did the Last Ones Fare?",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "522f80da194584a0",
-      "collected_at": "2026-11-16T17:36:04.127362+00:00"
-    },
-    {
-      "keyword": "다시보기",
+      "keyword": "스마트글래스",
       "traffic": "100+",
-      "news_title": "[다시보기] 11월 16일 (월) 오후 사이언스 투데이",
+      "news_title": "삼성전자, 구글·젠틀몬스터·워비파커와 협업한 인텔리전트 아이웨어 전격 공개 - 삼성전자 뉴스룸",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "cba348ada8c57bca",
-      "collected_at": "2026-11-16T17:36:04.127362+00:00"
+      "key": "7dcaf29e344d54ca",
+      "collected_at": "2026-11-16T23:16:00.755724+00:00"
     },
     {
-      "keyword": "로버트 패틴슨",
+      "keyword": "환승",
       "traffic": "1000+",
-      "news_title": "로버트 패틴슨, 차기 제임스 본드 공식 확정",
+      "news_title": "경기 버스 환승할인 내년 8월 폐지…추미애, 재정 쥐어짜 민생예산만 편성",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "3f973cb5129f4b0d",
-      "collected_at": "2026-11-16T17:36:04.127362+00:00"
+      "key": "4a8578f5b41047e6",
+      "collected_at": "2026-11-16T23:16:00.755724+00:00"
     },
     {
-      "keyword": "추미애",
-      "traffic": "200+",
-      "news_title": "추미애 “경기도 가용재원 2조원 줄어···정부·국회 세제 개편 응답해달라”",
+      "keyword": "날씨",
+      "traffic": "200000+",
+      "news_title": "“출근길 우산 챙기세요”····전국 대체로 흐리고 비",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "1cd81a4d23398974",
-      "collected_at": "2026-11-16T17:36:04.127362+00:00"
+      "key": "c2fce353cce454f8",
+      "collected_at": "2026-11-16T23:16:00.755724+00:00"
     },
     {
-      "keyword": "최우제",
+      "keyword": "부산날씨",
       "traffic": "100+",
-      "news_title": "[뉴스워커_스포츠] 롤 인벤·롤갤 뒤집은 제우스 복귀설... 정작 티원은 침묵 중",
+      "news_title": "부산·울산·경남 흐리고 아침까지 비…밤부터 가끔 비",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "cd7e3ca87cd512b2",
-      "collected_at": "2026-11-16T17:36:04.127362+00:00"
+      "key": "d354be29a4001b9f",
+      "collected_at": "2026-11-16T23:16:00.755724+00:00"
     },
     {
-      "keyword": "김주혁",
+      "keyword": "weather",
+      "traffic": "5000+",
+      "news_title": "Sunny &amp; Warm Weather This Week",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "f98669cc9b81fea7",
+      "collected_at": "2026-11-16T23:16:00.755724+00:00"
+    },
+    {
+      "keyword": "황보라",
       "traffic": "500+",
-      "news_title": "“오빠 생각이 나서” 문근영, 故 김주혁과의 추억이 담긴 노래에 뭉클한 마음",
+      "news_title": "황보라 子, 놀이공원서 바지 탈의 후 활보 &quot;이건 안 돼&quot;(보라이어티)",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "2d78375ed50d6469",
-      "collected_at": "2026-11-16T17:36:04.127362+00:00"
+      "key": "2256402a2314cc03",
+      "collected_at": "2026-11-16T23:16:00.755724+00:00"
     },
     {
-      "keyword": "toki",
-      "traffic": "100+",
-      "news_title": "İnegöl&apos;de TOKİ Heyecanı: 123 Konutun Kurası Yarın Çekiliyor",
+      "keyword": "thời tiết",
+      "traffic": "2000+",
+      "news_title": "Xuất hiện không khí lạnh gây rét Bắc Bộ và Bắc Trung Bộ từ ngày 18/11",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "43d865dcf61acffd",
-      "collected_at": "2026-11-16T17:36:04.127362+00:00"
+      "key": "a99457ef32be8cd8",
+      "collected_at": "2026-11-16T23:16:00.755724+00:00"
     },
     {
-      "keyword": "한국고속철도",
+      "keyword": "погода",
+      "traffic": "2000+",
+      "news_title": "Пора доставать подштанники? Какая погода будет в Москве на этой неделе",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "82b2008359bc1935",
+      "collected_at": "2026-11-16T23:16:00.755724+00:00"
+    },
+    {
+      "keyword": "germany vs netherlands",
       "traffic": "500+",
-      "news_title": "퇴역 앞둔 KTX, 고속 화물열차로 변신하나…코레일 사업화 검토",
+      "news_title": "Germany vs Netherlands: UEFA Nations League stats &amp; head-to-head",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "d4b010afa2cad6f6",
-      "collected_at": "2026-11-16T17:36:04.127362+00:00"
+      "key": "cbf3feb0ffc7ff44",
+      "collected_at": "2026-11-16T23:16:00.755724+00:00"
     },
     {
-      "keyword": "코리아 패싱",
-      "traffic": "200+",
-      "news_title": "[이하경 칼럼] 한·미 동맹은 저주가 아니다",
+      "keyword": "天气",
+      "traffic": "1000+",
+      "news_title": "暴雪、大暴雪，来了",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "43e09368b9ef128d",
-      "collected_at": "2026-11-16T17:36:04.127362+00:00"
+      "key": "6055fe4b903c404a",
+      "collected_at": "2026-11-16T23:16:00.755724+00:00"
     }
   ]
 }

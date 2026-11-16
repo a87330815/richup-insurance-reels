@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-16T17:36:02.560998+00:00",
+  "collected_at": "2026-11-16T23:15:59.633880+00:00",
   "topic_weight": {
     "보험·상품": 30,
     "영업·마인드": 25,
@@ -7,26 +7,72 @@
     "경제·환율·금리": 25
   },
   "topic_counts": {
+    "영업·마인드": 2,
     "의료·건강": 1,
-    "경제·환율·금리": 1
+    "경제·환율·금리": 4
   },
   "items": [
     {
-      "title": "계묘년, 치매·간병보험 등 제3보험 초강세 '예고' - 디멘시아뉴스",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE80eTVuN0lkYkxsM0R6RVJnOXZ2Y2tZZkRqcE1Jc3NpZmh4WXYzWU9xblZwZmlCOEFVZEhHcTBRZUtKcVlNQU1ZdWtyN3Q3bmlEd1lEc0hWVUVCeHNEM2lSamlBekFsdTJLTldGZm95MkM?oc=5",
-      "description": "계묘년, 치매·간병보험 등 제3보험 초강세 '예고' 디멘시아뉴스",
-      "pub_date": "Fri, 20 Jan 2023 08:00:00 GMT",
-      "category": "치매 간병",
-      "key": "61a2e585dbcf44e2",
+      "title": "[보험사의 AI 활용법] 보험설계ㆍ상담서비스 AI가 주도 - 대한경제",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0ybzBsU2NrT1UwTjVqb2lPdUdBQ0FPWmdfTTVsdm5mTW9lMkF4aEhwOFZqNzNoOVdzZzN0OUsyc3ZxRms4bVJCa25CNXM1bDNVT1NIcFdoWHlqRTVqWnRTVG5QMHZiS3lEcjBKM0VrWFctdm9G?oc=5",
+      "description": "[보험사의 AI 활용법] 보험설계ㆍ상담서비스 AI가 주도 대한경제",
+      "pub_date": "Mon, 16 Nov 2026 21:20:29 GMT",
+      "category": "보험설계사 영업",
+      "key": "e6f81ffb765068e1",
+      "topic": "영업·마인드"
+    },
+    {
+      "title": "과도한 리쿠르팅 방지 자율협약, 실효성 '물음표' - 보험매일",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBsMXJpai02Qkc1d2N2aUN2cGZreldvMzREYlpFMUVlOGhTamJ1aWNySGZVcm1WbXY5U2ptNi1mV2ZJM2U1RFBXQm1ZbVZjRGNHVjhEeXUzZVgxZFQtLWtrZlJCWjBUR28?oc=5",
+      "description": "과도한 리쿠르팅 방지 자율협약, 실효성 '물음표' 보험매일",
+      "pub_date": "Wed, 18 Oct 2023 07:00:00 GMT",
+      "category": "GA 법인보험대리점",
+      "key": "9d54c82b3e1fb5a8",
+      "topic": "영업·마인드"
+    },
+    {
+      "title": "씨어스, 디지털 기반 \"글로벌 의료격차 해소\" 비전 - 바이오스펙테이터",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1CVkM4Qkh0RlhyVFFRdFJLTEwyd0N6VDFrNElMOXRURmx1bG5GV1B5aEtNNi1HeUdMbFBZVHdHaF9waS00Q2hnX3hoZHpXdTVYeWRJbHdKMA?oc=5",
+      "description": "씨어스, 디지털 기반 \"글로벌 의료격차 해소\" 비전 바이오스펙테이터",
+      "pub_date": "Mon, 03 Nov 2025 08:00:00 GMT",
+      "category": "AI 의료기술",
+      "key": "b27c97c0dda3d3a1",
       "topic": "의료·건강"
     },
     {
-      "title": "뉴｜젠슨 황 쇼크에 아시아 증시 급락…엔비디아 실적·앤트로픽 상장에 쏠린 눈 - OBC 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE95X2FJZl9tM2QwelppYzdRbFRZZnpJS3F1Vkw4Wlk0MWNCYjV6bkxOelBxeFhDT1ZEZWRkaXgzV1NpUDY2UUtSTkVEcEpudm5iY29NR3d1UWcyQk40MTJJZmxQVk9JMHRQdkE?oc=5",
-      "description": "뉴｜젠슨 황 쇼크에 아시아 증시 급락…엔비디아 실적·앤트로픽 상장에 쏠린 눈 OBC 뉴스",
-      "pub_date": "Mon, 16 Nov 2026 08:11:17 GMT",
-      "category": "글로벌 시장",
-      "key": "d6f760da186e3097",
+      "title": "미국 FOMC 이후 한국은행도 긴축 ...7월 금통위, 기준금리 인상 가능성 커지나 - 네이버 프리미엄콘텐츠",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBHSzdQX3A5TURVVFByb3o4ZFNleFc0MG8wRlk0SE5uUEI0djVtYnl0d3hQOVZIMC1fZ0ZRODczZHBhdmZ5OEhIcXRGbjBobWpQSlpyZWRQYWdoaUw2Z1dTZmlTV2g4QWV2N1ZEWVlWekdGYUJNUEtvWDlzcjdYdw?oc=5",
+      "description": "미국 FOMC 이후 한국은행도 긴축 ...7월 금통위, 기준금리 인상 가능성 커지나 네이버 프리미엄콘텐츠",
+      "pub_date": "Thu, 18 Jun 2026 07:00:00 GMT",
+      "category": "기준금리·통화정책",
+      "key": "90c2b6d03e2d916e",
+      "topic": "경제·환율·금리"
+    },
+    {
+      "title": "“금리 인하, 정말 아슬아슬했다”…연준 의사록이 흔든 2026년 글로벌 금융 시계 - 엠에스투데이",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Lc3cwQlhBeVBsSjhubkg2eWlyaUZreGI1bzRRTDhTMGdJZjBqalBVLVdFel9aeVh5N3pReDVxbHdmaUJ1d2NHcGxBd2RxX2tJV19MekxiZVNPQ1RZRnRnaXpNdm5SUWhTbjdQVtIBcEFVX3lxTE1QeEdVbEF4ZGJETXRVMnZvLXFsYXU2T2k1a3VYRlBNbHlVeWpOdHpMVThiRXFLeHhkQmlwZEdEem9pakVvd29YM3dyRjE0cUJBY2FReXFMSkJmckc4S1MzLTFqRVVKZHQyVUhlYnR5cGc?oc=5",
+      "description": "“금리 인하, 정말 아슬아슬했다”…연준 의사록이 흔든 2026년 글로벌 금융 시계 엠에스투데이",
+      "pub_date": "Wed, 31 Dec 2025 08:00:00 GMT",
+      "category": "기준금리·통화정책",
+      "key": "5cb9d72576f823bb",
+      "topic": "경제·환율·금리"
+    },
+    {
+      "title": "[트럼프 당선] 무역전쟁 재개…中 부양책 총력 가능성 - 연합인포맥스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1seUd5b3B6dDVHZG1hRzhPWlliV01XeDRDX0wtdjl6bXBkckp5a2VCZ3JtTWxWczNmemFMQ3laNUZMeW05T1NLMFdtcVR4Nm80SEFnMldCdW14ZkpnWV9pNjdCUXZldjhVWFZfa0t5VEQ?oc=5",
+      "description": "[트럼프 당선] 무역전쟁 재개…中 부양책 총력 가능성 연합인포맥스",
+      "pub_date": "Wed, 06 Nov 2024 08:00:00 GMT",
+      "category": "미국 경제·정책",
+      "key": "afcc8d93f6a5ce6d",
+      "topic": "경제·환율·금리"
+    },
+    {
+      "title": "'M7' 너마저…트럼프 관세전쟁에 美 증시 피난처 실종 - 마켓인",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9xcDVuQV9wNTl3WXF0ZC1FYWxRLXp4dlZxNzhaSFdqYXZ0VjBVUDRSRThzZXIyU2hTTXExQm9SZDQtU3c0WEo2LVMyT25uTzV4TmF6aXNmZU1YZVE5Z2N5cWJidDZ2ODQyNVR6NktoSkk2c0k?oc=5",
+      "description": "'M7' 너마저…트럼프 관세전쟁에 美 증시 피난처 실종 마켓인",
+      "pub_date": "Sun, 09 Mar 2025 08:00:00 GMT",
+      "category": "미국 경제·정책",
+      "key": "1a6016805c68ad23",
       "topic": "경제·환율·금리"
     }
   ]
