@@ -1,105 +1,95 @@
 {
-  "collected_at": "2026-11-16T02:31:13.069988+00:00",
+  "collected_at": "2026-11-16T10:28:19.615329+00:00",
   "items": [
     {
-      "keyword": "무역",
+      "keyword": "ตรวจหวย",
+      "traffic": "2000+",
+      "news_title": "ตรวจหวย 16 พ.ย. 2569 ผลสลากกินแบ่งรัฐบาล ตรวจลอตเตอรี่ 16/11/69",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "f7fe2d818d9d9f1a",
+      "collected_at": "2026-11-16T10:28:19.614812+00:00"
+    },
+    {
+      "keyword": "엔비디아 전 ceo 복귀 시도와 미국 재무장관 반대에 대한 최신 뉴스 알려줘",
+      "traffic": "1000+",
+      "news_title": "&quot;1천 달러 팁·가정적 모습 다 연기&quot;…젠슨 황 전기작가의 폭로",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "선거·정책·글로벌",
+      "key": "3dd762f19f9a0ccb",
+      "collected_at": "2026-11-16T10:28:19.614812+00:00"
+    },
+    {
+      "keyword": "южная корея",
       "traffic": "200+",
-      "news_title": "뱀 잡아 팔던 나라가 반도체 강국으로…80년 만에 벌어진 일",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "경제·환율·금리",
-      "key": "e6ada65b15b7716a",
-      "collected_at": "2026-11-16T02:31:13.069451+00:00"
-    },
-    {
-      "keyword": "즉석밥",
-      "traffic": "500+",
-      "news_title": "CJ제일제당, 햇반 30주년 기념 한정판 신제품 ‘햇반 30곡밥’ 출시 – CJ 뉴스룸",
+      "news_title": "Южная Корея в октябре 2026 г. закупила у России максимальный объем СПГ почти за 5 лет",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "8cfdb4a5808c5027",
-      "collected_at": "2026-11-16T02:31:13.069451+00:00"
+      "key": "a9c07e1e4a8fd663",
+      "collected_at": "2026-11-16T10:28:19.614812+00:00"
     },
     {
-      "keyword": "이현중",
-      "traffic": "500+",
-      "news_title": "이현중, G리그서 커리어 하이 폭발…NBA 향한 ‘무력시위’",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "c295814fd5b790ea",
-      "collected_at": "2026-11-16T02:31:13.069451+00:00"
-    },
-    {
-      "keyword": "공모",
-      "traffic": "100+",
-      "news_title": "삼성바이오, 2.7조원 유증 성공…청약증거금 11.4조 &apos;역대 최대규모&apos; - 머니투데이",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "38e29852130b14bf",
-      "collected_at": "2026-11-16T02:31:13.069451+00:00"
-    },
-    {
-      "keyword": "박혜연",
+      "keyword": "김지수",
       "traffic": "5000+",
-      "news_title": "미운 우리 새끼 : [11월 22일 예고] “전 안 돼요?” 김승수, 박혜연에게 진심 담아 조심스럽게 전한 고백",
+      "news_title": "&quot;음주운전 두 번·만취 인터뷰까지&quot;…김지수, 2년 만에 예능 복귀 - 머니투데이",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "b927089c26de3c97",
-      "collected_at": "2026-11-16T02:31:13.069451+00:00"
+      "key": "bbf1dc2830b88822",
+      "collected_at": "2026-11-16T10:28:19.614812+00:00"
     },
     {
-      "keyword": "초고층",
+      "keyword": "신랑",
+      "traffic": "10000+",
+      "news_title": "&quot;야 너 이리 와&quot;…결혼식 날 신랑에게 엎드려뻗쳐 시킨 신부 이모부",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "c4aec9d7743fc908",
+      "collected_at": "2026-11-16T10:28:19.614812+00:00"
+    },
+    {
+      "keyword": "캄보디아",
       "traffic": "500+",
-      "news_title": "월 2만원 내던 아파트 수선비, 초고층은 20만원…그래도 사실 건가요?[올앳부동산]",
+      "news_title": "수원시 의료봉사단, 캄보디아 수원마을서 민관 의료 봉사 활동 전개",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "8dc6da252eca63b8",
-      "collected_at": "2026-11-16T02:31:13.069451+00:00"
+      "key": "fd5da91be12f3bc1",
+      "collected_at": "2026-11-16T10:28:19.614812+00:00"
     },
     {
-      "keyword": "공직",
-      "traffic": "200+",
-      "news_title": "[행감 인물] 경기도의회 안전행정위원회 국힘 박영선",
+      "keyword": "005930",
+      "traffic": "2000+",
+      "news_title": "Samsung Stocks Rise as Foreign Buyers Step In Despite NVIDIA Turmoil",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "7ece0fc6e0beec31",
-      "collected_at": "2026-11-16T02:31:13.069451+00:00"
+      "key": "bd969d0ce2b4c2e4",
+      "collected_at": "2026-11-16T10:28:19.614812+00:00"
     },
     {
-      "keyword": "청년미래적금",
-      "traffic": "200+",
-      "news_title": "최대 금리 8%? 청년미래적금도 빈익빈부익부",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "1fa7b7e8e7450800",
-      "collected_at": "2026-11-16T02:31:13.069451+00:00"
-    },
-    {
-      "keyword": "카우보이스 대 포티나이너스",
-      "traffic": "100+",
-      "news_title": "Brock Purdy&apos;s Best Plays from 3-TD Game vs. Cowboys | Week 10",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "ef851c279163ae8d",
-      "collected_at": "2026-11-16T02:31:13.069451+00:00"
-    },
-    {
-      "keyword": "커버드 콜",
+      "keyword": "검찰",
       "traffic": "500+",
-      "news_title": "[단독] 과세관청, 서학개미 이의제기 첫 인정…美 커버드콜 분배금 환급 잇따르나",
+      "news_title": "홈플러스 사태·盧 비자금 은닉 의혹… 45일 남기고 ‘수사 액셀’ 밟는 공소청",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "198b24278bad514e",
-      "collected_at": "2026-11-16T02:31:13.069451+00:00"
+      "key": "88bebb5440eb47fa",
+      "collected_at": "2026-11-16T10:28:19.614812+00:00"
+    },
+    {
+      "keyword": "박지윤",
+      "traffic": "200+",
+      "news_title": "&apos;박지윤 남사친&apos;에 상간 소송...최동석, 1심 뒤집고 일부 승소 - 머니투데이",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "861689502f9f5672",
+      "collected_at": "2026-11-16T10:28:19.614812+00:00"
     }
   ]
 }

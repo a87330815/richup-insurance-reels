@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-16T02:31:11.295347+00:00",
+  "collected_at": "2026-11-16T10:28:18.220426+00:00",
   "topic_weight": {
     "보험·상품": 30,
     "영업·마인드": 25,
@@ -7,82 +7,109 @@
     "경제·환율·금리": 25
   },
   "topic_counts": {
-    "보험·상품": 1,
+    "보험·상품": 2,
     "영업·마인드": 1,
-    "의료·건강": 1,
-    "경제·환율·금리": 5
+    "의료·건강": 2,
+    "경제·환율·금리": 6
   },
   "items": [
     {
-      "title": "\"연금 타가세요\" 보험사에서 연락 받은 50대가 해야 할 일 - 조선일보",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOS2NYVzJjZmJsUDRVZFRKZ3NlMzl2ekJPSm9GUzktczJMQURxRUJlemtuaE9ibkpNMFhrVHVkRTVJNmtOMExUWFdScXdmbjBoT3YzYUlhbC1qdUdsbm01YWVaZU1mbXhhWkhSRklwbnhyS0UycGQ2ZkprUkcxRThxRw?oc=5",
-      "description": "\"연금 타가세요\" 보험사에서 연락 받은 50대가 해야 할 일 조선일보",
-      "pub_date": "Thu, 21 Dec 2023 08:00:00 GMT",
-      "category": "연금보험 노후",
-      "key": "84d91a5f13069adb",
+      "title": "변액보험 펀드 변경, 주치의가 수익률 관리한다 - ebn.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBGR19sbmcyX1cyM1l6MDdRLU1BeWRYOEd6M19aX282c2F4YXlBbkRCMnBOeWZ6OXJxZzVub1FIYWk0TmR2bjRUU3NnVUl1dE9Rb0wzU3ZZWm1Qb2VXWHRzd0FzNXBOeHc?oc=5",
+      "description": "변액보험 펀드 변경, 주치의가 수익률 관리한다 ebn.co.kr",
+      "pub_date": "Fri, 04 May 2018 07:00:00 GMT",
+      "category": "변액보험 수익률",
+      "key": "90fa5b11defb0950",
       "topic": "보험·상품"
     },
     {
-      "title": "토스인슈어런스, 전국 6대 광역시 영업망 완성… 무경력 설계사 육성 확대 - 한국보험신문",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5jM2EtbXFqWUNMb2tqYTFXUll5U0Z2MEduaHJHOVRQeUpUZVRJNzdjUWdvSGR5WGtPQmdLRHJOazFKNzBEU3JzSUdDVkZCaFdaWDEwQlNFcGNYRVNLSnVPMld5SWd2MUk1djNhVDNmc9IBb0FVX3lxTE5jM2EtbXFqWUNMb2tqYTFXUll5U0Z2MEduaHJHOVRQeUpUZVRJNzdjUWdvSGR5WGtPQmdLRHJOazFKNzBEU3JzSUdDVkZCaFdaWDEwQlNFcGNYRVNLSnVPMld5SWd2MUk1djNhVDNmcw?oc=5",
-      "description": "토스인슈어런스, 전국 6대 광역시 영업망 완성… 무경력 설계사 육성 확대 한국보험신문",
-      "pub_date": "Sun, 15 Nov 2026 15:00:00 GMT",
+      "title": "달러보험에 돈 몰린다…年 6% 확정금리 상품도 선봬 - 서울경제",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1BRExYSkdPTk9GbFFDVEduSWFsbDRqeWNYN0VKNDl6aHhVZWlWT2FWbDBEbTlRRGI4OFR6N2JFSjhHWW1McjFuVDUzQV9BUHF4Y0HSAVNBVV95cUxPTTdUT1dZODFEZjlvTi1XYmUta3ktUlVFaTg1dTBMOGNELVNOR20zQWpUNWV6Z3NEZXUteDB4a0FWUXd2cEhyYkxGTXFPdDdPOFlfbw?oc=5",
+      "description": "달러보험에 돈 몰린다…年 6% 확정금리 상품도 선봬 서울경제",
+      "pub_date": "Tue, 10 Nov 2026 08:41:26 GMT",
+      "category": "달러보험 환율",
+      "key": "7700aef9ae1f88c8",
+      "topic": "보험·상품"
+    },
+    {
+      "title": "삼성화재, AI 영업지원 시스템 도입…고객별 상담·관리 지원 - 더트래커",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA4QkVuXzRFS0FxTVZNNVR4c2ZndWlyeTZSTHdqVERZVExxY0R4Wk9IRkMxUW04ZERObVlIYU00LUNSZWRjQjN6cXZSSUxrOVRUSUF1RkU3aHU?oc=5",
+      "description": "삼성화재, AI 영업지원 시스템 도입…고객별 상담·관리 지원 더트래커",
+      "pub_date": "Mon, 26 Oct 2026 07:00:00 GMT",
       "category": "보험설계사 영업",
-      "key": "0d9bffec861d10a1",
+      "key": "bf16d9c78eb3fc21",
       "topic": "영업·마인드"
     },
     {
-      "title": "경증 진단 2천만원?…치매보험에 ‘숨은 변수’ 있다 - 한겨레",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1SQkV2UnFyVjJDV0E3NDZSOUlIVG9Qb0NwMG00YzJ2QlBScF9XQVhRRlhMcENoV2ctNmhUR1BSa3VLOXhyOEVoS2dBMEl0NEM5LUZDNWRlSy1iTjJPdDAwZDlNLUxMQQ?oc=5",
-      "description": "경증 진단 2천만원?…치매보험에 ‘숨은 변수’ 있다 한겨레",
-      "pub_date": "Sun, 07 Apr 2019 07:00:00 GMT",
+      "title": "보험사, 치매·장기간병 보험 속속 내놔 - 농민신문",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Rc3J5Y3FsTDVtMF95MGxYaUxoWVhWS242UVQwRVhfV2FaaHhxcHUwSUhTSXVIS3cwUzNqeGpxc28za3pCaUg4V2hLOVJFYldEMi0wUVlKV2Fzdw?oc=5",
+      "description": "보험사, 치매·장기간병 보험 속속 내놔 농민신문",
+      "pub_date": "Tue, 29 Jan 2019 08:00:00 GMT",
       "category": "치매 간병",
-      "key": "4a61e7304a985f9b",
+      "key": "81568fe8e71b4fe7",
       "topic": "의료·건강"
     },
     {
-      "title": "[환율 전망] 반도체 가격의 방향이 곧 원화의 향방 - KB Think",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TUEN6a1NLS3lsQkFtU20xNl9QQlNCQmx3RGM0RzlCbWxVQk9xYnI4NzIyU2VoZ3R5aDZUM284RjMwUWJ3M0owcVYyYzI1MWJZbUtuM1A4U0dmSUZsWHJTXw?oc=5",
-      "description": "[환율 전망] 반도체 가격의 방향이 곧 원화의 향방 KB Think",
-      "pub_date": "Mon, 16 Nov 2026 02:08:02 GMT",
-      "category": "환율 전망",
-      "key": "9b5435adaa536617",
+      "title": "DB손보, 암 진단비 넘어 치료비 보장…온라인 전용 미니암보험 출시 - KPI뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5jV0g1RWxkeWdULTlDNk9pT2dGbWlmdEttWnpsSUVzam5RN2RkRmZOUEJqMDllYVQtMllhR2ZZMlAtN285cjJKOHJFX21yam5QZUdDcndLcw?oc=5",
+      "description": "DB손보, 암 진단비 넘어 치료비 보장…온라인 전용 미니암보험 출시 KPI뉴스",
+      "pub_date": "Mon, 16 Nov 2026 08:07:16 GMT",
+      "category": "암 의료비",
+      "key": "ec8b8f4f2524d1d3",
+      "topic": "의료·건강"
+    },
+    {
+      "title": "美 추가 금리인하 기대 쑥…국내 상업용부동산 온기 퍼질까 - 마켓인",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5na2JLVHdFNExxYzVVQU0tR2pCaHJ3VzlIOVNyZXVGMUVlRUN3ZE5NdTduV05wamR0U29ESG4wdTNFMEtzZ3ZhMVh6M2Y4X1kxNklzb255Vzh3LVVmYUlORUoxd09zZ0xscHdqalF0WEhHQQ?oc=5",
+      "description": "美 추가 금리인하 기대 쑥…국내 상업용부동산 온기 퍼질까 마켓인",
+      "pub_date": "Fri, 10 Oct 2025 07:00:00 GMT",
+      "category": "기준금리·통화정책",
+      "key": "7e9257e324c981a8",
       "topic": "경제·환율·금리"
     },
     {
-      "title": "[주간환율전망] 강달러에도 1330원대…엔비디아가 변수 - 자본시장뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCaFBGc0Y1YjRfVlFqVGY2NWlNZDcyN3lhNTJIUldGZFVPV2F5Yl8yQk1nc3lQdFc1Zi1XNHF4Z2V3SXJNVmI1bjFqMlVDemtiQ280RFRDd0JNS1Z5WTJNNlRwV3I4WDQ?oc=5",
-      "description": "[주간환율전망] 강달러에도 1330원대…엔비디아가 변수 자본시장뉴스",
-      "pub_date": "Mon, 16 Nov 2026 00:21:42 GMT",
-      "category": "환율 전망",
-      "key": "29adebfac466b0f7",
+      "title": "[이슈+] 美 9개월 만의 금리 인하…한은은 ‘고심의 가을’ - 에너지경제신문",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5bzFTci1JOEIzMW1zdkJuSFNQX2FaUk9mNHd5dzhEYnZzTUwzNEhMMkw4Mm5wZmxSWFNVMTl3eEo0SXo2ZHhVVmg4UENydjhuU3JibjUzOWtUYjQ?oc=5",
+      "description": "[이슈+] 美 9개월 만의 금리 인하…한은은 ‘고심의 가을’ 에너지경제신문",
+      "pub_date": "Thu, 18 Sep 2025 07:00:00 GMT",
+      "category": "기준금리·통화정책",
+      "key": "5b2e6ca22ba30384",
       "topic": "경제·환율·금리"
     },
     {
-      "title": "\"달러 강세에도 수급은 원활…주간 환율 1320~1360원\" - 뉴스투데이",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1TTVU5V0otaW5KenhVbS1fZDdDZHdhbExQby1XQ0U2THV6bUxWTUtJdDB2ZXgtVmtkM0tYSGJzMDBLYU43dUhISkNZMzJqZ1lzYWVPYW9mRkVIWmRfMVE?oc=5",
-      "description": "\"달러 강세에도 수급은 원활…주간 환율 1320~1360원\" 뉴스투데이",
-      "pub_date": "Mon, 16 Nov 2026 00:22:00 GMT",
+      "title": "증시 급락에도 원화는 ‘꿋꿋’…환율 1원 내린 1335.7원 마감 [김혜란의 FX] - 서울경제",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0zSzZMM1lFYlEwUmVHdEZ1RVFsZVh1MERvRHg5MGplelpMOVJuYW5Cb3pZRG5UWXZTeDdzbXJmY1R3SzVmTmltYUVWNVVReXN4aVHSAVNBVV95cUxPbVcxSFpIb1UxT0taaUNpcEhWV1RlSTItQWpCT1VBSHlRTTc0cjJMX1BMWFViVGt4ZzdJM1pmR0JLeXJnbktGN3VfVzUwSHlwemJjQQ?oc=5",
+      "description": "증시 급락에도 원화는 ‘꿋꿋’…환율 1원 내린 1335.7원 마감 [김혜란의 FX] 서울경제",
+      "pub_date": "Mon, 16 Nov 2026 06:46:24 GMT",
       "category": "환율 전망",
-      "key": "e590861313cbd495",
+      "key": "bffd9d6bf4b28dae",
       "topic": "경제·환율·금리"
     },
     {
-      "title": "[다음주 환율전망] 중동 긴장에 다시 고개 든 강달러…원·달러 환율 1330원대 공방 전망 - 굿모닝경제",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCdnZ3Zzd1S2lyUmNqX2w3cUlqa1FZSkcxRDRmeEJjenBhU3lVR1U3VmgxSEpVcGJ3VEx6RE1NdlNrVENzQk9BSVRCWGRJN1BOaHRFWlJIdkdaUlFTZ0hrNF9HY2U0TV9Mb2pDRw?oc=5",
-      "description": "[다음주 환율전망] 중동 긴장에 다시 고개 든 강달러…원·달러 환율 1330원대 공방 전망 굿모닝경제",
-      "pub_date": "Fri, 13 Nov 2026 22:00:00 GMT",
+      "title": "미 긴축 불안을 압도하는 최대 수출과 외환수급 - KB Think",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAtLVNMWkFEalhGbHF4bHg2NHJBOElyM2U5LUFiaEdqSHBtZmtfSk8wOW9DTzJ4a1ZpMGcwVmotNTcwbjBReUNKZDlXWmdJSTZJQUFBUjNCSHU4am5XdVVOQ0Zn?oc=5",
+      "description": "미 긴축 불안을 압도하는 최대 수출과 외환수급 KB Think",
+      "pub_date": "Mon, 16 Nov 2026 00:14:34 GMT",
       "category": "환율 전망",
-      "key": "72fe5dde34c68189",
+      "key": "0c7ef914d9847c1a",
       "topic": "경제·환율·금리"
     },
     {
-      "title": "미·일 증시 천장 뚫는데… \"국내 주식은 하는 게 아니다?\" - 부산일보",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBiVUZTWXVMX3RaRWdnQ2Njc0JOT1BuM3A2Z0p4YWRyQ0dweG4xeVhZTERvYmxLYTZKX2RzaEZYR1JqMjAzNEpCTGVBeXZ3dDZGeENvVUozNmJCN28tOTNCN3dQU1FjTWJUbEk1VDFFd2lCSkJk?oc=5",
-      "description": "미·일 증시 천장 뚫는데… \"국내 주식은 하는 게 아니다?\" 부산일보",
-      "pub_date": "Tue, 23 Jan 2024 08:00:00 GMT",
+      "title": "‘중동발 리스크’ 코스피, 자금 유출 많은 대만보다 충격 더 컸다 - 부산일보",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1WZ2pneXdhR25yc3dDengzY2RrZmxHNllDc29DSHR0ZFdTaEpPb2Y2SnZ0WXh0cGZzdGNwQjNxZ1k3TGlXbThwdUk4dTdKS3RSUU93MU5wMWx6N1hTbzh0eGUzaDJNV0E5VVNjSGtoeDJUeFBO?oc=5",
+      "description": "‘중동발 리스크’ 코스피, 자금 유출 많은 대만보다 충격 더 컸다 부산일보",
+      "pub_date": "Mon, 09 Mar 2026 07:00:00 GMT",
       "category": "글로벌 시장",
-      "key": "e2ff91ea8f29bc91",
+      "key": "449f0523863100ca",
+      "topic": "경제·환율·금리"
+    },
+    {
+      "title": "미국 증시, 나스닥 3거래일 연속 하락…고용·AI 투자 우려 확산 - 한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10MjNBcXRDVmNPTVhqM0ZQZzVxSkpQWVlKeEZXQURXLUstZ3lYWTRvSFhmODRBR1RDLTNDb2p0VC1BcTRFUHIxQ29WdUtYMWtqSmdWRG9TWE1fZw?oc=5",
+      "description": "미국 증시, 나스닥 3거래일 연속 하락…고용·AI 투자 우려 확산 한국경제",
+      "pub_date": "Fri, 06 Feb 2026 08:00:00 GMT",
+      "category": "글로벌 시장",
+      "key": "a9102f32f79d171f",
       "topic": "경제·환율·금리"
     }
   ]
