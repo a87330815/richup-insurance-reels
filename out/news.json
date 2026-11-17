@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-16T23:15:59.633880+00:00",
+  "collected_at": "2026-11-17T04:55:17.384078+00:00",
   "topic_weight": {
     "보험·상품": 30,
     "영업·마인드": 25,
@@ -7,72 +7,82 @@
     "경제·환율·금리": 25
   },
   "topic_counts": {
-    "영업·마인드": 2,
+    "보험·상품": 1,
+    "영업·마인드": 1,
     "의료·건강": 1,
-    "경제·환율·금리": 4
+    "경제·환율·금리": 5
   },
   "items": [
     {
-      "title": "[보험사의 AI 활용법] 보험설계ㆍ상담서비스 AI가 주도 - 대한경제",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0ybzBsU2NrT1UwTjVqb2lPdUdBQ0FPWmdfTTVsdm5mTW9lMkF4aEhwOFZqNzNoOVdzZzN0OUsyc3ZxRms4bVJCa25CNXM1bDNVT1NIcFdoWHlqRTVqWnRTVG5QMHZiS3lEcjBKM0VrWFctdm9G?oc=5",
-      "description": "[보험사의 AI 활용법] 보험설계ㆍ상담서비스 AI가 주도 대한경제",
-      "pub_date": "Mon, 16 Nov 2026 21:20:29 GMT",
-      "category": "보험설계사 영업",
-      "key": "e6f81ffb765068e1",
-      "topic": "영업·마인드"
+      "title": "환율 상승에…은행 연계 달러보험 1조 돌파 - 마켓인",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5pVHZ6WGJHc1oyVFNlTkdfM3RBSWVfN0wyZkhJVk11Z2VfVUUwM0ZsU3BVcFpic0RXWWR4LThmTC1aQ0ZFbi0wV2hZVzVKWDk4MFBNdkpCSUVQbTBMbktJWVl3VnA0VWNRMXA1NnIwcDFsdVk?oc=5",
+      "description": "환율 상승에…은행 연계 달러보험 1조 돌파 마켓인",
+      "pub_date": "Wed, 17 Sep 2025 07:00:00 GMT",
+      "category": "달러보험 환율",
+      "key": "5b77b8e81259c783",
+      "topic": "보험·상품"
     },
     {
-      "title": "과도한 리쿠르팅 방지 자율협약, 실효성 '물음표' - 보험매일",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBsMXJpai02Qkc1d2N2aUN2cGZreldvMzREYlpFMUVlOGhTamJ1aWNySGZVcm1WbXY5U2ptNi1mV2ZJM2U1RFBXQm1ZbVZjRGNHVjhEeXUzZVgxZFQtLWtrZlJCWjBUR28?oc=5",
-      "description": "과도한 리쿠르팅 방지 자율협약, 실효성 '물음표' 보험매일",
-      "pub_date": "Wed, 18 Oct 2023 07:00:00 GMT",
+      "title": "전속보다 많아진 GA 설계사 보험업계 '영업판도' 바뀐다 - 중소기업신문",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8teUtuN2c5ZnNRdlRyZnF6dUNSUEFFZFI5S2ZHZzY4Q210ZUpzZWFiZzF3a1Jvd2cwd3puNFJXVEp5Sy1ZY2RRV2djWGwtRU1COTVqUnJhMFZ4NllLRHk4RVRQcGtrSHl6R0c5eUt3?oc=5",
+      "description": "전속보다 많아진 GA 설계사 보험업계 '영업판도' 바뀐다 중소기업신문",
+      "pub_date": "Wed, 03 Apr 2024 07:00:00 GMT",
       "category": "GA 법인보험대리점",
-      "key": "9d54c82b3e1fb5a8",
+      "key": "a72e654cf49d4ccd",
       "topic": "영업·마인드"
     },
     {
-      "title": "씨어스, 디지털 기반 \"글로벌 의료격차 해소\" 비전 - 바이오스펙테이터",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1CVkM4Qkh0RlhyVFFRdFJLTEwyd0N6VDFrNElMOXRURmx1bG5GV1B5aEtNNi1HeUdMbFBZVHdHaF9waS00Q2hnX3hoZHpXdTVYeWRJbHdKMA?oc=5",
-      "description": "씨어스, 디지털 기반 \"글로벌 의료격차 해소\" 비전 바이오스펙테이터",
-      "pub_date": "Mon, 03 Nov 2025 08:00:00 GMT",
+      "title": "레몬헬스케어 주가 파죽지세… 비대면진료 관련주 다시 살아날까 - 핀포인트뉴스",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1hSTd0M2FMRU12ZlU5VmFYQThRWURWd3VOd1ZycXZ0ZzhqZUpUVGs4NEJ2WVQyUjJTUkV3Wlo3WDlzMTNOZ1BtaGxxbUtESVR1cERrX19vVGVXeURfcXBGU09Sa2R2Y0dMeGM4dG9LVDJDRGvSAXdBVV95cUxNVzZVQVVlQTZHd19IXzhOMzhiNUpEZllWaGZING4wRDJJQW1kb2ZGbTVfc25Ib1BpX1I1aWxQU3dFYjNDVk9Ma3VIalhKcmM4UndvRFBQWGNNUHktRFpCdzVTbC1PRGtQWGQ3bGdlMzJrM3JFa251bw?oc=5",
+      "description": "레몬헬스케어 주가 파죽지세… 비대면진료 관련주 다시 살아날까 핀포인트뉴스",
+      "pub_date": "Tue, 21 Jul 2026 07:00:00 GMT",
       "category": "AI 의료기술",
-      "key": "b27c97c0dda3d3a1",
+      "key": "7b454162a3a8dc81",
       "topic": "의료·건강"
     },
     {
-      "title": "미국 FOMC 이후 한국은행도 긴축 ...7월 금통위, 기준금리 인상 가능성 커지나 - 네이버 프리미엄콘텐츠",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBHSzdQX3A5TURVVFByb3o4ZFNleFc0MG8wRlk0SE5uUEI0djVtYnl0d3hQOVZIMC1fZ0ZRODczZHBhdmZ5OEhIcXRGbjBobWpQSlpyZWRQYWdoaUw2Z1dTZmlTV2g4QWV2N1ZEWVlWekdGYUJNUEtvWDlzcjdYdw?oc=5",
-      "description": "미국 FOMC 이후 한국은행도 긴축 ...7월 금통위, 기준금리 인상 가능성 커지나 네이버 프리미엄콘텐츠",
-      "pub_date": "Thu, 18 Jun 2026 07:00:00 GMT",
-      "category": "기준금리·통화정책",
-      "key": "90c2b6d03e2d916e",
+      "title": "[환율 전망] 중요한 건 꺾이지 않는 경상흑자 - KB Think",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9sajJPRjlRMlN5VENuZFoxVXloNWg2ZUoxTW9mYXBuV0ZLUUVxdld3M3J3SDVHQUxGcENNNlNGT1F3SEdYTGU4Wl94d0V4Znp6TnNRYTVSWHJaRlVzS29sQw?oc=5",
+      "description": "[환율 전망] 중요한 건 꺾이지 않는 경상흑자 KB Think",
+      "pub_date": "Tue, 17 Nov 2026 02:01:41 GMT",
+      "category": "환율 전망",
+      "key": "81e9496690ae3219",
       "topic": "경제·환율·금리"
     },
     {
-      "title": "“금리 인하, 정말 아슬아슬했다”…연준 의사록이 흔든 2026년 글로벌 금융 시계 - 엠에스투데이",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Lc3cwQlhBeVBsSjhubkg2eWlyaUZreGI1bzRRTDhTMGdJZjBqalBVLVdFel9aeVh5N3pReDVxbHdmaUJ1d2NHcGxBd2RxX2tJV19MekxiZVNPQ1RZRnRnaXpNdm5SUWhTbjdQVtIBcEFVX3lxTE1QeEdVbEF4ZGJETXRVMnZvLXFsYXU2T2k1a3VYRlBNbHlVeWpOdHpMVThiRXFLeHhkQmlwZEdEem9pakVvd29YM3dyRjE0cUJBY2FReXFMSkJmckc4S1MzLTFqRVVKZHQyVUhlYnR5cGc?oc=5",
-      "description": "“금리 인하, 정말 아슬아슬했다”…연준 의사록이 흔든 2026년 글로벌 금융 시계 엠에스투데이",
-      "pub_date": "Wed, 31 Dec 2025 08:00:00 GMT",
-      "category": "기준금리·통화정책",
-      "key": "5cb9d72576f823bb",
+      "title": "안전자산 선호에 외환시장도 눈치⋯\"달러 강세 속 상승 우위\" [환율전망] - 이투데이",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8tRDBLYWJ5ZUxKNzg1QWhXWmtaTUlSeG9uOGlhYW4tbEVDelQtcDVlZXZvSTdkd2RBWEQzdjV2X3F6VnZrVlpFemwyMEY0cnBuNTlEWg?oc=5",
+      "description": "안전자산 선호에 외환시장도 눈치⋯\"달러 강세 속 상승 우위\" [환율전망] 이투데이",
+      "pub_date": "Mon, 16 Nov 2026 23:41:00 GMT",
+      "category": "환율 전망",
+      "key": "d181a887ba2dcc6b",
       "topic": "경제·환율·금리"
     },
     {
-      "title": "[트럼프 당선] 무역전쟁 재개…中 부양책 총력 가능성 - 연합인포맥스",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1seUd5b3B6dDVHZG1hRzhPWlliV01XeDRDX0wtdjl6bXBkckp5a2VCZ3JtTWxWczNmemFMQ3laNUZMeW05T1NLMFdtcVR4Nm80SEFnMldCdW14ZkpnWV9pNjdCUXZldjhVWFZfa0t5VEQ?oc=5",
-      "description": "[트럼프 당선] 무역전쟁 재개…中 부양책 총력 가능성 연합인포맥스",
-      "pub_date": "Wed, 06 Nov 2024 08:00:00 GMT",
-      "category": "미국 경제·정책",
-      "key": "afcc8d93f6a5ce6d",
+      "title": "[모닝 리포트] 달러/원 환율 상승 압력…강달러·증시 부진에 1340원선 등락 전망 - 뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9lRkozOEE0RVBDSV9yR1JiWER5WFdsU2J4dHJYUDVOMThfbEVxRVlVRFY2ZWhXTUlSV3FkS3Rabmthc2xJaEZOR0N3Q3dwZ3IyOTQ4TVpOLWVCVnRv?oc=5",
+      "description": "[모닝 리포트] 달러/원 환율 상승 압력…강달러·증시 부진에 1340원선 등락 전망 뉴스핌",
+      "pub_date": "Mon, 16 Nov 2026 23:17:00 GMT",
+      "category": "환율 전망",
+      "key": "4bcb2078107ca7db",
       "topic": "경제·환율·금리"
     },
     {
-      "title": "'M7' 너마저…트럼프 관세전쟁에 美 증시 피난처 실종 - 마켓인",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9xcDVuQV9wNTl3WXF0ZC1FYWxRLXp4dlZxNzhaSFdqYXZ0VjBVUDRSRThzZXIyU2hTTXExQm9SZDQtU3c0WEo2LVMyT25uTzV4TmF6aXNmZU1YZVE5Z2N5cWJidDZ2ODQyNVR6NktoSkk2c0k?oc=5",
-      "description": "'M7' 너마저…트럼프 관세전쟁에 美 증시 피난처 실종 마켓인",
-      "pub_date": "Sun, 09 Mar 2025 08:00:00 GMT",
-      "category": "미국 경제·정책",
-      "key": "1a6016805c68ad23",
+      "title": "[오늘 증시 전망] 코스피 5,100선까지 급락…뉴욕 나스닥 2.49% 하락에 국내 증시 긴장 - 업코리아",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1JQkxEOFhiWlhvMldwMkdJdHhEdnlSSDFtbS1iNTBZMThfTW9KZzVRdkdDM0RiQ1Q3SS1kLVUzM21XZ2xCbTVYcm0yMXA3bll4ZUQxTEZpY1JLaFJyZkZ5X0ZqcElfVTducnFTZ1pB?oc=5",
+      "description": "[오늘 증시 전망] 코스피 5,100선까지 급락…뉴욕 나스닥 2.49% 하락에 국내 증시 긴장 업코리아",
+      "pub_date": "Tue, 17 Nov 2026 00:52:20 GMT",
+      "category": "글로벌 시장",
+      "key": "105c8116b6fe0ff5",
+      "topic": "경제·환율·금리"
+    },
+    {
+      "title": "[AI MY 증시전망] 美 반도체 쇼크…코스피 5000선 위협 - 뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA0cGdCYW9nNG03cGVwVFlGT2QtOEp6SFBBZmU1M0ZXSE45RFRTNHJ5UVJmLXA4N1l2dzg3bFJIbmVXR2RfaVJFTm9Wbnl1eThMbHVNVndpWnNtTWZt?oc=5",
+      "description": "[AI MY 증시전망] 美 반도체 쇼크…코스피 5000선 위협 뉴스핌",
+      "pub_date": "Mon, 16 Nov 2026 22:58:00 GMT",
+      "category": "글로벌 시장",
+      "key": "c677a5642591f103",
       "topic": "경제·환율·금리"
     }
   ]
