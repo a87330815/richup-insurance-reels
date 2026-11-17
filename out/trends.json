@@ -1,105 +1,95 @@
 {
-  "collected_at": "2026-11-17T04:55:18.700779+00:00",
+  "collected_at": "2026-11-17T11:24:33.191244+00:00",
   "items": [
     {
-      "keyword": "김기인",
-      "traffic": "500+",
-      "news_title": "젠지, &apos;기인&apos; 김기인ㆍ&apos;캐니언&apos; 김건부 계약 종료 [공식]",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "23598a93935ea41e",
-      "collected_at": "2026-11-17T04:55:18.700236+00:00"
-    },
-    {
-      "keyword": "담보 대출",
-      "traffic": "200+",
-      "news_title": "내일부터 5대은행 주담대 변동금리 또 올라···최고 연 6.51%",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "9157dd3d874d5556",
-      "collected_at": "2026-11-17T04:55:18.700236+00:00"
-    },
-    {
-      "keyword": "면세점",
-      "traffic": "200+",
-      "news_title": "신라면세점, 프리미엄 버번 위스키 &apos;블랑톤&apos; 단독 출시",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "6dcf332db498802e",
-      "collected_at": "2026-11-17T04:55:18.700236+00:00"
-    },
-    {
-      "keyword": "마이클 버리",
-      "traffic": "100+",
-      "news_title": "&apos;빅쇼트&apos; 버리 &quot;나스닥 약세 베팅 확대…내년 반도체주 하락 전망&quot;",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "1b350896ca0b1769",
-      "collected_at": "2026-11-17T04:55:18.700236+00:00"
-    },
-    {
-      "keyword": "자오창펑",
-      "traffic": "100+",
-      "news_title": "자오창펑 바이낸스 CEO &quot;우린 비트코인 안 팔았다&quot;",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "da43312de0ade435",
-      "collected_at": "2026-11-17T04:55:18.700236+00:00"
-    },
-    {
-      "keyword": "김준호",
-      "traffic": "100+",
-      "news_title": "&apos;만삭&apos; 김지민, 장롱면허 김준호 대신해 운전대 잡았다",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "15d5a662234004d4",
-      "collected_at": "2026-11-17T04:55:18.700236+00:00"
-    },
-    {
-      "keyword": "김선태",
-      "traffic": "5000+",
-      "news_title": "AI 안경 쓰고 공무원 시험 본 &apos;충주맨&apos;, 25점 받은 이유가",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "4817c46f5da677fd",
-      "collected_at": "2026-11-17T04:55:18.700236+00:00"
-    },
-    {
-      "keyword": "장동혁",
+      "keyword": "심우정",
       "traffic": "1000+",
-      "news_title": "장동혁, 한동훈 장인상 조문…한 “대표님 잠깐” 짧은 대화도",
+      "news_title": "노만석 &quot;尹 구속 취소, 법원 결정에 불만 있어도 석방하자는 게 검찰 다수 의견&quot;",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "5d0ac32b63fa253e",
-      "collected_at": "2026-11-17T04:55:18.700236+00:00"
+      "key": "da12ee1baa05a683",
+      "collected_at": "2026-11-17T11:24:33.190705+00:00"
     },
     {
-      "keyword": "장민기",
+      "keyword": "로베르트 모레노",
+      "traffic": "1000+",
+      "news_title": "모레노 축구대표팀 임시 감독, 카타르전 이후 스페인 귀국",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "28982e0022830c81",
+      "collected_at": "2026-11-17T11:24:33.190705+00:00"
+    },
+    {
+      "keyword": "권순우",
       "traffic": "500+",
-      "news_title": "&apos;9위 추락&apos; KIA 마운드의 희망이었는데…방출 칼바람에 야구공 놓는다 &quot;인생에서 가장 빛나는 추억&quot;",
+      "news_title": "",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "bf878dbab545378a",
-      "collected_at": "2026-11-17T04:55:18.700236+00:00"
+      "key": "b3184550194d48b5",
+      "collected_at": "2026-11-17T11:24:33.190705+00:00"
     },
     {
-      "keyword": "embassy",
-      "traffic": "200+",
-      "news_title": "US warns Americans in Europe of holiday terror risk as bomb hoaxes disrupt flights",
+      "keyword": "원주 db 대 안양 정관장",
+      "traffic": "500+",
+      "news_title": "",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "5ed95c7abb0e6d92",
-      "collected_at": "2026-11-17T04:55:18.700236+00:00"
+      "key": "43c9ec01f0b25450",
+      "collected_at": "2026-11-17T11:24:33.190705+00:00"
+    },
+    {
+      "keyword": "농협은행",
+      "traffic": "200+",
+      "news_title": "NH농협은행, 올원뱅크에 시니어 메뉴 &apos;올원더풀&apos; 오픈 - 머니투데이",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "d707a5ae131b26bf",
+      "collected_at": "2026-11-17T11:24:33.190705+00:00"
+    },
+    {
+      "keyword": "심정지",
+      "traffic": "500+",
+      "news_title": "심정지 6개월 아기, 아빠 심폐소생술과 구급대가 함께 살렸다",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "0c86d35d73c61a05",
+      "collected_at": "2026-11-17T11:24:33.190705+00:00"
+    },
+    {
+      "keyword": "이재명",
+      "traffic": "500+",
+      "news_title": "이 대통령 &quot;아세안+3 새로운 30년 미래에 마땅한 책임과 역할 다할 것&quot;",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "85737b5099a1df48",
+      "collected_at": "2026-11-17T11:24:33.190705+00:00"
+    },
+    {
+      "keyword": "singapore vs brazil",
+      "traffic": "1000+",
+      "news_title": "How to Watch Singapore vs. Brazil on TV, Live Stream",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "74dc1713ff81fbbb",
+      "collected_at": "2026-11-17T11:24:33.190705+00:00"
+    },
+    {
+      "keyword": "싱가포르 대 브라질",
+      "traffic": "10000+",
+      "news_title": "싱가포르 대 브라질 축구 예측",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "9c74d0a452fb13f8",
+      "collected_at": "2026-11-17T11:24:33.190705+00:00"
     }
   ]
 }
