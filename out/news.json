@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-17T17:09:41.012817+00:00",
+  "collected_at": "2026-11-17T22:06:46.468806+00:00",
   "topic_weight": {
     "보험·상품": 30,
     "영업·마인드": 25,
@@ -8,44 +8,54 @@
   },
   "topic_counts": {
     "보험·상품": 1,
+    "영업·마인드": 1,
     "의료·건강": 1,
     "경제·환율·금리": 2
   },
   "items": [
     {
-      "title": "GA 수수료 차익거래 금지 규정 강화 ‘36개월 기준’ 전면 적용 - 한국보험신문",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1rSU1hQUVMTk8xYXllanBfT2E3dXNWTzRoQ041Y01OQWxUYk92S2M5Z2k2NC1XeDlZZ2t3Y3ZITjBKYW12Z1drR0VEcVNJdXZ4S3kxX2R4UHlNOEZtZFdQOXlyRjZHR1VfZVdj0gFvQVVfeXFMUFBmVFRDSEwtdHd0NUYta29JUjY4dURpU3ZvdzhITHp2bkhsRjlDWVVaOGp5S3VwWHdOY1dhRlE3NzU1d245RXRXZHIzNW94eE5UOG53VzVpdUFBa1lUYUI3NVVmZ2hzV3VnYWhrcXdj?oc=5",
-      "description": "GA 수수료 차익거래 금지 규정 강화 ‘36개월 기준’ 전면 적용 한국보험신문",
-      "pub_date": "Mon, 23 Mar 2026 07:00:00 GMT",
-      "category": "보험 제도·규제",
-      "key": "c76ab8a161452878",
+      "title": "[AD] 미래에셋생명, 일본주식형 펀드 누적수익률 40% - 딜사이트",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ZOGFYOFJ4eEhlNDlDMVNiQ2R1ZUcxSWQ3M1IwdTdCblY1dklnYlNPNk02MXBLZ0NMQ05YVDNJeTVwazVJWGJPUUFGdVhsX1U?oc=5",
+      "description": "[AD] 미래에셋생명, 일본주식형 펀드 누적수익률 40% 딜사이트",
+      "pub_date": "Wed, 23 Apr 2025 07:00:00 GMT",
+      "category": "변액보험 수익률",
+      "key": "b6d796b2db14d298",
       "topic": "보험·상품"
     },
     {
-      "title": "동양생명, 치매보험 보장 한도 축소…절판마케팅 우려도 - 뉴스투데이",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1OZmZ5UUROUEFQanl5R0tTSDBmSnhCOTd6WW1yeGxDdnh4UGh2T0lUVVBJcGl1LUhjc25Sek1laWFiYjBaaWVscFdleFlMcWp0S0o2OWs0WDhNR0U?oc=5",
-      "description": "동양생명, 치매보험 보장 한도 축소…절판마케팅 우려도 뉴스투데이",
-      "pub_date": "Tue, 03 Mar 2026 08:00:00 GMT",
-      "category": "치매 간병",
-      "key": "b6fd4b58d4094a95",
+      "title": "금감원·GA협회, 설계사 모집 과열에 경고음 - 보험매일",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5xRm42blI5eWFmVWJvVjExbFVsQnlmVUtUWlhqLXkxNFdiS29iOW44UkpiWHh6bXFSVDgzR1dmZmJJaFJOdVVRbVhFZjU4d2ZXdzR3dmxTZ2pFdWxJVXVzY1NKVEJJZ2tK?oc=5",
+      "description": "금감원·GA협회, 설계사 모집 과열에 경고음 보험매일",
+      "pub_date": "Thu, 29 Jan 2026 08:00:00 GMT",
+      "category": "GA 법인보험대리점",
+      "key": "44c0ed530b3b15a3",
+      "topic": "영업·마인드"
+    },
+    {
+      "title": "DB손해보험, 인터넷 전용 미니암보험 출시…치료비 보장 강화 - 메가경제",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5JNDRZU0JLdWl3ZVZsZEJTMjh1b09nNDJ2QlBhRWs3R2x3SmR4aDRRMnpXcFZUUzNRc2ppYXRTS3Jqdy1Yb19EUjFUTm1qZ0hBcnI5ejBhVEZqcWgtLWVNSzYtQU52YWRYYVRGcU16cWtnQdIBckFVX3lxTE5JNDRZU0JLdWl3ZVZsZEJTMjh1b09nNDJ2QlBhRWs3R2x3SmR4aDRRMnpXcFZUUzNRc2ppYXRTS3Jqdy1Yb19EUjFUTm1qZ0hBcnI5ejBhVEZqcWgtLWVNSzYtQU52YWRYYVRGcU16cWtnQQ?oc=5",
+      "description": "DB손해보험, 인터넷 전용 미니암보험 출시…치료비 보장 강화 메가경제",
+      "pub_date": "Sun, 15 Nov 2026 23:55:41 GMT",
+      "category": "암 의료비",
+      "key": "cb19f051d5812632",
       "topic": "의료·건강"
     },
     {
-      "title": "환율, 1330원대 중반서 보합권…달러 강세에도 제한적 움직임 - 뉴스투데이",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9fU0Zxd01HbzhQMFM5VTVzN2pmX1BCQk4yMG5pMDAxcUlITXgxVXJheWhjbmt0OHZFbFlsdGZxSHdiWnZLb1EwQy1EMTBmcm1fZ0ZKeDQ3T0lIdTY5dnc?oc=5",
-      "description": "환율, 1330원대 중반서 보합권…달러 강세에도 제한적 움직임 뉴스투데이",
-      "pub_date": "Tue, 17 Nov 2026 00:52:00 GMT",
-      "category": "환율 전망",
-      "key": "46dec3e3467874fc",
+      "title": "'검은 월요일'?...美 반도체주 폭락에 코스피도 '변동성' 불가피 - 서울이코노미뉴스",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE56NFRwbll3dHdqYkNwQWFsVElMUlhlTEY3UGMtaG4tTG1BWWxxRG9lczQtRUNCOFNQeTlRT3RTYnU2anJTUElnNnpOaXJzWXR4cXNJZlJ4blBObVpjQ3h0YWUwNDJXSk9mcjJPSU5R?oc=5",
+      "description": "'검은 월요일'?...美 반도체주 폭락에 코스피도 '변동성' 불가피 서울이코노미뉴스",
+      "pub_date": "Sun, 07 Jun 2026 07:00:00 GMT",
+      "category": "글로벌 시장",
+      "key": "544fcc433c3bf615",
       "topic": "경제·환율·금리"
     },
     {
-      "title": "올해 글로벌 증시 수익률 희비…'S&P500 27%, 코스피 4%' - 연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5FNTBQQ2JhWTdNSDU1ZWhOdzJfSHRJY28tQzM2S1cyUGc5WDBLYjhueVhrUW9IdkJvUFVZVWdhU2otTlJ6dWFWOGxxOGQxT1BkRllpUE5ubW1nSVnSAWBBVV95cUxPRmw0OGNvM0t0Q0swamtLOUZ0WGlSMnM1TE55akRIaGlaR19zQmkwbXVLNnNYbnNoVURxTmxDcWVhOEMyb0VabmkzdEg3VTdwMWYtRllMR1ZOcFZtSS13NDI?oc=5",
-      "description": "올해 글로벌 증시 수익률 희비…'S&P500 27%, 코스피 4%' 연합뉴스",
-      "pub_date": "Thu, 30 Dec 2021 08:00:00 GMT",
+      "title": "나스닥 33% 오를 때 코스닥은 23% 내렸다…34개국 지수 중 '꼴찌' - 한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5weFhpaGRuWG44QzYyZ2Q5ZDZyb3VHTnpJMGltREJnYVNkY3l1X0tOcHE5QVM5RzA4dDltVFE0ZTRXc01nb1dRMFBkSUFnenUwaDRTX28xcFdiQQ?oc=5",
+      "description": "나스닥 33% 오를 때 코스닥은 23% 내렸다…34개국 지수 중 '꼴찌' 한국경제",
+      "pub_date": "Sun, 29 Dec 2024 08:00:00 GMT",
       "category": "글로벌 시장",
-      "key": "6fc0327beb04cf77",
+      "key": "23a3281ae3e7be61",
       "topic": "경제·환율·금리"
     }
   ]
