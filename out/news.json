@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-18T16:46:50.523730+00:00",
+  "collected_at": "2026-11-18T21:45:08.148079+00:00",
   "topic_weight": {
     "보험·상품": 30,
     "영업·마인드": 25,
@@ -7,45 +7,46 @@
     "경제·환율·금리": 25
   },
   "topic_counts": {
+    "보험·상품": 2,
     "영업·마인드": 1,
-    "경제·환율·금리": 3
+    "의료·건강": 1
   },
   "items": [
     {
-      "title": "토스인슈어런스, 전국 6대 광역시 영업망 완성… 무경력 설계사 육성 확대 - 한국보험신문",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE94MFF3bEtTcHpsallTNDBFZWh1S3B5NUtWNVZKdjdHYkUwT2JiVWprNllsOTQzLUFudU1DcWI4VWx1SzBPckdzRFYzZ01HVl9xd190dlJtOW9UUDdGdlVLd0tZRURId3l4OWxF0gFvQVVfeXFMTmMzYS1tcWpZQ0xva2phMVdSWXlTRnYwR25ockc5VFB5SlRlVEk3N2NRZ29IZHlYa09CZ0tEck5rMUo3MERTcnNJR0NWRkJoV1pYMTBCU0VwY1hFU0tKdU8yV3lJZ3YxSTV2M2FUM2Zz?oc=5",
-      "description": "토스인슈어런스, 전국 6대 광역시 영업망 완성… 무경력 설계사 육성 확대 한국보험신문",
-      "pub_date": "Sun, 15 Nov 2026 15:00:00 GMT",
+      "title": "금감원, '불법 리베이트' 한국보험금융에 등록취소 사전통지…대형GA 이례적 중징계 - 마켓인",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ibnFDT3FtejBRUlltcjBQN0pBNTI4ZHdlNVhXTlJ2eGh3Y1BfaDVCckdvb1RIT2FZVllrMWluVHkxQTFIOTlIZ0RpdUN0V19DRldYWXBEWTVYRXNLa2ljVlQ2N2NmT2xlWEhNZkx6RnZOazA?oc=5",
+      "description": "금감원, '불법 리베이트' 한국보험금융에 등록취소 사전통지…대형GA 이례적 중징계 마켓인",
+      "pub_date": "Mon, 16 Nov 2026 23:44:29 GMT",
+      "category": "보험 제도·규제",
+      "key": "6fb0943b1dc0b5ec",
+      "topic": "보험·상품"
+    },
+    {
+      "title": "판매수수료 7년 분급안… 금융당국 vs GA 갈등 재점화 - 한국보험신문",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9EUXNwaUtNQWpnRUtLd2dUaUpUNDN1dFdiSDJYZG5mMk40WTJDQ0htQjBDdGMyYmFDZ3p2d3l5MzFPblpOaTN1b1pKQ202N0tWQzR1UG02ZzR3aElsNl9hYlRnbjBiM00tV1Zz0gFvQVVfeXFMTmJ4a0RueG1UakR2STlfRF9EanFaZEVkMzk4M1lYM20tTE1PUGZBaHl5b0ZYOHBobU5HZWhFa1hpaVUwcXJvUlA2d0xlTG1EendLRGdkb1hqVk5ueTlxUlBuVHh3clJYUVNKNWVsQzVn?oc=5",
+      "description": "판매수수료 7년 분급안… 금융당국 vs GA 갈등 재점화 한국보험신문",
+      "pub_date": "Mon, 28 Jul 2025 07:00:00 GMT",
+      "category": "보험 제도·규제",
+      "key": "55cb68d3bb9a64e8",
+      "topic": "보험·상품"
+    },
+    {
+      "title": "사칭 ‘보험점검센터’ 활개… 보험사·GA 고객DB 활용 논란 - 한국보험신문",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1VMS1wSWZxdzh3ZkVCWkgtR2NBYXhLdWhGRnpaVnpsZGFZdUtqRzg3MTBtem05Z040cVItV2tYRXNyaXFXMG9peDBMSG9MUjZCdUF1Z1pNYXhoUEcxYXZsVWhieE9pTDlyaWZj?oc=5",
+      "description": "사칭 ‘보험점검센터’ 활개… 보험사·GA 고객DB 활용 논란 한국보험신문",
+      "pub_date": "Wed, 17 Jun 2026 07:00:00 GMT",
       "category": "보험설계사 영업",
-      "key": "5275af383c5ea2e1",
+      "key": "4e1da8c6f1f45438",
       "topic": "영업·마인드"
     },
     {
-      "title": "美 기준금리 4년반 만에 ‘빅컷’…한은도 인하 압력 커져 - 농민신문",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpWkdYUGxNRk1CeVBDQm9wS2ZvdzM5dk5KRERiakh3Z3NxOEh2cnV5WlhFd09lWDFtSFEyN3VPZjR3Yk9Uak51N202a2R4OE1lenJmbTdHNzFOQQ?oc=5",
-      "description": "美 기준금리 4년반 만에 ‘빅컷’…한은도 인하 압력 커져 농민신문",
-      "pub_date": "Thu, 19 Sep 2024 07:00:00 GMT",
-      "category": "기준금리·통화정책",
-      "key": "0d4fa6188d925cab",
-      "topic": "경제·환율·금리"
-    },
-    {
-      "title": "[외환] 외국인 달러선물 팔자…환율 5.2원 내린 1333.0원 - 자본시장뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Zb3A2eVlHdmRubl90aHUyWFBzQzJvN3VvVWlnallld3lfUjcxVUV4eXRuemdLYVpCZHU5N0xHM1pSWjBjaFF2bjRjX0NwZ1I5SlNxYUpWeTVMUFFzQUotVVRWR0F0RTg?oc=5",
-      "description": "[외환] 외국인 달러선물 팔자…환율 5.2원 내린 1333.0원 자본시장뉴스",
-      "pub_date": "Wed, 18 Nov 2026 08:00:00 GMT",
-      "category": "환율 전망",
-      "key": "fe19d3681f06d22d",
-      "topic": "경제·환율·금리"
-    },
-    {
-      "title": "제 발등 찍는 트럼프?…‘관세 전쟁’ 직격탄에 미국 경제부터 ‘휘청’ - 경향신문",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZSXpfOW9fdklDSno1c1NJeHI1VU5NZW1fTTlaMU53TGRNdTNyM3lPT1UyT1VYNVdVVmpEVDBheERJM3ZrVkZoOVJMVkkwdFdoRWwzclJhSTg0Z9IBX0FVX3lxTFBPcUxTcHplZXFyWFZieUkwOG5OLTZkZnlpd0VvdWtJejZoQ1B6LVVqWlMwdTBUUHNnQUtQbVhZUFZIMGp2bmtjUUF4WkU5N0JNYWdLVGE0SHRkWXBqN21j?oc=5",
-      "description": "제 발등 찍는 트럼프?…‘관세 전쟁’ 직격탄에 미국 경제부터 ‘휘청’ 경향신문",
-      "pub_date": "Wed, 05 Mar 2025 08:00:00 GMT",
-      "category": "미국 경제·정책",
-      "key": "c74d982a2141744a",
-      "topic": "경제·환율·금리"
+      "title": "보험사, 늘어나는 치매환자에 치매보험 판매 잇따라 - 요양뉴스",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1WSEE5LXRpaE9WVFl5WFZzYTZXZEJnMm5MeU9GeXpkTmttTUxhYTdJNHNfQmczR01ERnRudHFVLVVxRlVJMmFwa1VIQUdGeVRmRGw4ZHJCN3ZSclZjU3RGaTNjYVI3TnltUnpzSkdR?oc=5",
+      "description": "보험사, 늘어나는 치매환자에 치매보험 판매 잇따라 요양뉴스",
+      "pub_date": "Tue, 27 Nov 2018 08:00:00 GMT",
+      "category": "치매 간병",
+      "key": "93b639fcf1347f3e",
+      "topic": "의료·건강"
     }
   ]
 }
