@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-18T03:59:11.139150+00:00",
+  "collected_at": "2026-11-18T10:56:55.638467+00:00",
   "topic_weight": {
     "보험·상품": 30,
     "영업·마인드": 25,
@@ -7,34 +7,72 @@
     "경제·환율·금리": 25
   },
   "topic_counts": {
-    "경제·환율·금리": 3
+    "영업·마인드": 1,
+    "의료·건강": 2,
+    "경제·환율·금리": 4
   },
   "items": [
     {
-      "title": "[모닝 리포트] 달러 강세에도 환율 1340원선 상승 제한…수출 네고 물량 변수 - 뉴스핌",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5hWHJiRzllalhXal9tWHJscTZzalQ5Ul93elBsZmIwdDk5a3lTWjNiWFowRnlpYjN3Y1E1OEw2MEVlN3R1X1hMRl95ZjBzXzh2ZS1FZFEwOTl6OWY1?oc=5",
-      "description": "[모닝 리포트] 달러 강세에도 환율 1340원선 상승 제한…수출 네고 물량 변수 뉴스핌",
-      "pub_date": "Tue, 17 Nov 2026 23:27:00 GMT",
-      "category": "환율 전망",
-      "key": "066f4e6f59b9e67c",
+      "title": "[보험사의 AI 활용법] 보험설계ㆍ상담서비스 AI가 주도 - 대한경제",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ZVUdKQkF4c1pYekRFRllWY28wRGN0aW9DdTNzci1aWGNaTVhXSnZpWnppQW5uVUllbG9CN0ItTXNvb0lqSjNqalJ0UzZwM0NWYXNER2toakFEM3I2MjRsbkVvZVhfajR5dWk4YnlHbXpEM0U?oc=5",
+      "description": "[보험사의 AI 활용법] 보험설계ㆍ상담서비스 AI가 주도 대한경제",
+      "pub_date": "Mon, 16 Nov 2026 21:20:29 GMT",
+      "category": "보험설계사 영업",
+      "key": "a1d0de72108e5fc9",
+      "topic": "영업·마인드"
+    },
+    {
+      "title": "흥국화재, ‘치매실종피해보장’ 등 배타적사용권 2건 획득 - 한국보험신문",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9wRFFFOFZ2MzRmdUFMSHJvc0g1MmxaVTRVWlhGYzlZRktUeEN6MXppaVh4WG5GaThxeXp5ZjliVnk5Vm5EVHZwSDVhdmZpU3doR0xBZEk3XzRuTU8yTGdudDVENkJVZ1dXZVRr0gFvQVVfeXFMUHNiOFhiVnVldlFZc2ZhVFp6VGtqRkxOTk84bzRudHFyTnhGRVNPbTRHLWFkdDhKa0p1d25EY2p5R192eE1adVZQWmFYZHFremVWNVhIWU1YQ1hNZl9YZzAxSWZmTTRhXzRuQm9MdXI0?oc=5",
+      "description": "흥국화재, ‘치매실종피해보장’ 등 배타적사용권 2건 획득 한국보험신문",
+      "pub_date": "Mon, 08 Sep 2025 07:00:00 GMT",
+      "category": "치매 간병",
+      "key": "7c21450943694fa3",
+      "topic": "의료·건강"
+    },
+    {
+      "title": "AI와 원격 스타트업 '디지털 헬스케어' 도약 주역으로 - 의학신문",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0wTDdnRlB3bVFYMWl4akNZQm4zVzVUb2xtN3ZGeGhGR0h5YUFqcXBWT0JsLWZxc0txRnlqM2RlUVFKUzc1cTdadkI0dkFQdGFyT0FwUjJKdVFiODB1VG5LQ25fUHhSclZYZGc?oc=5",
+      "description": "AI와 원격 스타트업 '디지털 헬스케어' 도약 주역으로 의학신문",
+      "pub_date": "Thu, 26 Nov 2020 08:00:00 GMT",
+      "category": "AI 의료기술",
+      "key": "709a2bb2a61f0116",
+      "topic": "의료·건강"
+    },
+    {
+      "title": "미-중 무역전쟁 완화 가능성에도 국내 증시는 약세 - 한겨레",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBJTDBGakxyZ1FuQ0dYZWpXeGtTeWlFM2RNTldLUnVXNDZOQWN0VDZEdTlZTVdoTzdFRGFzcTlWSkRMUzhTWFd0STI5MmVsLWV0WUprN0FsVDdDUlRYdERJZG5OMzBfQVk?oc=5",
+      "description": "미-중 무역전쟁 완화 가능성에도 국내 증시는 약세 한겨레",
+      "pub_date": "Thu, 24 Apr 2025 07:00:00 GMT",
+      "category": "미국 경제·정책",
+      "key": "57585d69b74424b8",
       "topic": "경제·환율·금리"
     },
     {
-      "title": "[37th SRE][Issue]1600원 위협하던 환율의 반전…내년에도 ‘반도체의 힘’ 통할까 - 이데일리",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNHZSTHVMdE1mcFlaLXU2MzZkTmdVdjZJRkhNNzdPdllCaU5zYTZEQ21ETzZNdHByRHQ1ekl3QU0wLXlwVTdHV0tOUmEyaW93N3dQUF90aDFIZ245TTEtNng4a05Na0tjS0ZlbnFlQ1BudkktbEFPS2lTS3kzMU9OZg?oc=5",
-      "description": "[37th SRE][Issue]1600원 위협하던 환율의 반전…내년에도 ‘반도체의 힘’ 통할까 이데일리",
-      "pub_date": "Wed, 18 Nov 2026 01:00:04 GMT",
-      "category": "환율 전망",
-      "key": "6ccba3877ed04549",
+      "title": "미중 무역전쟁 발발... 뉴욕증시 5년 만에 최악 폭락 - OhmyNews",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE80LVpVakhGOFdaOGMzWjZodmVGMmVjc1hUQlRndHJoc0tBNXhjZDNzNERfZWpwQVBhNmNaYTRvZkp3azBxS0tNUUJjQlc4V29rOE9kWk03ZmRoNk1mYTBBNU1sMXZ2SkpTRDZKUUdKT0R2SUNuVDhj?oc=5",
+      "description": "미중 무역전쟁 발발... 뉴욕증시 5년 만에 최악 폭락 OhmyNews",
+      "pub_date": "Sat, 05 Apr 2025 07:00:00 GMT",
+      "category": "미국 경제·정책",
+      "key": "75f165abb9f30756",
       "topic": "경제·환율·금리"
     },
     {
-      "title": "[오늘 증시] 엔비디아 실적 전망에 AI 반도체주 촉각…삼성전자·SK하이닉스 반등 변수 될까 - 톱뉴스",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBwYlVFa19RS1ZWSE1ScF9lVG13T0FXY1VMRVYyVzF2LU50bTRfVVlmWUlwMTBtS3R4Y212LTd2RVlpNWxrYTlNazB5Tl81aC1NOTJvOGRCODZwbktVRlNHaFpteXJSRGt2V2E0eGZOVQ?oc=5",
-      "description": "[오늘 증시] 엔비디아 실적 전망에 AI 반도체주 촉각…삼성전자·SK하이닉스 반등 변수 될까 톱뉴스",
-      "pub_date": "Tue, 17 Nov 2026 22:25:19 GMT",
+      "title": "대신증권, 유튜브 세미나…AI 혁명·美집권 3년 차 효과 진단 - 중앙신문",
+      "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxPZTl0OXp4QmhGajJkQzdVMk80M2g2U2pEdHBIYnY2Q1RhRlMxUy1vWmxBRkJsQ1I3T1RiRkFON3JSYVdaZngzZ1pBRkgtQXFob2ZUN1lfTVJTMlVVcHQwa09HeVoxdFV2cjdna3B1MjlzdHhZdGdJRG1kZllWbFNJVFhFRzllODByUGhhV1dMWlkyS0k2THB6ajlLNGstS3N2amQ4NjNrMFo0b1dON1hRZnFEa1h1QkppMjd4WWE0WTQwMGJqeTktY2Q1eHJRQ3gxVGt3R21HOTFXTEpsRWJzQmNvOEZtbmR6V0JqVnEwdGF4NGt0TTQ5T2I1eEtXN0FTQTRhX3VJX19VVW5feVNuRHlzd2ZUem1mSTRhUnVkS2txbkZqTGNxWHhZQlIzMzRUSmRteG1NZmNnR29zQ1Bxczdqcmh2WnNBTXVGa1hnZWRveFRlenVuaQ?oc=5",
+      "description": "대신증권, 유튜브 세미나…AI 혁명·美집권 3년 차 효과 진단 중앙신문",
+      "pub_date": "Wed, 18 Nov 2026 00:17:57 GMT",
       "category": "글로벌 시장",
-      "key": "a27f9384ff98dd89",
+      "key": "09523e714c36f982",
+      "topic": "경제·환율·금리"
+    },
+    {
+      "title": "[초점]미국과 반대로 가는 한국 증시 '디커플링' - 한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE16N3RTVEtsd2tHRU9sMFJMVVhCMGhvU29sbjBmVGQ3cm5EeXBrMHYzOWJfMGFiTHV4NTFmSGNLNF8zTkVNTnJFU2taVFZWa0JCSVd3SmtnREJ3Zw?oc=5",
+      "description": "[초점]미국과 반대로 가는 한국 증시 '디커플링' 한국경제",
+      "pub_date": "Thu, 16 Feb 2017 08:00:00 GMT",
+      "category": "글로벌 시장",
+      "key": "2d454dacfe62147e",
       "topic": "경제·환율·금리"
     }
   ]
