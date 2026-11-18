@@ -1,95 +1,105 @@
 {
-  "collected_at": "2026-11-18T10:56:56.919169+00:00",
+  "collected_at": "2026-11-18T16:46:51.660640+00:00",
   "items": [
     {
-      "keyword": "ces",
+      "keyword": "신세계",
       "traffic": "200+",
-      "news_title": "Wareable Top Pick Awards CES 2027: Entries are now open",
+      "news_title": "신세계 3분기 실적, 어디 하나 빠진 곳이 없네",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "52e1fd9431237fa7",
-      "collected_at": "2026-11-18T10:56:56.918680+00:00"
+      "key": "c9e5e20074d09c07",
+      "collected_at": "2026-11-18T16:46:51.660110+00:00"
     },
     {
-      "keyword": "이정재",
+      "keyword": "수능 재난문자 시간",
+      "traffic": "10000+",
+      "news_title": "이 대통령 &quot;수능 문제지 AI 업로드 전수조사…부정행위 철저히 엄단&quot;",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "120f5990e2601781",
+      "collected_at": "2026-11-18T16:46:51.660110+00:00"
+    },
+    {
+      "keyword": "김간지",
       "traffic": "200+",
-      "news_title": "200억 벌어도 회사엔 4억만?…이정재 &apos;10대 0&apos; 계약 파장",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "5354359c4a208399",
-      "collected_at": "2026-11-18T10:56:56.918680+00:00"
-    },
-    {
-      "keyword": "sri lanka vs pakistan",
-      "traffic": "200+",
-      "news_title": "A morning that reminded Pakistan of what they once were",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "7f4a465a3e496b62",
-      "collected_at": "2026-11-18T10:56:56.918680+00:00"
-    },
-    {
-      "keyword": "게임대상",
-      "traffic": "100+",
-      "news_title": "펄어비스 &apos;붉은사막&apos;, 대한민국 게임대상 8관왕‥역대 최다",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "9ea8f8874856c3b5",
-      "collected_at": "2026-11-18T10:56:56.918680+00:00"
-    },
-    {
-      "keyword": "축산신문",
-      "traffic": "500+",
       "news_title": "",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "0e8a9ac376d2a204",
-      "collected_at": "2026-11-18T10:56:56.918680+00:00"
+      "key": "36f5f61144619008",
+      "collected_at": "2026-11-18T16:46:51.660110+00:00"
     },
     {
-      "keyword": "gpt 6.2 astra",
-      "traffic": "2000+",
-      "news_title": "Introducing GPT-6.2 Astra and Sol",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "effd8195b28fbe65",
-      "collected_at": "2026-11-18T10:56:56.918680+00:00"
-    },
-    {
-      "keyword": "보험 사기",
-      "traffic": "500+",
-      "news_title": "전동킥보드로 80번 고의 사고‥금감원 &quot;車 보험사기 주의&quot;",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "보험·금융규제",
-      "key": "38992634d701240f",
-      "collected_at": "2026-11-18T10:56:56.918680+00:00"
-    },
-    {
-      "keyword": "새만금",
+      "keyword": "김소희",
       "traffic": "200+",
-      "news_title": "서울고법 &quot;새만금 공항 계획 취소해야&quot;…2심도 제동",
+      "news_title": "[전문] 김소희 루머 가해자 징역형 “타인 삶 짓밟는 행위, 책임 뒤따라”",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "60a61a9a59c0b55b",
-      "collected_at": "2026-11-18T10:56:56.918680+00:00"
+      "key": "1d443bd2907d74f0",
+      "collected_at": "2026-11-18T16:46:51.660110+00:00"
     },
     {
-      "keyword": "호랑이",
-      "traffic": "2000+",
-      "news_title": "[영상] 파키스탄서 틱톡촬영 중 맹수 공격…10대 숨지자 &apos;개 물림&apos; 위장",
+      "keyword": "김명민",
+      "traffic": "500+",
+      "news_title": "김명민 “스키복 팔다 경찰서까지”…20대 시절 회상",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "a89afe959fcf40d4",
-      "collected_at": "2026-11-18T10:56:56.918680+00:00"
+      "key": "dbfade857ad25beb",
+      "collected_at": "2026-11-18T16:46:51.660110+00:00"
+    },
+    {
+      "keyword": "마린 르펜",
+      "traffic": "10000+",
+      "news_title": "나라 곳간 빨간불인데…&quot;60세부터 연금 수령&quot; 파격 승부수",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "45aab4dd166e08e3",
+      "collected_at": "2026-11-18T16:46:51.660110+00:00"
+    },
+    {
+      "keyword": "누리호",
+      "traffic": "200+",
+      "news_title": "누리호 5차 발사 성공 최종 확인…“목표궤도 진입 정상 수행”",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "8c431d98738d5b39",
+      "collected_at": "2026-11-18T16:46:51.660110+00:00"
+    },
+    {
+      "keyword": "강형욱",
+      "traffic": "2000+",
+      "news_title": "[오늘의 채널A] 가족 물어대는 두살 몰티즈, 공존 해결책은",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "322e48d1d69df9ca",
+      "collected_at": "2026-11-18T16:46:51.660110+00:00"
+    },
+    {
+      "keyword": "앙투안 그리즈만",
+      "traffic": "200+",
+      "news_title": "35세 그리에즈만, MLS 4월 뛰고 신인왕…14골 8도움 폭발",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "ef5bddfdb829af9b",
+      "collected_at": "2026-11-18T16:46:51.660110+00:00"
+    },
+    {
+      "keyword": "kamil mishara",
+      "traffic": "1000+",
+      "news_title": "Sudurpaschim Royals vs Chitwan Rhinos Preview &amp; Prediction | 2026 Nepal Premier League | Qualifier 2",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "6b02c9bccbc58920",
+      "collected_at": "2026-11-18T16:46:51.660110+00:00"
     }
   ]
 }
