@@ -1,85 +1,95 @@
 {
-  "collected_at": "2026-11-18T21:45:09.513606+00:00",
+  "collected_at": "2026-11-19T03:55:29.873383+00:00",
   "items": [
     {
-      "keyword": "롯데 자이언츠",
-      "traffic": "2000+",
-      "news_title": "롯데 한동희, 중수골 골절…&quot;회복까지 6주 소요&quot;",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "6ebc848037c10bfd",
-      "collected_at": "2026-11-18T21:45:09.512399+00:00"
-    },
-    {
-      "keyword": "미사일",
-      "traffic": "200+",
-      "news_title": "젤렌스키 “러, 북한 미사일 의존…우크라이나에 무기·기술 지원 정당”",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "c6c2ca94736dcc61",
-      "collected_at": "2026-11-18T21:45:09.512399+00:00"
-    },
-    {
-      "keyword": "채무",
-      "traffic": "100+",
-      "news_title": "중앙일보, 1370억원 공모채 채무조정안 모두 가결… 매각 작업 탄력",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "0fbdb40060cb9cb3",
-      "collected_at": "2026-11-18T21:45:09.512399+00:00"
-    },
-    {
-      "keyword": "택시",
+      "keyword": "크리스 페덱",
       "traffic": "1000+",
-      "news_title": "밤 10시 택시기사에게 전화가 왔다…“5만원 때문에요”",
+      "news_title": "샴페인 마르기도 전에 찾아온 &apos;FA 3중고&apos;… 왕조 재건 노리는 삼성, 외부 FA는 신경쓸 틈 조차 없다",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "358f5aad8d273431",
-      "collected_at": "2026-11-18T21:45:09.512399+00:00"
+      "key": "b11fb9b10440e54e",
+      "collected_at": "2026-11-19T03:55:29.872783+00:00"
     },
     {
-      "keyword": "김건희",
+      "keyword": "하남시",
+      "traffic": "500+",
+      "news_title": "‘복용약 전달, 시험장 착각 학생 수송’…경찰, 수능 수험생에 121건 편의 제공",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "ee7e7bdfde8cb9f7",
+      "collected_at": "2026-11-19T03:55:29.872783+00:00"
+    },
+    {
+      "keyword": "주식시장",
+      "traffic": "2000+",
+      "news_title": "&quot;수능날 착각하지 마세요&quot;...프리마켓은 휴장, 정규장은 10시부터",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "경제·환율·금리",
+      "key": "b4a09833f394221e",
+      "collected_at": "2026-11-19T03:55:29.872783+00:00"
+    },
+    {
+      "keyword": "양민혁",
+      "traffic": "2000+",
+      "news_title": "손흥민 &quot;내 자리 그냥 물려줄 생각 없어&quot; 예언이었나...&apos;벨기에에서도 벤치&apos; 양민혁, 초대형 경쟁자 호평 등장 &quot;올 시즌 도약 가능성 크다&quot;",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "d8439704c0f3681a",
+      "collected_at": "2026-11-19T03:55:29.872783+00:00"
+    },
+    {
+      "keyword": "신용회복위원회",
       "traffic": "100+",
-      "news_title": "한덕수 대법 선고 D-1···“12·3은 내란” 여부 첫 판단 나온다",
+      "news_title": "",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "3442f81a2ed29b2f",
-      "collected_at": "2026-11-18T21:45:09.512399+00:00"
+      "key": "e0b7bcdaeea32bd4",
+      "collected_at": "2026-11-19T03:55:29.872783+00:00"
     },
     {
-      "keyword": "한화 이글스",
-      "traffic": "10000+",
-      "news_title": "한화 역사에 남을 트레이드 성공작인데…하필 FA 앞두고 부상→1할7푼 시련, 그런데 실망은 아직 이르다",
+      "keyword": "남태현",
+      "traffic": "1000+",
+      "news_title": "‘집행유예 중 음주운전’ 위너 남태현, 항소심도 징역...법정구속",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "68d9f56ed9c7e13c",
-      "collected_at": "2026-11-18T21:45:09.512399+00:00"
+      "key": "70ff332168f6b387",
+      "collected_at": "2026-11-19T03:55:29.872783+00:00"
     },
     {
-      "keyword": "김해국제공항",
+      "keyword": "전역",
+      "traffic": "2000+",
+      "news_title": "군 떠나는 간부 줄었다…육군 희망전역 작년보다 17％ 감소",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "f4c1ea1e89a12e76",
+      "collected_at": "2026-11-19T03:55:29.872783+00:00"
+    },
+    {
+      "keyword": "금융투자협회",
       "traffic": "100+",
-      "news_title": "새 쫓으랬더니 ‘낮잠·유튜브’…김해공항 무더기 징계 뒤 또 해임",
+      "news_title": "고객 돈으로 손실 피하면 안 됩니다…금투협, 차이니즈월 &apos;고삐&apos;",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "c5529b7f636509e6",
-      "collected_at": "2026-11-18T21:45:09.512399+00:00"
+      "key": "c61c9af12d009664",
+      "collected_at": "2026-11-19T03:55:29.872783+00:00"
     },
     {
-      "keyword": "레인보우로보틱스",
-      "traffic": "200+",
-      "news_title": "아틀라스 이어 또 CES 주인공?…급등한 로봇주, 더 오를까",
+      "keyword": "네이버뉴스",
+      "traffic": "500+",
+      "news_title": "네이버 뉴스제휴위, 올해 신규 제휴 언론사 &apos;0곳&apos;…내년 기준 완화 검토",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "77c48712ba60fe68",
-      "collected_at": "2026-11-18T21:45:09.512399+00:00"
+      "key": "1b53f854a2eb67c4",
+      "collected_at": "2026-11-19T03:55:29.872783+00:00"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-18T21:45:08.148079+00:00",
+  "collected_at": "2026-11-19T03:55:28.523893+00:00",
   "topic_weight": {
     "보험·상품": 30,
     "영업·마인드": 25,
@@ -9,44 +9,63 @@
   "topic_counts": {
     "보험·상품": 2,
     "영업·마인드": 1,
-    "의료·건강": 1
+    "의료·건강": 1,
+    "경제·환율·금리": 2
   },
   "items": [
     {
-      "title": "금감원, '불법 리베이트' 한국보험금융에 등록취소 사전통지…대형GA 이례적 중징계 - 마켓인",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ibnFDT3FtejBRUlltcjBQN0pBNTI4ZHdlNVhXTlJ2eGh3Y1BfaDVCckdvb1RIT2FZVllrMWluVHkxQTFIOTlIZ0RpdUN0V19DRldYWXBEWTVYRXNLa2ljVlQ2N2NmT2xlWEhNZkx6RnZOazA?oc=5",
-      "description": "금감원, '불법 리베이트' 한국보험금융에 등록취소 사전통지…대형GA 이례적 중징계 마켓인",
-      "pub_date": "Mon, 16 Nov 2026 23:44:29 GMT",
-      "category": "보험 제도·규제",
-      "key": "6fb0943b1dc0b5ec",
+      "title": "﻿KB라이프생명, 변액보험 펀드 3개월 수익률 8.18% - 뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1GQmhkbjA4NUtDN3Yya1VPckJHZURoYm5sYUxoYndzUHZZSGpZV3p0V09qdnQ3WGFyS05ZaVJoMjl3MERSZWdaTzg4eDZfdHdPTzY2WUh4RmROUVRZ?oc=5",
+      "description": "﻿KB라이프생명, 변액보험 펀드 3개월 수익률 8.18% 뉴스핌",
+      "pub_date": "Wed, 31 Jul 2024 07:00:00 GMT",
+      "category": "변액보험 수익률",
+      "key": "3d28e0df90f4c301",
       "topic": "보험·상품"
     },
     {
-      "title": "판매수수료 7년 분급안… 금융당국 vs GA 갈등 재점화 - 한국보험신문",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9EUXNwaUtNQWpnRUtLd2dUaUpUNDN1dFdiSDJYZG5mMk40WTJDQ0htQjBDdGMyYmFDZ3p2d3l5MzFPblpOaTN1b1pKQ202N0tWQzR1UG02ZzR3aElsNl9hYlRnbjBiM00tV1Zz0gFvQVVfeXFMTmJ4a0RueG1UakR2STlfRF9EanFaZEVkMzk4M1lYM20tTE1PUGZBaHl5b0ZYOHBobU5HZWhFa1hpaVUwcXJvUlA2d0xlTG1EendLRGdkb1hqVk5ueTlxUlBuVHh3clJYUVNKNWVsQzVn?oc=5",
-      "description": "판매수수료 7년 분급안… 금융당국 vs GA 갈등 재점화 한국보험신문",
-      "pub_date": "Mon, 28 Jul 2025 07:00:00 GMT",
-      "category": "보험 제도·규제",
-      "key": "55cb68d3bb9a64e8",
+      "title": "[보험 클리닉] 연금보험 및 연금저축의 세제 - 세종경제뉴스",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBtNU5fbVdYVy12N3NLVDFZOG9lYW1UWl9YaDVwcjZRTnhzUzg5Y25lOGFBM0hQMDBYNXJrVnpub3NxWm5IWmZzM3FfVE9fWEZzN2lKRjlIRWF2YXMyZ0tzOGNzMk53c1psS0FyR9IBcEFVX3lxTE1RVndMNDFIajdEZ1ZFVFJuTDlURlJFYzAzVkJkU0J1SWQtVXRBUG5rcEdaSktHc1ppeG1sQlpsd2FRdldUTDV3d2dERkk1QVZKcTVQU2I1dFdUU1U2UFY1dVhLY2hZc3hPWTdRaFp3UUM?oc=5",
+      "description": "[보험 클리닉] 연금보험 및 연금저축의 세제 세종경제뉴스",
+      "pub_date": "Thu, 31 Aug 2023 07:00:00 GMT",
+      "category": "연금보험 노후",
+      "key": "3aa4c6b22498290d",
       "topic": "보험·상품"
     },
     {
-      "title": "사칭 ‘보험점검센터’ 활개… 보험사·GA 고객DB 활용 논란 - 한국보험신문",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1VMS1wSWZxdzh3ZkVCWkgtR2NBYXhLdWhGRnpaVnpsZGFZdUtqRzg3MTBtem05Z040cVItV2tYRXNyaXFXMG9peDBMSG9MUjZCdUF1Z1pNYXhoUEcxYXZsVWhieE9pTDlyaWZj?oc=5",
-      "description": "사칭 ‘보험점검센터’ 활개… 보험사·GA 고객DB 활용 논란 한국보험신문",
-      "pub_date": "Wed, 17 Jun 2026 07:00:00 GMT",
+      "title": "토스인슈어런스, 대면 영업 4년 만에 우수인증설계사 127명 배출 - 한국보험신문",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAySWo1YXZKNkhreGNodV9YWUFwMGlxU25iOE5VclYySEhHcDJrWld3MXNkdU5HMzZCTEJWaGdGT1BjSFVhZUwxV1F6b19udW1qOUxnOXZjU2FCazlzUURCRzlNWjBjbUlRcEZR0gFvQVVfeXFMTnBTdlJjLTJmeTJqUUgxSDVSMGhvaloyV3pkWVJFWVlGVWhFNTFjcTlTNHVKdmdaVWlMUWFvQzdqNEIxVV9uNTFNYlV4UjNMOTZNY3BzRndULWpWZFUxdzA1MFYxeUxxblIwQjA4Szg0?oc=5",
+      "description": "토스인슈어런스, 대면 영업 4년 만에 우수인증설계사 127명 배출 한국보험신문",
+      "pub_date": "Wed, 21 Oct 2026 07:00:00 GMT",
       "category": "보험설계사 영업",
-      "key": "4e1da8c6f1f45438",
+      "key": "e5bdede241d97f51",
       "topic": "영업·마인드"
     },
     {
-      "title": "보험사, 늘어나는 치매환자에 치매보험 판매 잇따라 - 요양뉴스",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1WSEE5LXRpaE9WVFl5WFZzYTZXZEJnMm5MeU9GeXpkTmttTUxhYTdJNHNfQmczR01ERnRudHFVLVVxRlVJMmFwa1VIQUdGeVRmRGw4ZHJCN3ZSclZjU3RGaTNjYVI3TnltUnpzSkdR?oc=5",
-      "description": "보험사, 늘어나는 치매환자에 치매보험 판매 잇따라 요양뉴스",
-      "pub_date": "Tue, 27 Nov 2018 08:00:00 GMT",
+      "title": "초고령사회 진입 앞두고 치매보험 경쟁 뜨거워져 - 한국보험신문",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5Ba2JfQ2ExRS1ySkI3eEV2TVIwUVpFV0ZVcmZ1aXpXOHdnWDI4dFduYWN0dFFpSVJTOFRjLTBPMVJYampyRVowTkF4bkxCdGRxcWQxV2NudGU3MVB5WW9iaWVacWRGOWZRNnRz0gFvQVVfeXFMTmJVVlJXZk9MYld4V3M4NjNLTTUxQ2dBRTBlcmRlWjNEWXZKR2hDTzVoYjdSWmZwZC1MOVBUYk55SUJUTXVVWHVYQzBFUEtxNkhLT19wYjhXU2QyYTVmeURDcFJrSmg3ZUJnc19rWGRR?oc=5",
+      "description": "초고령사회 진입 앞두고 치매보험 경쟁 뜨거워져 한국보험신문",
+      "pub_date": "Mon, 16 Dec 2024 08:00:00 GMT",
       "category": "치매 간병",
-      "key": "93b639fcf1347f3e",
+      "key": "9aee409c2dc0b3c6",
       "topic": "의료·건강"
+    },
+    {
+      "title": "[모닝 리포트] 달러/원 환율 1330원대 중반 등락 전망…수출 네고가 강달러 압력 완화 - 뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9JU2xVc1VOR1NDVVJSM2pnTER0anhKRjIwRHBjTlo0NW1lQm5LUmR1aDZpeGtkZkdGdUtFbUNVWEZDTkk2QkNGaWtDZEtydW1IOThxRVBvb0NVMERn?oc=5",
+      "description": "[모닝 리포트] 달러/원 환율 1330원대 중반 등락 전망…수출 네고가 강달러 압력 완화 뉴스핌",
+      "pub_date": "Wed, 18 Nov 2026 23:54:00 GMT",
+      "category": "환율 전망",
+      "key": "537786a4f544d1d4",
+      "topic": "경제·환율·금리"
+    },
+    {
+      "title": "연준 긴축 경계령에도 버티는 원화⋯\"1330원대 중반 등락\" [환율전망] - 이투데이",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBqblgzOVlCcEFSbFJTN2ljMnlVaW1lMXZWSXhxNGxCYnJoMFZ0cnpiNEVaSGdIZWVRblBQVE1lczE3WWVGMTdTWk5FUnBzN0VfZjZXaw?oc=5",
+      "description": "연준 긴축 경계령에도 버티는 원화⋯\"1330원대 중반 등락\" [환율전망] 이투데이",
+      "pub_date": "Wed, 18 Nov 2026 23:01:00 GMT",
+      "category": "환율 전망",
+      "key": "5b9e11360abdf833",
+      "topic": "경제·환율·금리"
     }
   ]
 }
