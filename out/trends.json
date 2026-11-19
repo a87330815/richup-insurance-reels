@@ -1,95 +1,105 @@
 {
-  "collected_at": "2026-11-19T10:59:03.854397+00:00",
+  "collected_at": "2026-11-19T16:53:10.038340+00:00",
   "items": [
     {
-      "keyword": "안양 정관장 대 부산 kcc",
-      "traffic": "500+",
-      "news_title": "[핌in안양] KCC전 홈 8연승 도전, 정관장 유도훈 감독 &quot;변준형 발목, 박지훈 허리 부담&quot;",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "df9888026d4ef500",
-      "collected_at": "2026-11-19T10:59:03.853761+00:00"
-    },
-    {
-      "keyword": "수험표 할인",
-      "traffic": "100+",
-      "news_title": "어쨌든 수능 끝! 수험생이여, 이제 할인을 즐겨라",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "326286aba0d7c3e5",
-      "collected_at": "2026-11-19T10:59:03.853761+00:00"
-    },
-    {
-      "keyword": "셀트리온",
-      "traffic": "500+",
-      "news_title": "셀트리온 &quot;램시마·허쥬마, 아시아 주요국서 점유율 1위&quot;",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "35c65b67a44d9bea",
-      "collected_at": "2026-11-19T10:59:03.853761+00:00"
-    },
-    {
-      "keyword": "fifa 랭킹",
+      "keyword": "amd",
       "traffic": "200+",
-      "news_title": "&apos;사우디전 42년만 3실점 충격에도...&apos; 한국, FIFA 랭킹 2계단 깜짝 상승 30위 &quot;아시아 4위 유지&quot; - 머니투데이",
+      "news_title": "Why AMD Stock Was Sliding Today",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "f4394053b6f43a77",
-      "collected_at": "2026-11-19T10:59:03.853761+00:00"
+      "key": "1ea0b794e1acd33f",
+      "collected_at": "2026-11-19T16:53:10.037545+00:00"
     },
     {
-      "keyword": "lg디스플레이",
+      "keyword": "플라비오 코볼리",
       "traffic": "100+",
-      "news_title": "LGD, 사업부 통합으로 OLED 전환 박차…임원 17명 승진",
+      "news_title": "[ATP 파이널스] 리턴하는 코볼리",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "95fc7e29d4aa0247",
-      "collected_at": "2026-11-19T10:59:03.853761+00:00"
+      "key": "9e0d79a7e1bf4a74",
+      "collected_at": "2026-11-19T16:53:10.037545+00:00"
     },
     {
-      "keyword": "수능 답지 공개 시간",
-      "traffic": "10000+",
-      "news_title": "교문 밖에서부터 단추 떼고 휴대전화 반납...&quot;민무늬 옷 입었다&quot;",
+      "keyword": "엔화",
+      "traffic": "200+",
+      "news_title": "[도쿄환시] 달러-엔 상승…美 연준 인사들 금리인상 지지",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "경제·환율·금리",
+      "key": "95a40d87c30e99aa",
+      "collected_at": "2026-11-19T16:53:10.037545+00:00"
+    },
+    {
+      "keyword": "kt wiz",
+      "traffic": "200+",
+      "news_title": "KT Wiz&apos;s 4.8 Billion Choi Bet Pays Off",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "ae679e9df4f5d12e",
-      "collected_at": "2026-11-19T10:59:03.853761+00:00"
+      "key": "893f904396831726",
+      "collected_at": "2026-11-19T16:53:10.037545+00:00"
     },
     {
-      "keyword": "시험장",
+      "keyword": "습관",
       "traffic": "1000+",
-      "news_title": "따뜻한 응원 속 수험생들 입실...경찰·소방 구조도",
+      "news_title": "“각설탕 9개 수준”… 의사도 놀랐다는 ‘혈당 치솟는 음료’",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "7a4ae447a37fc31f",
-      "collected_at": "2026-11-19T10:59:03.853761+00:00"
+      "key": "0e09a497a561d18a",
+      "collected_at": "2026-11-19T16:53:10.037545+00:00"
     },
     {
-      "keyword": "수능 답지",
-      "traffic": "50000+",
-      "news_title": "EBS &quot;올해 수능, 작년보다 다소 쉽게 출제...국어·영어 쉬워지고 수학은 비슷&quot;",
+      "keyword": "회계사",
+      "traffic": "100+",
+      "news_title": "[단독] 내년 회계사 최소선발인원 3년 연속 감축 가닥…1100명 이하 유력",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "94fd1d1cdfe84f58",
-      "collected_at": "2026-11-19T10:59:03.853761+00:00"
+      "key": "6c8348594394ea24",
+      "collected_at": "2026-11-19T16:53:10.037545+00:00"
     },
     {
-      "keyword": "수능 등급컷",
-      "traffic": "10000+",
-      "news_title": "올해 수능 가채점부터 대학 합격 예측까지…&apos;입시캐스트&apos; 오픈 - 머니투데이",
+      "keyword": "프로게이머",
+      "traffic": "200+",
+      "news_title": "서산 청소년들, 게임으로 미래 직업 찾는다, e스포츠 진로특강 &apos;호응&apos;",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "863ed9ca8dc445e5",
-      "collected_at": "2026-11-19T10:59:03.853761+00:00"
+      "key": "c8722afc1994cb1f",
+      "collected_at": "2026-11-19T16:53:10.037545+00:00"
+    },
+    {
+      "keyword": "박하나",
+      "traffic": "100+",
+      "news_title": "김태술·박하나 부부 부모 된다…&quot;모든 난임 부부들 응원&quot;",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "c611a661efce4372",
+      "collected_at": "2026-11-19T16:53:10.037545+00:00"
+    },
+    {
+      "keyword": "앤트로픽 주가",
+      "traffic": "2000+",
+      "news_title": "창업 5년새 기업가치 2000조원... 앤스로픽 상장, AI 불씨 살릴까",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "경제·환율·금리",
+      "key": "1da05c09d8c3f82f",
+      "collected_at": "2026-11-19T16:53:10.037545+00:00"
+    },
+    {
+      "keyword": "타래",
+      "traffic": "200+",
+      "news_title": "웹젠 &apos;디겜폭&apos; 제작진 &quot;디펜스만 하는 게임 아냐…상반기 론칭&quot;",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "c281ec3a5ecfcf18",
+      "collected_at": "2026-11-19T16:53:10.037545+00:00"
     }
   ]
 }

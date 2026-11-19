@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-19T10:59:02.278907+00:00",
+  "collected_at": "2026-11-19T16:53:08.404977+00:00",
   "topic_weight": {
     "보험·상품": 30,
     "영업·마인드": 25,
@@ -7,35 +7,55 @@
     "경제·환율·금리": 25
   },
   "topic_counts": {
+    "보험·상품": 1,
     "영업·마인드": 1,
-    "경제·환율·금리": 2
+    "의료·건강": 2,
+    "경제·환율·금리": 1
   },
   "items": [
     {
-      "title": "신한라이프, 내가 원하는 보장 내용 말했더니…AI 설계사가 알아서 보험 골라줘 - 한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5NQU56NFZSLUtCUWJmb0NGeWt1VC1ESTVwcVB0Qm9WZVhKV2prMjFtZ2pEQkV5eGozRmwzUzVJM2tDSl92aVZQQUxHMHIwZWI0VVZFVVhhbC1kdw?oc=5",
-      "description": "신한라이프, 내가 원하는 보장 내용 말했더니…AI 설계사가 알아서 보험 골라줘 한국경제",
-      "pub_date": "Thu, 19 Nov 2026 07:08:21 GMT",
+      "title": "똑똑한 노후 준비를 위한 3대 연금 알아보기 | 강남구청 > 강남소식 > 카드뉴스 - 강남구청",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1SNHJma21uamd0TlFLTEhCQlQwWW1pNlpfM0FYMUtNZ2FlM0ZzZ2hROWZkeThKR1J4QUNnT3hUVzd3NTNRZVJSZnNBYVdRdzhEVDFiVnZDdnRJWUozLUx5MmlheFNmYzVTc3FpZkM5UVpQNkRv?oc=5",
+      "description": "똑똑한 노후 준비를 위한 3대 연금 알아보기 | 강남구청 > 강남소식 > 카드뉴스 강남구청",
+      "pub_date": "Wed, 20 Jul 2022 07:00:00 GMT",
+      "category": "연금보험 노후",
+      "key": "96d71525135d167a",
+      "topic": "보험·상품"
+    },
+    {
+      "title": "삼성화재, AI로 보험 영업 '새 판'…초개인화 서비스 고도화 - https://www.moneystorm.kr/",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE95YVpfZXY5Y2xoUDdoN0NqLXphVUFEczlMRmg4R0dMcF9sRGtCdFRESGltRlVYejkzM3psTkJLYkRmZFFZNmNZR2NCazRLVTBwWXZiS3ViLWJyaE1hbTViQjhpRVU0LXFuckE?oc=5",
+      "description": "삼성화재, AI로 보험 영업 '새 판'…초개인화 서비스 고도화 https://www.moneystorm.kr/",
+      "pub_date": "Mon, 26 Oct 2026 07:00:00 GMT",
       "category": "보험설계사 영업",
-      "key": "8e656d660f300f9d",
+      "key": "4daf1650b81238b7",
       "topic": "영업·마인드"
     },
     {
-      "title": "[환율 전망] KRW: Power Overwhelming - KB Think",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1WcU1TbndIWkFVV2lLZEp0a3RSQkFFb2U2dkNkZ2g0dWpjeC1rM0JGNW5wWW5Td2dCZF8tZUZzZzRjVFVrSEt3Y0VwWldRazA3Z2hoVVZkVzRXTmlNaFJKRQ?oc=5",
-      "description": "[환율 전망] KRW: Power Overwhelming KB Think",
-      "pub_date": "Wed, 18 Nov 2026 23:15:13 GMT",
-      "category": "환율 전망",
-      "key": "d9c2b29d9cce8073",
-      "topic": "경제·환율·금리"
+      "title": "요즘 보험은 ‘치매’ 들어가야 잘 팔린다는데...보험업계 치매 특약 쏟아진다 - 조선일보",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPLUdfOU9OUndZb3Y3ZVdHS2oyMlR6OUlVZUY1SDJacVBURDFOa2haRWxnaFZHZVR6bXVfb1V0NUFueTIxakoyTFNNbGRVeFhEM1RZSUozU0l2YWRpVF9iYlpWSGZoUjIwYUViaFM3SWZ0VVc2bEVUYWEtR3U4d3k5aA?oc=5",
+      "description": "요즘 보험은 ‘치매’ 들어가야 잘 팔린다는데...보험업계 치매 특약 쏟아진다 조선일보",
+      "pub_date": "Mon, 22 Sep 2025 07:00:00 GMT",
+      "category": "치매 간병",
+      "key": "03eefa2a2ccde6f8",
+      "topic": "의료·건강"
     },
     {
-      "title": "금융지주 \"연말 코스피 반등 제한적\"…원·달러 환율은 1300원대 하락 전망 - 폴리뉴스 Polinews",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ocGNSNy1EbUNyS1Z4ZUdUWkNBcTRUTy1XNm54YUxsZ2h6Z3ozei1udFdEY0U2NmN2YkNXT3hRY0JtU0c5RlRURjVubDZaUE8tdG83VF9Oa1VjZ3dLbFY5TVNKa3ZKQnlyMGEzMTJR?oc=5",
-      "description": "금융지주 \"연말 코스피 반등 제한적\"…원·달러 환율은 1300원대 하락 전망 폴리뉴스 Polinews",
-      "pub_date": "Thu, 19 Nov 2026 05:30:00 GMT",
-      "category": "환율 전망",
-      "key": "3f9caef148070e4b",
+      "title": "[디지털헬스케어 강자]④제이엘케이, 日 AI 의료시장 공략 본격화…\"매출 증대 확신\" - 팜이데일리",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9uYm1PQk5HSkdUVVJVR2dCek5qd3pyUXRNLVRQZzl5d1lvMXNPc2lsQ0pWWFZja2ZMRFNxM0lWQmJQOWF2eGE4WlptRzkxc3U0OUF2eXVScUJObjlQU0FPQllYek5WaWMxcmxPRmhn?oc=5",
+      "description": "[디지털헬스케어 강자]④제이엘케이, 日 AI 의료시장 공략 본격화…\"매출 증대 확신\" 팜이데일리",
+      "pub_date": "Thu, 21 Jul 2022 07:00:00 GMT",
+      "category": "AI 의료기술",
+      "key": "35be36e3b15d04d8",
+      "topic": "의료·건강"
+    },
+    {
+      "title": "앤트로픽 드디어 나스닥 데뷔…외인 K증시 돌아올까 [분석+] - 블루밍비트",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5GUl9nem1ZNlJyUzdDdTFOb3FfUGg5WkNnMHdWVmhjREUwN3o2anh6a1VnMTNYbHdrN0hENWNLVHRCVVJhYk1qdGFIV3pSbVFL?oc=5",
+      "description": "앤트로픽 드디어 나스닥 데뷔…외인 K증시 돌아올까 [분석+] 블루밍비트",
+      "pub_date": "Thu, 19 Nov 2026 13:10:59 GMT",
+      "category": "글로벌 시장",
+      "key": "f60e2d5d1dfc502c",
       "topic": "경제·환율·금리"
     }
   ]
