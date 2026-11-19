@@ -1,105 +1,65 @@
 {
-  "collected_at": "2026-11-19T16:53:10.038340+00:00",
+  "collected_at": "2026-11-19T22:03:56.378169+00:00",
   "items": [
     {
-      "keyword": "amd",
-      "traffic": "200+",
-      "news_title": "Why AMD Stock Was Sliding Today",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "1ea0b794e1acd33f",
-      "collected_at": "2026-11-19T16:53:10.037545+00:00"
-    },
-    {
-      "keyword": "플라비오 코볼리",
-      "traffic": "100+",
-      "news_title": "[ATP 파이널스] 리턴하는 코볼리",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "9e0d79a7e1bf4a74",
-      "collected_at": "2026-11-19T16:53:10.037545+00:00"
-    },
-    {
-      "keyword": "엔화",
-      "traffic": "200+",
-      "news_title": "[도쿄환시] 달러-엔 상승…美 연준 인사들 금리인상 지지",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "경제·환율·금리",
-      "key": "95a40d87c30e99aa",
-      "collected_at": "2026-11-19T16:53:10.037545+00:00"
-    },
-    {
-      "keyword": "kt wiz",
-      "traffic": "200+",
-      "news_title": "KT Wiz&apos;s 4.8 Billion Choi Bet Pays Off",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "893f904396831726",
-      "collected_at": "2026-11-19T16:53:10.037545+00:00"
-    },
-    {
-      "keyword": "습관",
+      "keyword": "김연경",
       "traffic": "1000+",
-      "news_title": "“각설탕 9개 수준”… 의사도 놀랐다는 ‘혈당 치솟는 음료’",
+      "news_title": "김연경 사단 &apos;필승 원더독스&apos;, 실업팀 전통강호 포항시체육회 상대로 셧아웃 승리 도전(&apos;신인감독2&apos;)",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "0e09a497a561d18a",
-      "collected_at": "2026-11-19T16:53:10.037545+00:00"
+      "key": "837138408aba8f41",
+      "collected_at": "2026-11-19T22:03:56.377446+00:00"
     },
     {
-      "keyword": "회계사",
-      "traffic": "100+",
-      "news_title": "[단독] 내년 회계사 최소선발인원 3년 연속 감축 가닥…1100명 이하 유력",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "6c8348594394ea24",
-      "collected_at": "2026-11-19T16:53:10.037545+00:00"
-    },
-    {
-      "keyword": "프로게이머",
+      "keyword": "이정현",
       "traffic": "200+",
-      "news_title": "서산 청소년들, 게임으로 미래 직업 찾는다, e스포츠 진로특강 &apos;호응&apos;",
+      "news_title": "이정현, 가수로 13년 만에 돌아온다…&apos;테크노 여전사&apos; 내년 초 컴백 예고",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "c8722afc1994cb1f",
-      "collected_at": "2026-11-19T16:53:10.037545+00:00"
+      "key": "4f90e972ffab3017",
+      "collected_at": "2026-11-19T22:03:56.377446+00:00"
     },
     {
-      "keyword": "박하나",
+      "keyword": "해상 풍력 발전",
       "traffic": "100+",
-      "news_title": "김태술·박하나 부부 부모 된다…&quot;모든 난임 부부들 응원&quot;",
+      "news_title": "&apos;공공성&apos;과 &apos;공공주도&apos;는 다르다[우보세] - 머니투데이",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "c611a661efce4372",
-      "collected_at": "2026-11-19T16:53:10.037545+00:00"
+      "key": "78555bbd51cc3f25",
+      "collected_at": "2026-11-19T22:03:56.377446+00:00"
     },
     {
-      "keyword": "앤트로픽 주가",
-      "traffic": "2000+",
-      "news_title": "창업 5년새 기업가치 2000조원... 앤스로픽 상장, AI 불씨 살릴까",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "경제·환율·금리",
-      "key": "1da05c09d8c3f82f",
-      "collected_at": "2026-11-19T16:53:10.037545+00:00"
-    },
-    {
-      "keyword": "타래",
-      "traffic": "200+",
-      "news_title": "웹젠 &apos;디겜폭&apos; 제작진 &quot;디펜스만 하는 게임 아냐…상반기 론칭&quot;",
+      "keyword": "제주국제공항",
+      "traffic": "100+",
+      "news_title": "제주 제2공항 수요 30%대 분담 전망",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "c281ec3a5ecfcf18",
-      "collected_at": "2026-11-19T16:53:10.037545+00:00"
+      "key": "631149512641a801",
+      "collected_at": "2026-11-19T22:03:56.377446+00:00"
+    },
+    {
+      "keyword": "천위페이",
+      "traffic": "1000+",
+      "news_title": "&apos;안세영만 없으면 우승하겠다더니?&apos; 2번 시드 천위페이, 세계랭킹 47위에게 충격적인 역전패…홍콩오픈 16강 어이없는 탈락",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "10f7d162af5137ba",
+      "collected_at": "2026-11-19T22:03:56.377446+00:00"
+    },
+    {
+      "keyword": "웹툰",
+      "traffic": "1000+",
+      "news_title": "[기획] “이혼을 받아들입니다. 그리고 재혼 승인을 요구합니다” - 의상·VFX·미술·음악으로 보는 제작기",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "89851d537c1aa6d2",
+      "collected_at": "2026-11-19T22:03:56.377446+00:00"
     }
   ]
 }

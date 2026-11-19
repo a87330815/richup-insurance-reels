@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-19T16:53:08.404977+00:00",
+  "collected_at": "2026-11-19T22:03:54.823349+00:00",
   "topic_weight": {
     "보험·상품": 30,
     "영업·마인드": 25,
@@ -8,54 +8,53 @@
   },
   "topic_counts": {
     "보험·상품": 1,
-    "영업·마인드": 1,
-    "의료·건강": 2,
-    "경제·환율·금리": 1
+    "의료·건강": 1,
+    "경제·환율·금리": 3
   },
   "items": [
     {
-      "title": "똑똑한 노후 준비를 위한 3대 연금 알아보기 | 강남구청 > 강남소식 > 카드뉴스 - 강남구청",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1SNHJma21uamd0TlFLTEhCQlQwWW1pNlpfM0FYMUtNZ2FlM0ZzZ2hROWZkeThKR1J4QUNnT3hUVzd3NTNRZVJSZnNBYVdRdzhEVDFiVnZDdnRJWUozLUx5MmlheFNmYzVTc3FpZkM5UVpQNkRv?oc=5",
-      "description": "똑똑한 노후 준비를 위한 3대 연금 알아보기 | 강남구청 > 강남소식 > 카드뉴스 강남구청",
-      "pub_date": "Wed, 20 Jul 2022 07:00:00 GMT",
-      "category": "연금보험 노후",
-      "key": "96d71525135d167a",
+      "title": "달러보험, 고금리·환율 속 투자 대안으로 부상...\"환율 변동·장기 유지 리스크 공존\" - 한스경제",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBOUEJ5UFp2QkQ0V2JLRjMzaE54Q09WajFOaElHQ0ZlQVpNR2RsTkdITGdqNnhyOWU3SHc1dUVrYVFGNWowUEFzY1VLSktid3NnQWlwS3RSMVBWbVV4dGl2T24tTC16d3lBODY0?oc=5",
+      "description": "달러보험, 고금리·환율 속 투자 대안으로 부상...\"환율 변동·장기 유지 리스크 공존\" 한스경제",
+      "pub_date": "Thu, 25 Sep 2025 07:00:00 GMT",
+      "category": "달러보험 환율",
+      "key": "5146a6957d2b7527",
       "topic": "보험·상품"
     },
     {
-      "title": "삼성화재, AI로 보험 영업 '새 판'…초개인화 서비스 고도화 - https://www.moneystorm.kr/",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE95YVpfZXY5Y2xoUDdoN0NqLXphVUFEczlMRmg4R0dMcF9sRGtCdFRESGltRlVYejkzM3psTkJLYkRmZFFZNmNZR2NCazRLVTBwWXZiS3ViLWJyaE1hbTViQjhpRVU0LXFuckE?oc=5",
-      "description": "삼성화재, AI로 보험 영업 '새 판'…초개인화 서비스 고도화 https://www.moneystorm.kr/",
-      "pub_date": "Mon, 26 Oct 2026 07:00:00 GMT",
-      "category": "보험설계사 영업",
-      "key": "4daf1650b81238b7",
-      "topic": "영업·마인드"
-    },
-    {
-      "title": "요즘 보험은 ‘치매’ 들어가야 잘 팔린다는데...보험업계 치매 특약 쏟아진다 - 조선일보",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPLUdfOU9OUndZb3Y3ZVdHS2oyMlR6OUlVZUY1SDJacVBURDFOa2haRWxnaFZHZVR6bXVfb1V0NUFueTIxakoyTFNNbGRVeFhEM1RZSUozU0l2YWRpVF9iYlpWSGZoUjIwYUViaFM3SWZ0VVc2bEVUYWEtR3U4d3k5aA?oc=5",
-      "description": "요즘 보험은 ‘치매’ 들어가야 잘 팔린다는데...보험업계 치매 특약 쏟아진다 조선일보",
-      "pub_date": "Mon, 22 Sep 2025 07:00:00 GMT",
+      "title": "간병·치매 보험으로 초고령사회 대비 - 한국보험신문",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0tNDNvLXhDS3VCMjFTM1JpV1QtYkJ3Q2ppSlVhZElWSVNQcFQtejZsd0lDeUxsczU4TUJkc24wQWJfMENzdVdKaUdLcUM4eXpKS241WGtMTk9oNlVoLUgwNlBzV0c5dUg2V0dz0gFvQVVfeXFMTmVsQ01SenVqenJ0SVRrY21aQXduZUYzajJ5Um4wTTI2Yndoek12ajBjRG43a0pCNGdyLU5MajhwazZOYXVPMkdfZlo4RDZDcUZMamo4c1RPRG5NQ2psQTg3S0dyV2p1dFEyOGtIeFpB?oc=5",
+      "description": "간병·치매 보험으로 초고령사회 대비 한국보험신문",
+      "pub_date": "Mon, 15 Apr 2024 07:00:00 GMT",
       "category": "치매 간병",
-      "key": "03eefa2a2ccde6f8",
+      "key": "2cf0165f446ce659",
       "topic": "의료·건강"
     },
     {
-      "title": "[디지털헬스케어 강자]④제이엘케이, 日 AI 의료시장 공략 본격화…\"매출 증대 확신\" - 팜이데일리",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9uYm1PQk5HSkdUVVJVR2dCek5qd3pyUXRNLVRQZzl5d1lvMXNPc2lsQ0pWWFZja2ZMRFNxM0lWQmJQOWF2eGE4WlptRzkxc3U0OUF2eXVScUJObjlQU0FPQllYek5WaWMxcmxPRmhn?oc=5",
-      "description": "[디지털헬스케어 강자]④제이엘케이, 日 AI 의료시장 공략 본격화…\"매출 증대 확신\" 팜이데일리",
-      "pub_date": "Thu, 21 Jul 2022 07:00:00 GMT",
-      "category": "AI 의료기술",
-      "key": "35be36e3b15d04d8",
-      "topic": "의료·건강"
+      "title": "뉴욕증시, 멕시코 관세 유예에 일단 안도…나스닥 1.20%↓ 마감 - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzYUltYVhDUnV2Tm82OGwycm1jcU96Wm1IZWxOMXR1X0x5Uk9zV1VWU2UxcDBGSnk1Vi1lSXNpWWtWZW9FY2J5cUhKeDhiWl9wb0xVNnd0UXlxNmfSAWBBVV95cUxOM1Q4ak9NQkpBVGRvUGIzY0lpYWlYYVk5Q0N0S2V3cmdzV1BwNFJRekFqRkRRSmFYTGZ5azB2S1NtUXhlcUdRdTI3TFZqNUFycHpHaWdlRGVHa3ZZaG43ZXY?oc=5",
+      "description": "뉴욕증시, 멕시코 관세 유예에 일단 안도…나스닥 1.20%↓ 마감 연합뉴스",
+      "pub_date": "Tue, 04 Feb 2025 08:00:00 GMT",
+      "category": "미국 경제·정책",
+      "key": "c2aaab973593ed0a",
+      "topic": "경제·환율·금리"
     },
     {
-      "title": "앤트로픽 드디어 나스닥 데뷔…외인 K증시 돌아올까 [분석+] - 블루밍비트",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5GUl9nem1ZNlJyUzdDdTFOb3FfUGg5WkNnMHdWVmhjREUwN3o2anh6a1VnMTNYbHdrN0hENWNLVHRCVVJhYk1qdGFIV3pSbVFL?oc=5",
-      "description": "앤트로픽 드디어 나스닥 데뷔…외인 K증시 돌아올까 [분석+] 블루밍비트",
-      "pub_date": "Thu, 19 Nov 2026 13:10:59 GMT",
+      "title": "코스피, 중동전쟁 단기 전략...'차가운 머리'가 필요할 때 - 오피니언뉴스",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5DeEZCVXNub2w5TXhEMndQRVVRRDlXYXBYemd6bXNLeE1NV3ZZbFlmWXRNLTRrV1RPZHpqaTgtYzlxX0tKeXZ3bE55ZHRlRnIycnlrNHBmWFZWVVgzS2tuZkJUM1Z5RDR5aWJhMnNnWk5nZw?oc=5",
+      "description": "코스피, 중동전쟁 단기 전략...'차가운 머리'가 필요할 때 오피니언뉴스",
+      "pub_date": "Tue, 03 Mar 2026 08:00:00 GMT",
       "category": "글로벌 시장",
-      "key": "f60e2d5d1dfc502c",
+      "key": "8da6c363d8bc1e1a",
+      "topic": "경제·환율·금리"
+    },
+    {
+      "title": "[속보]미-이란 전쟁 장기화시 ‘코스피 30% 하락 가능성’…대신증권 전망 - 문화일보",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9VTXhQUlNPSVVkTmIwSVZ4cjUwZ1hWZlJBckMtbVE3SXpBRDE2X1VLRS02UERwRXVPU2o1aDkwMzlWS1k1cG82dlNoa1ItQVBK?oc=5",
+      "description": "[속보]미-이란 전쟁 장기화시 ‘코스피 30% 하락 가능성’…대신증권 전망 문화일보",
+      "pub_date": "Wed, 04 Mar 2026 08:00:00 GMT",
+      "category": "글로벌 시장",
+      "key": "6899fafe68592a3b",
       "topic": "경제·환율·금리"
     }
   ]
