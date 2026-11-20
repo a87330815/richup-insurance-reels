@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-20T10:47:55.781593+00:00",
+  "collected_at": "2026-11-20T16:28:10.852272+00:00",
   "topic_weight": {
     "보험·상품": 30,
     "영업·마인드": 25,
@@ -7,108 +7,359 @@
     "경제·환율·금리": 25
   },
   "topic_counts": {
-    "영업·마인드": 2,
-    "의료·건강": 3,
-    "경제·환율·금리": 6
+    "보험·상품": 16,
+    "경제·환율·금리": 23
   },
   "items": [
     {
-      "title": "[IN PLUS People] “고객 상담은 감정 아닌 논리로” - 한국보험신문",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5nMFo1aDNsdjVoajZ3Wkw3RU9pZEZSZlZrby1peHpMZ1E3QUFkN3Y1djhQLXVnVlRVaVpOQ0lWcDI5TlFfdHF2em1kdmtKOUxSNTVDTkNqR1ViV29JbDhZMXVLSklaYmtqazk00gFvQVVfeXFMTXoxRnl3UkVQTkZ6VWpkMHZrdUhYLU9JaWRIclpKR0xpaE16YWhIcE12cGFPVXI2YU56SU53Y2kweWJ6ZW5hOTdmTy14U3BEV2VyM1QtTjJpYWhYZUNNTUE5dmMtZ3NqcFpxTkFtMDFJ?oc=5",
-      "description": "[IN PLUS People] “고객 상담은 감정 아닌 논리로” 한국보험신문",
-      "pub_date": "Mon, 03 Nov 2025 08:00:00 GMT",
-      "category": "보험설계사 영업",
-      "key": "3452717ace798081",
-      "topic": "영업·마인드"
+      "title": "변액보험 수익률 코로나前 회복...4천억 투자 동학개미 '화색' - 뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1mMmxqYW5HV21lN1JMM2p3cjNMQ1hhS1Z3SUIxMHZWbFlZUmF5dGRsaFFnT0MyVmt1cUZEdGlYMnoxSFR2TVFLaVhfVnZoWTVoMXZyamc3M05aNDM5?oc=5",
+      "description": "변액보험 수익률 코로나前 회복...4천억 투자 동학개미 '화색' 뉴스핌",
+      "pub_date": "Wed, 18 Nov 2020 08:00:00 GMT",
+      "category": "변액보험 수익률",
+      "key": "5044c6e001f221df",
+      "topic": "보험·상품"
     },
     {
-      "title": "권영찬 교수, 12월 기업·영업인 대상 세일즈 전략 강연 - 더퍼블릭",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1JcVplMi1DNk1obDkwTDZESnBOR0EzUkpJMXpHOEdTX05Rel9tU1J3Um56cTdYTkVtWU1OVnpBbldmVkgzQ05IdHhlUXpmblBKcWMtWUZKc29Vc2tUUlA3d3BMTXNVWGdLdjdv0gFvQVVfeXFMTWZVeTVmVllwNzJyb0VjZnNwZDFTZEZkWldXQmRUb1ZlODdfM2FKV01sQU5wdWlrWHBfZzFCVjlqYkl1Z0pSNTQ2RV94RHhIZ2ltYVlhWlc3Sld1dTQ0c0RUZWw2bHpXakhSMnlDWlln?oc=5",
-      "description": "권영찬 교수, 12월 기업·영업인 대상 세일즈 전략 강연 더퍼블릭",
-      "pub_date": "Tue, 10 Nov 2026 08:00:00 GMT",
-      "category": "세일즈 성과",
-      "key": "e0fba4112377df15",
-      "topic": "영업·마인드"
+      "title": "금감원, ‘불법리베이트’ 한국보험금융에 등록취소 사전통지 - 한국보험신문",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA3ZzBBck1rNXNvVEJ5SFBkX1VQbmxvQlo4cTdDSTJGWENFdFF6WEZZRGZ2amEtd0tXaFl2SGN4RU1WTGpNN0puNjVGeUc5NmppRldlOEZVNnU1MXZtTXVNelNDcEtHRGhnY3hN0gFvQVVfeXFMUFhQYWViVEU2S2h5eVBROHpaanZDVjdKTHFrNGJDYWtOcnhCOGZ5T3pKbXR6NTFLbFZiRm44eVgyazF2Y3Y4NURWcktySHFPdWVNX09nTFF5RThEVVFJRnFyaTZZdEZ0dEdMaDh4M1hR?oc=5",
+      "description": "금감원, ‘불법리베이트’ 한국보험금융에 등록취소 사전통지 한국보험신문",
+      "pub_date": "Mon, 16 Nov 2026 23:57:45 GMT",
+      "category": "보험 제도·규제",
+      "key": "be7c96dd266580fa",
+      "topic": "보험·상품"
     },
     {
-      "title": "고령화시대, 100만 치매환자 간병보험 경쟁 - 스트레이트뉴스",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBLQVRNNUpZYklCdnhEQ1JNdE1LaGV5bXRuNDJHTjhBeF9OQjBpNktSQUgya3RFZC1UZ3k3SUZ0eU1UbzRiWU9qMG5OWjJ3cVRyc1Yta3Q1QmFDVE1rYkdyV0tmWEJOMi1sTC0yMUJwRE04OTg?oc=5",
-      "description": "고령화시대, 100만 치매환자 간병보험 경쟁 스트레이트뉴스",
-      "pub_date": "Wed, 14 Sep 2022 07:00:00 GMT",
-      "category": "치매 간병",
-      "key": "889df467a7b4f0cb",
-      "topic": "의료·건강"
+      "title": "수수료 개편안 구체안 마무리했지만…GA업계 7월 시행 불가 지적 [판매수수료 개편안 초읽기] - 한국금융신문",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA1YzBIZnNsOHpfWWpJejhtWjRPLVRiMl90THBvaERvc1dLeE5XYjYyZmxSa3pqR2pKUUQ2bXlnRVVjS3FQcEl0c0x6NU9lTlc2bzZVRmlVZDFzODhwMnB1QktoaFY4U2hoQnFPWXVnWFdydkwzd2k3NUM1dDA?oc=5",
+      "description": "수수료 개편안 구체안 마무리했지만…GA업계 7월 시행 불가 지적 [판매수수료 개편안 초읽기] 한국금융신문",
+      "pub_date": "Sun, 14 Jun 2026 07:00:00 GMT",
+      "category": "보험 제도·규제",
+      "key": "8b51ad86dd256e05",
+      "topic": "보험·상품"
     },
     {
-      "title": "암 치료비 부담에 보험사 경쟁 ‘가속’ - 보험매일",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wQmdaUlNDV29mcUpuR2ZZTnRuVlZfSmZUYzczcXhpOTduaHZhLXVUU0RIVXdnaEVwTnR0ZlYwakY0MFVTNnlBZ2hIT05MS3FWNTBSVTNuVkRLeHVlbGpFaGp0ckk1cUk?oc=5",
-      "description": "암 치료비 부담에 보험사 경쟁 ‘가속’ 보험매일",
-      "pub_date": "Mon, 18 Jul 2022 07:00:00 GMT",
-      "category": "암 의료비",
-      "key": "00e7320ac869bfb5",
-      "topic": "의료·건강"
+      "title": "다음달부터 ‘GA 1200%룰’ 적용, 보험 영업 관행 변화 예고 - 매일일보",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5IOVEyWWpacF9aeTNKVVZrTmxaM1pFcU1CTlh0VUVMWDh6SWVZLWUwckFaY2JhMWJlOER2QTRsek9kVG1SVEVWSFljRmlTQVM2WXFtS2VJSkZpRFllQmJSaWlXSms?oc=5",
+      "description": "다음달부터 ‘GA 1200%룰’ 적용, 보험 영업 관행 변화 예고 매일일보",
+      "pub_date": "Sun, 21 Jun 2026 07:00:00 GMT",
+      "category": "보험 제도·규제",
+      "key": "aadb33ada9d14af3",
+      "topic": "보험·상품"
     },
     {
-      "title": "“꽁꽁 묶인 의료정보”...바이오 족쇄 언제 풀리나 - 지디넷코리아",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9GUUpGanl4U2szYi1xeFZCQ25IYnRoYnlQUmhBZjZNeWRQMlRLdmRQNnc4OF9lb25fT3RfYk9hT3FtRmdwZnc3WENaM1llTlUtM2txd1pR?oc=5",
-      "description": "“꽁꽁 묶인 의료정보”...바이오 족쇄 언제 풀리나 지디넷코리아",
-      "pub_date": "Thu, 16 Feb 2017 08:00:00 GMT",
-      "category": "AI 의료기술",
-      "key": "792f70f047b4cc3d",
-      "topic": "의료·건강"
+      "title": "GA 설계사 내일부터 ‘1200%룰’ 적용…대형 GA, 수수료 순위까지 설명해야 - 보험저널",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA5a3hVa3BCbXpJSjRKN0dsZ1IzclhUbF85djBpaFZMdmp5VWZQdnRpNFo4MHVibUZqTlhjRHZQeUlRTGQya3F1Q1FicXZBdVZRT3VLbW1FZmtza0xyalhPUHUwVWNyVkRNTnlrV3ZRdw?oc=5",
+      "description": "GA 설계사 내일부터 ‘1200%룰’ 적용…대형 GA, 수수료 순위까지 설명해야 보험저널",
+      "pub_date": "Tue, 30 Jun 2026 07:00:00 GMT",
+      "category": "보험 제도·규제",
+      "key": "5d40d0c75ceffad5",
+      "topic": "보험·상품"
     },
     {
-      "title": "[환율 전망] 쟁여두기엔 너무 많은 달러 - KB Think",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0tMlpLT1BTYkpZRU1hc004WTZsZUJZSVZkUmlCTHBlRXk1b3l1dGNqNDRtX3JOelFTQ0lnUkNMYkJfSEZLajhpOTFoMmZybm1LVXNiVGg0U3lFWEkzLUtFOQ?oc=5",
-      "description": "[환율 전망] 쟁여두기엔 너무 많은 달러 KB Think",
-      "pub_date": "Thu, 19 Nov 2026 23:06:44 GMT",
-      "category": "환율 전망",
-      "key": "a789cba56ff63274",
+      "title": "GA도 ‘1200%룰’ 적용…보험 판매수수료 제도 개편 시행 - 파이낸셜투데이",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9hOUhuWnFzLWg3NDdwTllSdkV2eTJlVVZLdTJsZ2ZYajhQOV9PNHR0Rk5IN2NKaDY0TXhlM2pBRTBjOEppRHJkZGxRT0Y2T2NpZmhEamwtUS1rMVE1aFkzaWdIXzRuYnNtdnfSAW5BVV95cUxOemVtSlJEdUZreXdwa0tZU09jTTFuZWJ2T09uN2xZbDJpVGdYcmxGR3BaX2J6Z29iVmYtcGJNRWRQQXUzYi10eHpPMlpEVjBEMXJELTJNTGNJYWxfemliS0xqZWFaTGQyM25XWGdsdw?oc=5",
+      "description": "GA도 ‘1200%룰’ 적용…보험 판매수수료 제도 개편 시행 파이낸셜투데이",
+      "pub_date": "Tue, 30 Jun 2026 07:00:00 GMT",
+      "category": "보험 제도·규제",
+      "key": "ed5f636ebba23b8c",
+      "topic": "보험·상품"
+    },
+    {
+      "title": "금감원, 한화생명·인카 등 GA 전격 점검…‘740억 이직 보따리’ 턴다 - 파이낸셜투데이",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5nRU5Mc0JwZHpCempRQW41Ym5BckpsSkoxNGk4Skx6RlpfMENWai03dEh5YnpwYU1kemxuTHNTWWVmSFVOX3ZYaXJvSllQdzVEYmFZRGJSSzNucHZIU1BEUGdEbS1XdlVHeEHSAW5BVV95cUxQNkJYSzhBSUotT2JsaHA0cFRZS0xwX2xjQ2FsMlZsQm1qLUZ5aGZ5Qzd0T18wdm5aUE1CeC1LbUZXMkZvMjl2VDQ2MVNJLU5IUnlzcDZsY1NoX0E5dHhaTzFLWnB6bjZHUXpIcHZNQQ?oc=5",
+      "description": "금감원, 한화생명·인카 등 GA 전격 점검…‘740억 이직 보따리’ 턴다 파이낸셜투데이",
+      "pub_date": "Wed, 27 May 2026 07:00:00 GMT",
+      "category": "보험 제도·규제",
+      "key": "2c6db4cd5b087d4c",
+      "topic": "보험·상품"
+    },
+    {
+      "title": "국감서 쏟아진 보험 리스크, 예보료율·GA·건전성 ‘제도 손질’ 예고 - 한국보험신문",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9hN2xnOE1iWUNBeF9EbFQ4TUNpY3dBejJial8wdThES09PUTBOU1V2VTFXWEUxRUNRcFVDbFc5TVZibTFmZ0tROEVuN2RCNDAzU2dtcU40WXd0MTk3YWxBdEVXLXNxTWsyNGFN0gFvQVVfeXFMTlljcTNXLThxZWtJdC1vUE5PTFNTZWpoWGNLTGdRRUVqeFhvMDJBWERrNUROS0RNSGJpbmJLNmxHa2dQOWhZelIxVV9oTjZKZXFndktSZ1N2ckdXYVNCQlpoNzJVcElTeGlVQlo2dzhJ?oc=5",
+      "description": "국감서 쏟아진 보험 리스크, 예보료율·GA·건전성 ‘제도 손질’ 예고 한국보험신문",
+      "pub_date": "Mon, 26 Oct 2026 07:00:00 GMT",
+      "category": "보험 제도·규제",
+      "key": "2aa5cc46b32f029d",
+      "topic": "보험·상품"
+    },
+    {
+      "title": "“1200%룰 코앞인데”… GA업계 ‘사업비 역차별’ 논란 확산 - 한국보험신문",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE15QWJGNm5HOWhWN2VwSFMtUGY1R1VxYjl2cUFnZHk1SFRCZ1VCN25aMVh5dDlvWmNNajJWNWxidzl2YzZxSFpmSEZjX0g5dW0zUGJvTmVfUzlnaEFqd3pBNFBvZ3dBcTdQeVF30gFvQVVfeXFMTkFKT19KSUhVTFg1THhpRVRQNnZvMDI5c3JGLVhQYU1LaHU4SEFxOUkwUkxMSnYzNWVNZFVFMndvbDJ0ZDZyaHFQOVNIVnRzSEtGNXJlQ0VJVTZ6TzhPUGxyWE9IVlQ1YXgta2V3eWNj?oc=5",
+      "description": "“1200%룰 코앞인데”… GA업계 ‘사업비 역차별’ 논란 확산 한국보험신문",
+      "pub_date": "Mon, 18 May 2026 07:00:00 GMT",
+      "category": "보험 제도·규제",
+      "key": "2a79034313945e8c",
+      "topic": "보험·상품"
+    },
+    {
+      "title": "설계사 수익구조, ‘선지급’에서 ‘유지관리’ 중심으로 이동 - 한국보험신문",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE91RzVYYy1udTJYNWdTa01HbmpXZGdIa1BvbUdGYjc1Y2NJR1RTX2lGUXBubVJ4MjlFNFo1cWxPeUZmNVZETFJwV0N5dnRxYjNPeEU2TndBUDBBSTBSbk9STFh6emRpQUQzbDNB0gFvQVVfeXFMUExmMFQ1NjQxaTd2TWRkNGdjNGlBbFEwdVV0YVdBTy0yRmxZNXNjRGxGWkhVNGxqcWZJZ2xNNkNZY2NjdE9xZGFsZ0VkZ29KSVV1c3EwaVBMZ3ppeElvVTZ3LTBGWU5VaGZHeHg1YXZ3?oc=5",
+      "description": "설계사 수익구조, ‘선지급’에서 ‘유지관리’ 중심으로 이동 한국보험신문",
+      "pub_date": "Tue, 20 Jan 2026 08:00:00 GMT",
+      "category": "보험 제도·규제",
+      "key": "73a764f70ec7655e",
+      "topic": "보험·상품"
+    },
+    {
+      "title": "인카금융서비스 ‘정착지원금·수수료 환수’ 국감 도마… GA 감독 강화 촉구 - 한국보험신문",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1vNGJ3Ui1FUWcybjk3VmNvRzlGaEJvcjllVkNBNURzRURPWlhPZzZSVjFld24xcFpRcExFOC1NcVZxdkxwNExKNGYzUjhJM2Rqdko1Q1RNODNiTnNuSjFuSW5pUHAzOG9XdFdR0gFvQVVfeXFMTVc2dTd1WlJCWmN0TDdMbE5kY2hOX3ZwZlI3YUFxRnRZWjM0Z3FFVVFKU05IMEVKbXgyV05kaDA5RFA5OEJBS1Q3TzBvTWJIekVIQmgyMGNMNGwxYmNhTFgxRWVkSXMtOWRCeVh5eU80?oc=5",
+      "description": "인카금융서비스 ‘정착지원금·수수료 환수’ 국감 도마… GA 감독 강화 촉구 한국보험신문",
+      "pub_date": "Thu, 08 Oct 2026 07:00:00 GMT",
+      "category": "보험 제도·규제",
+      "key": "e0f19b665b36308b",
+      "topic": "보험·상품"
+    },
+    {
+      "title": "보험, ‘양적 경쟁’서 ‘질적 혁신’으로… 체질 전환 요구 직면 - 한국보험신문",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9DYXpGR2dlYllwV28xaFFYYmlFMjhVMEZ0eGJGX2J3aW1jOERyQXBQdmRxeTVDbEVDR2JmNDZ0N1NUVzc2X0hpVVBUWGxFRjhKaGlMQW9sVTdFek80WUZCNV9aS3ljOHdibTk40gFvQVVfeXFMUGpfSDBJOEN5YWdDZzFEOUd0WkthTjJlcWZ1eWdIdWNqS25WS28wOFVYTFUwdUMxNmVyakRlNk4ydU9SZS1TUHhTZ2RLOHVYYXdaNXhkaG5DZ0pGbUZ4ek1mZ19iSnR3OFhLdzhON0hB?oc=5",
+      "description": "보험, ‘양적 경쟁’서 ‘질적 혁신’으로… 체질 전환 요구 직면 한국보험신문",
+      "pub_date": "Mon, 16 Mar 2026 07:00:00 GMT",
+      "category": "보험 제도·규제",
+      "key": "2f7b70c5f386c6c8",
+      "topic": "보험·상품"
+    },
+    {
+      "title": "7월부터 GA 보험설계사에 1200%룰 적용⋯상품 설명 강화 - 금융소비자뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8tdG9lSHVXcTBPNk9xc29CYmJIS2VYWk5CYXR6ZlMwUEpjZFlham50cTFtdldBam94N1l2LVpBTEpDbDJoRG1uN0x3aGl5NXljYTBRZ05zR3RHWk9NRjRqOWh4MHlwZnpFaHc?oc=5",
+      "description": "7월부터 GA 보험설계사에 1200%룰 적용⋯상품 설명 강화 금융소비자뉴스",
+      "pub_date": "Tue, 30 Jun 2026 07:00:00 GMT",
+      "category": "보험 제도·규제",
+      "key": "19225d0cb519126c",
+      "topic": "보험·상품"
+    },
+    {
+      "title": "[이슈] 보험판매 수수료 경쟁 급제동...GA 설계사도 '1200%룰' 적용 - 오늘경제",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ySWhXLVB3Q2NrNXY0Wm11N3NseEFEUHMwazc1US1QYVJKRlo1Z3MxWEkybVZTSU9sTGN1WlhLemxITml2RzhFdEVJOFVsOGZwbTlqNzJvM2hoTUViNDJPVjVXM1F3SV93MDRaLTUyby11OE0?oc=5",
+      "description": "[이슈] 보험판매 수수료 경쟁 급제동...GA 설계사도 '1200%룰' 적용 오늘경제",
+      "pub_date": "Tue, 30 Jun 2026 07:00:00 GMT",
+      "category": "보험 제도·규제",
+      "key": "9b210b63508e40c8",
+      "topic": "보험·상품"
+    },
+    {
+      "title": "금감원, 車보험 '나이롱환자' 막는다…GA 수수료도 손질 - 리드경제",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1fOVg2aXYzMlBDV3FyX1N6RFp2Y25VVmg0SVBOWmNJblVRQWdfYnlwQ3daa2pUVmdmRTIwVm1oaWhuNHRaSHhlN1FxbGJzcXBXODdpNFlQZHBEbzZGRW1nai0wcTdBZHRLbWVSMzNNTQ?oc=5",
+      "description": "금감원, 車보험 '나이롱환자' 막는다…GA 수수료도 손질 리드경제",
+      "pub_date": "Wed, 11 Mar 2026 07:00:00 GMT",
+      "category": "보험 제도·규제",
+      "key": "ef62688e4cbf4705",
+      "topic": "보험·상품"
+    },
+    {
+      "title": "금감원, GA 16개사에 ‘검사급’ 자료 받았다 - 보험매일",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0wNDRwbGN6MEpkWDBHdk84eEJHXzNOam9yZjFwOWpobzBpc081R2xnaUpPSmRRamhESTlCeEF0OFc4OXVLdHE5RnlUMVkzU1VZWGZwTGNKc3VqZlVUXzN6by1Nclo4YkRk?oc=5",
+      "description": "금감원, GA 16개사에 ‘검사급’ 자료 받았다 보험매일",
+      "pub_date": "Tue, 13 Oct 2026 07:00:00 GMT",
+      "category": "보험 제도·규제",
+      "key": "65fe675efac393ff",
+      "topic": "보험·상품"
+    },
+    {
+      "title": "미 연준 4연속 기준금리 동결…한국은 어쩌나? - 세상을 바꾸는 시민언론 민들레",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCMTNZMUhTamNpTDJ0NmNrdzJkbERZcWdnTkFzZFctdVc5a0JObGdCeUhwTFd2LUhTdUQ1SW84Q0NZd29JYW5leW5JZTZEVlY2UEZIckxzS3dIcGZUVGZacFlHaWl5blJJMDFJRA?oc=5",
+      "description": "미 연준 4연속 기준금리 동결…한국은 어쩌나? 세상을 바꾸는 시민언론 민들레",
+      "pub_date": "Fri, 20 Jun 2025 07:00:00 GMT",
+      "category": "기준금리·통화정책",
+      "key": "00a42e1c4509d054",
       "topic": "경제·환율·금리"
     },
     {
-      "title": "[환율 전망] 밸런스 게임, 美고금리 대 韓무역흑자 | KB의 생각 - KB Think",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9RRFhzekY0cVd5T1lLUGJsYXV2cWJaXzlySXc1RkVUWHE4YUhGNkFMdHdCa3NyZnIwNGxiWmNZVVk4YU1VTU5ZalV0ZV9tN2xpeFNySFdVb3lHV2xDQ3BMQg?oc=5",
-      "description": "[환율 전망] 밸런스 게임, 美고금리 대 韓무역흑자 | KB의 생각 KB Think",
-      "pub_date": "Thu, 01 Oct 2026 07:00:00 GMT",
+      "title": "달러·원 환율 1335원 돌파…美 기술주 급락 여파 - https://www.2news.co.kr/",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBNcFZuZXcwclpGNUptUDBPR2FsdjAwWDdRSE9VRlJqeFVPLTNiWkwxWGlZOTdWY3hKX3lKZWFHZHpla1R3SXgxTlNrRnpGYkFYaDBicDVJSUtIV3Nnc2VhVHgxX2sxR291?oc=5",
+      "description": "달러·원 환율 1335원 돌파…美 기술주 급락 여파 https://www.2news.co.kr/",
+      "pub_date": "Fri, 20 Nov 2026 00:50:00 GMT",
       "category": "환율 전망",
-      "key": "417994b660da658b",
+      "key": "99b07af641a825e8",
       "topic": "경제·환율·금리"
     },
     {
-      "title": "[환율 전망] FOMC 빅 이벤트 앞두고 경계심리 최고조 - KB Think",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE55RnB3NlpyeEE2WmtnSGRYSWdTazBvUHJvYWVrTnlXZEFSTkVnQnR1T0s2WWczYlhjQWkwbnJYbl9hSTAtN091TWhWSk9BSDZqdlMtRnlFY3R5ZkFhaXdraQ?oc=5",
-      "description": "[환율 전망] FOMC 빅 이벤트 앞두고 경계심리 최고조 KB Think",
-      "pub_date": "Wed, 16 Sep 2026 07:00:00 GMT",
+      "title": "[환율 전망] 주가와 환율의 기묘한 동행 - KB Think",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE00VHFBYTdjNFh2SU1Pajh5QXlvUTdudTVJV3lsZFlidlVDWWNwRW1PeUdrUldEVnJjZ25lOWJLVndTTC1kXzMtaER5VlBHYmgyRU9aMTJWb1lBLTI2X0twZQ?oc=5",
+      "description": "[환율 전망] 주가와 환율의 기묘한 동행 KB Think",
+      "pub_date": "Thu, 29 Oct 2026 07:00:00 GMT",
       "category": "환율 전망",
-      "key": "6a5f0d2a03b4bfd6",
+      "key": "bddd2f51397507b3",
       "topic": "경제·환율·금리"
     },
     {
-      "title": "[환율 전망] 미국 경기 확장 지속에 달러 이틀 연속 강세 - KB Think",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE16NU1TdGlLX2k3WmZTSHpKQUczVmRWWWN0VUV1clluOXc1QllMZHNBN3RCanhXNHo3WDRnVmI4STFDcjhCajR1Yjd1TnBON3NLVF9HSWhWYkFBYkROZjNIUw?oc=5",
-      "description": "[환율 전망] 미국 경기 확장 지속에 달러 이틀 연속 강세 KB Think",
-      "pub_date": "Thu, 02 Jul 2026 07:00:00 GMT",
+      "title": "환율, 1330원대 중반서 보합권…달러 강세에도 제한적 움직임 - 뉴스투데이",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Qam1UaTZEVVFwZkRGNmdSekxyY0gwMllfZzNrenpHdFFvSjNRLUpXTFIzNWo3VjE2SFd6LWFRN0laUWhOeld1U3RLLVF3R0Vwb18wNUs4YnRCeXM?oc=5",
+      "description": "환율, 1330원대 중반서 보합권…달러 강세에도 제한적 움직임 뉴스투데이",
+      "pub_date": "Tue, 17 Nov 2026 00:52:00 GMT",
       "category": "환율 전망",
-      "key": "4ecfda72b73a9122",
+      "key": "d8642b80686fdab9",
       "topic": "경제·환율·금리"
     },
     {
-      "title": "2026 원·달러 환율 전망 | 고환율 이유와 향후 환율 흐름 정리 | KB의 생각 - KB Think",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1vZjJWamU5WUVCTzREaVFtbkhSRkhnVVh6OHNwby1kOUdDVWhyOTI1S3lHRkpya256Zk9DTVFyTVkxQmVHRnYwYXk4LTZNMGc2MmZKb25XczlzXzVYQUxRVHI4SzZYNF9PcjhNVllOdzM?oc=5",
-      "description": "2026 원·달러 환율 전망 | 고환율 이유와 향후 환율 흐름 정리 | KB의 생각 KB Think",
-      "pub_date": "Tue, 16 Dec 2025 08:00:00 GMT",
+      "title": "원-달러 1년11개월 만에 1340원대…어디까지 갈까 - 한겨레",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5MVW9BWTRacU1qbXB4dEV1S0RXRkw2c3V1ZElkNmhMRDJSNGR4Y0ZiLXVFbXFxZGJLdEEwNUo4dzlYSTRXSFJ6eDdGeGoxUzltRUMwSjB2b21XYUNJUkxFQjVuQk03b0M3Y1NiZ19BMzBXQQ?oc=5",
+      "description": "원-달러 1년11개월 만에 1340원대…어디까지 갈까 한겨레",
+      "pub_date": "Mon, 07 Sep 2026 07:00:00 GMT",
       "category": "환율 전망",
-      "key": "b501152e949ab5c4",
+      "key": "d434c7568609f49d",
       "topic": "경제·환율·금리"
     },
     {
-      "title": "[AI MY 증시전망] 앤스로픽 상장에도 美 증시 급락…코스피 '먹구름' - 뉴스핌",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5QcVE4elRNSnlHSHVZa0tvVlFZZE9vMWwwMlRmaTlieVBBdXNRV0lTWjEwZWY0MmJDT05tLTRXYjNpSndWZ1NHcTVKLW9IRW1RMzlaM2hCOC1iYnFv?oc=5",
-      "description": "[AI MY 증시전망] 앤스로픽 상장에도 美 증시 급락…코스피 '먹구름' 뉴스핌",
-      "pub_date": "Thu, 19 Nov 2026 22:55:00 GMT",
+      "title": "[환율 전망] 2Q GDP 호조, 펀더멘털 개선과 원화 강세 - KB Think",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBTYW56b003NWZTdHlUOURJLWFwYjJZWTZvanNkM19nSFBmNjJOTktfQV9ZdUREQ1dWUGtEYTFNamZHeE1SY1JwRzlzSGtIXzVocEpRaXh5V3hTWEtDN2VBNQ?oc=5",
+      "description": "[환율 전망] 2Q GDP 호조, 펀더멘털 개선과 원화 강세 KB Think",
+      "pub_date": "Thu, 23 Jul 2026 07:00:00 GMT",
+      "category": "환율 전망",
+      "key": "7f7dc62278e5cbe3",
+      "topic": "경제·환율·금리"
+    },
+    {
+      "title": "[환율 전망] 성장하는 곳에 돈이 머문다 - KB Think",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ZTFRoLTFFTy1lZmRPVmxJTy1CalBHY2FaY0UwdUloaVhQSndnZzNOeWZjYUdLNzBmYjd3eEo5ZTBWeU9rSE9RY1dwZFdOX3J1Q3lDbkNCVGEwYTFmN0pISg?oc=5",
+      "description": "[환율 전망] 성장하는 곳에 돈이 머문다 KB Think",
+      "pub_date": "Fri, 02 Jan 2026 08:00:00 GMT",
+      "category": "환율 전망",
+      "key": "93e08cca3dfb5dae",
+      "topic": "경제·환율·금리"
+    },
+    {
+      "title": "대서양 관세전쟁 일촉즉발…나스닥 2.39% '하락' [뉴욕증시 브리핑] - 한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE85dlhJSTBtenppWlk2cjlpTkVIY0FyTjVzNUdxZEEyb0FjbHVpRi13aXMwdmNZR1RNTVE4RXgzLWtLZ0dIc0NrUVoyWWRTYXY5ZWZpZ05NYjV6UQ?oc=5",
+      "description": "대서양 관세전쟁 일촉즉발…나스닥 2.39% '하락' [뉴욕증시 브리핑] 한국경제",
+      "pub_date": "Wed, 21 Jan 2026 08:00:00 GMT",
+      "category": "미국 경제·정책",
+      "key": "716ab1d50bb0b861",
+      "topic": "경제·환율·금리"
+    },
+    {
+      "title": "미중 무역 전쟁 우려에 빅테크 시총 1100조원 날아갔다 - 조선일보",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQ2t0ZWhDMllKbkdmcndSelFmdTdWa1BtNlBJcDgxQWQ0U3VyWEJySE1lTk5heEVfcVpSX0tpUUUzU1lKT3JVekg0ckE2cUVYSVJZNU05SjU0TVNpZDQ5N2JJbFpUSXpsRVBUTHY4V09uRW14dGxGQWU1VnpyQWUzWHhlQk5JdThaN2h5UFhxb3Rhajk0YmtJOXYxYTdBUQ?oc=5",
+      "description": "미중 무역 전쟁 우려에 빅테크 시총 1100조원 날아갔다 조선일보",
+      "pub_date": "Sat, 11 Oct 2025 07:00:00 GMT",
+      "category": "미국 경제·정책",
+      "key": "85e727a1e80e56b3",
+      "topic": "경제·환율·금리"
+    },
+    {
+      "title": "[관세의 무기화, 수출국 딜레마①] ‘관세’에서 ‘패권’으로...진화하는 미중 무역전쟁 - 투데이신문",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1DaTI1QmVNc2RIWVdVUS1DOHRGaUNLZ1ZqUXVIYm04cTdlM3ktODZxclV6N1RIYV9OOVlmend3WF9Jb0RZTDVraTNFNXFSSVNUdS1CRkVQQVB4VWh0WWJLY054R1ljQjE3TzA00gFvQVVfeXFMT3dWQW9JYXlVbWdrS0tmQ09EUVgzWGl6cG9PcVdkSnViTmJlc1h4dmdSMUFvYnJIZ3dNdnFpRmdQSnJQVmV0Zzh0LU1MVXZVdm9SdUxmRm50RHVma0VuZ29MY3Rlb2ZZMUw0eEpnNFFN?oc=5",
+      "description": "[관세의 무기화, 수출국 딜레마①] ‘관세’에서 ‘패권’으로...진화하는 미중 무역전쟁 투데이신문",
+      "pub_date": "Mon, 21 Apr 2025 07:00:00 GMT",
+      "category": "미국 경제·정책",
+      "key": "557fbe5c4dc46ff9",
+      "topic": "경제·환율·금리"
+    },
+    {
+      "title": "[해외시황] 트럼프 'EU 50% 관세'에 뉴욕증시 '뚝'…3대 지수↓ - 프라임경제",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE50WGJkdHF6SDhDUElIMzJ0ZEVINWd1ZW82OUNqVjJ5M09ZNEtYTG0tLTE5UEVvRWlWQ3lPekczSTJ1NjF1N2NnNHc1TGVhVDFySksyd1RJRHBRbXFqeWFiMkF1X2swa09maXFBUw?oc=5",
+      "description": "[해외시황] 트럼프 'EU 50% 관세'에 뉴욕증시 '뚝'…3대 지수↓ 프라임경제",
+      "pub_date": "Sat, 24 May 2025 07:00:00 GMT",
+      "category": "미국 경제·정책",
+      "key": "c3ea235c12551623",
+      "topic": "경제·환율·금리"
+    },
+    {
+      "title": "경제 전문가들 \"트럼프 정책은 미국 경제도 세계 경제도 망친다\" - 조선일보",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNakpfVExmMm5uWnV1b21DQTNteEpvQnV4b01uNzRHRndRV0U2dlZQWmdydE5QNVEtSUE2dVN0SWJSTWpDY1BGdTJSMFkwaHJfWjRnYnNXX2Y4SUdKSEl2bTh6NXM5czBCZWVHRmxaUVoyalJwZEJQYjdtMWhrSDYxcTlab3hVdw?oc=5",
+      "description": "경제 전문가들 \"트럼프 정책은 미국 경제도 세계 경제도 망친다\" 조선일보",
+      "pub_date": "Sun, 08 Jun 2025 07:00:00 GMT",
+      "category": "미국 경제·정책",
+      "key": "29efc098f28c311b",
+      "topic": "경제·환율·금리"
+    },
+    {
+      "title": "트럼프 때문에 증시·달러·미국채 ‘3중 폭락’한다고? - 한겨레",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNem0wMlBsc3JXb0QzVDYxVmxNY011SXowQTc5UklmSGE0ZllOeGtIRkJ0V2FEQklPNjFyZXRWd3A4b0lDQTFIX2lmV1pOR2F3aGhuRmhMcExrcWNxVWZ0UnBBejlkTThja3kxRnhYMThFWTl6TkhVWlZHci11WlExOVN3?oc=5",
+      "description": "트럼프 때문에 증시·달러·미국채 ‘3중 폭락’한다고? 한겨레",
+      "pub_date": "Tue, 22 Apr 2025 07:00:00 GMT",
+      "category": "미국 경제·정책",
+      "key": "27baf199edc40029",
+      "topic": "경제·환율·금리"
+    },
+    {
+      "title": "트럼프發 관세전쟁에 가상자산 시장 혼란… 비트코인 7.9만달러 붕괴 - 매일일보",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBHa3ZCV0hsdmRtUVQzaTJobFBYT0FzQ250d3lfWTZVQ21McnktbUdyZGpwWnctdVpBd2lTT3RjQ1ZiNlNtZThPSnlfdGt2Y011X3VDQnFGWmNMbFdneG9IMTdHWXM?oc=5",
+      "description": "트럼프發 관세전쟁에 가상자산 시장 혼란… 비트코인 7.9만달러 붕괴 매일일보",
+      "pub_date": "Mon, 07 Apr 2025 07:00:00 GMT",
+      "category": "미국 경제·정책",
+      "key": "94d1952100fa2667",
+      "topic": "경제·환율·금리"
+    },
+    {
+      "title": "트럼프 관세 정책 여파에 뉴욕증시 휘청… 시가총액 11조 달러 증발 - 산경투데이",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB6RnU5ZDdkQ0JpbnJJX3JhdFFGLXE5LXlXQ01xblI2QXYwdnBRZGtWWmkzTV9qUHNIa3JKT1R3OENkekdiZUJ1TUN1eEwxQXB4ZDhTTTU3dGRsLTFXQXVyaDJ2THZDeWM2V05xbmh1NGPSAXRBVV95cUxNbHBpcHhHcjlLYUxBZl9TZndEMTZYM3BUY1VTSGQ0MnMyRDhpSFZQaWEyZ0RVUWJSeDdwMXFSdTlSNE51UjViNk1WbEplcE1LTmpmM3NySWtSd3otTUJVRk9PQ1BEdjBDaFNkZm9KSVYwbzdvbg?oc=5",
+      "description": "트럼프 관세 정책 여파에 뉴욕증시 휘청… 시가총액 11조 달러 증발 산경투데이",
+      "pub_date": "Sun, 06 Apr 2025 07:00:00 GMT",
+      "category": "미국 경제·정책",
+      "key": "5aab16404ad323ce",
+      "topic": "경제·환율·금리"
+    },
+    {
+      "title": "트럼프 '관세전쟁' 시대 열렸다…불안한 코스피 영향은? - 노컷뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE03WnlDUFY4dFlyeS16V2RSSjE1STlRbHBvQ1hILWNPN0xhSGV4NFpCYVBmc0ZZZDNQRC0ydk5UZzFSanUxcnBwN1FXLThoM0g2NGc?oc=5",
+      "description": "트럼프 '관세전쟁' 시대 열렸다…불안한 코스피 영향은? 노컷뉴스",
+      "pub_date": "Wed, 05 Mar 2025 08:00:00 GMT",
+      "category": "미국 경제·정책",
+      "key": "66fee337c46caecd",
+      "topic": "경제·환율·금리"
+    },
+    {
+      "title": "점점 커지는 미국 주식에 대한 우려 - https://www.pado.kr/",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ScnY5TmJUOG1BX0J5aW1ONGpxYUllYjZ5a3lqUTRwWllNczgwYmFid0dFbm5iUURSeXRUOFpuZHhSM1JhRnFxMllHZFNhOC12UG9uUE1hRWNoMWM?oc=5",
+      "description": "점점 커지는 미국 주식에 대한 우려 https://www.pado.kr/",
+      "pub_date": "Fri, 21 Mar 2025 07:00:00 GMT",
+      "category": "미국 경제·정책",
+      "key": "27d79ae9104137cc",
+      "topic": "경제·환율·금리"
+    },
+    {
+      "title": "재발한 관세 위협, 폭발한 일본 금리…미국 매도 or 또 다른 기회 [김현석의 월스트리트나우] - 한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE00OWtFSUY0TW05MnpaN1NCNE9WZXI5SnJTQ01PSDVrV2FxbFFYVm1XQ3A0aGtRblg5VzNMN2xpVkwxOURmQkNvNndmbDFCQ2JYWE1ZLWZ0UDVrZw?oc=5",
+      "description": "재발한 관세 위협, 폭발한 일본 금리…미국 매도 or 또 다른 기회 [김현석의 월스트리트나우] 한국경제",
+      "pub_date": "Wed, 21 Jan 2026 08:00:00 GMT",
+      "category": "미국 경제·정책",
+      "key": "a263f4de57e68dfb",
+      "topic": "경제·환율·금리"
+    },
+    {
+      "title": "\"협상용 아니네\"…'관세 공포' 뉴욕증시, 10%이상 하락 조정국면 - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1hRHduajJjQ01ISmNJZmxzLTFWRWdGbkhqZmJRbWJkUGtNY0ZRWUZjZ3BFRUZfaU5sUV9nellucFhWVko1ODdscEFza0ZYclR1M3lPd3dkUW5FV2fSAWBBVV95cUxPcHFMLVFKVjdqM2dmeVpWSlMwRlUxRDRCUG5mVmN2WjlKS2h2QWtDLW9PMnRjZXJNSzRxNjdnSldMMHZubU9zN3luLV9xQlQ0TjRLRXZ4bDhib0p5a3k2azY?oc=5",
+      "description": "\"협상용 아니네\"…'관세 공포' 뉴욕증시, 10%이상 하락 조정국면 연합뉴스",
+      "pub_date": "Fri, 14 Mar 2025 07:00:00 GMT",
+      "category": "미국 경제·정책",
+      "key": "18cd13b183ed1984",
+      "topic": "경제·환율·금리"
+    },
+    {
+      "title": "[하서원의 모닝 경제 브리핑] 트럼프 관세 발표로 무역 전쟁 우려 심화, 뉴욕증시 급락 - 프리진경제",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5aMWwwLVhmRFVWSEw1aW1HbEJOZmV0TmlaNDNlZE56WkktalFZeTA2dVJnRHhZWER6VDFQNF9LTTItMTROSGVMUzUxWXhiMkMzcGQ0VUVsUTE2THhzMXBQRkZSWUM2M1l1Mk9F?oc=5",
+      "description": "[하서원의 모닝 경제 브리핑] 트럼프 관세 발표로 무역 전쟁 우려 심화, 뉴욕증시 급락 프리진경제",
+      "pub_date": "Thu, 27 Mar 2025 07:00:00 GMT",
+      "category": "미국 경제·정책",
+      "key": "4c9751737e6a9c2a",
+      "topic": "경제·환율·금리"
+    },
+    {
+      "title": "\"트럼프 관세, 다음은 한국?\" 업종별 관세 무풍지대 살펴보니 - 아시아경제",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBYcFc3TFpRMHF1MGRNSkRMcUVyRW8yMll0aWFBNlFkejRIeklsVzNxbkM5SGkyZF9faktOYkZVaHlzUGtYWlJOQ1Y1MFA4aTN2TEpvd3Qxei1mM2Y0dDQ2bQ?oc=5",
+      "description": "\"트럼프 관세, 다음은 한국?\" 업종별 관세 무풍지대 살펴보니 아시아경제",
+      "pub_date": "Tue, 04 Feb 2025 08:00:00 GMT",
+      "category": "미국 경제·정책",
+      "key": "93f006d8c7f80a8d",
+      "topic": "경제·환율·금리"
+    },
+    {
+      "title": "대서양 무역전쟁 우려에...유럽 증시 요동·달러화 암호화폐 하락 - 자유일보",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9qMUxQSW9YRHB5OE9JSFhwbTE0MHZTdjhGRndlNFR3Ui10TVNzcUUzc2IwcnQwMlI5VDBwci1GdWdGa29PVkRyWmlvbXhEQXAtRV81ZmJoSTNPV0V5bjVQSGN4YlVURmtyMUJF0gFvQVVfeXFMTTdlZnkxMlpnSXFDX09zMG51bkVncXdzcnJKYmRIekxtUHhrMTZCVUpSMkFKYUVPQ1ZVenlxWm8zSW9wU0dFbEJHRWgxLVdZZVNpak9lbmxUWHZSZ05ZVUlyVG41Wm1hZ2FVY1hPSEtj?oc=5",
+      "description": "대서양 무역전쟁 우려에...유럽 증시 요동·달러화 암호화폐 하락 자유일보",
+      "pub_date": "Tue, 20 Jan 2026 08:00:00 GMT",
+      "category": "미국 경제·정책",
+      "key": "688b62ec756663e7",
+      "topic": "경제·환율·금리"
+    },
+    {
+      "title": "[뉴욕증시 마감시황] 나스닥 반도체주 반등에 코스피 한숨 돌리나…AI 규제 불안은 여전 - moneystorm.kr",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Ua2JQdmdGUUpSTVVaWjk2a2VWamxfX1F1dFNqR1Y2djYzckZnMmk1QTBOckN6U0NWbXkxbVFvLUIxbm9kSkgtd1RiRGtUcHVmWGlueG51bklBRWlUbERwMm1SdXhfVTFFNVE?oc=5",
+      "description": "[뉴욕증시 마감시황] 나스닥 반도체주 반등에 코스피 한숨 돌리나…AI 규제 불안은 여전 moneystorm.kr",
+      "pub_date": "Sat, 07 Nov 2026 08:00:00 GMT",
       "category": "글로벌 시장",
-      "key": "464a2ad3a711952c",
+      "key": "04da3e18d2488886",
       "topic": "경제·환율·금리"
     }
   ]
