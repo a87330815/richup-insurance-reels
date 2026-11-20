@@ -1,95 +1,85 @@
 {
-  "collected_at": "2026-11-20T03:48:56.504405+00:00",
+  "collected_at": "2026-11-20T10:47:56.921844+00:00",
   "items": [
     {
-      "keyword": "김아림",
+      "keyword": "토마스 뮐러",
       "traffic": "200+",
-      "news_title": "김아림, LPGA 시즌 최종전 투어 챔피언십 첫날 공동 선두",
+      "news_title": "이러면 손흥민은 뭐가 되나…MLS 직접 경험한 뮐러의 작심 발언 “강등도 없고 큰 압박감도 없다, 선수들은 90분 동안 집중력 부족”",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "f333c553a13428de",
-      "collected_at": "2026-11-20T03:48:56.503902+00:00"
+      "key": "7e22ac5f22d9cfb1",
+      "collected_at": "2026-11-20T10:47:56.921276+00:00"
     },
     {
-      "keyword": "한겨레",
-      "traffic": "100+",
-      "news_title": "‘김건희 어좌’ 사진 공개한 측근 “안 말려놓고…악마화” 주장",
+      "keyword": "스타벅스",
+      "traffic": "200+",
+      "news_title": "스타벅스, ’부드러운 생크림 카스텔라’ 700원 인상…11년 만",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "6fc74601752fcace",
-      "collected_at": "2026-11-20T03:48:56.503902+00:00"
+      "key": "02ba75d2cb9bd723",
+      "collected_at": "2026-11-20T10:47:56.921276+00:00"
     },
     {
-      "keyword": "배치표",
+      "keyword": "굿파트너2",
+      "traffic": "500+",
+      "news_title": "&apos;굿파트너2&apos;서 로펌대표 된 장나라 &quot;전작 재미 유지하려 애썼죠&quot;",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "9867dcc8984c849a",
+      "collected_at": "2026-11-20T10:47:56.921276+00:00"
+    },
+    {
+      "keyword": "김장",
       "traffic": "2000+",
-      "news_title": "‘불수능’ 사라지자 SKY 문턱 껑충… 서울대 의예 298점·경영 287점 전망",
+      "news_title": "경기도북부회 지역 사랑 나눔…의정부서 ‘김장나누기 행복곱하기’ 행사",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "12d97d0338b9298d",
-      "collected_at": "2026-11-20T03:48:56.503902+00:00"
+      "key": "a6ba66ef223a2667",
+      "collected_at": "2026-11-20T10:47:56.921276+00:00"
     },
     {
-      "keyword": "ราคาทองวันนี้",
+      "keyword": "acc emerging teams asia cup",
+      "traffic": "200+",
+      "news_title": "Excitel becomes Global Sponsor of DP World Asia Cup Rising Stars 2026",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "8331957e60605203",
+      "collected_at": "2026-11-20T10:47:56.921276+00:00"
+    },
+    {
+      "keyword": "설인아",
       "traffic": "100+",
-      "news_title": "ทองไทยดิ่งแรง 2,850 บาท ตามทองโลก ตลาดหวั่นเฟดขึ้นดอกเบี้ย ธ.ค.นี้ เตือนระวังราคาลงต่อ",
+      "news_title": "[사진]설인아-카니 &apos;잘생쁨과 황후님&apos; - 머니투데이",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "a2b380d9472d4227",
-      "collected_at": "2026-11-20T03:48:56.503902+00:00"
+      "key": "7c50368e1eb25546",
+      "collected_at": "2026-11-20T10:47:56.921276+00:00"
     },
     {
-      "keyword": "시애틀 사운더스 대 솔트레이크",
+      "keyword": "한성숙",
       "traffic": "2000+",
-      "news_title": "SEAvRSL Starting XI: Coach Schmetzer names his lineup for MLS Cup Playoffs Wildcard match against Real Salt Lake",
+      "news_title": "수능 끝나자 교육장관 공개행보‥&quot;사퇴 생각 없나?&quot; 대놓고 묻자 [현장영상]",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "8828773d0320d3de",
-      "collected_at": "2026-11-20T03:48:56.503902+00:00"
+      "key": "6fb792cb377896ab",
+      "collected_at": "2026-11-20T10:47:56.921276+00:00"
     },
     {
-      "keyword": "키오스크",
-      "traffic": "500+",
-      "news_title": "&quot;주문하다 손까지 덜덜&quot;…날 선 직원 응대에 결국 본사 사과",
+      "keyword": "김치의 날",
+      "traffic": "100+",
+      "news_title": "김혜경 여사, 제7회 김치의 날 기념식 - 포토 | 멀티미디어",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "437c4b3808eb8a0d",
-      "collected_at": "2026-11-20T03:48:56.503902+00:00"
-    },
-    {
-      "keyword": "굿파트너",
-      "traffic": "500+",
-      "news_title": "“상간녀 5명 월화수목금 느낌 엄청나” 장나라, 불륜 사건에 ‘경악’",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "414f65d4224df51c",
-      "collected_at": "2026-11-20T03:48:56.503902+00:00"
-    },
-    {
-      "keyword": "손흥민",
-      "traffic": "10000+",
-      "news_title": "&apos;149억 원&apos; 손흥민, MLS 연봉 4위‥부동의 1위는 메시",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "30d8d83fe5c555a0",
-      "collected_at": "2026-11-20T03:48:56.503902+00:00"
-    },
-    {
-      "keyword": "제네시스 g80",
-      "traffic": "500+",
-      "news_title": "제네시스, ‘G80 하이브리드’ LA서 첫 공개…연비 34% 개선",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "d1ddea25cf8e7f9d",
-      "collected_at": "2026-11-20T03:48:56.503902+00:00"
+      "key": "c54d905a8e7a405b",
+      "collected_at": "2026-11-20T10:47:56.921276+00:00"
     }
   ]
 }

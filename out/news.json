@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-20T03:48:55.179340+00:00",
+  "collected_at": "2026-11-20T10:47:55.781593+00:00",
   "topic_weight": {
     "보험·상품": 30,
     "영업·마인드": 25,
@@ -7,99 +7,108 @@
     "경제·환율·금리": 25
   },
   "topic_counts": {
-    "보험·상품": 3,
+    "영업·마인드": 2,
     "의료·건강": 3,
-    "경제·환율·금리": 4
+    "경제·환율·금리": 6
   },
   "items": [
     {
-      "title": "[금융T!P] 1달러 1300원 시대···'달러보험' 어때요? - 서울파이낸스",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12LV9WUHJFUDhXaG5tRy12Y3Vld0JfcjJrSklCT3g3NmNBMjRrNmVTVzlZbzNsckJfZEZhLVVDVjhmVzZhbDl1WklQS3BsTWhubzI4YWRReVJmajRrNGc2MmNnaDlqYWlLWnc?oc=5",
-      "description": "[금융T!P] 1달러 1300원 시대···'달러보험' 어때요? 서울파이낸스",
-      "pub_date": "Tue, 12 Jul 2022 07:00:00 GMT",
-      "category": "달러보험 환율",
-      "key": "1df8d77432391ebf",
-      "topic": "보험·상품"
+      "title": "[IN PLUS People] “고객 상담은 감정 아닌 논리로” - 한국보험신문",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5nMFo1aDNsdjVoajZ3Wkw3RU9pZEZSZlZrby1peHpMZ1E3QUFkN3Y1djhQLXVnVlRVaVpOQ0lWcDI5TlFfdHF2em1kdmtKOUxSNTVDTkNqR1ViV29JbDhZMXVLSklaYmtqazk00gFvQVVfeXFMTXoxRnl3UkVQTkZ6VWpkMHZrdUhYLU9JaWRIclpKR0xpaE16YWhIcE12cGFPVXI2YU56SU53Y2kweWJ6ZW5hOTdmTy14U3BEV2VyM1QtTjJpYWhYZUNNTUE5dmMtZ3NqcFpxTkFtMDFJ?oc=5",
+      "description": "[IN PLUS People] “고객 상담은 감정 아닌 논리로” 한국보험신문",
+      "pub_date": "Mon, 03 Nov 2025 08:00:00 GMT",
+      "category": "보험설계사 영업",
+      "key": "3452717ace798081",
+      "topic": "영업·마인드"
     },
     {
-      "title": "동양생명 ′단기납 종신보험′...GA 현장 1억 만들기 저축성 둔갑 절판마케팅 논란 - 메가경제",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE45V1FSYmt6dGhIV1dHTXQ5eGg5aDRVLTBMUDhGOWk1TEJGU1ExbHROQnFXaGhxVjNoUUJOQlRjVmg5TUpYamktaElmamRZYWNnVTFqRVVDZEhjUVNJbk9YZHlIU3FTYWdlZV9OSTdoUTFaYzY5d2xtUnl30gFyQVVfeXFMTzFfN2ZrbzBrRzQzS0Jxai1lNm0zRm9vcW5GT3pFeWJfZlc4QW9HZE54UlBoMFczV19fVE5ITnd1ZG52YlNwV3FHZXdwQVNseGd3X016UXFoR19SRjZKX184Q2hDTXE4Y2RORWk4dkFYelJ3?oc=5",
-      "description": "동양생명 ′단기납 종신보험′...GA 현장 1억 만들기 저축성 둔갑 절판마케팅 논란 메가경제",
-      "pub_date": "Tue, 26 Nov 2024 08:00:00 GMT",
-      "category": "종신보험 트렌드",
-      "key": "4a428a21d572795a",
-      "topic": "보험·상품"
+      "title": "권영찬 교수, 12월 기업·영업인 대상 세일즈 전략 강연 - 더퍼블릭",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1JcVplMi1DNk1obDkwTDZESnBOR0EzUkpJMXpHOEdTX05Rel9tU1J3Um56cTdYTkVtWU1OVnpBbldmVkgzQ05IdHhlUXpmblBKcWMtWUZKc29Vc2tUUlA3d3BMTXNVWGdLdjdv0gFvQVVfeXFMTWZVeTVmVllwNzJyb0VjZnNwZDFTZEZkWldXQmRUb1ZlODdfM2FKV01sQU5wdWlrWHBfZzFCVjlqYkl1Z0pSNTQ2RV94RHhIZ2ltYVlhWlc3Sld1dTQ0c0RUZWw2bHpXakhSMnlDWlln?oc=5",
+      "description": "권영찬 교수, 12월 기업·영업인 대상 세일즈 전략 강연 더퍼블릭",
+      "pub_date": "Tue, 10 Nov 2026 08:00:00 GMT",
+      "category": "세일즈 성과",
+      "key": "e0fba4112377df15",
+      "topic": "영업·마인드"
     },
     {
-      "title": "금감원, GA 규제 강화… 겸영금지 확대·제재 실효성 높인다 - 한국보험신문",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBxX2E2N1ZoNWtsOFFaQmxuOTlIeUdoY1pVamx6VG1yZDRjbEVwaWNLbHhpZVdmRmNKc2doelpPTjFTYW1NTm5Id3JLc2xJNDdRamQtM1gzNGE3TUZOdjhmTnh4UFdEU2kwWFgw0gFvQVVfeXFMTjZyT1FiTXRJeVdLZ256RmZicVFSSkJZRlVaN1diWjlsWXRQdTdZMURtMUR2QmZEcmE0TFp0aWVjVDRELTczYjZBWHh2cXFSWUdKYl9aUHZPblVsRTFzTlFnVFl5RFZJeVJJWnBGVkxn?oc=5",
-      "description": "금감원, GA 규제 강화… 겸영금지 확대·제재 실효성 높인다 한국보험신문",
-      "pub_date": "Sun, 28 Jun 2026 07:00:00 GMT",
-      "category": "보험 제도·규제",
-      "key": "34551621ee8408a4",
-      "topic": "보험·상품"
-    },
-    {
-      "title": "치매 인구 75만명 시대, 부모님 추석 효도선물은 '치매보험' - www.ebn.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5vdFVzVV9UM3Z1SHkwQnJrelBNeTMyTEtOMDgzcGxGaWhaT3JCX2xNcDdXSlZxTzV4ZlFWc2FkZ3pSRENrLThUMXlCWC1JdjVEbmt4QWU0Tkptc1dEN1NVWEJ2MjZrN0g0?oc=5",
-      "description": "치매 인구 75만명 시대, 부모님 추석 효도선물은 '치매보험' www.ebn.co.kr",
-      "pub_date": "Fri, 25 Sep 2026 07:00:00 GMT",
+      "title": "고령화시대, 100만 치매환자 간병보험 경쟁 - 스트레이트뉴스",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBLQVRNNUpZYklCdnhEQ1JNdE1LaGV5bXRuNDJHTjhBeF9OQjBpNktSQUgya3RFZC1UZ3k3SUZ0eU1UbzRiWU9qMG5OWjJ3cVRyc1Yta3Q1QmFDVE1rYkdyV0tmWEJOMi1sTC0yMUJwRE04OTg?oc=5",
+      "description": "고령화시대, 100만 치매환자 간병보험 경쟁 스트레이트뉴스",
+      "pub_date": "Wed, 14 Sep 2022 07:00:00 GMT",
       "category": "치매 간병",
-      "key": "be5e8daf6c793f2b",
+      "key": "889df467a7b4f0cb",
       "topic": "의료·건강"
     },
     {
-      "title": "고령자 10명중 1명 치매환자…치매간병보험·유병자보험으로 대비 - 뉴스핌",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9rMTdmWWc3dFFVSDZzNXhkWVk3TjFFOTNEM3R3VU1uRXVtQnY3S0dnVDhURnYtY0s4YktPUlpfQ0lreFotT19QQWZjb25pTmwwckVwQnRLTmhwVUli?oc=5",
-      "description": "고령자 10명중 1명 치매환자…치매간병보험·유병자보험으로 대비 뉴스핌",
-      "pub_date": "Fri, 13 Sep 2024 07:00:00 GMT",
-      "category": "치매 간병",
-      "key": "cf3c3050a8dabc97",
+      "title": "암 치료비 부담에 보험사 경쟁 ‘가속’ - 보험매일",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wQmdaUlNDV29mcUpuR2ZZTnRuVlZfSmZUYzczcXhpOTduaHZhLXVUU0RIVXdnaEVwTnR0ZlYwakY0MFVTNnlBZ2hIT05MS3FWNTBSVTNuVkRLeHVlbGpFaGp0ckk1cUk?oc=5",
+      "description": "암 치료비 부담에 보험사 경쟁 ‘가속’ 보험매일",
+      "pub_date": "Mon, 18 Jul 2022 07:00:00 GMT",
+      "category": "암 의료비",
+      "key": "00e7320ac869bfb5",
       "topic": "의료·건강"
     },
     {
-      "title": "[DH times/디지털헬스·원격진료·홈헬스케어]“진료·처방·약 배송, 하나의 AI 플랫폼으로”…싱가포르 MaNaDr, 통합 헬스케어 생태계 출시 추진 - https://www.dhtimes.co.kr/",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBvVlR4MWJJVHVfdXFRa21hUzNYcWRlX2JiclhpV2FzbXdzSjVMRUpVMkNMTHduYlI1RU5aN3JNUzNJVWFpeDFVVTltMjNzYWJiZVpERVZvTXFfSTNIM05qNEtlZkotRjB6Wnc?oc=5",
-      "description": "[DH times/디지털헬스·원격진료·홈헬스케어]“진료·처방·약 배송, 하나의 AI 플랫폼으로”…싱가포르 MaNaDr, 통합 헬스케어 생태계 출시 추진 https://www.dhtimes.co.kr/",
-      "pub_date": "Tue, 03 Nov 2026 08:00:00 GMT",
+      "title": "“꽁꽁 묶인 의료정보”...바이오 족쇄 언제 풀리나 - 지디넷코리아",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9GUUpGanl4U2szYi1xeFZCQ25IYnRoYnlQUmhBZjZNeWRQMlRLdmRQNnc4OF9lb25fT3RfYk9hT3FtRmdwZnc3WENaM1llTlUtM2txd1pR?oc=5",
+      "description": "“꽁꽁 묶인 의료정보”...바이오 족쇄 언제 풀리나 지디넷코리아",
+      "pub_date": "Thu, 16 Feb 2017 08:00:00 GMT",
       "category": "AI 의료기술",
-      "key": "fdf40a052bfe7edf",
+      "key": "792f70f047b4cc3d",
       "topic": "의료·건강"
     },
     {
-      "title": "한은, 올해 마지막 금통위…기준금리 4연속 동결 전망 - 경기일보",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1FbWpmR0dyV0FGSE1ZMDlWVE9hRUhHSXNwaXFzX1dqdmdnd0t4clVkdHh0ZDVtMHU4a1Y1NjhZOXJBZldhVVRaN1Y2LTVZZFRyLTQ5Ym1QVE9XR0E?oc=5",
-      "description": "한은, 올해 마지막 금통위…기준금리 4연속 동결 전망 경기일보",
-      "pub_date": "Mon, 24 Nov 2025 08:00:00 GMT",
-      "category": "기준금리·통화정책",
-      "key": "b75c4951a8c43c48",
-      "topic": "경제·환율·금리"
-    },
-    {
-      "title": "美 기술주 급락에 원·달러 환율 반등…1340원선 다시 시험 - 조세일보",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5TNXR2LUZTdlc3VDltQ1ZFWVk0SVlmN3JqZzZBWGpoQmliTXN1OTFjS3M0ZGpqazZlQUdUb1JMaDRUMVF6dnJSVGtkVGJWd3J1VlZ0OHJlOTg3dGtkZG5j?oc=5",
-      "description": "美 기술주 급락에 원·달러 환율 반등…1340원선 다시 시험 조세일보",
-      "pub_date": "Fri, 20 Nov 2026 00:03:05 GMT",
+      "title": "[환율 전망] 쟁여두기엔 너무 많은 달러 - KB Think",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0tMlpLT1BTYkpZRU1hc004WTZsZUJZSVZkUmlCTHBlRXk1b3l1dGNqNDRtX3JOelFTQ0lnUkNMYkJfSEZLajhpOTFoMmZybm1LVXNiVGg0U3lFWEkzLUtFOQ?oc=5",
+      "description": "[환율 전망] 쟁여두기엔 너무 많은 달러 KB Think",
+      "pub_date": "Thu, 19 Nov 2026 23:06:44 GMT",
       "category": "환율 전망",
-      "key": "a522b1cfa03cf893",
+      "key": "a789cba56ff63274",
       "topic": "경제·환율·금리"
     },
     {
-      "title": "[환율 전망] 기름기 빠진 달러, 반도체로 충전 중인 원화 | KB의 생각 - KB Think",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE56cUlPdjFKaklIb0hUcHNjVGVfcjFWSWxNV3k5TV9RTWVDN3NUWFhUbHEtbTA5Y0JfUThxQndtTkV6b3JiVzkzWGYwd3VHZ2daMEdYWnBkZlZ4d0VQbFJNRQ?oc=5",
-      "description": "[환율 전망] 기름기 빠진 달러, 반도체로 충전 중인 원화 | KB의 생각 KB Think",
-      "pub_date": "Tue, 22 Sep 2026 07:00:00 GMT",
+      "title": "[환율 전망] 밸런스 게임, 美고금리 대 韓무역흑자 | KB의 생각 - KB Think",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9RRFhzekY0cVd5T1lLUGJsYXV2cWJaXzlySXc1RkVUWHE4YUhGNkFMdHdCa3NyZnIwNGxiWmNZVVk4YU1VTU5ZalV0ZV9tN2xpeFNySFdVb3lHV2xDQ3BMQg?oc=5",
+      "description": "[환율 전망] 밸런스 게임, 美고금리 대 韓무역흑자 | KB의 생각 KB Think",
+      "pub_date": "Thu, 01 Oct 2026 07:00:00 GMT",
       "category": "환율 전망",
-      "key": "8c3cb21ff35deeb0",
+      "key": "417994b660da658b",
       "topic": "경제·환율·금리"
     },
     {
-      "title": "트럼프발 보호무역, 미국 증시에 드리우는 나비효과 [김학균의 시장읽기] - 시사저널",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5rM25WbDVzTFRDLXVlRlJ5MmVNenI0TjN0REttYWgwbUtldDNfZXpjaHcxNWgtV1NUazA2MlhjS0xTSTM5TjJkOUZHZ2NwUmpGZVUwaDl3RE9RN3R3V0cxR21BWG9oYmR2SF9oYncyd9IBc0FVX3lxTE5fblJYU0ZOZnVzVFk4dGhPTGx3YWdGY043S3Bxa0FlNFNYNFVfZTl3ZTZrZm9NZnJoM0tlZTBBSU1keC1pOUMzQUw5ZVdjT083OU40cVRrR05ob1gzRjNya2tXUGdMTEl1eXlla1RlQnd5QzQ?oc=5",
-      "description": "트럼프발 보호무역, 미국 증시에 드리우는 나비효과 [김학균의 시장읽기] 시사저널",
-      "pub_date": "Sun, 09 Feb 2025 08:00:00 GMT",
-      "category": "미국 경제·정책",
-      "key": "92633914ede13818",
+      "title": "[환율 전망] FOMC 빅 이벤트 앞두고 경계심리 최고조 - KB Think",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE55RnB3NlpyeEE2WmtnSGRYSWdTazBvUHJvYWVrTnlXZEFSTkVnQnR1T0s2WWczYlhjQWkwbnJYbl9hSTAtN091TWhWSk9BSDZqdlMtRnlFY3R5ZkFhaXdraQ?oc=5",
+      "description": "[환율 전망] FOMC 빅 이벤트 앞두고 경계심리 최고조 KB Think",
+      "pub_date": "Wed, 16 Sep 2026 07:00:00 GMT",
+      "category": "환율 전망",
+      "key": "6a5f0d2a03b4bfd6",
+      "topic": "경제·환율·금리"
+    },
+    {
+      "title": "[환율 전망] 미국 경기 확장 지속에 달러 이틀 연속 강세 - KB Think",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE16NU1TdGlLX2k3WmZTSHpKQUczVmRWWWN0VUV1clluOXc1QllMZHNBN3RCanhXNHo3WDRnVmI4STFDcjhCajR1Yjd1TnBON3NLVF9HSWhWYkFBYkROZjNIUw?oc=5",
+      "description": "[환율 전망] 미국 경기 확장 지속에 달러 이틀 연속 강세 KB Think",
+      "pub_date": "Thu, 02 Jul 2026 07:00:00 GMT",
+      "category": "환율 전망",
+      "key": "4ecfda72b73a9122",
+      "topic": "경제·환율·금리"
+    },
+    {
+      "title": "2026 원·달러 환율 전망 | 고환율 이유와 향후 환율 흐름 정리 | KB의 생각 - KB Think",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1vZjJWamU5WUVCTzREaVFtbkhSRkhnVVh6OHNwby1kOUdDVWhyOTI1S3lHRkpya256Zk9DTVFyTVkxQmVHRnYwYXk4LTZNMGc2MmZKb25XczlzXzVYQUxRVHI4SzZYNF9PcjhNVllOdzM?oc=5",
+      "description": "2026 원·달러 환율 전망 | 고환율 이유와 향후 환율 흐름 정리 | KB의 생각 KB Think",
+      "pub_date": "Tue, 16 Dec 2025 08:00:00 GMT",
+      "category": "환율 전망",
+      "key": "b501152e949ab5c4",
+      "topic": "경제·환율·금리"
+    },
+    {
+      "title": "[AI MY 증시전망] 앤스로픽 상장에도 美 증시 급락…코스피 '먹구름' - 뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5QcVE4elRNSnlHSHVZa0tvVlFZZE9vMWwwMlRmaTlieVBBdXNRV0lTWjEwZWY0MmJDT05tLTRXYjNpSndWZ1NHcTVKLW9IRW1RMzlaM2hCOC1iYnFv?oc=5",
+      "description": "[AI MY 증시전망] 앤스로픽 상장에도 美 증시 급락…코스피 '먹구름' 뉴스핌",
+      "pub_date": "Thu, 19 Nov 2026 22:55:00 GMT",
+      "category": "글로벌 시장",
+      "key": "464a2ad3a711952c",
       "topic": "경제·환율·금리"
     }
   ]
