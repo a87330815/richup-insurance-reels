@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-19T22:04:53.233255+00:00",
+  "collected_at": "2026-11-20T03:48:55.179340+00:00",
   "topic_weight": {
     "보험·상품": 30,
     "영업·마인드": 25,
@@ -7,278 +7,99 @@
     "경제·환율·금리": 25
   },
   "topic_counts": {
-    "보험·상품": 15,
-    "경제·환율·금리": 15
+    "보험·상품": 3,
+    "의료·건강": 3,
+    "경제·환율·금리": 4
   },
   "items": [
     {
-      "title": "킹달러에…올해 달러보험 1조원 뭉칫돈 몰렸다 - 마켓인",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE11MFA1VVVwT2k2Skx6YnZRWFpPSUhhaXVxbVVVVHNOZmRSNzd6dDRTWU54V181WTA2QTctQW83OEJDTFBfRm9uSTVVaW1pTlpuU3dKeWp5RTFaVlo2ZUxkS3U3TXdreUw5QlBhMGk4enI3TTA?oc=5",
-      "description": "킹달러에…올해 달러보험 1조원 뭉칫돈 몰렸다 마켓인",
-      "pub_date": "Mon, 30 Dec 2024 08:00:00 GMT",
+      "title": "[금융T!P] 1달러 1300원 시대···'달러보험' 어때요? - 서울파이낸스",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12LV9WUHJFUDhXaG5tRy12Y3Vld0JfcjJrSklCT3g3NmNBMjRrNmVTVzlZbzNsckJfZEZhLVVDVjhmVzZhbDl1WklQS3BsTWhubzI4YWRReVJmajRrNGc2MmNnaDlqYWlLWnc?oc=5",
+      "description": "[금융T!P] 1달러 1300원 시대···'달러보험' 어때요? 서울파이낸스",
+      "pub_date": "Tue, 12 Jul 2022 07:00:00 GMT",
       "category": "달러보험 환율",
-      "key": "e1f31767c9f9f5af",
+      "key": "1df8d77432391ebf",
       "topic": "보험·상품"
     },
     {
-      "title": "[생활 속 재테크] 환차익 노린 달러보험 가입 증가···유의점은? - 시사저널e",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1vRU5TOVFsN25XYXFXSFZXM0RrNDJ1ZnByemtFQnNWNjB6VDk1QW9nZE5hWkhGYnNJbVROVTJWWnQzMXRZcmhGSE1CUzhKbFJJdThnQ2hLUFlzNElDMFdNS1p0Zi1nM3RoV3JIajd4SmphZ9IBdkFVX3lxTE1Sd09tb21ERlpXWEUycXpuSEpxODBpQ0hkcGd4YjZzcVRHQ2NIWmxlQmJlRUNVOXBqajE0QmlzR0ttMng1cVo5MHFtYi1lNFd4dmFIblQ1Ri1MTWZ4cHdVMzh2SUFNOFlPbU1BT3BSTU4xb2FEV0E?oc=5",
-      "description": "[생활 속 재테크] 환차익 노린 달러보험 가입 증가···유의점은? 시사저널e",
-      "pub_date": "Sat, 01 Mar 2025 08:00:00 GMT",
-      "category": "달러보험 환율",
-      "key": "ab8f1af9c63d6d07",
+      "title": "동양생명 ′단기납 종신보험′...GA 현장 1억 만들기 저축성 둔갑 절판마케팅 논란 - 메가경제",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE45V1FSYmt6dGhIV1dHTXQ5eGg5aDRVLTBMUDhGOWk1TEJGU1ExbHROQnFXaGhxVjNoUUJOQlRjVmg5TUpYamktaElmamRZYWNnVTFqRVVDZEhjUVNJbk9YZHlIU3FTYWdlZV9OSTdoUTFaYzY5d2xtUnl30gFyQVVfeXFMTzFfN2ZrbzBrRzQzS0Jxai1lNm0zRm9vcW5GT3pFeWJfZlc4QW9HZE54UlBoMFczV19fVE5ITnd1ZG52YlNwV3FHZXdwQVNseGd3X016UXFoR19SRjZKX184Q2hDTXE4Y2RORWk4dkFYelJ3?oc=5",
+      "description": "동양생명 ′단기납 종신보험′...GA 현장 1억 만들기 저축성 둔갑 절판마케팅 논란 메가경제",
+      "pub_date": "Tue, 26 Nov 2024 08:00:00 GMT",
+      "category": "종신보험 트렌드",
+      "key": "4a428a21d572795a",
       "topic": "보험·상품"
     },
     {
-      "title": "환율 하락에 ‘달러보험’ 뭉칫돈 몰린다 - 위클리서울",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1uMTVTdlRSdk1ab1dfM3RxY09UaWE5YlRiRkdrU0V2Y0x5ZTlpbVNEZTE2ZnlqSVdrNkZBVDVvLUNiMG5LaHMzQ0VIRm55dDdFelg5LWQ3Zjl0ZDJnUFh0SjZoMkhkcjV2aWJETnZ3?oc=5",
-      "description": "환율 하락에 ‘달러보험’ 뭉칫돈 몰린다 위클리서울",
-      "pub_date": "Wed, 11 Nov 2026 08:00:00 GMT",
-      "category": "달러보험 환율",
-      "key": "32494c2778e6b128",
+      "title": "금감원, GA 규제 강화… 겸영금지 확대·제재 실효성 높인다 - 한국보험신문",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBxX2E2N1ZoNWtsOFFaQmxuOTlIeUdoY1pVamx6VG1yZDRjbEVwaWNLbHhpZVdmRmNKc2doelpPTjFTYW1NTm5Id3JLc2xJNDdRamQtM1gzNGE3TUZOdjhmTnh4UFdEU2kwWFgw0gFvQVVfeXFMTjZyT1FiTXRJeVdLZ256RmZicVFSSkJZRlVaN1diWjlsWXRQdTdZMURtMUR2QmZEcmE0TFp0aWVjVDRELTczYjZBWHh2cXFSWUdKYl9aUHZPblVsRTFzTlFnVFl5RFZJeVJJWnBGVkxn?oc=5",
+      "description": "금감원, GA 규제 강화… 겸영금지 확대·제재 실효성 높인다 한국보험신문",
+      "pub_date": "Sun, 28 Jun 2026 07:00:00 GMT",
+      "category": "보험 제도·규제",
+      "key": "34551621ee8408a4",
       "topic": "보험·상품"
     },
     {
-      "title": "원화 강세에 달러보험 ‘불티’…8월 판매액 3배 급증 - 데일리한국",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE93MC1nN0NSVC01N3Z3SWlDb21BZ1pKdjczaEdZNGdKTC1Hc08weVNXSERSMHprOUtlRFJuR3phY0R5M19GWFIyZ3NOVkRHNExUaFdlQjZTaHdHNGo0SGZvZ3k4cWpudVp5WFN1QnluWdIBc0FVX3lxTFBkaG0wZ1Uxb0twR2FKbm9WcWh1YlBoSEJsV21Wb2FFTkFZbVdaekhZelZBN3pmaldMaS01UklVR056X1M5NTFiNWxSVDhxcTIzeFpDeXFoSXB4UjBzZTA4LTZSX2pxVUo4cmxmbGtxMDlINE0?oc=5",
-      "description": "원화 강세에 달러보험 ‘불티’…8월 판매액 3배 급증 데일리한국",
-      "pub_date": "Tue, 29 Sep 2026 07:00:00 GMT",
-      "category": "달러보험 환율",
-      "key": "6967fff59eabef49",
-      "topic": "보험·상품"
+      "title": "치매 인구 75만명 시대, 부모님 추석 효도선물은 '치매보험' - www.ebn.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5vdFVzVV9UM3Z1SHkwQnJrelBNeTMyTEtOMDgzcGxGaWhaT3JCX2xNcDdXSlZxTzV4ZlFWc2FkZ3pSRENrLThUMXlCWC1JdjVEbmt4QWU0Tkptc1dEN1NVWEJ2MjZrN0g0?oc=5",
+      "description": "치매 인구 75만명 시대, 부모님 추석 효도선물은 '치매보험' www.ebn.co.kr",
+      "pub_date": "Fri, 25 Sep 2026 07:00:00 GMT",
+      "category": "치매 간병",
+      "key": "be5e8daf6c793f2b",
+      "topic": "의료·건강"
     },
     {
-      "title": "메트라이프생명, 3년 납입으로 평생 보장…달러종신보험 라인업 강화 - 머니투데이 - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBtTFFySXI1bFdEaGQ3NjFUR0V3aExEcVcwMENrYkRyWTNVSDcyVWtlbW11ZUdFd2h0QnFGV0ZJLTY3SDNtd0lZM1RKVUJGRlhIcHVFaWlncS1fUXcwVWNsQWlLU0VkdTFhQ29v0gFwQVVfeXFMTkdTTm9aaU5UdXh5UkpXYm12V3ZNWDVVdkRCdWlYZWwySEZCVUg1V19LWjMyeXZjWndvU1FSWjgxMUxtb0ZWdkxZamctZk95blZjSkRGU2Q0U0FqOUh5QXY2Rm1XWXB6QkZXT2VZMFJ2ZA?oc=5",
-      "description": "메트라이프생명, 3년 납입으로 평생 보장…달러종신보험 라인업 강화 - 머니투데이 머니투데이",
-      "pub_date": "Mon, 01 Sep 2025 07:00:00 GMT",
-      "category": "달러보험 환율",
-      "key": "c547b1baa8ebdbf6",
-      "topic": "보험·상품"
+      "title": "고령자 10명중 1명 치매환자…치매간병보험·유병자보험으로 대비 - 뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9rMTdmWWc3dFFVSDZzNXhkWVk3TjFFOTNEM3R3VU1uRXVtQnY3S0dnVDhURnYtY0s4YktPUlpfQ0lreFotT19QQWZjb25pTmwwckVwQnRLTmhwVUli?oc=5",
+      "description": "고령자 10명중 1명 치매환자…치매간병보험·유병자보험으로 대비 뉴스핌",
+      "pub_date": "Fri, 13 Sep 2024 07:00:00 GMT",
+      "category": "치매 간병",
+      "key": "cf3c3050a8dabc97",
+      "topic": "의료·건강"
     },
     {
-      "title": "달러보험, 원화로 중도변경 가능해지나… 변동성 잘 따져야 - 조선일보",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSkdPaTE0VWNGUW9va3VqUlZWQVBPLS1rZURXN0I4Qk12X25BcVRfY1l6bTFCbERXM21KWURjUW04b0c1emtPOGszUmJWcW1KQkFWT202empvbFM2a3Z3MklzTFpRdi1MRjE2NzBFMlZ6WlUtc2hENU1nY3RyRGREQUpxb2FrY1l2MzFJYy1B?oc=5",
-      "description": "달러보험, 원화로 중도변경 가능해지나… 변동성 잘 따져야 조선일보",
-      "pub_date": "Thu, 27 May 2021 07:00:00 GMT",
-      "category": "달러보험 환율",
-      "key": "4f59f6ceec9a86ae",
-      "topic": "보험·상품"
+      "title": "[DH times/디지털헬스·원격진료·홈헬스케어]“진료·처방·약 배송, 하나의 AI 플랫폼으로”…싱가포르 MaNaDr, 통합 헬스케어 생태계 출시 추진 - https://www.dhtimes.co.kr/",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBvVlR4MWJJVHVfdXFRa21hUzNYcWRlX2JiclhpV2FzbXdzSjVMRUpVMkNMTHduYlI1RU5aN3JNUzNJVWFpeDFVVTltMjNzYWJiZVpERVZvTXFfSTNIM05qNEtlZkotRjB6Wnc?oc=5",
+      "description": "[DH times/디지털헬스·원격진료·홈헬스케어]“진료·처방·약 배송, 하나의 AI 플랫폼으로”…싱가포르 MaNaDr, 통합 헬스케어 생태계 출시 추진 https://www.dhtimes.co.kr/",
+      "pub_date": "Tue, 03 Nov 2026 08:00:00 GMT",
+      "category": "AI 의료기술",
+      "key": "fdf40a052bfe7edf",
+      "topic": "의료·건강"
     },
     {
-      "title": "환급금 받고 환차익까지…자산가들, 달러보험에 뭉칫돈 : 네이버 블로그 - Naver Blog",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNS2NHQUdpdzNFZEh5VXpVbkNEZWNmY0pDdWhVbF94SjUyZndKR0pfTmpibDR0UGktWkVITVltX3FIeG1sdlNyUXB4MzV2VWh6T1pLMEk3U2xEanM?oc=5",
-      "description": "환급금 받고 환차익까지…자산가들, 달러보험에 뭉칫돈 : 네이버 블로그 Naver Blog",
-      "pub_date": "Mon, 23 Dec 2024 08:00:00 GMT",
-      "category": "달러보험 환율",
-      "key": "fe2cae18ad07f5fa",
-      "topic": "보험·상품"
-    },
-    {
-      "title": "[머니톡톡] ‘킹달러’ 달러보험의 재발견… “단기 환차익보다 안전자산 접근” - Chosunbiz",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQLVRrXzNjSVAxY3JGWXl3SHBGRG9CUDN1UEoyR0tQX21PLVlBLXlDeWt3aGZzbnUwWVY3b0tLSkZmQUJJVXZZdEk0eW1hYlZFRHRHUFlWWEUwVlgtRTNWX0FUU1paLVE4QTk4dG1Vbk1xUmJHdERONllpcEpIQTV2ZtIBlAFBVV95cUxQZEF2MjAwMHAtSy1KaUhiLUs0NF8yRnZXanplX0QweTR5SjRyOERRX2RmNnU3V0luVGJXLV84NXVHd2FUd0gydjJGbjhnekxacmZGY0pPUnFxT2xrVUV5NHdlSEtfeVBnZngwYWg4ZHU0aWU3Z0tJcVNJNXpNdDB0dWZLRENVX2pvdnZFc0JFRUo5ZzA0?oc=5",
-      "description": "[머니톡톡] ‘킹달러’ 달러보험의 재발견… “단기 환차익보다 안전자산 접근” Chosunbiz",
-      "pub_date": "Mon, 16 Oct 2023 07:00:00 GMT",
-      "category": "달러보험 환율",
-      "key": "ec0e7f11db35af81",
-      "topic": "보험·상품"
-    },
-    {
-      "title": "메트라이프 \"유니버셜달러종신보험 계약 4만 건 돌파\" - Chosunbiz",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE41ejhKbWJUQTRKV2NqNFFUVXA2WmJrTzBKX2dwYkVCd2NpRjZjSEpTMDB2aHU1bk1YaUF0Wl81bWlaTXREVzVpaEtpZDJYaE5Nc3RqZ0puYnRXa29JdkZpZkNfdDktYm9GYWFSQVlpUjN5bjdUOTVsMW5JUdIBjwFBVV95cUxPcEdyOHU2MDN3d2RBWW5GZFQwdE1ZN29vd0VLRzRzRWVWM3ZnR050aUk4YWtoTms1ZFJuVGxjQWVXS3ViRGZ2S0p6bC1hWTllMUwzbUNETVIzNXA3dG5ubENpdWx4ZF9IXzdneE1QU3N1R01TSTVRVDk3M0dhUE04MGJtVjI3d1Z6WmJhUk9jWQ?oc=5",
-      "description": "메트라이프 \"유니버셜달러종신보험 계약 4만 건 돌파\" Chosunbiz",
-      "pub_date": "Mon, 31 Dec 2018 08:00:00 GMT",
-      "category": "달러보험 환율",
-      "key": "be509e69b0a6fafa",
-      "topic": "보험·상품"
-    },
-    {
-      "title": "메트라이프생명 '원화내고 달러모아 연금보험' 출시 - 팍스경제TV",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5yR0V5aFIzTlBPWlZiZzNidWNSWjdIR1V1WThjYUFqVzJ2a0RzVnNwRElacHByUVItMGVXMDJiLWpGMzdxUUVKeWdXcm9laXFYVUZsUTBzdTdhSDJiRnhjbFI3aTY2YU0?oc=5",
-      "description": "메트라이프생명 '원화내고 달러모아 연금보험' 출시 팍스경제TV",
-      "pub_date": "Mon, 13 Apr 2020 07:00:00 GMT",
-      "category": "달러보험 환율",
-      "key": "69ce8479fe208cff",
-      "topic": "보험·상품"
-    },
-    {
-      "title": "弱달러시대! 10년 후 투자를 내다 본다 - 파이낸셜뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBfZHNocktud0U5TGRMYmZSUzBTWkl6WWh2MWNLaG5Cc0NpYkF3X1lyc1hQQzZOS3U5VGRxOTl6WGlsMU9hSEN3MHFzZ0pXd2tYQUFKbmdOSEV6dw?oc=5",
-      "description": "弱달러시대! 10년 후 투자를 내다 본다 파이낸셜뉴스",
-      "pub_date": "Sun, 07 Apr 2019 07:00:00 GMT",
-      "category": "달러보험 환율",
-      "key": "611559429b81e0cb",
-      "topic": "보험·상품"
-    },
-    {
-      "title": "[슬기로운 짠테크]④환차익 '쏠쏠'…달러 보험, 어때요? - ER 이코노믹리뷰",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5OZ3c0R25jOU9hOWhDQTlBZHNvMDl0QlMtb0hSVU1feVJ1X1ozNnJGdlhBSElrUjBWYTNLNE9rbXduNFVrNXBlekcyam5HN0s5MUx5QjY1MjViTmV6dUMyMkdpSmZJbFBLRkJuQw?oc=5",
-      "description": "[슬기로운 짠테크]④환차익 '쏠쏠'…달러 보험, 어때요? ER 이코노믹리뷰",
-      "pub_date": "Sun, 09 Aug 2020 07:00:00 GMT",
-      "category": "달러보험 환율",
-      "key": "a28d7273ca5539ff",
-      "topic": "보험·상품"
-    },
-    {
-      "title": "너도 나도 달러보험… '환율리스크' 따져 보셨나요 - Chosunbiz",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1PU25DTzJvQlJxSEU4em9EUVlhTWtrV2c5NF9CazV5OGFUZTB2bFVxeHlNR1RPTzl2MDdBa2RqZ0R1Wkd2TUo2UTUwVThKeGV6cURoVmtya1JxQmxkQkcwakJjS2dJQThFSmstbUljVk1QVHFCRC1HbG1lVdIBjwFBVV95cUxOaGU0UXNxNVp3a0xKb3JIdHBVUVk3T3JTcHh2QzlDcDVuVmlaSWhPX3VfM1kxUXppTXVNZkd5cFdBdDZ3bUJrdjBMNXdPa0NwOVhWRnlTNFlkWnpsTzN2TE4wN2p4bU95VHViTVpRcXM0VFpEY2lhNndmMk1uZGdpSlZ2aVZERVZ6N2V2QjNHcw?oc=5",
-      "description": "너도 나도 달러보험… '환율리스크' 따져 보셨나요 Chosunbiz",
-      "pub_date": "Fri, 19 Jul 2019 07:00:00 GMT",
-      "category": "달러보험 환율",
-      "key": "83d93d3098ab0fe6",
-      "topic": "보험·상품"
-    },
-    {
-      "title": "[단독]메트라이프생명 '달러종신보험' 논란 확산...금융당국 '불판'우려 긴급점검 착수 - ebn.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5zZ0dxOGlXWHRqcVFhaHdyUXFPTHBXSzNfV1ZsRzNsdU5LLXZtSnhEVFhQdGhuZWc1enNreW9XM2hOU0dQSjlCRHJvNlZxcUN4RDkyYVNHenhnY0hzUUwyYWRFX21waGM?oc=5",
-      "description": "[단독]메트라이프생명 '달러종신보험' 논란 확산...금융당국 '불판'우려 긴급점검 착수 ebn.co.kr",
-      "pub_date": "Mon, 08 Jan 2018 08:00:00 GMT",
-      "category": "달러보험 환율",
-      "key": "909a3d1505cf53f3",
-      "topic": "보험·상품"
-    },
-    {
-      "title": "코로나 위기에도 위상 지킨 ‘弗’… ‘달러보험’ 투자처로 뜬다 [마이머니] - 세계일보",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5KQkxlZlVzNGdCeS1ldmhlMnEwNXRFZkFsUW9nN0xuazRHaG1mcXZiRnN0SFZOUUtxRERCU1RUSm1XZzk4OUFOMVZmQ0g3NUhBT195YUY4T27SAVRBVV95cUxPd0xvbjBUWmlXbmhZX1c3Y3V1UF9EQWFnQWNxZU1HWUZOV2ZtdnFMeVNhOXZ1bmNVcjg1b0lLdmg0UjFuU1c0S0hqbnROSnU2UktONG0?oc=5",
-      "description": "코로나 위기에도 위상 지킨 ‘弗’… ‘달러보험’ 투자처로 뜬다 [마이머니] 세계일보",
-      "pub_date": "Mon, 13 Apr 2020 07:00:00 GMT",
-      "category": "달러보험 환율",
-      "key": "147fe2fc6af6fad6",
-      "topic": "보험·상품"
-    },
-    {
-      "title": "[마켓인사이트] 이란전쟁 악재 끝나나…코스피 반등 지속 기대 - 연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE94RDNNSFN4T1ppRmVhSUdNY0p2Z0p5U3NsLU9Bd2NmMmxnVzcwUFJVdW84V0tPMHQ2Q2hreW9Qemc5Y09iN3ZrR1lrX2tCbVBkWXJRU2lFMmx3azDSAWBBVV95cUxNN2hTRmo3SUh1VUt2UW5DRmNSNmgwZzBsSGJMcF9JcnNwclZwdkFaeHRpUnZ3SDhnRkpKcy1MVlB5bVRoNm9FaUxpalp2eVVWWVU3OHp1YUxtbGVJT0U2bWM?oc=5",
-      "description": "[마켓인사이트] 이란전쟁 악재 끝나나…코스피 반등 지속 기대 연합뉴스",
-      "pub_date": "Sun, 14 Jun 2026 07:00:00 GMT",
-      "category": "글로벌 시장",
-      "key": "bbbd423b3051d87a",
+      "title": "한은, 올해 마지막 금통위…기준금리 4연속 동결 전망 - 경기일보",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1FbWpmR0dyV0FGSE1ZMDlWVE9hRUhHSXNwaXFzX1dqdmdnd0t4clVkdHh0ZDVtMHU4a1Y1NjhZOXJBZldhVVRaN1Y2LTVZZFRyLTQ5Ym1QVE9XR0E?oc=5",
+      "description": "한은, 올해 마지막 금통위…기준금리 4연속 동결 전망 경기일보",
+      "pub_date": "Mon, 24 Nov 2025 08:00:00 GMT",
+      "category": "기준금리·통화정책",
+      "key": "b75c4951a8c43c48",
       "topic": "경제·환율·금리"
     },
     {
-      "title": "코스피 반등 하루 만에 다시 먹구름…美 기술주 급락에 변동성 확대 우려 - 산경투데이",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB0b0haQW9aVEQtR3RLeEYtNG91TjI4TGJxLThIR0lKbGk2WFpCbFJmRWFidk9kb0xaMzJoeS1YbnpxQ2FSdDRZRnd6NnVOYzFLcF9xdnp1Ujl3UEhrcE9oNWlWdFRyNFh5dU1qdkNKSG3SAXRBVV95cUxNRnBpZWd5SW9tcURJbG9QTTRhWEJWWG11aXZBS09FdWhuQlBjMmx3Nm5wTnRXSVU2M012QmtrV0tyNExrSmx3bXJ6N3h1aUhYTm5ISXV6LWVzdUJoSmR3OFZjWGFTWnFrTXFLbjJ2a2RhVzF4Sw?oc=5",
-      "description": "코스피 반등 하루 만에 다시 먹구름…美 기술주 급락에 변동성 확대 우려 산경투데이",
-      "pub_date": "Mon, 19 Oct 2026 07:00:00 GMT",
-      "category": "글로벌 시장",
-      "key": "b45cb98c442bfed5",
+      "title": "美 기술주 급락에 원·달러 환율 반등…1340원선 다시 시험 - 조세일보",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5TNXR2LUZTdlc3VDltQ1ZFWVk0SVlmN3JqZzZBWGpoQmliTXN1OTFjS3M0ZGpqazZlQUdUb1JMaDRUMVF6dnJSVGtkVGJWd3J1VlZ0OHJlOTg3dGtkZG5j?oc=5",
+      "description": "美 기술주 급락에 원·달러 환율 반등…1340원선 다시 시험 조세일보",
+      "pub_date": "Fri, 20 Nov 2026 00:03:05 GMT",
+      "category": "환율 전망",
+      "key": "a522b1cfa03cf893",
       "topic": "경제·환율·금리"
     },
     {
-      "title": "[모닝 리포트] \"코스피 급락은 저가매수 기회…반등 기대\" - 뉴스핌",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1HTnM5VHVVWmpiRElQalNKWGZjT0N0dnlRV3VTNUxKRTBUOTFsYjA1TUdnYVRVMlhQdlZjVHN2RW9ROHliWHBlQy12aVRRb2RFdkwzRWRFb09DZURp?oc=5",
-      "description": "[모닝 리포트] \"코스피 급락은 저가매수 기회…반등 기대\" 뉴스핌",
-      "pub_date": "Wed, 04 Nov 2026 08:00:00 GMT",
-      "category": "글로벌 시장",
-      "key": "f494e2d8b51b09a4",
-      "topic": "경제·환율·금리"
-    },
-    {
-      "title": "[9월 24일 글로벌 증시] 미 10년물 5.1% 돌파·나스닥 1.13% 하락…연휴 뒤 코스피는 미·중 회담이 분수령 - 경기도민신문",
-      "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE5XRG9RdEs1bWdTMGpJZVlIdGdCeGUxZWYxMkNEcUZ2NzRLVVJaZEdhSkpDaHRnTHpLd0F2MXh5aDY?oc=5",
-      "description": "[9월 24일 글로벌 증시] 미 10년물 5.1% 돌파·나스닥 1.13% 하락…연휴 뒤 코스피는 미·중 회담이 분수령 경기도민신문",
-      "pub_date": "Thu, 24 Sep 2026 07:00:00 GMT",
-      "category": "글로벌 시장",
-      "key": "dbed822d0beb45af",
-      "topic": "경제·환율·금리"
-    },
-    {
-      "title": "이스라엘 증시, 이란 공격 후 사상 최고치... 전쟁 나도 오르는 주식시장, 왜? - 조선일보",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONlZ4NTR5T044YWFIMjZjb19NM25SRml6R3daalZVX0pTRVFuMEdEUG44d3ZmcGVXVmdMWE1YTlV1Q2htcmZkdHBjZGZ5YVUtSjNpUlM3elZwQnZEaVBUNlNQOWxZa0NuTWNqYlliME1YbGw3dWlSd1pOcnNnbGtPeFpFYmZmaTNZeDM1ZTZR?oc=5",
-      "description": "이스라엘 증시, 이란 공격 후 사상 최고치... 전쟁 나도 오르는 주식시장, 왜? 조선일보",
-      "pub_date": "Tue, 03 Mar 2026 08:00:00 GMT",
-      "category": "글로벌 시장",
-      "key": "873ef8b24bafaa46",
-      "topic": "경제·환율·금리"
-    },
-    {
-      "title": "[4월 셋째 주 세계경제동향 브리핑] 코스피 6,100선 돌파…글로벌 증시 동반 급등 - 기호일보",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9KN0FiNVFKSnBJMDExMDdJdFVMQ0JkazF4UEU1QVh2WFlXbW1lRFR0MnQtS25sQlJNSUtEUkNic00yODJjbkxBcENjWGtEdlpUZHlHRmpjc1BGVkNsaUJaMmRHSlVUUzdfX2pQaTFDUQ?oc=5",
-      "description": "[4월 셋째 주 세계경제동향 브리핑] 코스피 6,100선 돌파…글로벌 증시 동반 급등 기호일보",
-      "pub_date": "Sat, 18 Apr 2026 07:00:00 GMT",
-      "category": "글로벌 시장",
-      "key": "0fd40af9439b3492",
-      "topic": "경제·환율·금리"
-    },
-    {
-      "title": "[9월 22일 글로벌 증시] 나스닥 사상 최고·반도체 4.3% 급등…코스피 7,000선 안착 시험 - 경기도민신문",
-      "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE5WU1VxU1ltTzVDV05rRlM4eU4wOUJ6LXBjczdneENjV0QxZTNGcWdPcGxveUF1OUZlYy1idXdlcVc?oc=5",
-      "description": "[9월 22일 글로벌 증시] 나스닥 사상 최고·반도체 4.3% 급등…코스피 7,000선 안착 시험 경기도민신문",
+      "title": "[환율 전망] 기름기 빠진 달러, 반도체로 충전 중인 원화 | KB의 생각 - KB Think",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE56cUlPdjFKaklIb0hUcHNjVGVfcjFWSWxNV3k5TV9RTWVDN3NUWFhUbHEtbTA5Y0JfUThxQndtTkV6b3JiVzkzWGYwd3VHZ2daMEdYWnBkZlZ4d0VQbFJNRQ?oc=5",
+      "description": "[환율 전망] 기름기 빠진 달러, 반도체로 충전 중인 원화 | KB의 생각 KB Think",
       "pub_date": "Tue, 22 Sep 2026 07:00:00 GMT",
-      "category": "글로벌 시장",
-      "key": "a736becd5f1a2349",
+      "category": "환율 전망",
+      "key": "8c3cb21ff35deeb0",
       "topic": "경제·환율·금리"
     },
     {
-      "title": "[모닝 리포트] \"국내 증시 반도체 투매 후 반등 전망\" - 뉴스핌",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBxWU04NjUxSkhFejQ2QmtoeU44bmNiR2RybGlRWkV3Ti1vS0RqWUlDTm0yZ29vRU1CLWJDeVZrT2NVRlNfQnNLbV9oUjliX3JCY3JYVDF1U3BCbmsy?oc=5",
-      "description": "[모닝 리포트] \"국내 증시 반도체 투매 후 반등 전망\" 뉴스핌",
-      "pub_date": "Wed, 24 Jun 2026 07:00:00 GMT",
-      "category": "글로벌 시장",
-      "key": "b9b8716d28f36c89",
-      "topic": "경제·환율·금리"
-    },
-    {
-      "title": "[5월 셋째 주 세계경제동향 브리핑] 코스피 7,800선 돌파…한미 증시 동반 강세 - 기호일보",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1jUW11bktyQmlKRjlxM2lYTjV6WGp3VGRtdjg1dkQyMHBKNzdhOVN3d1FYQWVxZl9tangwLWdPMWtQRWcwNy1mNWt4THpyUEctZjRxUDgxVk96U2ZnaVQ1QWFtN3ZUVzNXcUhXUzQ4RQ?oc=5",
-      "description": "[5월 셋째 주 세계경제동향 브리핑] 코스피 7,800선 돌파…한미 증시 동반 강세 기호일보",
-      "pub_date": "Sat, 23 May 2026 07:00:00 GMT",
-      "category": "글로벌 시장",
-      "key": "5d14f7440c2edb82",
-      "topic": "경제·환율·금리"
-    },
-    {
-      "title": "[2월 첫째 주 세계경제동향 브리핑] 증시는 조정, 자금은 안전자산으로 이동 - 기호일보",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBtTVlDUUNxWnA5bEhjdWU0dS1hcnVrSlhsUWc3NWRhc1ZVWHcxNGxzWDdVNEFDcTgxRHpQUUtsRWNCT0NGUE44Nmk5UF9UR3pQMmhMZ1pDdXdxYUJOSTI1TFp5ZmxJMW1rdmU2aVFFbw?oc=5",
-      "description": "[2월 첫째 주 세계경제동향 브리핑] 증시는 조정, 자금은 안전자산으로 이동 기호일보",
-      "pub_date": "Sat, 07 Feb 2026 08:00:00 GMT",
-      "category": "글로벌 시장",
-      "key": "702a6fad5bb9d572",
-      "topic": "경제·환율·금리"
-    },
-    {
-      "title": "[3월 셋째 주 세계경제동향 브리핑] 코스피 반등에도 美 증시 급락…금리 상승·원자재 혼조 - 기호일보",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9TZmNlSWhJSWlXbDZ2UUN6SG4xb3BxUXVQSjJSN21IYjI1VjAwVExnRzJ3YlZaRU5SSnNpTDdsVGhyWU5VOUFQdGtNZmZjWGJfRlJReXQ5UGp6bThwRDVEZ1B2RVdHTGtuQm1Dbkt1UQ?oc=5",
-      "description": "[3월 셋째 주 세계경제동향 브리핑] 코스피 반등에도 美 증시 급락…금리 상승·원자재 혼조 기호일보",
-      "pub_date": "Sat, 21 Mar 2026 07:00:00 GMT",
-      "category": "글로벌 시장",
-      "key": "428b062975e80ae5",
-      "topic": "경제·환율·금리"
-    },
-    {
-      "title": "미국→아시아→미국 도미노 조정 계속되나...'AI·반도체 고평가' 덮친 나스닥 2.2%↓ - 생생비즈플러스",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBOR2VEMEF5MEUwQzJrVk9ucWJtd091RDlNeUh1SEtSbHVhTFFGY1kzV0VTVkxWSEJXdEFxM2hFbFV4ZHRFdDlpZWc2MklOVC04NTB5Z0xxcG9ERGN5bUQ2b0dCdGdETDFkbHpIeg?oc=5",
-      "description": "미국→아시아→미국 도미노 조정 계속되나...'AI·반도체 고평가' 덮친 나스닥 2.2%↓ 생생비즈플러스",
-      "pub_date": "Wed, 24 Jun 2026 07:00:00 GMT",
-      "category": "글로벌 시장",
-      "key": "ae4e7279afad130e",
-      "topic": "경제·환율·금리"
-    },
-    {
-      "title": "닥터둠 김영익 \"올해 AI 거품 붕괴, 미국 증시 최대 20% 폭락할 것\" - 조선일보",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOd0VKaGtHTUZmSDQ0RGdlV3BIcEZ1dnU5eS1aQkV3dS1QQVFncnYtR3I3SF9jMWhGZzY1Um1MTXRrdlR3SXpWbzc3ZkpJZmhRWjBUMXZsZkY0ZlBOcWtxNlkyS1hUWWR3MDEzSmlzQlpPZFdfM2RlaDN1T040YkJyXw?oc=5",
-      "description": "닥터둠 김영익 \"올해 AI 거품 붕괴, 미국 증시 최대 20% 폭락할 것\" 조선일보",
-      "pub_date": "Fri, 02 Jan 2026 08:00:00 GMT",
-      "category": "글로벌 시장",
-      "key": "56996a46fcf22b33",
-      "topic": "경제·환율·금리"
-    },
-    {
-      "title": "글로벌 증시 대폭락…\"부동산·채권으로 머니무브 온다\" - 뉴스핌",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1RMlo0N18zazZkRkZDY1JTWDhrTzVXa2NreXRPR1k0OXQxemp3dHN4Z0haSzVUakxETW1Lbk1xVkpTaTl1dWxCamNIanFYaTR0Wk9vcUdKb2tYRER0?oc=5",
-      "description": "글로벌 증시 대폭락…\"부동산·채권으로 머니무브 온다\" 뉴스핌",
-      "pub_date": "Mon, 05 Aug 2024 07:00:00 GMT",
-      "category": "글로벌 시장",
-      "key": "f783a896bddc3622",
-      "topic": "경제·환율·금리"
-    },
-    {
-      "title": "불확실성 해소로 미 증시 4일만에 반등 - KB Think",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8xTjRhS3Z4WmR6NEhaQkZtbHZaeVdWQXhOU2JyeXZaWjBKZDJFbU5iRWZaaVlEQkUxTFIxcW1CMEtTT1dFUi1tMDBYVDZHU0VVaUR6clJTaGZRMXpfcUJ6U3FGb0YtYTFsVENsaw?oc=5",
-      "description": "불확실성 해소로 미 증시 4일만에 반등 KB Think",
-      "pub_date": "Fri, 18 Sep 2026 07:00:00 GMT",
-      "category": "글로벌 시장",
-      "key": "688d2bc2157c9ff7",
+      "title": "트럼프발 보호무역, 미국 증시에 드리우는 나비효과 [김학균의 시장읽기] - 시사저널",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5rM25WbDVzTFRDLXVlRlJ5MmVNenI0TjN0REttYWgwbUtldDNfZXpjaHcxNWgtV1NUazA2MlhjS0xTSTM5TjJkOUZHZ2NwUmpGZVUwaDl3RE9RN3R3V0cxR21BWG9oYmR2SF9oYncyd9IBc0FVX3lxTE5fblJYU0ZOZnVzVFk4dGhPTGx3YWdGY043S3Bxa0FlNFNYNFVfZTl3ZTZrZm9NZnJoM0tlZTBBSU1keC1pOUMzQUw5ZVdjT083OU40cVRrR05ob1gzRjNya2tXUGdMTEl1eXlla1RlQnd5QzQ?oc=5",
+      "description": "트럼프발 보호무역, 미국 증시에 드리우는 나비효과 [김학균의 시장읽기] 시사저널",
+      "pub_date": "Sun, 09 Feb 2025 08:00:00 GMT",
+      "category": "미국 경제·정책",
+      "key": "92633914ede13818",
       "topic": "경제·환율·금리"
     }
   ]

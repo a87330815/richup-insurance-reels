@@ -1,4 +1,95 @@
 {
-  "collected_at": "2026-11-19T22:04:54.524783+00:00",
-  "items": []
+  "collected_at": "2026-11-20T03:48:56.504405+00:00",
+  "items": [
+    {
+      "keyword": "김아림",
+      "traffic": "200+",
+      "news_title": "김아림, LPGA 시즌 최종전 투어 챔피언십 첫날 공동 선두",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "f333c553a13428de",
+      "collected_at": "2026-11-20T03:48:56.503902+00:00"
+    },
+    {
+      "keyword": "한겨레",
+      "traffic": "100+",
+      "news_title": "‘김건희 어좌’ 사진 공개한 측근 “안 말려놓고…악마화” 주장",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "6fc74601752fcace",
+      "collected_at": "2026-11-20T03:48:56.503902+00:00"
+    },
+    {
+      "keyword": "배치표",
+      "traffic": "2000+",
+      "news_title": "‘불수능’ 사라지자 SKY 문턱 껑충… 서울대 의예 298점·경영 287점 전망",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "12d97d0338b9298d",
+      "collected_at": "2026-11-20T03:48:56.503902+00:00"
+    },
+    {
+      "keyword": "ราคาทองวันนี้",
+      "traffic": "100+",
+      "news_title": "ทองไทยดิ่งแรง 2,850 บาท ตามทองโลก ตลาดหวั่นเฟดขึ้นดอกเบี้ย ธ.ค.นี้ เตือนระวังราคาลงต่อ",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "a2b380d9472d4227",
+      "collected_at": "2026-11-20T03:48:56.503902+00:00"
+    },
+    {
+      "keyword": "시애틀 사운더스 대 솔트레이크",
+      "traffic": "2000+",
+      "news_title": "SEAvRSL Starting XI: Coach Schmetzer names his lineup for MLS Cup Playoffs Wildcard match against Real Salt Lake",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "8828773d0320d3de",
+      "collected_at": "2026-11-20T03:48:56.503902+00:00"
+    },
+    {
+      "keyword": "키오스크",
+      "traffic": "500+",
+      "news_title": "&quot;주문하다 손까지 덜덜&quot;…날 선 직원 응대에 결국 본사 사과",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "437c4b3808eb8a0d",
+      "collected_at": "2026-11-20T03:48:56.503902+00:00"
+    },
+    {
+      "keyword": "굿파트너",
+      "traffic": "500+",
+      "news_title": "“상간녀 5명 월화수목금 느낌 엄청나” 장나라, 불륜 사건에 ‘경악’",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "414f65d4224df51c",
+      "collected_at": "2026-11-20T03:48:56.503902+00:00"
+    },
+    {
+      "keyword": "손흥민",
+      "traffic": "10000+",
+      "news_title": "&apos;149억 원&apos; 손흥민, MLS 연봉 4위‥부동의 1위는 메시",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "30d8d83fe5c555a0",
+      "collected_at": "2026-11-20T03:48:56.503902+00:00"
+    },
+    {
+      "keyword": "제네시스 g80",
+      "traffic": "500+",
+      "news_title": "제네시스, ‘G80 하이브리드’ LA서 첫 공개…연비 34% 개선",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "d1ddea25cf8e7f9d",
+      "collected_at": "2026-11-20T03:48:56.503902+00:00"
+    }
+  ]
 }
