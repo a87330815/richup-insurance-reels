@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-20T21:43:48.470580+00:00",
+  "collected_at": "2026-11-21T03:40:37.260915+00:00",
   "topic_weight": {
     "보험·상품": 30,
     "영업·마인드": 25,
@@ -7,306 +7,342 @@
     "경제·환율·금리": 25
   },
   "topic_counts": {
-    "보험·상품": 15,
+    "보험·상품": 17,
     "영업·마인드": 1,
-    "경제·환율·금리": 17
+    "경제·환율·금리": 19
   },
   "items": [
     {
-      "title": "[칼럼] 국민연금은 50% 반영, 퇴직·개인연금은?…노후연금 ‘건보료’ 기준 총정리 - 보험저널",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9FRVg4TVRBT0Y1N05CRm1sdWFROHZEQ2ZVQ0V4SE0weVozU2ZzaEhsdWRqdTNmck81Qlh3VHVsWHJ1X1praGgtSE9qblFrUFFzUUF1VGU5X3Y5eGpGamZKUWxxc3NBeU52Z3BJT1ZHSQ?oc=5",
-      "description": "[칼럼] 국민연금은 50% 반영, 퇴직·개인연금은?…노후연금 ‘건보료’ 기준 총정리 보험저널",
-      "pub_date": "Wed, 30 Sep 2026 07:00:00 GMT",
-      "category": "연금보험 노후",
-      "key": "585c2cdb766d1ca6",
+      "title": "변액펀드에 AI 입혔더니…누적수익률 61.8% 찍었다 - 투데이신문",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBxZEYtUHdnVlMyRUM3ZnJkV1pHcXh4TXpUbmNQMVZ4RW1kWndlaUdGQ3F5Nkdnd093ZVZIeTVoWGpBRGU2cF9oRW0yeVpfRmx4bVNmX1N3bTV4WjBtT3luTzZsMDFqdmdqaVFB0gFvQVVfeXFMT0tJU1JSQkM0elpzNFRUaVlCNFNZUm5fSHlJUTcxdTFMbWg2U1RzYXR1X1pGRW5GYVNXZFp4THRMZ1R6eFVtX3pOeWNhekNadTJqLWRDQXc3OWdwbktrazFqdlNYOVQxSm10M09paFJR?oc=5",
+      "description": "변액펀드에 AI 입혔더니…누적수익률 61.8% 찍었다 투데이신문",
+      "pub_date": "Mon, 28 Sep 2026 07:00:00 GMT",
+      "category": "변액보험 수익률",
+      "key": "ac96f11ec8b82f60",
       "topic": "보험·상품"
     },
     {
-      "title": "[2026 추석] 부모님과 함께 점검하는 ‘은퇴 이후 금융생활’ - 한국보험신문",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBzcEU3dWZMTTV1aERpQURFYjBxSnF4Z3dUU3BlNURpeDhhVUdmenJRb29Nd3ZIYXZNSHBxS2ljaVhCNHBSUnN0dkZKdnVqc19BQ1JuZnp1OW9uR0twcVpzaDJwVlhVdEdfeU4w0gFvQVVfeXFMT29fbmhFM3R3OVk2TnVNZDkyYS15Um5uUFJoX0NMbmR4QnVqcXlCM2h6Z0RqMG9lV2dEN0ZOdUJVMkZseXhSbXJYSDNUeVZUNXl5MGI0SzFtd2NvUjROeFFWdThUU2RvU1pmRUtmSTFZ?oc=5",
-      "description": "[2026 추석] 부모님과 함께 점검하는 ‘은퇴 이후 금융생활’ 한국보험신문",
-      "pub_date": "Mon, 21 Sep 2026 07:00:00 GMT",
-      "category": "연금보험 노후",
-      "key": "4e3e440fa6ba337c",
+      "title": "\"그때 해지할 걸\"… 1300만원 손해, 불장 놓친 변액보험의 최후 - 머니투데이 - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9BdW1uNkxHUlJUWDMwaUpYTWNJUVVKaXNnci02MjNtVWtuMWFMQjlZNjhQTkhGcVJrWkdJbnkyR1l2U3V3S2tHTE1LMVAtMHdNS1ZqclVJMm1yZzlnVDg1SE9WR0Myek1ZRzdn0gFwQVVfeXFMT2tPS0ktSzRWU0dhVmgxZEdFbEVFRXlVcWw5NlpkYVJMRDdBM3RkWnk2MVpvZUtvaWNhNjByR3NrcFhnSEFEQW9yVzQtU3dHeWVUc2RodWlYQ0V2UWxxdUlyQS1vLThValBwNHBmbFBKUg?oc=5",
+      "description": "\"그때 해지할 걸\"… 1300만원 손해, 불장 놓친 변액보험의 최후 - 머니투데이 머니투데이",
+      "pub_date": "Fri, 30 Oct 2026 07:00:00 GMT",
+      "category": "변액보험 수익률",
+      "key": "98b708461789bb80",
       "topic": "보험·상품"
     },
     {
-      "title": "[A 인터뷰] “주부일수록 연금저축 미리 하세요” 임은정 작가 조언 - 아시아에이",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5uUFpSX0NaV2hodzdkSUZTTG9NdWlCUWc4VHZTaW9nNWUwU3UxMkUxbTZWUVpOeXlzNEMxZ0NmSW5pUW8tMm5makZIUWZ1ZVQ1WFpDSWE1X0dzWFV2LTdfelg3U0NlaTIzS3fSAW5BVV95cUxQVEV4OEtRcmYySmRFdmVXQXkzYlYyb084QktXVnNWa3UwVnFLbDhqTzgxMlZEVTdVbGtLaDc1LXp4TkJ6Vmt5bDhiNUVXNWVGU19xTW9EbU1GVWdxdFR6YVotS2lfLTFuMDljeUgzQQ?oc=5",
-      "description": "[A 인터뷰] “주부일수록 연금저축 미리 하세요” 임은정 작가 조언 아시아에이",
-      "pub_date": "Mon, 06 Jul 2026 07:00:00 GMT",
-      "category": "연금보험 노후",
-      "key": "f720b7297c37411a",
+      "title": "주식은 올랐는데 내 변액보험은?…명절에 점검해볼 ‘보험 속 투자’ - 보험매일",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1WU0NXaUMxV1NFTmRWdmNvVmMya0pUTTNKZjhzMXVDbVVlMzNmVEtRR25aLWlpekJGT1lRTEQzT1NZRVR1dFRXbkNLTXlmU253NmNLUm1yVUFIYS1jTVNabjh4bmhOVmgy?oc=5",
+      "description": "주식은 올랐는데 내 변액보험은?…명절에 점검해볼 ‘보험 속 투자’ 보험매일",
+      "pub_date": "Fri, 25 Sep 2026 07:00:00 GMT",
+      "category": "변액보험 수익률",
+      "key": "4e3242a2fdf9775b",
       "topic": "보험·상품"
     },
     {
-      "title": "고소득층에게만 유리한 개인연금…\"저소득층 위한 세제 개편 나서야\" - 라이센스뉴스",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1wcmFROHFWTzJHWmxwcVdIQ0I3TjQwRGVwdkV6TnM5M0pXTWVQUjBqR3dwX3dKbEw4Y3N3NE8ySjEyNV9WN2JiSXQ4SURUV25HZTVlNGhhV0dqRVVOMVc0aV8yUkptQUxZNUlZ?oc=5",
-      "description": "고소득층에게만 유리한 개인연금…\"저소득층 위한 세제 개편 나서야\" 라이센스뉴스",
+      "title": "\"수익률 좋다더니 원금도 못건졌다?\"…변액보험 사업비의 함정 - 뉴스퀘스트",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBMdFBiY0c2a01OX1NOajNRRENKMTJLRGZSOVpSY3VrdjZmM0VTeUc3TzdmVnFOeDItSmFLbmJqWEx6QkxZVTEyRE1fcjVZZ19kUUxJcm1DMkIxQ1hnZFo4VUZldTlXYjU3OUJKMm9KWQ?oc=5",
+      "description": "\"수익률 좋다더니 원금도 못건졌다?\"…변액보험 사업비의 함정 뉴스퀘스트",
+      "pub_date": "Thu, 09 Apr 2026 07:00:00 GMT",
+      "category": "변액보험 수익률",
+      "key": "9a9826b4d22534df",
+      "topic": "보험·상품"
+    },
+    {
+      "title": "변액보험 펀드 수익률, 수수료 비싼 ‘액티브’가 저렴한 ‘인덱스’에 뒤져 - Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQOUV0bTRGaEVpYWNINHZCdDBFOVlnd3ZpaGs4YWJTSnlhaDJPY0h3NGpqNDl6blVfdUItTElISWY5d3hJNGNmYjVrU0xQSVBRVF9vYkZQbERhY3JjZHRseFdxSGZQU2cyV3RJRnpkUTdicXdVY0RiRlpTWUhrVlpJZtIBlAFBVV95cUxQc29uR1JxWGIza1pHeFFiZ0M4T1UxQXZGdVhWMXJxMUlncVo2OVNIR09GMm9HYWFiZlFQU0JQZGx1d2c2NktKakhhcW1HZ28yc2JfRFExdVlfanBiUFJxbzBYRVJ0ZEhXUENGMWcwa2Q3bVowX3FRN21VWm0xeXViNGp5QS1RWjNwN3BoT2xJWTFaWmFS?oc=5",
+      "description": "변액보험 펀드 수익률, 수수료 비싼 ‘액티브’가 저렴한 ‘인덱스’에 뒤져 Chosunbiz",
+      "pub_date": "Mon, 16 Mar 2026 07:00:00 GMT",
+      "category": "변액보험 수익률",
+      "key": "0e7c2adb524d757c",
+      "topic": "보험·상품"
+    },
+    {
+      "title": "변액보험 펀드 연환산 수익률, 국내형 71.32%·해외형 44.61% 최고…ETF·인덱스·테마형 강세 - 보험저널",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5SWDJZNDc5NDczNjFaLW8ycnotZExGcF9uSDdhR1NvNExnNFZWU2V3RGdSR2xTNFBPUVl4SmQtWnNvSExWVnNUcnRiVnprQzUxRi02TXZVRzQwMkRnb2x1WU9SX01SQm5rS1hWNkh3Yw?oc=5",
+      "description": "변액보험 펀드 연환산 수익률, 국내형 71.32%·해외형 44.61% 최고…ETF·인덱스·테마형 강세 보험저널",
+      "pub_date": "Wed, 13 May 2026 07:00:00 GMT",
+      "category": "변액보험 수익률",
+      "key": "9a788fa550f0d104",
+      "topic": "보험·상품"
+    },
+    {
+      "title": "\"원금도 안 된다더니\"… 변액연금보험, 가입 5년 넘자 적립금 2~3배 사례 급증 - 보험저널",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBsemtVODA4Vm1ia1lvQzQycWN4ZG9rUFBBZGs3WF9KRjlHcFNya1hvOVktZ05VUnlWTm5MSFNmUjZaandWdmdFZ040WkNISjJlV0lzRl81Y1NudVFtVTBWRlRNNXQ3bkFyV21FTXZJQQ?oc=5",
+      "description": "\"원금도 안 된다더니\"… 변액연금보험, 가입 5년 넘자 적립금 2~3배 사례 급증 보험저널",
+      "pub_date": "Mon, 01 Jun 2026 07:00:00 GMT",
+      "category": "변액보험 수익률",
+      "key": "c86f28b2242839c6",
+      "topic": "보험·상품"
+    },
+    {
+      "title": "변액보험 깨고 직접 투자? … 중도 해지땐 원금도 위험 - 매일경제",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE80NXhSdU9GaThfR3dHb2stQzNpZU82dkJncGJLWlVNMHI3T2M1LW15ejVSbUh1ZUVjOFl4Yk5VaVA4VzRnVWE5bUFNZFQxMmpkTkdVMQ?oc=5",
+      "description": "변액보험 깨고 직접 투자? … 중도 해지땐 원금도 위험 매일경제",
+      "pub_date": "Sun, 07 Jun 2026 07:00:00 GMT",
+      "category": "변액보험 수익률",
+      "key": "0b8d0c15bce95094",
+      "topic": "보험·상품"
+    },
+    {
+      "title": "미래에셋생명 변액보험 ‘ETF 국내 주식형’, 연간 수익률 233% 기록 - Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcVZkdVFxcDJMRklfSlFpLXdIOVB6SExkSUN5UnBNNnE5OVAyelZIN3dtLTNINW96Mk9zTEY4a0czSEhQX2Nha3ZrRm1CNWNaNHAwMi1oMzJiWXRWOGQtNmIyQWJhYTRBMV94N1ZQZm9wT1ZRaEp1VFpiaFNUR2dNa9IBlAFBVV95cUxOV0lPemU1bDNYaVY4cW5hRGRyQVFFVjBLWWFoejRiTEYyamdGeXlJWFh6Sk1WX0s3MGFtYjhnSkhzclZsdTZuRDY1T2dVYWxCV1lGalVZS3FmR3hyU3pMX2lnbEkydHJXREpyVlNXUG1ONFE3ZFUzNTlUSUs5MU1CYnNSZkJmcGlFeElyZ2VBcEpTdnIw?oc=5",
+      "description": "미래에셋생명 변액보험 ‘ETF 국내 주식형’, 연간 수익률 233% 기록 Chosunbiz",
+      "pub_date": "Thu, 28 May 2026 07:00:00 GMT",
+      "category": "변액보험 수익률",
+      "key": "ddac6f72a3c1a20e",
+      "topic": "보험·상품"
+    },
+    {
+      "title": "6월 변액보험 펀드 연환산 수익률, 국내형 66.23%·해외형 55.45% 최고…ETF·인덱스·테마형 강세 (영상+) - 보험저널",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5GX2lmQmVMX3FYR2M0XzRFT2lyeUpFcU1sbkcwczRQVU9ZM1BKSGhjYlkyS1BfSFpiTTNUaFlvX3B1bVgzWGlwLWU3U2JYcHVKQlZlVEpVc0J4RWhtLUpHN1ZtNFZ1OW1FeDJTU3c0Zw?oc=5",
+      "description": "6월 변액보험 펀드 연환산 수익률, 국내형 66.23%·해외형 55.45% 최고…ETF·인덱스·테마형 강세 (영상+) 보험저널",
+      "pub_date": "Thu, 11 Jun 2026 07:00:00 GMT",
+      "category": "변액보험 수익률",
+      "key": "13f469e067380c44",
+      "topic": "보험·상품"
+    },
+    {
+      "title": "시장 흔들릴수록 ‘배당·절세’…두마리 토끼 잡는 변액보험 '주목' - 한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fT2V0d09KRElfMDZ1VURFN3dpNkduU0xTQmR3Z1dzczhBaklhMWRhN1JTd1VzNk44RzhlM01aZ19TYURSWkF0LWtrS29iSlhVSTdjNWU5bDdVUQ?oc=5",
+      "description": "시장 흔들릴수록 ‘배당·절세’…두마리 토끼 잡는 변액보험 '주목' 한국경제",
+      "pub_date": "Wed, 26 Aug 2026 07:00:00 GMT",
+      "category": "변액보험 수익률",
+      "key": "e2779ef65e4c5d60",
+      "topic": "보험·상품"
+    },
+    {
+      "title": "널뛰기 증시에 변액보험 가입자 속앓이 - 조선일보",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNM0g1cHhoNm81c2Ywdk5oMXdCY3lHcFMwQ0pwc0h5THVYVHQ4YkxDaU1JYUJwdWtLcVBBQXlBa0RJTFdlQjJHU2d1THlLVml5b1lEZXptMWNfYXlBWFlIeFNIMnNxYnZkTHNlVnZjazF2azZzT2h4VExZMW96LVJVbF8waXdPQ1NiVlgw?oc=5",
+      "description": "널뛰기 증시에 변액보험 가입자 속앓이 조선일보",
+      "pub_date": "Thu, 13 Aug 2026 07:00:00 GMT",
+      "category": "변액보험 수익률",
+      "key": "116799a7b025542c",
+      "topic": "보험·상품"
+    },
+    {
+      "title": "iM라이프, AI투자운용에 무게 싣는 까닭…변액보험 '큰그림' - 블로터",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE01QWp2bEVKR2tSOFpOS3daTFBsY19WZnlSODdkSHlyRGRqQ2ZILW9sdzNvNjNvZG5uRzVxTG5uVEhGdlZDVWRjTExkbEcwaXJkNW1SbS1SR1EyZmdFNjhZTExSMnhWNkxp0gFsQVVfeXFMT0ZpVUVYNFJrNzV6eWE3Tm9HLVl2WklEY0xXdzBVaVdWdEFkRDRFLUZuT3l6LWd0enlfNW9WWjdiaVpkY3ZkSWVFbmE2cU5EeE5SRHowNzlxekxVWld6VDFYVVRnZlY3SXZ4OUR3?oc=5",
+      "description": "iM라이프, AI투자운용에 무게 싣는 까닭…변액보험 '큰그림' 블로터",
+      "pub_date": "Wed, 08 Jul 2026 07:00:00 GMT",
+      "category": "변액보험 수익률",
+      "key": "e968fb0c7c410e63",
+      "topic": "보험·상품"
+    },
+    {
+      "title": "코스피 5000 돌파…미래에셋생명 변액보험 ‘비과세 전략’ 눈길 - 조세금융신문",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5JWEp6QzNvdzNPUWd1dGcwemZpVWJXSDdvU3RrNk9zTkl4QWlNYm9YQ19vZ1FvWXFGMmJrX0tuYzBhS1BCSkFvLXhacHVrX0JCSlU5M1BRZGVLWlpucnpQZzc4WQ?oc=5",
+      "description": "코스피 5000 돌파…미래에셋생명 변액보험 ‘비과세 전략’ 눈길 조세금융신문",
       "pub_date": "Wed, 25 Feb 2026 08:00:00 GMT",
-      "category": "연금보험 노후",
-      "key": "5a202f965b284908",
+      "category": "변액보험 수익률",
+      "key": "acd08ff87cdcaac9",
       "topic": "보험·상품"
     },
     {
-      "title": "[방과후재테크] 연금저축 어디에, 어떻게 투자할 것인가? - 한국교육신문",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0xVlJpR2JYTDYzejZhOWh2aDczWTJwWDZUZUFIUkh2ZndCNUwwaDBkRVBnQkhJMEVHbkhTUmhqLUNkUElNb29hNWxFQVlXTW13RlFkYllRZW5GNDRKWU9r?oc=5",
-      "description": "[방과후재테크] 연금저축 어디에, 어떻게 투자할 것인가? 한국교육신문",
-      "pub_date": "Fri, 09 May 2025 07:00:00 GMT",
-      "category": "연금보험 노후",
-      "key": "5733f3d41e7e29e1",
+      "title": "변액보험 펀드 수익률, 1년 최고 123.91%…레버리지·인덱스·ETF형 ‘강세’ - 보험저널",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5vNHhBVGtPel9fSFRTb3JnYl9RZUc4eXhSc0VlMGtZM1hHa1NrR1NadkFBX3V3dGpVQ1NTRlotRFF5V2wyZXh4N0tCemkwOUJ2aDkzU0l0UV9UX09fMEl2VHJuMlFOTWd5dmU5N1NNdw?oc=5",
+      "description": "변액보험 펀드 수익률, 1년 최고 123.91%…레버리지·인덱스·ETF형 ‘강세’ 보험저널",
+      "pub_date": "Tue, 13 Jan 2026 08:00:00 GMT",
+      "category": "변액보험 수익률",
+      "key": "a351aac0f1569832",
       "topic": "보험·상품"
     },
     {
-      "title": "[재테크칼럼]든든한 노후를 위한 개인연금,지금 시작해야 할 이유 - 경남일보",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA1TTVvSV9ucEhtaVRwWmhBWmRHTnNMamlURFBIWWRRYnBrY2hENTZuUzVfZFgyclExWWNSNzJvSWE4WG9rcUQ0THVqR2QwUlcxWmpHQXd0R1hyTWVzMWxKU29EM3ROc0tYNFBB?oc=5",
-      "description": "[재테크칼럼]든든한 노후를 위한 개인연금,지금 시작해야 할 이유 경남일보",
-      "pub_date": "Sun, 01 Jun 2025 07:00:00 GMT",
-      "category": "연금보험 노후",
-      "key": "c8b5b9a399e93c6f",
+      "title": "환율 상승 기대감에 ‘달러 보험’ 판매 급증…소비자주의보 발령 - 경향신문",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5PRlg0dUhuMVVjM0RGUVQxSGhqX3VTQVVURm90RHNQRDhVeFE1ZjdzcEM0UktZWUpVbzBBQjJ2ZlRMdkYyRVV4UXJhWWZwUWdnTGpYRllMZjAxZ9IBX0FVX3lxTFBlSlRuYTV0LUNUMVZpU29HNUk4VFJ0cy1vQ3VkTmQ2ZjRzVDZfX1NTVHZWLUkwc3pob0luMWpodTNjckpHX0NsQ1JXQ21HTUJCUXRJeEtXVGRWbks3bGxR?oc=5",
+      "description": "환율 상승 기대감에 ‘달러 보험’ 판매 급증…소비자주의보 발령 경향신문",
+      "pub_date": "Thu, 15 Jan 2026 08:00:00 GMT",
+      "category": "달러보험 환율",
+      "key": "0bea529939d4407b",
       "topic": "보험·상품"
     },
     {
-      "title": "[개인연금 비상]② “연금보험이랑 수익률 3배 차이” 요즘 노후자금 몰리는 곳 - Chosunbiz",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWTU3U3UzT1NONGo4V29zMnphZ1hUaUNFRU1DTTE5cU9EUFdlTWVPeGk1NDhWT1ZveGlIdDBBSFBwSDExbzU2bFZIdlVGcEp3MURkZDhnelp2cVlQOHlxT3BiU2lpbG5WckVHVVh3elFxT09pUnlFTjdUMFNqeE4xb9IBlAFBVV95cUxOd0l6b09BcHFaZ2JkLUlNUm94c1Y1dVEwOEZkMGN2U2ZrS21UcTh0NTNDMHNqdzVueVB1MnlKWHFYNUw3SU1ra0tFZTJyYjd5MHEwWVZBOTExeGF0cnIxcGJFbTdVdXVJNE00bDhKQVZPMHE5VlBKallWS2dkbkpWRmJlRzBBR2NUTEJjTXpkdlpYMGlo?oc=5",
-      "description": "[개인연금 비상]② “연금보험이랑 수익률 3배 차이” 요즘 노후자금 몰리는 곳 Chosunbiz",
-      "pub_date": "Tue, 21 May 2024 07:00:00 GMT",
-      "category": "연금보험 노후",
-      "key": "0281622654966fa4",
+      "title": "2017년 생명보험 트렌드 '간편심사·질병보장' - 보험매일",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5MNTdGbTB3ck1EYjRPaWhxSnAzeWlDWlYxSnhFWmdCcE1vd3Z0MTNheTVjQW1DTWl1UEZDdl8zZ3lyeVBWb091WURwRG0xdklQSi1qZHM2MTRvUDV3Ni1qcTNUZ3ZHZw?oc=5",
+      "description": "2017년 생명보험 트렌드 '간편심사·질병보장' 보험매일",
+      "pub_date": "Mon, 23 Jan 2017 08:00:00 GMT",
+      "category": "종신보험 트렌드",
+      "key": "49f2927f993c6efc",
       "topic": "보험·상품"
     },
     {
-      "title": "연금에 대한 (거의) 모든 것 2탄: 개인연금 - 뉴닉",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9vTWMyeUlWMHJSUVRiTENnVG1vUVJEM2xPV2FoVmE5NlBzVzhvWWdIRkNaeVRpQTk2Mk9xV3lFSEtxQy1PNDdIU1JXV2FaR2JJeHc?oc=5",
-      "description": "연금에 대한 (거의) 모든 것 2탄: 개인연금 뉴닉",
-      "pub_date": "Tue, 16 Apr 2024 07:00:00 GMT",
-      "category": "연금보험 노후",
-      "key": "926ac17c795d764f",
-      "topic": "보험·상품"
-    },
-    {
-      "title": "국민연금만으론 ‘노후 절벽’… 세제·비과세·인출 3박자 맞춰야 - 이투데이",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4xdUM2Y0poY2U0Q2x5RDUwdHVLVjloS3N5SDdJYWxYSVg1VGs1Qy1rNTBiLV83Y19mMjN4N1BoWHBMVm1wUDJtUE5qLWFta1ZkS0pjNQ?oc=5",
-      "description": "국민연금만으론 ‘노후 절벽’… 세제·비과세·인출 3박자 맞춰야 이투데이",
-      "pub_date": "Tue, 09 Jun 2026 07:00:00 GMT",
-      "category": "연금보험 노후",
-      "key": "d60494de3328e689",
-      "topic": "보험·상품"
-    },
-    {
-      "title": "MZ세대 “노후대비는 남의 일” “개인연금 잘 몰라” [WM 포커스] - 웰스매니지먼트",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9YUUhFaU5CVGh3YzZBbDJCbnRLYW0xMGhpNUR2d09CSWpiZkg5MzBZRV9UbktXWkJ0M2o4VGZhdDNCMHJTZTBBMlBlaHVsc0d6U3ZlSHc2cnptc2t1M1ZKeEl1ZV92MlZCWnfSAW5BVV95cUxPZEdoT2lPZEZFMHdQV3ViZ2dPVTcxdWoxYXRzZU0zc0xFSlQyYjhNS2prWnJPNDBDeXZvT2tkc3NDM1VqeHFkT2ZjVVNFXy1UdFg5Q3loaWw4QzhuTk96UXF4NkNqR2dmTk5JZlVUZw?oc=5",
-      "description": "MZ세대 “노후대비는 남의 일” “개인연금 잘 몰라” [WM 포커스] 웰스매니지먼트",
-      "pub_date": "Thu, 15 Feb 2024 08:00:00 GMT",
-      "category": "연금보험 노후",
-      "key": "f5b1ddb93fd5ce45",
-      "topic": "보험·상품"
-    },
-    {
-      "title": "국민연금 기초 위에 퇴직·개인연금… 노후 지켜주는 ‘3층탑’ 쌓아라 - 조선일보",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZUNFeUZMaG1xMVFETFpSWnpNQm5KcVRGcC0yZjRRSnlaWUtVTW0wOXBsN1R4NkZJM1kzU0VBanFKUGZRZnJyZG1EZmNfYUtsWXVtVHhMMkxlM24zYkk5R0ZhQ3lNajRxYVNrejJtV0c0T1RqblRRT2JhTkNsVEFMRA?oc=5",
-      "description": "국민연금 기초 위에 퇴직·개인연금… 노후 지켜주는 ‘3층탑’ 쌓아라 조선일보",
-      "pub_date": "Wed, 21 Jan 2026 08:00:00 GMT",
-      "category": "연금보험 노후",
-      "key": "6998872d401bea76",
-      "topic": "보험·상품"
-    },
-    {
-      "title": "[Trend&Bravo] 퇴직자들이 털어놓은 은퇴 후 가장 후회되는 것 TOP6 - 이투데이",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aUmRNTlhwWHYtT1M1MFhDQklsZElVU3dEdjVIdnN0dnczcGxhc0RjTmk3dFBDVTNacmdUdzVzYkxJeHZTVklDU2dhcEwwUy1QaXBhQ2Z0QVhlQQ?oc=5",
-      "description": "[Trend&Bravo] 퇴직자들이 털어놓은 은퇴 후 가장 후회되는 것 TOP6 이투데이",
-      "pub_date": "Wed, 16 Jul 2025 07:00:00 GMT",
-      "category": "연금보험 노후",
-      "key": "d12fa8048d06b2a7",
-      "topic": "보험·상품"
-    },
-    {
-      "title": "[우정 이야기]배당금도 받는 우체국 연금보험 출시 - 주간경향",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5LWGtOUk1YOTRWTVVaQURPUG4tMU5iQzlzTkJtSnNscktlek5nc25ScGg4dy1IaFRqUnpJRXE4X0lZblpsY1VFWmFReGJKR3Y3R1hoSDkyZ0NRQ3NWT0E?oc=5",
-      "description": "[우정 이야기]배당금도 받는 우체국 연금보험 출시 주간경향",
-      "pub_date": "Wed, 06 Dec 2023 08:00:00 GMT",
-      "category": "연금보험 노후",
-      "key": "c804973003c30046",
-      "topic": "보험·상품"
-    },
-    {
-      "title": "[금융지혜 ❷] 국민연금만으론 노후준비 미흡… 다양한 연금보험 가입으로 보완 - 웰스매니지먼트",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE82alpldldlR1JwSHFBUGlQa3FxR2gzeHhHZGp3X3RWN3dBV3ltbHBIWkh6Uk5ablhMbXZyRGp0WjdVMTkzUzdWWjh6QjRPT1NTUlJVS0xZdzZFOHUwLUdZYXdFOHhuaGlDckHSAW5BVV95cUxQNkY5cU9XdkR2WnNZLUNHTVlXclFwQjJIcEFZbGZMR2JSRzNMc2dKcUhkTHU3V0EtcXo0SGpuWWVJcjBuTm40YkxiV2t0bnBnQmFCVUdoYWYzclFYbUthS0ZiUmNETVozeldNWWxxQQ?oc=5",
-      "description": "[금융지혜 ❷] 국민연금만으론 노후준비 미흡… 다양한 연금보험 가입으로 보완 웰스매니지먼트",
-      "pub_date": "Tue, 10 Oct 2023 07:00:00 GMT",
-      "category": "연금보험 노후",
-      "key": "0c4beb7ecd915f89",
-      "topic": "보험·상품"
-    },
-    {
-      "title": "“개인연금으로 베이비부머 ‘연금 크레바스’ 대비 가능” - 한국보험신문",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9HcHRsOXlDM1hxc1FJNlZMamtmbUFPRFU2NjBxdVdaNllGUzVIeEl3b2pwVXl6OF81bFRnVlpSSWhmY1NWOWZaU3h5Nl83a1UwOUlzU3lxdlVUOEpxZ1NqQm5aaUl4aGJLVTdZ0gFvQVVfeXFMT1RjY0lhZm83Yzc4enNfTk5OYWk2X1B1WHZyWktDN3FzRWpLNHVVbTNnQzk4MnhiZjVEbm9CdWJsOUFZNmF1WUt4cFVBajJMYXYtNDAwUXRNbjdBbzQ1NTViRGRfYkR2RnlZLWxvcVRj?oc=5",
-      "description": "“개인연금으로 베이비부머 ‘연금 크레바스’ 대비 가능” 한국보험신문",
-      "pub_date": "Mon, 09 Jun 2025 07:00:00 GMT",
-      "category": "연금보험 노후",
-      "key": "d6b9c34d67a4b80c",
-      "topic": "보험·상품"
-    },
-    {
-      "title": "보험사 DB영업, ‘N잡러’ 대안으로 부상…“원수사·GA 시선 쏠린다” - 에너지경제신문",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBvYWJpSURXTEV3amZnaXFIMlJaU3FndTRxVldXcGdQdXBKQVozUHN4MnY5TzV4bEcwUEN6Yzc2ckJ2bzBROWlDaFFKRko0ZUdTOGlqWlRIR2t5NEE?oc=5",
-      "description": "보험사 DB영업, ‘N잡러’ 대안으로 부상…“원수사·GA 시선 쏠린다” 에너지경제신문",
-      "pub_date": "Wed, 29 Jul 2026 07:00:00 GMT",
-      "category": "보험설계사 영업",
-      "key": "38d972c4bf9912d7",
+      "title": "대형 GA M사 리쿠르팅 광고 문제점 ‘대두’ - 보험매일",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9xN1NkVUw2NFREVldwQk13N3pEck5CaHBvbThEYmg0VGUtYWF3ai10MTdweTZ5MWQ3d19GN2JSLWFwbHh2Q2pKb2pJZGM3TnE5ajVCel9LbW1XQmtTU2RxcjhsZS1rdWFs?oc=5",
+      "description": "대형 GA M사 리쿠르팅 광고 문제점 ‘대두’ 보험매일",
+      "pub_date": "Mon, 24 Mar 2025 07:00:00 GMT",
+      "category": "GA 법인보험대리점",
+      "key": "400ad5ff3dbeef9c",
       "topic": "영업·마인드"
     },
     {
-      "title": "[다음주 환율전망] 원·달러 1330원대 안착 시도…다음주도 원화 강세 이어질까 - 굿모닝경제",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5oNWtxTElXTnBXdHI4LXpadGxQMFpyQl9fZGttTFRwc2l6WWxER0VSbkp1NWI5SGlYMnhrYWI1U0VNNEhKSUhWdG9hZ0NtNnZ1NWJfdnBPelYtM1F5dkNvRW9VWVRjMnd5cnJEVg?oc=5",
-      "description": "[다음주 환율전망] 원·달러 1330원대 안착 시도…다음주도 원화 강세 이어질까 굿모닝경제",
-      "pub_date": "Fri, 09 Oct 2026 07:00:00 GMT",
-      "category": "환율 전망",
-      "key": "63fc376239f67468",
+      "title": "미국·유럽 금리 또 올렸다…한국은행의 선택은? - 지디넷코리아",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBrdkp5dXhNTVRIdmVhd3BjanNCd21JTHkxSno5MkVLb0hiNjdqMUVYOHc0MlgxZDEyVW0tU0dVR2phWTZLcnRpaXVXTXpfZm8taDkwMVBB?oc=5",
+      "description": "미국·유럽 금리 또 올렸다…한국은행의 선택은? 지디넷코리아",
+      "pub_date": "Fri, 28 Jul 2023 07:00:00 GMT",
+      "category": "기준금리·통화정책",
+      "key": "9d3d20ac784c3b31",
       "topic": "경제·환율·금리"
     },
     {
-      "title": "[달러-원 POLL] 더 내릴까…8월 저점 1,416원·고점 1,477원 - 연합인포맥스",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE42V3RHRWZkSHVMNjlMWEMyTVZfbWhBYjJ1TjFCRXk4VmQ4V2JPYjgxTms1VkZldmVRTDVSbWxpaXhYdk8zZ3pLQ01GVnk1bkx0WS1CMkEwRWJoZzVtWmhKVVZXYzktYkNaTU5YVGtBRzE?oc=5",
-      "description": "[달러-원 POLL] 더 내릴까…8월 저점 1,416원·고점 1,477원 연합인포맥스",
-      "pub_date": "Fri, 31 Jul 2026 07:00:00 GMT",
+      "title": "[다음주 환율전망] 강달러에 다시 고개 든 환율…한은 금통위가 방향 가른다 - 굿모닝경제",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5tcGhMdFY5S0lIY1JtTm9IS2RQVEZOWWRabVBWSW5nalVxS0dkTVJ1QUZjandPcTJrUFNudTIxSy1XN1ctOVlybmhHRDRyWm0wNlBSaldqRkFoTXVJT0Z4LVoyNm0yUU00VDB5TA?oc=5",
+      "description": "[다음주 환율전망] 강달러에 다시 고개 든 환율…한은 금통위가 방향 가른다 굿모닝경제",
+      "pub_date": "Fri, 20 Nov 2026 22:00:00 GMT",
       "category": "환율 전망",
-      "key": "11fc918f6d8ad59d",
+      "key": "017a143a54aa7d40",
       "topic": "경제·환율·금리"
     },
     {
-      "title": "[달러-원 POLL] 이제 1,400원은 안녕…10월 고점 1,391원 전망 - 연합인포맥스",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Ga2NpRjdXeHlqSkhiMC1CVTVOX3d5bWVrUnRqMGlFN0ZrUDFZeHJXYmcwcTBkZWlsNHpxLWpTX19ERkpiMWZUeHFiWnl2UVVMUDMzb18wTnhkZXZsT2x4VTlvSGR0UDczY2lodkNFd2Q?oc=5",
-      "description": "[달러-원 POLL] 이제 1,400원은 안녕…10월 고점 1,391원 전망 연합인포맥스",
-      "pub_date": "Wed, 30 Sep 2026 07:00:00 GMT",
-      "category": "환율 전망",
-      "key": "ede64d21e8d72781",
-      "topic": "경제·환율·금리"
-    },
-    {
-      "title": "\"이러다 환율 1200원대\" … 달러 강세·유가 급등도 못 꺾은 '원화 기세' - 뉴데일리 경제",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5RT0l2cGVEM05tUnVsWUdaM2hieTFaajRrS3pGSFhEbGN2SnpKLWZMS1E4MFlBcThqUVhoZWFmbndpbHRRT3NxaFZQcHVnYmZOcjBSUWEtUmlVdnU4NV9OdU9KdzBlSTdZU1d4ekw1VGI4dUc0NzRxVXVxRdIBgAFBVV95cUxQME9FUDI1aE8xT3ZFeGQ4VGN6Wlo0bTQ5Y0NZLVFzSkI2R1U3aE9oNEgtbXYyQ2hTbW1zUVhxUDlhdk5lcUNZM3NBb1pibkdUZmFLcERGZnM5WmdPQ3YwSnJ2ak8xUjhQX1FGa1ZfcjkzNlJBcjdBcDhmUjhGeEw3cA?oc=5",
-      "description": "\"이러다 환율 1200원대\" … 달러 강세·유가 급등도 못 꺾은 '원화 기세' 뉴데일리 경제",
-      "pub_date": "Mon, 26 Oct 2026 07:00:00 GMT",
-      "category": "환율 전망",
-      "key": "caef36d95ce15d6d",
-      "topic": "경제·환율·금리"
-    },
-    {
-      "title": "환율 다시 오르나...IBK證 “연말 1400원 전망” - 매일경제",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE00LUd5V1BrV1hNSS14TTRoTlphdDhQczE4aDRTU0JuTWtlSmt1SFFCOTBaQy1TdUR6MkREbTJLYWl3aWIxUFZSTDB3aENMWndlNlhuWQ?oc=5",
-      "description": "환율 다시 오르나...IBK證 “연말 1400원 전망” 매일경제",
-      "pub_date": "Fri, 02 Oct 2026 07:00:00 GMT",
-      "category": "환율 전망",
-      "key": "1dd7b181f22fa4c1",
-      "topic": "경제·환율·금리"
-    },
-    {
-      "title": "[다음주 환율전망] 1380원대까지 내려온 환율…다음주 '잭슨홀'이 방향 가른다 - 굿모닝경제",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFByLVl0bXo0YlUxYVBoOEtvT1dpZ0RKUjhMV3lEUGNQTmZ0b0FlWEk5ZzV1Zi1BRzVGakxyZjdlc0tHNWZxNHFMTEFNTUhYVG9YbkNTdVFnMHBURmRmSy1yNzJnQ0p2UlREcHZteg?oc=5",
-      "description": "[다음주 환율전망] 1380원대까지 내려온 환율…다음주 '잭슨홀'이 방향 가른다 굿모닝경제",
-      "pub_date": "Sat, 22 Aug 2026 07:00:00 GMT",
-      "category": "환율 전망",
-      "key": "e01fb229f78cec09",
-      "topic": "경제·환율·금리"
-    },
-    {
-      "title": "반도체 수출 호조에 원화 강세…원·달러 환율 2년 1개월 만에 최저 - 산경투데이",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLY0lTdkp1SE1YcnN6S012eGVlZnFxSXZLOFZ3RTdBYU9HTkpkR0hFWThvNXZyRE01MDEtQ0d3YXc2YWFrYkxmRFdmYS1PZFJad25seWtVc3ctd0FlakFLQnA3UWJ3YXNuR1BpcktNR3rSAXRBVV95cUxPMGp3aFh1eHd6dHR3RzlpYmhxbWJhcG5ad2lkdVdwVUVpOU1EV29ZNUxVbV9IUWR4cHVaR2xkdmhFZElDb1VWaWNPVlRlbHJ4TmRsblVqbGVXUTJZc2k1Wjh3LTFVaU1rR0djT1lZZlpTTXpaaA?oc=5",
-      "description": "반도체 수출 호조에 원화 강세…원·달러 환율 2년 1개월 만에 최저 산경투데이",
-      "pub_date": "Sun, 18 Oct 2026 07:00:00 GMT",
-      "category": "환율 전망",
-      "key": "2bd0b85c0e442d89",
-      "topic": "경제·환율·금리"
-    },
-    {
-      "title": "[다음주 환율전망] 美 국채금리 24년 만에 최고…원·달러, 다음주도 상방 압력 전망 - 굿모닝경제",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5DUE5VcVlMUzZyd05rUE9ZaDFubHdkN2tDMno5YlJtX2ZrUkRudzFMLTRsd0FkUkZPN2VwTTZUcVJUTnNQVFdFbjczbU9XMFBab3ZEcE5WR1g0QTF5T182UDhVUUFYUERBa3hmNA?oc=5",
-      "description": "[다음주 환율전망] 美 국채금리 24년 만에 최고…원·달러, 다음주도 상방 압력 전망 굿모닝경제",
-      "pub_date": "Sat, 03 Oct 2026 07:00:00 GMT",
-      "category": "환율 전망",
-      "key": "d7dd9c4788eb63ff",
-      "topic": "경제·환율·금리"
-    },
-    {
-      "title": "[모닝 리포트] 중동 불안·강달러에 환율 상승 압력…\"1330~1345원 전망\" - 뉴스핌",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5BWXQ3MFVTWjNqWHg2a1lnWEw3LTN6cXRsQVh1NVhwN29FVGFEQTRIak1iemhoaVJ6blo2aDVyZlpITnhpN1l5dWV6M3hiV1duRW1zejhlSk5tem1T?oc=5",
-      "description": "[모닝 리포트] 중동 불안·강달러에 환율 상승 압력…\"1330~1345원 전망\" 뉴스핌",
-      "pub_date": "Tue, 13 Oct 2026 07:00:00 GMT",
-      "category": "환율 전망",
-      "key": "5c98a72737bd3474",
-      "topic": "경제·환율·금리"
-    },
-    {
-      "title": "원·달러 1400원 초반 박스권 전망…“수출·법인세 수급에 하단 탐색” - 서울경제TV",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAyLS1QemFWM2J3eFNVS2RPMXlSbDQ0bEJJUW1CekRvNUQtckxBTk9SNlNFTE1rUzZGLXU1MGlLMFpXR25LRnBIOWt1TkFsamsyejB0TnpnakdMb1EyNlV0ZXRfc1Q?oc=5",
-      "description": "원·달러 1400원 초반 박스권 전망…“수출·법인세 수급에 하단 탐색” 서울경제TV",
-      "pub_date": "Sun, 16 Aug 2026 07:00:00 GMT",
-      "category": "환율 전망",
-      "key": "741827d6cd66df42",
-      "topic": "경제·환율·금리"
-    },
-    {
-      "title": "연준 금리 동결에 달러 강세 압력 완화…1330원대 등락 전망 - 조세일보",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1vTk9qTzFmY0NyTm5NTy1vajk5QjFyNlIzWUxTZm5sbFkwRVZfTWdBWEJxaHctUmp1ZWpyRDZEUXFzaGduQmF6d0VoYWRGNmN0ZzdJRjNoVUtRYk9QQVdr?oc=5",
-      "description": "연준 금리 동결에 달러 강세 압력 완화…1330원대 등락 전망 조세일보",
-      "pub_date": "Fri, 30 Oct 2026 07:00:00 GMT",
-      "category": "환율 전망",
-      "key": "904270509cf180a3",
-      "topic": "경제·환율·금리"
-    },
-    {
-      "title": "'달러 강세' 꺾이자 환율 변동성 확대…내년 1200원대 전망도 - 메트로신문",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9MMjcyYTJOd2NuV2x4N0NldVV6cHFSZW40MGdudGtob0xwSEF6TkZHRmdoWFhHcEFJZXlPX0tSa0dkLVM1Zk43c1BqNWNmTXhWTkRUai1lWkRWaXhJaEtQNQ?oc=5",
-      "description": "'달러 강세' 꺾이자 환율 변동성 확대…내년 1200원대 전망도 메트로신문",
-      "pub_date": "Wed, 07 Oct 2026 07:00:00 GMT",
-      "category": "환율 전망",
-      "key": "01ffcfb11a49d1b3",
-      "topic": "경제·환율·금리"
-    },
-    {
-      "title": "금융지주 반기보고서로 엿본 달러-원 전망은 - 연합인포맥스",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBDUTNBRlp5TlF2TjFFUFVBcERxbzNheXhDcjlLdGgxSEJ3OUFwM0FITlk2eXpXTXNxbVU5S250YWZEVXU2Tk5jMm5EcnFfTGNNQjZkYnJrSmtDZTZnWnppeWdTQWdSczdJbkF2aDIyNHg?oc=5",
-      "description": "금융지주 반기보고서로 엿본 달러-원 전망은 연합인포맥스",
-      "pub_date": "Wed, 19 Aug 2026 07:00:00 GMT",
-      "category": "환율 전망",
-      "key": "ee0772f6aa765fed",
-      "topic": "경제·환율·금리"
-    },
-    {
-      "title": "[모닝 리포트] 환율, 1340원대 중반 소폭 상승 전망…유로 약세에 달러 강세 - 뉴스핌",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5CbXY0bUJtN3FJRTJiMWFGMFNVeG1yWGwtM3E4TThpUlVoci1PMC11eU9rd3JtNkRGOXVqN3A2RXFIcEt1Y1l1cnVfeVJFMGlTYU1xWWFoR1JscTht?oc=5",
-      "description": "[모닝 리포트] 환율, 1340원대 중반 소폭 상승 전망…유로 약세에 달러 강세 뉴스핌",
-      "pub_date": "Tue, 06 Oct 2026 07:00:00 GMT",
-      "category": "환율 전망",
-      "key": "0977ffeb1d2474fa",
-      "topic": "경제·환율·금리"
-    },
-    {
-      "title": "\"달러-원 하락 관성에 엔화 강세\"…1,330원대로 급락한 환율, 배경과 전망은 - 연합인포맥스",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Qd3N3cGdTR1Ewc1JhVEpGMy0tbnZTbDNiRTNyRTI0TF9IX2FpaC1jcjR3M0ZfaEYxODRXMVRpSllYeU93eFUtZGpIeW1uVGpRTVVLMm9lRU5LUmp5eVdxRWV1M0xCcVozOWlnejJvYVQ?oc=5",
-      "description": "\"달러-원 하락 관성에 엔화 강세\"…1,330원대로 급락한 환율, 배경과 전망은 연합인포맥스",
-      "pub_date": "Mon, 07 Sep 2026 07:00:00 GMT",
-      "category": "환율 전망",
-      "key": "2c4dc79c91395595",
-      "topic": "경제·환율·금리"
-    },
-    {
-      "title": "트럼프발 변동성에 미국 증시 전망도 '오락가락' - 연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5RTFRKRWxhbjRCd2xTYmFtaTYwdFRlZGwwQWt5RXNhZVRxNWUwdzZ6U1QwTUFhLU9Jb2pQdXBZNnBVaFdjejJNZnp5RGJMYUNtQW5kaWhOXzl2aTDSAWBBVV95cUxPcTJyUmJFdUQ2RGtscU1tOVhrX0VaSFRuWHY5aEdpaGpudGZJMDVWYmVwSkhDazRqZV9OSXNiYzRHUThMa2xzRFBqb1c4VFk5bE14bERFNUFuYUJYdnNZTjA?oc=5",
-      "description": "트럼프발 변동성에 미국 증시 전망도 '오락가락' 연합뉴스",
-      "pub_date": "Wed, 14 May 2025 07:00:00 GMT",
+      "title": "'관세發 R의 공포' 美증시 5년만에 최악의 하루…다우 5.5%↓(종합) - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE12TDJadG45cUo0SnNuSkJVZnZ2RHRTQjUyNXZWSkFNMllnc3lzOWtOZ2Z3WmxMeHRWNC1KSnpRR2J0NXRCQ2N0YkJpbjd4TDJIMmFMajhGSkxBa2PSAWBBVV95cUxNWWFLZU1faWwyY3FSamViUUplQjRTTDgzV05KNnNKTy14YjQySDZEakszaXhEN1NpNF84c1VieXFVeWxvTVItN2ptYWtzeDRSaHptcVBPckFVN2ZJTnpUUDQ?oc=5",
+      "description": "'관세發 R의 공포' 美증시 5년만에 최악의 하루…다우 5.5%↓(종합) 연합뉴스",
+      "pub_date": "Sat, 05 Apr 2025 07:00:00 GMT",
       "category": "미국 경제·정책",
-      "key": "8a9f5ef07dee454f",
+      "key": "eb1f474c32549acc",
       "topic": "경제·환율·금리"
     },
     {
-      "title": "[11.21(토) 한국장 전망] 나스닥 -5% 충격·코스피 급락 출발 예상 - 주달",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1WRk5XbnFwNWFuTE1MQTExbmQ3bkZZcXRLejdXSVNrUVdPa1ZOclVDNlRmbm5JNDFQdWl1V2pXalI1bk5xX1RqS254dHZjQlFuU0xYeDhNVURrZ0hhRUFuUjhsZ2Y5dHgyZ0NuX0ZXNXhSTmRpVFE?oc=5",
-      "description": "[11.21(토) 한국장 전망] 나스닥 -5% 충격·코스피 급락 출발 예상 주달",
-      "pub_date": "Fri, 20 Nov 2026 21:10:29 GMT",
+      "title": "[글로벌 핫이슈] 트럼프발 관세전쟁 치킨게임 양상⋯세계경제 침체 비화 우려 확산 - 포커스온경제",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE53OHRMWjVydWx4OEZhenVmdkFZSHB4LTZCdEFhOEhMeXY5U2dHY1VWT0p2M3c1Zk53LVpqVmRmdF9lcW5JcDRjTWJ4eFZ4U016YWNMT0Q5X0ZHN1ZXR19OWA?oc=5",
+      "description": "[글로벌 핫이슈] 트럼프발 관세전쟁 치킨게임 양상⋯세계경제 침체 비화 우려 확산 포커스온경제",
+      "pub_date": "Tue, 08 Apr 2025 07:00:00 GMT",
+      "category": "미국 경제·정책",
+      "key": "a122bfec94b7dd18",
+      "topic": "경제·환율·금리"
+    },
+    {
+      "title": "트럼프 관세 공습에 나스닥 6% 추락…5년 만에 최대 낙폭[뉴욕마감] - 뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9GUUwta2JuU2pqb1JNYlBvQ09Ia1d2VDR6eUZhc0k1bEIwd0xpVzk4eDV1bkhJRmdFVFc2TkhKM29RcE9nZElIN0EyNlppRVYtUGVoSkdvUWF0T0xnWGFWaTRRRTdCZG8?oc=5",
+      "description": "트럼프 관세 공습에 나스닥 6% 추락…5년 만에 최대 낙폭[뉴욕마감] 뉴스1",
+      "pub_date": "Fri, 04 Apr 2025 07:00:00 GMT",
+      "category": "미국 경제·정책",
+      "key": "1bcf6325845f6f89",
+      "topic": "경제·환율·금리"
+    },
+    {
+      "title": "관세 폭탄에 코스피 ‘녹다운’…“단기간 내 반등 어려워” - 시사저널",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5vTUNvcjV4LWE2VGpEOS1KV3ctbVNFN1VTbjFiTkZCZnFCNHZqRHVGbWJYZUhNbElyTnFmd3J1ME1DeUlNS2k4SnJhRHNhbWFZWE9URDhQTUlONkFTNlk2RS1HQ0dPbmJwVm10OVZHUdIBc0FVX3lxTE5sYllBeFRQMHlBTzllOWR4MmVBbnN5bGp6ajZoQW5FSlVlSjE0SFBXSXZmUmpfdFBReFJRdE5zc3BBS2JlVnkwTWxpblZzNkxUeEtFUEROckdzRWZlT1JxMHZLSGhGdGpuUTR0bXJQRW5XeUE?oc=5",
+      "description": "관세 폭탄에 코스피 ‘녹다운’…“단기간 내 반등 어려워” 시사저널",
+      "pub_date": "Mon, 07 Apr 2025 07:00:00 GMT",
+      "category": "미국 경제·정책",
+      "key": "225ce32ec0b9f9a1",
+      "topic": "경제·환율·금리"
+    },
+    {
+      "title": "트럼프 관세 전쟁, 미국 증시 이틀째 폭락...글로벌 경제 질서 흔들려 - 시애틀코리안데일리",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5KODUtT3hLcVpmTHp1U0xGeERNSnpxZk9xanU1U185SjgzVXgxZjN2ZjlKRlJqVml1RURaT2F3RHlDTVdQcXctR1RkWHZKWHhCZEFvRmJCdURnS3FEM0llYkNaNWY5OUxzUHpEanF2a9IBc0FVX3lxTE5NUlJZZnVIWnFQTTBRTTVnM3FfNk9rbW1xb0VWN2k4b3V5dXpOTFhLVExHbnl1cDFxdVpyUVBlM0ZLdXZzMU91SmVWSHFOX1F1cHAwX1UxSy1KU2xUV2FpbTlmYWZMVmdkVGNnZ2RhTGlfdTQ?oc=5",
+      "description": "트럼프 관세 전쟁, 미국 증시 이틀째 폭락...글로벌 경제 질서 흔들려 시애틀코리안데일리",
+      "pub_date": "Fri, 04 Apr 2025 07:00:00 GMT",
+      "category": "미국 경제·정책",
+      "key": "f0834bcb347bf685",
+      "topic": "경제·환율·금리"
+    },
+    {
+      "title": "미·중 관세 폭탄 퍼붓자 확 쪼그라든 세계 물동량 - 세상을 바꾸는 시민언론 민들레",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE92ZGJNMHV3UnBJXzZnRzN1Q3p3OFFWbFRPbl81NUM2YnkxZktrY1A1cHVSM1dyOHRfVG1lTjlZVW1lMUxhLXd3eFR1Qm1MLXczaVpsZ1pCb0RDdFpJZ1BMRkthVnpfTW4zNW1MRQ?oc=5",
+      "description": "미·중 관세 폭탄 퍼붓자 확 쪼그라든 세계 물동량 세상을 바꾸는 시민언론 민들레",
+      "pub_date": "Fri, 11 Apr 2025 07:00:00 GMT",
+      "category": "미국 경제·정책",
+      "key": "9f604a0b073cc990",
+      "topic": "경제·환율·금리"
+    },
+    {
+      "title": "美 트럼프 ‘관세 전쟁’에 中 반격…전 세계 증시는 ‘혼돈의 아우성’ - 뉴스퀘스트",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9RQU82NjFsLUswbGJaaEdNX1k0UW5ZMlROOGFvUWpBR0psUUlYbUNsdmdzTi1wd2xqZF9uUURfM2ltVnAxTzRvR3dIUV9KMzU4TDNlX1VLSkc3TVQxVDlMVEtKYjZfa0QyZ29RcnhSMA?oc=5",
+      "description": "美 트럼프 ‘관세 전쟁’에 中 반격…전 세계 증시는 ‘혼돈의 아우성’ 뉴스퀘스트",
+      "pub_date": "Sat, 05 Apr 2025 07:00:00 GMT",
+      "category": "미국 경제·정책",
+      "key": "8258d11397ca3dab",
+      "topic": "경제·환율·금리"
+    },
+    {
+      "title": "상호관세 충격에 '패닉셀'…시총 하루새 4500조 증발 [뉴욕증시 브리핑] - 한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1LYldNamF5ajE3d3NNM0Q4UUU0R3JRa1ZocjhOV0Y2c3oyOUR3cml2eGpNZ1htTk5rR3ozVWFEVFJYYjVHT0c3YWdONVVkU3JZUVd1WUh3M3JpZw?oc=5",
+      "description": "상호관세 충격에 '패닉셀'…시총 하루새 4500조 증발 [뉴욕증시 브리핑] 한국경제",
+      "pub_date": "Fri, 04 Apr 2025 07:00:00 GMT",
+      "category": "미국 경제·정책",
+      "key": "730746ac11e367b1",
+      "topic": "경제·환율·금리"
+    },
+    {
+      "title": "[긴급 와이드 특집] 트럼프 대통령의 관세전쟁 ‘경제 독립 선언’의 앞날은… - sundayjournalusa",
+      "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQam1BajdqdHZGOS1tMHJIakxTM0FXNjFXM0F6M3NmOVp6dlpRaTM3SC1xQURuZ0dRSUk2bkxTMVJMcEl1V1FOd3NTN09WTTNDeGJpS3NVOFdCc2c3OW9xWUljc1FfZXBUcmNObVBsMzNoZ05jQzNBWWZTSVBrN1RxN20xaEFNblVtMlE2TlppUmtsTzVuQXVTNXdGdC01aldwckc1WVFHWGtJblpPWXlGS25tc3lSU0VpQ2g1Z1dCYy1ZV0NiaE9VV1dJZFZsNXU5NlB5b21pUTlXRThYQzdHdjZnbDV2a04waElUZ2N3OE5qWXJTSldLLW9rcGNsMVZtXzJ3VTVoRWFwWXhNSEh4Z2pxYmRLMk4wRkFFd3BrNF9QWGRWXzhYMk5YY3VYQlk1UVItcnA5SExhRHRMUDJ4TGJwR0Fma1oyUXZ3?oc=5",
+      "description": "[긴급 와이드 특집] 트럼프 대통령의 관세전쟁 ‘경제 독립 선언’의 앞날은… sundayjournalusa",
+      "pub_date": "Thu, 10 Apr 2025 07:00:00 GMT",
+      "category": "미국 경제·정책",
+      "key": "ac20c17dd6bc6feb",
+      "topic": "경제·환율·금리"
+    },
+    {
+      "title": "[김현철의 美증시] 트럼프 관세 유예에 주식 시장 환호 - 공공뉴스",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5zT1RLNmFyeWNFZlUyUUFxM1d6UUR4a3MzS0pSTzRyWmRDOERMZ3ZrUHJIX3pRWEI3ZFZSQjFrQUVLc0MyTjFtOFBIZWZPYkhfUVQ5U3FFVV9xTzd2UmhXUzZpbE9MX1BicG1J?oc=5",
+      "description": "[김현철의 美증시] 트럼프 관세 유예에 주식 시장 환호 공공뉴스",
+      "pub_date": "Thu, 06 Mar 2025 08:00:00 GMT",
+      "category": "미국 경제·정책",
+      "key": "05ec69349c5af422",
+      "topic": "경제·환율·금리"
+    },
+    {
+      "title": "2018년 트럼프 정권 시 주식시장 20% 넘게 하락, 2025년에는 어떤 영향이? - 네이버 프리미엄콘텐츠",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOallPdWVVd3d3SnlmazJQXzZUVUxrS0l5ZnY2emc2dHJ1VGZKVkhXVmJwblc0ckhud3JjZUEwYUNNTVJDY0tkdnpVLVF5ZHMwamZ5NnVDOGx2UFdoeVlFUkJwWTRySDNTVHlwNlhMMmRqU1FWeWVFcnlTRGROSF94UVhmRQ?oc=5",
+      "description": "2018년 트럼프 정권 시 주식시장 20% 넘게 하락, 2025년에는 어떤 영향이? 네이버 프리미엄콘텐츠",
+      "pub_date": "Fri, 27 Dec 2024 08:00:00 GMT",
+      "category": "미국 경제·정책",
+      "key": "b766f691c6fa66f7",
+      "topic": "경제·환율·금리"
+    },
+    {
+      "title": "[개장] 뉴욕증시 기로, 트럼프 관세 압박 속 실적 시즌 본격 개막 - 알파경제",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE11Wk5JYjgzNEZtUGd6M29adnhST3VpdDZkWUVVS1U1NFppbWkya21EWk93TXdRT3B6T04zRjlveGxncG5sLVp6N3hOREsyaU5ySDhuUjQxUlRzaFhkRkxULXRIYkJDdVE2WVk3aUVR?oc=5",
+      "description": "[개장] 뉴욕증시 기로, 트럼프 관세 압박 속 실적 시즌 본격 개막 알파경제",
+      "pub_date": "Mon, 14 Jul 2025 07:00:00 GMT",
+      "category": "미국 경제·정책",
+      "key": "35a9e1f824fcbd00",
+      "topic": "경제·환율·금리"
+    },
+    {
+      "title": "[HY 금융분석] “트럼프 보편 관세 확대땐 국내 증시 타격 불가피” - 한양경제",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5PaXlBd045UU5mbTlLdjRnLUdxcllGaDVXaVRCM01aZjlrZmZPUmZRTTVZeDdyWkVla0JPWVBjOHhJdGJ0Z3BRSzlfTkdlaUUwMVBNRURuUHFROEZEZXZqNDhuakktdWJVNTRpamNROTM?oc=5",
+      "description": "[HY 금융분석] “트럼프 보편 관세 확대땐 국내 증시 타격 불가피” 한양경제",
+      "pub_date": "Mon, 03 Feb 2025 08:00:00 GMT",
+      "category": "미국 경제·정책",
+      "key": "4043339711fc9a20",
+      "topic": "경제·환율·금리"
+    },
+    {
+      "title": "미국 증시 전망치 낮춰 잡고 있는 월가 은행들 🏦📉 - 뉴닉",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9aR2VIZXNTZEhKVE1Ya2R2amVsSDZ2dHdVQTJRMDBnQTJiVWQtcFJzSTlzbE5waWcwMXBwZHd6SjQ4OFBiajhJMnluMFFjMU1CRmZR?oc=5",
+      "description": "미국 증시 전망치 낮춰 잡고 있는 월가 은행들 🏦📉 뉴닉",
+      "pub_date": "Sat, 19 Apr 2025 07:00:00 GMT",
+      "category": "미국 경제·정책",
+      "key": "bd418189b7b8d8ed",
+      "topic": "경제·환율·금리"
+    },
+    {
+      "title": "트럼프 1기 관세전쟁 9개월 만에 코스피 23.83% 떨어졌다 [투자360] - 헤럴드경제",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1QZndtU19LYmlWQmR4WDBHM2lSY2xDVV90SkN1X2wxbnVYNFRZZWhsaFdnUFJ1NFVnLXB6NU9jRVBRYlVERTZxUFg2RFYtM1ZhX2M1NWlR?oc=5",
+      "description": "트럼프 1기 관세전쟁 9개월 만에 코스피 23.83% 떨어졌다 [투자360] 헤럴드경제",
+      "pub_date": "Tue, 04 Feb 2025 08:00:00 GMT",
+      "category": "미국 경제·정책",
+      "key": "cb0d3aeb2c5b0608",
+      "topic": "경제·환율·금리"
+    },
+    {
+      "title": "[11월 셋째 주 세계경제동향 브리핑] 코스피 4,800선 추락…나스닥 10% 폭락 - 기호일보",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5zeTBxbEZWTDFxS2F1bW5KSFhIbzZocXFQYUUtV3VFZEYzN1VDMkJRNUhFTTN6OHNhVEFIVHFTaUdWN0k1QmxJd3A1SzE0OWc4NUZLbWpIblRQaVBHdEZwRXpESjJpNlF1Y2laNkN6dw?oc=5",
+      "description": "[11월 셋째 주 세계경제동향 브리핑] 코스피 4,800선 추락…나스닥 10% 폭락 기호일보",
+      "pub_date": "Sat, 21 Nov 2026 01:33:00 GMT",
       "category": "글로벌 시장",
-      "key": "9717c29d151c0cb2",
+      "key": "06b0f4a82d7ec631",
+      "topic": "경제·환율·금리"
+    },
+    {
+      "title": "[코스피 8000] '꿈의 8천피' 돌파…세계 증시 판도 흔든 한국 - 뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE96QUtBZ202YWRrY2hJalJPVmlFMU1lOW9mTk94dXExekRhdUpLSTdNX0dJYXNBWFRaVi1mOHdCOGpaa19hbDYxeXdlRGt3NzBobnJxaXhmZGlLdXE3?oc=5",
+      "description": "[코스피 8000] '꿈의 8천피' 돌파…세계 증시 판도 흔든 한국 뉴스핌",
+      "pub_date": "Fri, 15 May 2026 07:00:00 GMT",
+      "category": "글로벌 시장",
+      "key": "2c758a2b6ef568d5",
       "topic": "경제·환율·금리"
     }
   ]
