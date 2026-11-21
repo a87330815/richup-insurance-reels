@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-21T10:30:42.512292+00:00",
+  "collected_at": "2026-11-21T15:43:16.714510+00:00",
   "topic_weight": {
     "보험·상품": 30,
     "영업·마인드": 25,
@@ -7,27 +7,424 @@
     "경제·환율·금리": 25
   },
   "topic_counts": {
-    "의료·건강": 1,
-    "경제·환율·금리": 1
+    "보험·상품": 15,
+    "영업·마인드": 16,
+    "의료·건강": 15
   },
   "items": [
     {
-      "title": "[AI와 의료④] 국립의대 부재 전남, AI로 의료 사각지대 넘어서기 - AI타임스",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB4dUlTMUlzZlNQckFVV0p0NnV5d3JaT3RpNDJZZHVxRlFNYVp1ZVhVVzZsZ2FsSzVnQXFJbnhZRTBnNkM5cGdhVVdnT1NyUmVjRHdZdmpGQWVSb18zdVl6X2d2eWJaSGhFd0E?oc=5",
-      "description": "[AI와 의료④] 국립의대 부재 전남, AI로 의료 사각지대 넘어서기 AI타임스",
-      "pub_date": "Fri, 08 Nov 2024 08:00:00 GMT",
-      "category": "AI 의료기술",
-      "key": "d63370f23b35d1e9",
+      "title": "[AIF 2026―축사] 서영일 금융감독원 보험 부원장보 - 한국보험신문",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBGM1c2QW9mS3dXazZQVUFGdmZOUkJvd0NkNm10ZUZOUE5MTlFLLWp4YkhwUDJ0TUxnQTZOSmd2ZTlQakhWUGZxODIzYzF3Vko1WWlSUVVOT3FFeE1kVXBlSkV6Wk9OZzVZMGhJ0gFvQVVfeXFMT0QzUGt1bTBtc19jczZxMFkzdmhJdU5aM3RuaWMxZzdCMTUyTHhzQmtDVEtVUl9YbUl2UDZDMDY5a01NUnV4NTNMWkFhVmZ1aEx5VjJHZjVFN0EyakV1VlhKN2hRQXVpMC15S0lZNWpB?oc=5",
+      "description": "[AIF 2026―축사] 서영일 금융감독원 보험 부원장보 한국보험신문",
+      "pub_date": "Mon, 13 Apr 2026 07:00:00 GMT",
+      "category": "보험 제도·규제",
+      "key": "724022d187355b71",
+      "topic": "보험·상품"
+    },
+    {
+      "title": "보험GA협회, 제4차 자율협약 운영위원회 열어 - 한국보험신문",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5KUTZfUUl3MDdpWHJZMmozUVQ5WmdPWUhmeGpDWUFEY00xVEpoblh4VWdKTktGUXAtaENPaUQ2TVBSVThzTFNwRlFrMFJDSGkzUGw0VXVPOXFqc0dacG9NMFdBa1UzRXJmbXRV0gFvQVVfeXFMTzJPemNmTTlieEQyekFjSi1nVkN6T2NEaS1MYzBPMndPWmJuMlJqSTBFMy03VTRYS1hEYjMxZU5pWWd5VjBUYlBHbEI2LWVoYXB3MHR6bmpvV0VlUXp2X3hFZXZ2aEIzV0hTS3cydG1V?oc=5",
+      "description": "보험GA협회, 제4차 자율협약 운영위원회 열어 한국보험신문",
+      "pub_date": "Tue, 07 Apr 2026 07:00:00 GMT",
+      "category": "보험 제도·규제",
+      "key": "32f113018a45c189",
+      "topic": "보험·상품"
+    },
+    {
+      "title": "금융감독원 국정감사, 보험 감독의 ‘사각지대’ 수면 위로 - 한국보험신문",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9EMzY4ckNTWXpSNkpYSTBtZm91NHN0WGNzNnAzN19LemdJcEhsS1hibUlPc0IxNTE4R2lXUjdCYXYyQ3B4bnBJRTBoYkFybkFRX2Q2eG5DVmZfQjdOd0VOSC0yVjNvNmdkSldB0gFvQVVfeXFMTkFGMjhGZTRjclEyT0dYNUw5RjZySG5pMEktcGRQTzVfY3UxckFSeGpKUFY1R2RTN2pFOVI5cE9hY09FSXBuT0JHWEtVNWZSeWQ4Rms4TWY3SEhnbkhSeEFKSDNhU3Y3WW5LOTRVNXhF?oc=5",
+      "description": "금융감독원 국정감사, 보험 감독의 ‘사각지대’ 수면 위로 한국보험신문",
+      "pub_date": "Tue, 28 Oct 2025 07:00:00 GMT",
+      "category": "보험 제도·규제",
+      "key": "ba19ef5d3771fb2b",
+      "topic": "보험·상품"
+    },
+    {
+      "title": "금감원, GA 영업질서 확립 지속… 보험사의 GA 판매위탁 관리 강화 - 한국보험신문",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1jT2FnOXJMTkRzUG9zQ0szTVpUZjFlVTI4LXBkd1h2dHNvM08wUHdtY1AxMnpSY0J2alo5dW5iRGdoRzh0QjNPZ3I3SHRLM3AzNXk0UWR3eTg3dlZoTDdmSXpWUW1DcVlMWjZN0gFvQVVfeXFMUFFmeDNNSUVkLWw2a2JjMWlYMG9MT1gwdVNzamRHQ0otQWlfYUpXeHV2V3U1NkN6YWdWMjNhSTBXRVpyS2c1ZGk1VnZldHZzcGVYMlQ5SmpPZlNLTktkNjN2MDByNVdnSEVyMUM0WEV3?oc=5",
+      "description": "금감원, GA 영업질서 확립 지속… 보험사의 GA 판매위탁 관리 강화 한국보험신문",
+      "pub_date": "Wed, 04 Jun 2025 07:00:00 GMT",
+      "category": "보험 제도·규제",
+      "key": "544c75bc3709801c",
+      "topic": "보험·상품"
+    },
+    {
+      "title": "보험사 GA 수수료 개편, 규제개혁위원회서 멈췄다… 쟁점은? - 시사오늘",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5Fc0tDUHkwdUtjbkhkc2YtZnFVeEJjN3ZlREVxWXZmcTgtQzZBWi1MaW5oQ21uVFJ1RkdKRnVuU2UtWE5RSFJBLUtpX1JiSE5ielZjZ3Fmazkxby01TzF5V0NtQU9kR1ctQXQw?oc=5",
+      "description": "보험사 GA 수수료 개편, 규제개혁위원회서 멈췄다… 쟁점은? 시사오늘",
+      "pub_date": "Fri, 19 Dec 2025 08:00:00 GMT",
+      "category": "보험 제도·규제",
+      "key": "7f531801b603f2c5",
+      "topic": "보험·상품"
+    },
+    {
+      "title": "1200%룰·수수료 분급제도 시행이전 GA시장 설계사 스카우트 경쟁 가열 - 보험신보",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5qcjdITUNfR0I1czJxeXV3TUdjbXFCMGhyTy1DdmctS3l0c1dsbFNGb3RadlRfNEo5WnFkcUdURml2OFVaZmRaeENFT2tfdGNMOFBCa0VIc0hVU1IyR0lwY1g1cFVHeU4zeHhr?oc=5",
+      "description": "1200%룰·수수료 분급제도 시행이전 GA시장 설계사 스카우트 경쟁 가열 보험신보",
+      "pub_date": "Mon, 09 Mar 2026 07:00:00 GMT",
+      "category": "보험 제도·규제",
+      "key": "7c9851aa48f1e241",
+      "topic": "보험·상품"
+    },
+    {
+      "title": "보험개혁안, 영업시장 신뢰회복·혁신에 방점 - 한국보험신문",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE13MzlpdmoyeERsZUM4RndBMU9DNjdDbGltZm9QTWp3ZGwzZjUyWnhMZEJCZ3ktZXBmdnJ1YVUwZnlnX2FOQWVVSl9tb0tLSVl6OVNmdmdKbkxJZ1pFbDZ2RTZVLXRXNEU4NlZB0gFvQVVfeXFMTTJnUG9Cek01a1VLSjhSOF9BNDRkZjBRYmtiV3dxTXNWMU1mX2xiZzJBNU0xY1RsQ19rN21USUM2azRDbXhQbEJIU2RrUFpRdFRBcHRYUXo0cDVHenVxRlBfNVRNNVZoRHhDeDdxQ0NV?oc=5",
+      "description": "보험개혁안, 영업시장 신뢰회복·혁신에 방점 한국보험신문",
+      "pub_date": "Mon, 15 Sep 2025 07:00:00 GMT",
+      "category": "보험 제도·규제",
+      "key": "4bb47870c807d771",
+      "topic": "보험·상품"
+    },
+    {
+      "title": "“1200%룰 앞두고 GA 시책 환수 갈등 격화” - 한국보험신문",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9rSll3ckVCZFliWVUxNFJzbDV1X0NZX2lCQmwtT3pmWVdESmh6UUtZZk16dDB5VHdqUXhDU0p0b3J6aUdDTWY2Y3NLTk03bTlxZDVPdXpBNUhIWm1wblo4Wk10NGJpZTQtbTZr0gFvQVVfeXFMTjNrRWVzTW1kaXhvby1XRGJXTG42djdEaUZlVEhEamdXT0FJRDJDazNYZnJkcjBDdURERlpEQ2FYZFBJVVVqcEFoVzZKbV9ENXZpZ2hZRXk2ZVd0eXhYWUpBTHZNYXIyNld6bXViTGFz?oc=5",
+      "description": "“1200%룰 앞두고 GA 시책 환수 갈등 격화” 한국보험신문",
+      "pub_date": "Mon, 06 Apr 2026 07:00:00 GMT",
+      "category": "보험 제도·규제",
+      "key": "370d330c3781f128",
+      "topic": "보험·상품"
+    },
+    {
+      "title": "4년 분급 틀은 확정…설계사 떠난 계약 ‘누가 관리했나’가 새 쟁점 - 보험매일",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE42NUpSNlpkcEo0M3VHRTVueGpzUUQyekhSWW51Ui1faWVKR0wxQ0p6NjJDVEc1R2pCTHZLRC1FTEhiRlJDV0Fvd1R2ekhxVmV3bHlFMlV0MWt6dE5hWWxHcFdNR3FvSXph?oc=5",
+      "description": "4년 분급 틀은 확정…설계사 떠난 계약 ‘누가 관리했나’가 새 쟁점 보험매일",
+      "pub_date": "Wed, 26 Aug 2026 07:00:00 GMT",
+      "category": "보험 제도·규제",
+      "key": "7b0b92d686c5b164",
+      "topic": "보험·상품"
+    },
+    {
+      "title": "GA 정착지원금, 올해 4천억원 돌파 전망… 스카우트 경쟁 유발 - 한국보험신문",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE81Yi1vTllTMThvTE9uVTR6YlhVNXlnX01nT0xmb1NlcHJSbUljS0c3c2tKVWRyRlJKWHljSHlOYkdkbHRkOURyTVNpWXBHZUFma3RiMDFYV2xLVXh2bGZYUzRjOWpFMFpUTnV30gFvQVVfeXFMTzdoTk5FM253bmtRU0tRQnFjdzV5R0M0OHllZWxBSE9TQlhjMWN1NzdObG5BTEZPMlNqZl9ZYWdaV2FkRmt1czBhNGwwaV8tdUgyUXhicy11aGhhR1RmZEl6UnlDdW90Z0llRld4cDZ3?oc=5",
+      "description": "GA 정착지원금, 올해 4천억원 돌파 전망… 스카우트 경쟁 유발 한국보험신문",
+      "pub_date": "Mon, 10 Nov 2025 08:00:00 GMT",
+      "category": "보험 제도·규제",
+      "key": "a517f3156f11023f",
+      "topic": "보험·상품"
+    },
+    {
+      "title": "김용태 보험GA협회장, “신인 설계사 지원 시 채널 간 규제차익 없어야” - 한국보험신문",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9iZk5pOHVranJBQXQwUDhXMkZrTmhhLTVzdWpyam9zQWRXZHM2dEFydE1ORGFBV0hDRzllV0lzOTM3bDYwdnpzb09aOU44Nl9MVENVR1BpUzV2NFRCbXRKaEpXcDJXVUZ6czB30gFvQVVfeXFMTmcwczQ4bUNUcWFrQlpDVVdMVkplNkpGaXhDSFRtZDBvVzZDNUxRdk45Z0lrN0pzU281c0stZkVRREw5QXdTZG0zemxOQ09tc0lrc2NQbm9JRWEwOWhSczY4emlXV0pFS3RwWDlSOUg0?oc=5",
+      "description": "김용태 보험GA협회장, “신인 설계사 지원 시 채널 간 규제차익 없어야” 한국보험신문",
+      "pub_date": "Tue, 14 Oct 2025 07:00:00 GMT",
+      "category": "보험 제도·규제",
+      "key": "ed127fbdae7b5605",
+      "topic": "보험·상품"
+    },
+    {
+      "title": "금융당국, 보험개혁 종합방안 마련... 소비자 중심 제도개혁 추진 - 녹색경제신문",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9fLXVwQU5hR251Rld3RWdWLTVLdWltTTNCNFlnU0JuZ3I5ZzJXNXo0Wl81NDVXdGZqT2hZS2MxY19keFRRVnR0N3N6NjhmaUVyY1dEQlVOTnB3ZzZzNEl4ZlRZNU54a2pw?oc=5",
+      "description": "금융당국, 보험개혁 종합방안 마련... 소비자 중심 제도개혁 추진 녹색경제신문",
+      "pub_date": "Tue, 18 Mar 2025 07:00:00 GMT",
+      "category": "보험 제도·규제",
+      "key": "c3d6d79fe416719c",
+      "topic": "보험·상품"
+    },
+    {
+      "title": "보험설계사 판매수수료 분급기간 3년→7년 확대…GA '1200% 룰' 적용 - 뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9nMUZVTGhua2d0TWh3Y2NzOFhWUjJzSDdlV3hTMnFhSW9iMWJBbldxNktLSWFBM2VxTEhDY3dld1NvVVZBeGpINzh3eXA4WWp0cV9iWld4NVFaT0hVd3VFWg?oc=5",
+      "description": "보험설계사 판매수수료 분급기간 3년→7년 확대…GA '1200% 룰' 적용 뉴스1",
+      "pub_date": "Sun, 01 Jun 2025 07:00:00 GMT",
+      "category": "보험 제도·규제",
+      "key": "68df166ebf7991dd",
+      "topic": "보험·상품"
+    },
+    {
+      "title": "감사원, 금융위·금감원 전격 감사...금융투자자 보호 실태 전면 점검 - 청년일보",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TQ0RzR3VGRzFMY1B2RkpKR19kY1VhRGtJd3o3WEdWc1dxbnlpOGxoOHBuN29XTWd0Y0NoYUpyUmtodXVmazJMMDZwUVIyOWw0Z2J3R1hMdVFIX0U0QTF2ZG1OWTRZbjg?oc=5",
+      "description": "감사원, 금융위·금감원 전격 감사...금융투자자 보호 실태 전면 점검 청년일보",
+      "pub_date": "Thu, 25 Jun 2026 07:00:00 GMT",
+      "category": "보험 제도·규제",
+      "key": "b1d9a4389d3865c6",
+      "topic": "보험·상품"
+    },
+    {
+      "title": "받은 수수료 100, 환수는 120…인카금융 환수 조항 ‘어떡해’ - 파이낸셜투데이",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5zVmlpUU1LNURqZS1NM29MRmwzSUxEazNTSm1zOWJIeURjeU9iZmxyMVEydWVMUlJ2UlBqSU5HQXFkT25KdHp0eF9JR3RpZml0VlhGbERpNl9sN3ZmRnU3OEZiUmJBLTNRc1HSAW5BVV95cUxQWHZMeHNIczhBRWJja3NyQnhMeXRfRXhwWl9fU1dsSGRsU2NVRVUyQXVFWkc1TlIyZmp6eElJREJrd0N6QnFTUWhLdHl4UldoTWp1T3dVcGVGS1VMZ0hKN2tHMnpNQzJYd3JWMmotZw?oc=5",
+      "description": "받은 수수료 100, 환수는 120…인카금융 환수 조항 ‘어떡해’ 파이낸셜투데이",
+      "pub_date": "Thu, 08 Oct 2026 07:00:00 GMT",
+      "category": "보험 제도·규제",
+      "key": "fd9962fbaee47d27",
+      "topic": "보험·상품"
+    },
+    {
+      "title": "[풍향계] SNS로 계약하는 보험설계사···영업트렌드 '급류' - 서울파이낸스",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1NWEphTm1YVWFaRWhDYnMxX2hlUC1ZZTItaElsU0g4RXNlb3NhWXhvOFBabGJtNmxUS0JrbnZyZmpfNkhsWjJJcl9CcFdia25DcmFEcThhYm1WN0NkcS1pUUc3VGtsWllpeWc?oc=5",
+      "description": "[풍향계] SNS로 계약하는 보험설계사···영업트렌드 '급류' 서울파이낸스",
+      "pub_date": "Fri, 07 Feb 2020 08:00:00 GMT",
+      "category": "보험설계사 영업",
+      "key": "357203a3a948071d",
+      "topic": "영업·마인드"
+    },
+    {
+      "title": "수수료 전쟁 '끝물'… GA 리크루팅, '복지 인프라'가 핵심 경쟁력으로 뜬다 - 보험저널",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1JS0xzNUFNcEFFNFNEbVNyR3JUSm5TcElFdjdQYUZwZ0RianpsUnY2X0hEendIWUxvTmxpaThWcjVDMWhDNFVqQ0FHbFZtVFFvcDJlTV9Vd1d5Z180REd5SFphWTViYm9Bbm1jbnFIOA?oc=5",
+      "description": "수수료 전쟁 '끝물'… GA 리크루팅, '복지 인프라'가 핵심 경쟁력으로 뜬다 보험저널",
+      "pub_date": "Tue, 09 Jun 2026 07:00:00 GMT",
+      "category": "GA 법인보험대리점",
+      "key": "1ddada9191bd45be",
+      "topic": "영업·마인드"
+    },
+    {
+      "title": "“6개월 밖에 안 남았다”… GA업계, ‘1200%룰’ 시행전 '경력 설계사 영입' 속도전 - 보험저널",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5tVGZtTm1ZcUlMZ0VVQUd2ajNtbDVzTWlDQ0dzZ3E4MDlldlZLS1JMOVhBVlRqSEl6b1Q5NkNBcE9RclBnN2tSUzdoQ2dEWUZXVHQxNGlrX2NyN090NktIdlp5dGthY2JpSnFGR3lVRQ?oc=5",
+      "description": "“6개월 밖에 안 남았다”… GA업계, ‘1200%룰’ 시행전 '경력 설계사 영입' 속도전 보험저널",
+      "pub_date": "Thu, 22 Jan 2026 08:00:00 GMT",
+      "category": "GA 법인보험대리점",
+      "key": "8321379ba8979814",
+      "topic": "영업·마인드"
+    },
+    {
+      "title": "[이슈분석] \"받아도, 안 받아도 문제\"… GA 스카우트 '무이자 대출' 진퇴양난 (영상+) - 보험저널",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE96bGEweUVGQlpheDgwblluRUxUQ2ozQXRZeEh6TE41VmRBTXVLS3BqcEk0amY0dTZrVmhCU25TODN1b0RZakF5b3BVLWpBaDJoTUktZUpUVV9SQTNVLXlUSC1VcXZCT3lqUFV5Zzc2QQ?oc=5",
+      "description": "[이슈분석] \"받아도, 안 받아도 문제\"… GA 스카우트 '무이자 대출' 진퇴양난 (영상+) 보험저널",
+      "pub_date": "Thu, 28 May 2026 07:00:00 GMT",
+      "category": "GA 법인보험대리점",
+      "key": "0cc8cfe7e499b94b",
+      "topic": "영업·마인드"
+    },
+    {
+      "title": "[칼럼] 보험대리점 수수료 환수, 이것만은 알고 대응해야 - 보험저널",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZQi04VVVYTWpFQWN2bmdZeFNITWw1UWt1WktPTE8zQVdOdVFJWk5rVTJ5S3VfRDlCaDFOTVllamVpajJqbWtDU1NYSXZEa2lDV1NwdDRhX2lfaFQ0al9FU25vT2tpS1hXMHJ0Nkg1Zw?oc=5",
+      "description": "[칼럼] 보험대리점 수수료 환수, 이것만은 알고 대응해야 보험저널",
+      "pub_date": "Thu, 01 Oct 2026 07:00:00 GMT",
+      "category": "GA 법인보험대리점",
+      "key": "ca336aa4aa5ee719",
+      "topic": "영업·마인드"
+    },
+    {
+      "title": "에이플러스에셋, ‘상품전략 워크숍’ 개최 - 한국보험신문",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9EbUlkMExTQUlNWHo5VFBDVXE5bjFCVXZ5TXJVVS0tUzdzN2FxbURpbDNMV2Vwb0d2bmxMNTV0REpVcGZ5WGN6WGtXVlRYTUJRLTluSGhzemVwd3lrYWsxcGtlVnJlY1E5cVlv0gFvQVVfeXFMT0dHZE5DUy01NkhSeUpFWElyMzdWSE1mcWpjR01WU2h5d01aTFlBUWhFNDVvckNwcjZfcm1rUHk5eUFyUjVFeXNvOUNXUnBxeXViSHVFZy1PWDNZV0E3ZlhHZHpBMDZDaGZ2WTgxSGtj?oc=5",
+      "description": "에이플러스에셋, ‘상품전략 워크숍’ 개최 한국보험신문",
+      "pub_date": "Thu, 19 Mar 2026 07:00:00 GMT",
+      "category": "GA 법인보험대리점",
+      "key": "cf4c8ba85e38aa3a",
+      "topic": "영업·마인드"
+    },
+    {
+      "title": "‘연봉+15%’ 내건 AIA생명, 본사→자회사GA로 - DFT 대한금융신문",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1zemFEcnhnejRJMFBOc29SX1lFWmphRkVJNzlMbkZPaHVnSW5NSHJxMmJ2OF93OVJ4OFB6Uk13ZXZFNkxhRlRkQVdLdGZhbTlVellhcElWdS1BeVJMSGVPSUtfOG5jQlQxS1NLQdIBcEFVX3lxTE1vMUY5UXZib1piMmE0WXByNXFoQmFSSlBGb2ZrT21uQUxJY3VFREJtTWgzR0tTUDB5d0g4akJwM2hyNk4xZEJxejNybjdFaTRhZzl1dmJIUmVnMzY5SU9GMWdVWEpxS1ByNEJkdHhyX08?oc=5",
+      "description": "‘연봉+15%’ 내건 AIA생명, 본사→자회사GA로 DFT 대한금융신문",
+      "pub_date": "Thu, 22 Jun 2023 07:00:00 GMT",
+      "category": "GA 법인보험대리점",
+      "key": "2ca99f6ce9395f05",
+      "topic": "영업·마인드"
+    },
+    {
+      "title": "1200%룰로 바뀌는 대형 GA…선수 대신 ‘팀’ 산다 - 에너지경제신문",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE55MjdPcUhDdUZ2c3JKVDc3b29ybVQ3V3QtaDFXZzE4XzhEQk0taUtMUmdmR1BHSWFjeDNNQ1I4U0NCT0tXeDNKakh0WU5HVkdndEZpVnZXZ29BOEk?oc=5",
+      "description": "1200%룰로 바뀌는 대형 GA…선수 대신 ‘팀’ 산다 에너지경제신문",
+      "pub_date": "Sun, 27 Sep 2026 07:00:00 GMT",
+      "category": "GA 법인보험대리점",
+      "key": "1e5662d844b57fbc",
+      "topic": "영업·마인드"
+    },
+    {
+      "title": "토스인슈어런스, 2분기 리크루팅 부스팅 프로모션 성료 - 보험저널",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFByazUxS1hDYzNybk1HemVjaTFpSTRzMGsxbUpHZ3JGX2JwNF9YUkhNQXU0OGI4OThIOVJveUVVc29YMExUTlpRNGctYTgzb2wtRXhwejFpcEdvdk5qSkVFWldEUUwyU3VIb1RxZGhOaw?oc=5",
+      "description": "토스인슈어런스, 2분기 리크루팅 부스팅 프로모션 성료 보험저널",
+      "pub_date": "Mon, 27 Jul 2026 07:00:00 GMT",
+      "category": "GA 법인보험대리점",
+      "key": "fff95f4c22708bac",
+      "topic": "영업·마인드"
+    },
+    {
+      "title": "GA업계, 삼성화재 파트너사업단 인기에 ‘아연 긴장’ - 보험매일",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1wZWZLNmxiUnpLY1BGTTItbkU2UEgtV1g1b1R2cGdPdEtQdW5wSHg3bTBZamN0RkxpQ0tlRy1tS2NGWEdpS1dVMERWNnFZSzIyTkk5MHVTanBuSmZsYmR5S1lhN193VGFn?oc=5",
+      "description": "GA업계, 삼성화재 파트너사업단 인기에 ‘아연 긴장’ 보험매일",
+      "pub_date": "Tue, 30 Sep 2025 07:00:00 GMT",
+      "category": "GA 법인보험대리점",
+      "key": "257343c62a78aae4",
+      "topic": "영업·마인드"
+    },
+    {
+      "title": "(단독)‘집단해촉’ AIA프리미어파트너스, 금감원·공정위 집단민원에 형사까지 - 뉴스토마토",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE83YkstbGVrQjdLVTBKX2pWTUFQTWwxT2tRVzlKaGVodzhuUEY4U1ZmZlVoZ0JUWTRHamFVOWVjbktDMUEwYnZlRnl6bXhDaUxJVmNfdXZJWHJLQ3UtXzA0SQ?oc=5",
+      "description": "(단독)‘집단해촉’ AIA프리미어파트너스, 금감원·공정위 집단민원에 형사까지 뉴스토마토",
+      "pub_date": "Wed, 27 May 2026 07:00:00 GMT",
+      "category": "GA 법인보험대리점",
+      "key": "64657d9ad41edfb8",
+      "topic": "영업·마인드"
+    },
+    {
+      "title": "[자회사 형 GA탐구]③미금서, 제판분리 2년 만에 흑자 전환 - 파이낸셜투데이",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE45ZHlKbExWZnJ0TTBtVUY5anc4dVFYd1BTZWFyZThRWXdPbUlja1FOb0JuMHR4ZTNBNDUzZkNXMEdUSHlLdTFiQkZzaWZJT1pDMWFpMTBZZ1Q4S01iQTZObmh5OElFTlBXQmfSAW5BVV95cUxOWTZEakhvODh5SW9SMXRrd1pSajZCVE5PWXhMbHdZeENDNGxrSld2blRwUGUzYXF3NlR5Qi1vb1dxS1d5Ry1GWXZ4TW51ZlNoa3dIcnc5TGVCSlU5NnRLS2o0NWFoWW5xR1ptam4zUQ?oc=5",
+      "description": "[자회사 형 GA탐구]③미금서, 제판분리 2년 만에 흑자 전환 파이낸셜투데이",
+      "pub_date": "Wed, 17 Sep 2025 07:00:00 GMT",
+      "category": "GA 법인보험대리점",
+      "key": "b61e79d1146dcd2c",
+      "topic": "영업·마인드"
+    },
+    {
+      "title": "\"1200% 룰, 우린 걱정 없다?\"… 스카우트비·시책 선지급이 가른 GA업계 '무풍지대' (영상+) - 보험저널",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBOZTZOTFVEUWhpOW50cTJXOW5LZkFpMWQ1Vk5wa2RJd24xZFIzWkQ5M1pxOG0wOGJEUTVGeld3QWFGTVp1OE1BS25LZ3NObWZodkwtd1Z6Sk5QSXZiQUFjcmN1SkxtUEZPMEs3WFpncw?oc=5",
+      "description": "\"1200% 룰, 우린 걱정 없다?\"… 스카우트비·시책 선지급이 가른 GA업계 '무풍지대' (영상+) 보험저널",
+      "pub_date": "Sat, 30 May 2026 07:00:00 GMT",
+      "category": "GA 법인보험대리점",
+      "key": "38a5131fcc5f269b",
+      "topic": "영업·마인드"
+    },
+    {
+      "title": "\"자사 상품 팔아 달라면서\"… GA ‘신인활동지원비’ 반대하는 보험사 속내 - 보험저널",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5iVzhleEZEZWY2cXRxY2VfWWtTeTVOUFpzaVRUcGtrcE9hU24xRXdCaDlKTExRUVdfUHhUVVc5UW1xQnYtRGJMdEFCNXFUbFE1UEllUG5aQWR5UVVIVEFSYVF3OWxHVllJQldtNjVpSQ?oc=5",
+      "description": "\"자사 상품 팔아 달라면서\"… GA ‘신인활동지원비’ 반대하는 보험사 속내 보험저널",
+      "pub_date": "Tue, 28 Oct 2025 07:00:00 GMT",
+      "category": "GA 법인보험대리점",
+      "key": "44a5a028468fbe44",
+      "topic": "영업·마인드"
+    },
+    {
+      "title": "1500억원 쏟아부은 보험업계···GA, 설계사 영입 무한 경쟁 - 뉴스웨이",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE84SDdCenY0QmR4aHdfTGFPOC1NbEtWRzI3UjdqYUdIaTg3bjdNd0o5VGFseG1lMWNDUi1zTW1qN3R4dnlnaU5ieTZiTlZudmxMN1BwZTlOVDBtekE1WmFRUzJzbjhpVzhBVWc?oc=5",
+      "description": "1500억원 쏟아부은 보험업계···GA, 설계사 영입 무한 경쟁 뉴스웨이",
+      "pub_date": "Wed, 25 Feb 2026 08:00:00 GMT",
+      "category": "GA 법인보험대리점",
+      "key": "3ab47670b28fb2d2",
+      "topic": "영업·마인드"
+    },
+    {
+      "title": "③ KB라이프파트너스, 판관비 부담에도 생보 계약 성장세 - 톱데일리",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5zVHE1MVFGZklJWEdaQTNJeDMyS08yaHdBNGZLczVrM24tQjh1WnY5ZnpUYi1nVVpmNDRfeUxyeU9QMklYQUFNOTlubFR5aHJ4?oc=5",
+      "description": "③ KB라이프파트너스, 판관비 부담에도 생보 계약 성장세 톱데일리",
+      "pub_date": "Tue, 22 Jul 2025 07:00:00 GMT",
+      "category": "GA 법인보험대리점",
+      "key": "6098d4242731f3fc",
+      "topic": "영업·마인드"
+    },
+    {
+      "title": "DB손해보험, 암 진단비 넘어 치료비 보장 강화…'미니암플랜' 첫 출시 - 금융경제신문",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE80cVAxUmtCSFVUWXk5SW91RFNITm5aRE90TUJ6TXBQNEdpYXVmRmdFY2RWX2JkLUI3UTBfZkltRF9tU2FHd2VsRjBSTUo1ZWJfVDVGdlFLeVFGNlg4em16d05OZC1aMEM4czUzVtIBb0FVX3lxTE10aDdyRFJRTnhyMHpCMEFteDBNSHM1Q2RSNFpDM2o5WllZUjRTSk9fQS1WZVptRzV5am13ZkZhd0JZQTNXSWZVdkE0TVhWYjlvVnN6Z3Z5T3FDcU1ZdnpqMDJ2QjJPVTRsdVhqaVZNQQ?oc=5",
+      "description": "DB손해보험, 암 진단비 넘어 치료비 보장 강화…'미니암플랜' 첫 출시 금융경제신문",
+      "pub_date": "Fri, 20 Nov 2026 11:46:31 GMT",
+      "category": "암 의료비",
+      "key": "64f17fb2fda98818",
       "topic": "의료·건강"
     },
     {
-      "title": "[개장] 유럽증시, 미국과 무역전쟁 우려에 하락..뉴욕증시 휴장 - 알파경제",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBZOHcwLXNreDkySmlRcXNPYmRCb1dudUQyMmhnRUZSNUdCWFJQdUotbjk5SEg3RDdpaFpPMFQzcXF3SEtPYnhBT0R4cXVRYlhNbDdENW9EeDZfNVdWWkJnTjI3dnFLT1RBUk54MU1B?oc=5",
-      "description": "[개장] 유럽증시, 미국과 무역전쟁 우려에 하락..뉴욕증시 휴장 알파경제",
-      "pub_date": "Tue, 20 Jan 2026 08:00:00 GMT",
-      "category": "미국 경제·정책",
-      "key": "a695504b3e434383",
-      "topic": "경제·환율·금리"
+      "title": "DB손보, 암 진단비 넘어 치료비 보장…온라인 전용 미니암보험 출시 - KPI뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5jV0g1RWxkeWdULTlDNk9pT2dGbWlmdEttWnpsSUVzam5RN2RkRmZOUEJqMDllYVQtMllhR2ZZMlAtN285cjJKOHJFX21yam5QZUdDcndLc9IBU0FVX3lxTE9BSUVxejg0MHd3a0c2bEY1TWNtZ0c2cU1nSTFVUjBIZURBd2FjS2FJR2ZSYU1xRHlvb2VIYUlvZHM5bG5fRHY2NC1VT2tibUtXQXJj?oc=5",
+      "description": "DB손보, 암 진단비 넘어 치료비 보장…온라인 전용 미니암보험 출시 KPI뉴스",
+      "pub_date": "Mon, 16 Nov 2026 08:07:16 GMT",
+      "category": "암 의료비",
+      "key": "cde48de73163135e",
+      "topic": "의료·건강"
+    },
+    {
+      "title": "DB손보, 인터넷 전용 '참좋은암보험' 출시 - 현대경제신문",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5VNm5JVjBDMzFkVzg4RnlfWXZ0WFFsd2lGZ1hLM2FIXzZ1VFBrYkE3OEVuNGNVb2JDT1BNbDRqS2dxUmFEUTZhNDZyaHVjWWhwZXVQYTlzUmxDUVc3ejZOSE5kMGJ5d1HSAWtBVV95cUxPakgwd2RwUEdzTWtKekNJVmFHN3NWNFp0M0p3NWxOS1h1VU5EaGlWQ2FraC1yMURWYXRaV2NIOVF3NmYyQVF0MWZ3dVdRNk5DbWlZa1kwMWxWc3RJNTdtOVFnT2xlM3pHVXI4SQ?oc=5",
+      "description": "DB손보, 인터넷 전용 '참좋은암보험' 출시 현대경제신문",
+      "pub_date": "Mon, 16 Nov 2026 02:34:33 GMT",
+      "category": "암 의료비",
+      "key": "418d755c8295f2a3",
+      "topic": "의료·건강"
+    },
+    {
+      "title": "암 환자 가족, 치료비 부담보다 ‘돈 걱정’이 건강 더 망친다 - 후생신보",
+      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1qejhqbmlLSU15VlV5VlFmM1J6OWdXVEFHWnV2aG5RUWhyU3F5SzVfZmpPQTlIeHJ3WmVXM3pxLWZIMGla?oc=5",
+      "description": "암 환자 가족, 치료비 부담보다 ‘돈 걱정’이 건강 더 망친다 후생신보",
+      "pub_date": "Mon, 29 Jun 2026 07:00:00 GMT",
+      "category": "암 의료비",
+      "key": "99017b93ae474a24",
+      "topic": "의료·건강"
+    },
+    {
+      "title": "의료비 '본인부담상한제' 현실화… 생·손보 ‘비급여·간편·간병’ 수요 더 커진다 (영상+) - 보험저널",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9NZTVFRGZ2eGw5UzN2dVk5VEZnZ2xHYUdaemdwc09ZWTRVVDB0MlFHZjd3LXk1eld0dmxZYlVFSUtLZjRIMGtoSjVBdVhSX2dMMmlsLVF3OGlOaFc4MVNMWG9naW94aDlFUDdGSlNLbw?oc=5",
+      "description": "의료비 '본인부담상한제' 현실화… 생·손보 ‘비급여·간편·간병’ 수요 더 커진다 (영상+) 보험저널",
+      "pub_date": "Fri, 29 May 2026 07:00:00 GMT",
+      "category": "암 의료비",
+      "key": "097f8f68235afbdc",
+      "topic": "의료·건강"
+    },
+    {
+      "title": "유방암 실손보험금 5년간 20% 늘어…표적·항암치료 증가 영향 - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Dc0YzZ3RIem56U05KbTBZeVR0TTB2M0paSUZxMjRtYjByX3RaOVVaT0Z1SkJuM3RSa0NxLVBFQi11MGhuOEJzeDV4a0I2ZTNPbXgzT1RqTGctU2PSAWBBVV95cUxObjZOMHlxa3U0MV9qd21DalFQWE5LS3BnNmh1QU1IWVE3MEFNOURlY1NXWXNxXzdRVHJIay1KQlVPbzFqSkVRNEduakRYdkNEamhLM2hZdjNBRHBKZVd4Vzg?oc=5",
+      "description": "유방암 실손보험금 5년간 20% 늘어…표적·항암치료 증가 영향 연합뉴스",
+      "pub_date": "Mon, 01 Jun 2026 07:00:00 GMT",
+      "category": "암 의료비",
+      "key": "bc3c79559bbb87e5",
+      "topic": "의료·건강"
+    },
+    {
+      "title": "DB손해보험, 온라인 전용 미니암보험 출시… 치료비 보장에 초점 - Korea IT Times",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5jVnF5QlRNU04zUDEwSTdES3hvTVN5Q2RHWHIxZHVLcHFsVklKZ2cwM05GLWNyUEFDVnRpZVNwOEtZYlJGU1lGM3hGbTVYc2FOVmtSejlXMHRtV0NKcEFmbU9SNGRDc0g3MzAta3VoMko?oc=5",
+      "description": "DB손해보험, 온라인 전용 미니암보험 출시… 치료비 보장에 초점 Korea IT Times",
+      "pub_date": "Mon, 16 Nov 2026 08:01:03 GMT",
+      "category": "암 의료비",
+      "key": "6985ac182a910cfe",
+      "topic": "의료·건강"
+    },
+    {
+      "title": "'암환자 경제 부담 덜어준다' 정읍시, 치료비·가발 구입비 지원 - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB2bXZyZHZobmh4UDlCNXd1QlNCMjRWY2o5RG9BY25QcTlHbGNlWWlLcF9wbVNCUTJtWkxTQ2ZqcUdPTlFZQkd4NkJpY29EUmZ5RU9SOG83NHlpVzTSAWBBVV95cUxOTG5mSFFqZUQ4TGhRa1hTZG5LQ2lmU1pFNFNiTlpFV1NQNWhnSTFUT3huMGR4VF9SOVpGb21QcHQ4clhZZVVJOWhVWDJSbXRFbFpCZ3FhTVozYzFseXd2N2U?oc=5",
+      "description": "'암환자 경제 부담 덜어준다' 정읍시, 치료비·가발 구입비 지원 연합뉴스",
+      "pub_date": "Mon, 16 Jun 2025 07:00:00 GMT",
+      "category": "암 의료비",
+      "key": "71d8f207da6327ea",
+      "topic": "의료·건강"
+    },
+    {
+      "title": "‘암주요치료비 공백' 뭘로 메꾸나 봤더니… 기존 고액암치료비 4종, 보장금액·횟수 더 늘렸다 - 보험저널",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1uM3Y4N2E1bWZkdEIzRVlPS3Ftb2htTUw4QUZsOUJyV2NGbHZ5X2IxWjBDSjFORWhhZWdwZkJlbmVUUzdUSng4T1RGVmpUTk55alJMSFZoYzlfWmdxQ0VmRG9vNXFuamIzU1hlTkpNWQ?oc=5",
+      "description": "‘암주요치료비 공백' 뭘로 메꾸나 봤더니… 기존 고액암치료비 4종, 보장금액·횟수 더 늘렸다 보험저널",
+      "pub_date": "Fri, 29 Nov 2024 08:00:00 GMT",
+      "category": "암 의료비",
+      "key": "5c2cf20320190101",
+      "topic": "의료·건강"
+    },
+    {
+      "title": "암보험, 입맛대로 고르세요 - 농민신문",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1DZHMwZHVSck1fQnJLY0RqSEJTR1hsUG1LOHdnVWpzQ3hjOGEwbnUzdDlsNHBWWGFCZWg2SHV5eExiVngyc3d6T0xIMHFVYTVWRG52SHhOejJqdw?oc=5",
+      "description": "암보험, 입맛대로 고르세요 농민신문",
+      "pub_date": "Tue, 12 Apr 2022 07:00:00 GMT",
+      "category": "암 의료비",
+      "key": "ae174629d24e1b8b",
+      "topic": "의료·건강"
+    },
+    {
+      "title": "\"1년에 1억씩 5년 동안 총 6억이나요?\"...이런 암보험 나왔다 - 뉴스포트",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE95OVkxZndrREFfVVc4dzBQeHdGWGplTEk4ZVpDbVpHMHlZTnhVYnpacWRLYkZmbE51anNldTBLQnA3WkQ0eVpTWnZpbWsxX19lcU1PMGlfTDJMSDNocERja3JYd09hX1JydVZN?oc=5",
+      "description": "\"1년에 1억씩 5년 동안 총 6억이나요?\"...이런 암보험 나왔다 뉴스포트",
+      "pub_date": "Fri, 02 Feb 2024 08:00:00 GMT",
+      "category": "암 의료비",
+      "key": "fb198ea012adb64a",
+      "topic": "의료·건강"
+    },
+    {
+      "title": "1만원 차이로 보험금 1천만원 왔다갔다…‘암주요치료비’ 논란 - DFT 대한금융신문",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE80YzN1eHpaNHI3TTJRRUdRUzI1MG1FdzRmTWpVMUs4alhkZWdhTV9iXzFxMC1kektaLWxIbGxOYXU0b1JFelRhcVcxZGUxd3A5b0JDYnVEdFdQWWxydERQZUVPVjZ1a3dtdG1PbdIBcEFVX3lxTE9KRjNkcGwyOGZNWS1IeDE2TjRqNjZueVdMRm1HRk1qWG9URUM5NU5QSTdNVmlzbEowb3hOODQxVVdjU0RMbVh2bmVRWl9JcGN3WHVlTFoxdGRYNVZmWXpuR3NXWURqY2x1anM5NzNuYXE?oc=5",
+      "description": "1만원 차이로 보험금 1천만원 왔다갔다…‘암주요치료비’ 논란 DFT 대한금융신문",
+      "pub_date": "Tue, 26 Mar 2024 07:00:00 GMT",
+      "category": "암 의료비",
+      "key": "2b663e4c2c640fe2",
+      "topic": "의료·건강"
+    },
+    {
+      "title": "한화생명 ‘한화생명 시그니처 암치료비보험’ 암보험 명가 자신 - 보험신보",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1OM2RuaDRuWmVWbXBLd0t4YThQZUJrMnpZSjBtOGkwTllIYzB3TzZvZjZuYzV0T2FHWGtrSUx2RXROcXBmcVlqSG91Sy1TQVZQOXdFek1VNDF3TmxVRWowV3I3dWw4MWRPU05Z?oc=5",
+      "description": "한화생명 ‘한화생명 시그니처 암치료비보험’ 암보험 명가 자신 보험신보",
+      "pub_date": "Mon, 08 Jul 2024 07:00:00 GMT",
+      "category": "암 의료비",
+      "key": "fb53ad3495c3b2d7",
+      "topic": "의료·건강"
+    },
+    {
+      "title": "하나손보, 유병자보험 신상 ‘하나더넥스트 3N5 건강보험’ 출시 - 마켓인",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5fWENvNjRSQzZ1TzA0R19HZFFxM2kxY1pIZGxUUmJrNHV2am5wc1BIUjJZNGU4UnJwdUFvaFdMc3NLbWtkdmtULWw2R3dsd2d6cU1LM3lzbDl3WHVqbUEzWjI3RGJSdXY0V0pmVUZfMFZJUlU?oc=5",
+      "description": "하나손보, 유병자보험 신상 ‘하나더넥스트 3N5 건강보험’ 출시 마켓인",
+      "pub_date": "Fri, 02 May 2025 07:00:00 GMT",
+      "category": "암 의료비",
+      "key": "687ab28069faed37",
+      "topic": "의료·건강"
+    },
+    {
+      "title": "암 환자를 위한 지원제도, 중증환자로 등록하면 암 치료비 5%만 본인부담 - 백세시대",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAtNnVkVFEtM3pDd3RQeVZZZjQwNE9EUDgxTTFwRHdIaUpHWmozWm52VTM1elVrVGk2d1Nwdm1XaDFoZG5nU2p5bnZRbVJlQUVWNmhpR0FoTlMyVXJpRWxNTm5vdlN2czBPZ3c?oc=5",
+      "description": "암 환자를 위한 지원제도, 중증환자로 등록하면 암 치료비 5%만 본인부담 백세시대",
+      "pub_date": "Fri, 15 Jan 2021 08:00:00 GMT",
+      "category": "암 의료비",
+      "key": "6bc7bbfcfa5f8430",
+      "topic": "의료·건강"
     }
   ]
 }
