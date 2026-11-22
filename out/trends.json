@@ -1,105 +1,85 @@
 {
-  "collected_at": "2026-11-21T20:25:02.604871+00:00",
+  "collected_at": "2026-11-22T02:46:26.684210+00:00",
   "items": [
     {
-      "keyword": "레알 마드리드 대 셀타 비고",
+      "keyword": "이강인",
+      "traffic": "2000+",
+      "news_title": "이제는 내가 간판! 이강인, 2년 연속 AFC 국제선수상 영예",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "57022f86a578253d",
+      "collected_at": "2026-11-22T02:46:26.683482+00:00"
+    },
+    {
+      "keyword": "lpga",
       "traffic": "1000+",
-      "news_title": "How to watch Real Madrid vs. Celta Vigo online for free",
+      "news_title": "Kim A-lim Maintains Sole Lead After Third Round of LPGA Tour Championship",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "494bfb66156742bb",
-      "collected_at": "2026-11-21T20:25:02.604327+00:00"
+      "key": "3752fbe7faa817b3",
+      "collected_at": "2026-11-22T02:46:26.683482+00:00"
     },
     {
-      "keyword": "위기",
+      "keyword": "파주시",
       "traffic": "200+",
-      "news_title": "&quot;호르무즈서 미확인 발사체에 유조선 잇단 피격&quot;",
+      "news_title": "파주시의회 옥승철 의원 5분 자유발언 &quot;교하동 신청사 건립, 더 이상 미뤄선 안돼&quot;",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "de522154f9aa706d",
-      "collected_at": "2026-11-21T20:25:02.604327+00:00"
+      "key": "066be3194e683449",
+      "collected_at": "2026-11-22T02:46:26.683482+00:00"
     },
     {
-      "keyword": "newcastle vs arsenal",
+      "keyword": "오현규",
       "traffic": "500+",
-      "news_title": "Newcastle 2-2 Arsenal: Noni Madueke earns point for Premier League champions",
+      "news_title": "“레전드 손흥민이 영입에 중요한 역할 할 수도”…토트넘, 공격진 보강 계획 속 ‘이적료 442억’ 오현규 영입 관심",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "83aabb8eeb742a69",
-      "collected_at": "2026-11-21T20:25:02.604327+00:00"
+      "key": "30d51f5bb2bd9cd6",
+      "collected_at": "2026-11-22T02:46:26.683482+00:00"
     },
     {
-      "keyword": "아스날",
-      "traffic": "500+",
-      "news_title": "&apos;게임에서 자기 자신을 주장으로 선택했을 뿐인데&apos; 아스날 선발 명단 유출 논란...아르테타 감독 긴급 대응 - 머니투데이",
+      "keyword": "영구자석",
+      "traffic": "1000+",
+      "news_title": "Bunker Hill, 케냐 희토류 프로젝트 독점 협상 대상 선정",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "502365b85cfa0f37",
-      "collected_at": "2026-11-21T20:25:02.604327+00:00"
+      "key": "e5a19d33ee8cce62",
+      "collected_at": "2026-11-22T02:46:26.683482+00:00"
     },
     {
-      "keyword": "psg",
-      "traffic": "100+",
-      "news_title": "PSG : Luis Enrique salue le caractère de son groupe",
+      "keyword": "울산광역시",
+      "traffic": "1000+",
+      "news_title": "산업화의 중심 울산, AI 시대 새로운 도약을 기대합니다.",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "106a87994d6f7fd0",
-      "collected_at": "2026-11-21T20:25:02.604327+00:00"
+      "key": "79012109b2476579",
+      "collected_at": "2026-11-22T02:46:26.683482+00:00"
     },
     {
-      "keyword": "샬케 대 슈투트가르트",
+      "keyword": "도경완",
+      "traffic": "2000+",
+      "news_title": "&apos;한강뷰 120억&apos; 도경완, 자차는 1억 후반대 외체자(&apos;도장TV&apos;)",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "c45c408a6dd4809d",
+      "collected_at": "2026-11-22T02:46:26.683482+00:00"
+    },
+    {
+      "keyword": "김호영",
       "traffic": "200+",
-      "news_title": "샬케, 슈투트가르트와 0-0 무승부…황희찬 선발 출전 : 해외축구",
+      "news_title": "&apos;카톡 친구 5000명&apos; 김호영, 길에서 카드 주웠는데 &quot;아는 사람 거&quot; - 머니투데이",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "16c3bcada49c2a14",
-      "collected_at": "2026-11-21T20:25:02.604327+00:00"
-    },
-    {
-      "keyword": "뉴캐슬 대 아스널",
-      "traffic": "5000+",
-      "news_title": "‘아스널 희소식’ 살리바 복귀 임박! ‘英 대표’ 콘사로 유지한 방패, 더 단단해진다",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "8f8b10f04fa8be9b",
-      "collected_at": "2026-11-21T20:25:02.604327+00:00"
-    },
-    {
-      "keyword": "nice vs psg",
-      "traffic": "200+",
-      "news_title": "OGC Nice - PSG : les compositions probables",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "bd770f5df1532828",
-      "collected_at": "2026-11-21T20:25:02.604327+00:00"
-    },
-    {
-      "keyword": "เชลซี พบ ลีดส์",
-      "traffic": "100+",
-      "news_title": "เอ็มมานูเอล เอเมก้า: ผมจะพร้อมเมื่อโอกาสมาถึง และผมสนุกกับทุกวันที่เชลซี‍‍‌⁠‌‌‍‌​​‌‌​⁠​‌​⁠​​​⁠​​​⁠​​​⁠​‌‌",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "babaf3f46c0b80e4",
-      "collected_at": "2026-11-21T20:25:02.604327+00:00"
-    },
-    {
-      "keyword": "como vs cagliari",
-      "traffic": "100+",
-      "news_title": "Nico Paz jugó media hora en el triunfo del Como ante Cagliari por la Serie A :: Olé - ole.com.ar",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "daab6ce4739e1073",
-      "collected_at": "2026-11-21T20:25:02.604327+00:00"
+      "key": "9b0d015142231906",
+      "collected_at": "2026-11-22T02:46:26.683482+00:00"
     }
   ]
 }

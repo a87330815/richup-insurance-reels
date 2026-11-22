@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-21T20:25:01.016190+00:00",
+  "collected_at": "2026-11-22T02:46:25.123720+00:00",
   "topic_weight": {
     "보험·상품": 30,
     "영업·마인드": 25,
@@ -7,287 +7,80 @@
     "경제·환율·금리": 25
   },
   "topic_counts": {
-    "영업·마인드": 15,
-    "경제·환율·금리": 16
+    "의료·건강": 1,
+    "경제·환율·금리": 7
   },
   "items": [
     {
-      "title": "HK금융파트너스, 공격적 설계사 모집 나서나 - 보험매일",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1GZHFlUUN5Rm9idDlRSWFMOWFSZjFZUUE3Z3IwMXNNQWhUWkFucTlwLU9uNS1JQjdrUnYyWkNIQVBrb1QzTG1oRk9PNG9JaGxtbldrR1JZNnVkTEFHNzBMdlh0YlJXV2ZW?oc=5",
-      "description": "HK금융파트너스, 공격적 설계사 모집 나서나 보험매일",
-      "pub_date": "Tue, 25 Feb 2025 08:00:00 GMT",
-      "category": "GA 법인보험대리점",
-      "key": "c3999438ec1d9d28",
-      "topic": "영업·마인드"
+      "title": "환자 가족까지 위로받는 치매간병보험 [보험 200% 활용법] - 매일경제",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBrNEprVEk3b1RxbkNkNTAwMmZkOU04ZGVfQkxpYkpHMnNLQjYzVHFPa0t3bW5jcG92RVBZNGxvM2pOdkhGU3NpRUJMTDdaaWV1bGNaYw?oc=5",
+      "description": "환자 가족까지 위로받는 치매간병보험 [보험 200% 활용법] 매일경제",
+      "pub_date": "Thu, 22 Aug 2024 07:00:00 GMT",
+      "category": "치매 간병",
+      "key": "e298e0068b598ed6",
+      "topic": "의료·건강"
     },
     {
-      "title": "스카우트 경쟁 한계 봉착… 초대형 GA, M&A로 눈 돌리며 ‘알짜 매물’ 경쟁치열, 몸값 높아지나 - 보험저널",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1zX3pDNV9VU19ZSWdXcmJ6MTNqdGJleWxJM1VNVWIzVl9QdUw4M3RVRTZXUXpzMUZVSHdTT2FrSUswOFR2bTR0SGJROGZTNFhXUkpKMTZMMU5WUmxScVVWTXpNNlUzeElOd3p0SnRfQQ?oc=5",
-      "description": "스카우트 경쟁 한계 봉착… 초대형 GA, M&A로 눈 돌리며 ‘알짜 매물’ 경쟁치열, 몸값 높아지나 보험저널",
-      "pub_date": "Thu, 30 Jul 2026 07:00:00 GMT",
-      "category": "GA 법인보험대리점",
-      "key": "d72d455a2ab37b1d",
-      "topic": "영업·마인드"
-    },
-    {
-      "title": "[리더 100 시리즈] 서울법인재무설계센터 송혜원본부장 - 보험매일",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0zLWY3RTZZVmppZjlOeVU4dC0zQnVxVkVmLVZMQnl5QkdUdXVVX1MzTXdXYnNwT1RqNTAwaW9aS1MtUU9WMF9fVTZTdnp4bm1iUU1WSXgyUkdmdzZvaENsRDhMcHlWMTdR?oc=5",
-      "description": "[리더 100 시리즈] 서울법인재무설계센터 송혜원본부장 보험매일",
-      "pub_date": "Tue, 25 Feb 2025 08:00:00 GMT",
-      "category": "GA 법인보험대리점",
-      "key": "3a4222aef72e1d9f",
-      "topic": "영업·마인드"
-    },
-    {
-      "title": "(단독)SGI서울보증, AIA프리미어 보증보험 신규·한도 중단 - 뉴스토마토",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5oSHpDRmVCSlVHWXV3SnNWZG1VTzdxS2tCSlR6VmJhVVd0NDVuMW9ObVFzY1pfM0lxU2pjUUlJZXhTREhkOThKXzZnZXduZERlZjBTSXlxdHdXOFI4R1BUXw?oc=5",
-      "description": "(단독)SGI서울보증, AIA프리미어 보증보험 신규·한도 중단 뉴스토마토",
-      "pub_date": "Tue, 13 Oct 2026 07:00:00 GMT",
-      "category": "GA 법인보험대리점",
-      "key": "32229bafca450547",
-      "topic": "영업·마인드"
-    },
-    {
-      "title": "토스인슈어런스, GA업계 첫 설계사 노조 설립…직영화 전환 갈등 고조 - 보험저널",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1TaFV4VGdzdUtuMWtMRE9zRWdlSFBjbEN4TkE0c1l6bG5YREZBWWRIeHZnYzhGcGVEbHMyS21mY0d4a0F2eS00c2p0dnpoSG13Vmw5M1NFRDI5T3Z6ZTFZZVNrTndDRkxSU2NpbVBWcw?oc=5",
-      "description": "토스인슈어런스, GA업계 첫 설계사 노조 설립…직영화 전환 갈등 고조 보험저널",
-      "pub_date": "Thu, 13 Feb 2025 08:00:00 GMT",
-      "category": "GA 법인보험대리점",
-      "key": "8025947bf4f93c99",
-      "topic": "영업·마인드"
-    },
-    {
-      "title": "자율협약 미참여 GA, 빈틈 노려 모집한다 - 보험매일",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5DNktzUWl3SU13X293djdWYndxNkloY0FDYndMQTVvMUdJRGhrazNtczJseFI4WlNfNlJlNHBaT1J2YjN3SWlpWDJJa1FxX0xHTEhQOUhkZUd1ZDRkTHpZVDJRWVpta2c?oc=5",
-      "description": "자율협약 미참여 GA, 빈틈 노려 모집한다 보험매일",
-      "pub_date": "Wed, 20 Sep 2023 07:00:00 GMT",
-      "category": "GA 법인보험대리점",
-      "key": "ac986372429e68d1",
-      "topic": "영업·마인드"
-    },
-    {
-      "title": "1200%룰 시행 첫 주, 안갯속 GA 현장… 자본력·지원체계가 생존 변수로 (영상+) - 보험저널",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBxUHowSkQ5Q3c1ZW1RaW1QTjBvZ3Fzb1JYancycmZta01iSlVCM3NVdEJQeXI3aG16OVVKWjU5TjdaNTNGSHhDb0o0YnloR05keHkxUG9MaF82NUdJcVNkNkZRUmxtVXRleFZxMjdjdw?oc=5",
-      "description": "1200%룰 시행 첫 주, 안갯속 GA 현장… 자본력·지원체계가 생존 변수로 (영상+) 보험저널",
-      "pub_date": "Sat, 04 Jul 2026 07:00:00 GMT",
-      "category": "GA 법인보험대리점",
-      "key": "9f385f35913f3d82",
-      "topic": "영업·마인드"
-    },
-    {
-      "title": "[단독] 1200%룰의 빈틈...현대카드 GA, 설계사 수수료 '꼼수' 지급 - 보험매일",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE96a1pLVW9oX3RDMkZHUmF0R2xNZlR6eThEbzFkc0tfdWxkNVBiamhkT3M5TjZycXkxVTJYdmp5cDlTU3kwdU9Bd1M1dmFJODFjQXdGcTlvQTU1bVVWcXRpc1lzYkdkN00?oc=5",
-      "description": "[단독] 1200%룰의 빈틈...현대카드 GA, 설계사 수수료 '꼼수' 지급 보험매일",
-      "pub_date": "Wed, 26 Jan 2022 08:00:00 GMT",
-      "category": "GA 법인보험대리점",
-      "key": "6a70d9193a08f3f1",
-      "topic": "영업·마인드"
-    },
-    {
-      "title": "플래너 4천명 시대 연 어센틱금융그룹,‘클래식에 ‘새로움’ 입혀 성장과 내실 다지기 병행 - 뉴스포트",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9CNG1zOVl2UTVLMENobzdJcTl3bVl6b2FHLTdfRmFNdWtHVmxCc2dBTkhaRjRHYmtIYkxfMUd6QW5IZ0xTWE5VVkV2UExzYWdQLVZKY3JsZmJvU2F2WWIwMmw3UmZYWmhXU3g0?oc=5",
-      "description": "플래너 4천명 시대 연 어센틱금융그룹,‘클래식에 ‘새로움’ 입혀 성장과 내실 다지기 병행 뉴스포트",
-      "pub_date": "Fri, 23 Jan 2026 08:00:00 GMT",
-      "category": "GA 법인보험대리점",
-      "key": "ed0d32c7e1cbbe99",
-      "topic": "영업·마인드"
-    },
-    {
-      "title": "출범 앞둔 AIA생명 자회사 GA…인력 유출 갈등 격화 - 보험매일",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4wMGowM1JqUHFnTjhzcUJhRkI3RnI3QnZZdDdWR3ZtMTJWMGtyazk1NDBpd0p0eHJNV0xwcXExclUzQW5BMjVQZHpyUUU5MmpILWZoYlVKaWkxT3NCUUxLdWpNT1lLN2c?oc=5",
-      "description": "출범 앞둔 AIA생명 자회사 GA…인력 유출 갈등 격화 보험매일",
-      "pub_date": "Thu, 24 Aug 2023 07:00:00 GMT",
-      "category": "GA 법인보험대리점",
-      "key": "bee388b449da129c",
-      "topic": "영업·마인드"
-    },
-    {
-      "title": "[보험 AZ] 나도 해볼까 보험설계사 ‘리쿠르팅’ - 대한데일리",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5kUElDMXF4Z1lWbkJjb2tTdU9aZWRwTExfbFBNcy1vcG1Yb05vekN6MTNKdzI2ekVDQTU0WUs3STRxSkJJQjFLaEFaU0FRaVUwRGQzbnZPdmg1dF9vMEw1b1o4bGpYWk1WYlE?oc=5",
-      "description": "[보험 AZ] 나도 해볼까 보험설계사 ‘리쿠르팅’ 대한데일리",
-      "pub_date": "Fri, 14 Feb 2020 08:00:00 GMT",
-      "category": "GA 법인보험대리점",
-      "key": "eec54fbc331f12b2",
-      "topic": "영업·마인드"
-    },
-    {
-      "title": "“전속만이 살 길”…보험업계 전속설계사 영입 '열' - 보험매일",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB3M3FEbWFrZFZRSkVuYVJZRmVMdzNBOVJIRVhtX2hZUE9oRVMyV3RuUUlaM0l5aGdvTnljNUVyRVNUaFN2a2JKZDJJSEk5S2NpYWh2Q0ZKZ3BBd1hRUWZabF8yOGpDaHc?oc=5",
-      "description": "“전속만이 살 길”…보험업계 전속설계사 영입 '열' 보험매일",
-      "pub_date": "Fri, 26 Nov 2021 08:00:00 GMT",
-      "category": "GA 법인보험대리점",
-      "key": "769dcd889df0f1cc",
-      "topic": "영업·마인드"
-    },
-    {
-      "title": "신입 보험설계사 되기..원수사냐 GA냐 그것이 문제로다 (下) - 인더뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBuVDR0X3A4WFdSYkRrVzRoVGdRdTF5OEFPTjY1MXNlOFg5eHBXa0wzMm5pQXZub0x5NGdtak1MRERaaVBrUFZHMjlhc2M0V3BNZ0pacVBOQXFZM0dOT2Rn?oc=5",
-      "description": "신입 보험설계사 되기..원수사냐 GA냐 그것이 문제로다 (下) 인더뉴스",
-      "pub_date": "Mon, 22 Oct 2018 07:00:00 GMT",
-      "category": "GA 법인보험대리점",
-      "key": "b5229fbd8286825a",
-      "topic": "영업·마인드"
-    },
-    {
-      "title": "[CEO카페] 네이슨촹 AIA생명 대표의 선택은… 다시 '대면' - 뉴데일리",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE90ZHhXNUhBLVFJTDAzZEVBUkpRaGc0YlF5UGdQMWRKY2lUNm41STRUTVZzWlNRYmRxQUgwU202UThjVVd2MVRrcUNZMjJ2MFpYbVg5NF9HaDRQTlRhRDZqMkh0WllBem5yc2FEZWJTajJOVFZlamFxXzAyRdIBgAFBVV95cUxOS2FOSmh6WXZJM20tOWxPNHExZXNrSVNIMk9iNWdCbmtScFpYYTlrWFI1UEZ3N054c0JnNHMyajc3TVlKTWlVbkx5TlBHbkZoOGs4Y1p6YVlPeWF3VUY0QkxkbldlbDZIQm5QSVlrQWlLeW5iV1diNUpzTGNadTV2cA?oc=5",
-      "description": "[CEO카페] 네이슨촹 AIA생명 대표의 선택은… 다시 '대면' 뉴데일리",
-      "pub_date": "Mon, 26 Jun 2023 07:00:00 GMT",
-      "category": "GA 법인보험대리점",
-      "key": "01bf334409a6e2f1",
-      "topic": "영업·마인드"
-    },
-    {
-      "title": "메리츠 vs 삼성화재 설계사 갈등…불씨 꺼지지 않았다 - 비즈워치",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1LZk5BMG5jcWp1d2hVc1dWWDFJWEQta0UwVlloWnRpWlBRRWJsVVRxUk9Da24wQktnbWRyYUNzcHpvTHk2N293eFRTbW40Ui1xVFFqLWo2SGR2TTJodVZWTzBZT25Ib0p1VzBZ?oc=5",
-      "description": "메리츠 vs 삼성화재 설계사 갈등…불씨 꺼지지 않았다 비즈워치",
-      "pub_date": "Wed, 02 Oct 2019 07:00:00 GMT",
-      "category": "GA 법인보험대리점",
-      "key": "f811a7a09230a5aa",
-      "topic": "영업·마인드"
-    },
-    {
-      "title": "[환율 전망] 느낌 좋은 교역조건, 감 다 살아난 원화 - KB Think",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5LbEN4OFBPYkIwaFB2OWw1ZDRYNVM1ZHVDWlZBR3djVzhYUjc2TjM3dW1nVjE3Z0lzT1Zic3g4UmlkYTA2YXUxMjFkejNheXBPR2VNLVZOUEJiVFpZRVdqXw?oc=5",
-      "description": "[환율 전망] 느낌 좋은 교역조건, 감 다 살아난 원화 KB Think",
-      "pub_date": "Mon, 28 Sep 2026 07:00:00 GMT",
+      "title": "수출 1조달러에도 연말 환율 1380원 전망…美 긴축·외국인 역송금 변수 - 파이낸셜뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WN1pIRWpiNlNNbkJmVGpqM0FiUUQxNUkwMFJwckNPR3YyVnhUWEI4NmV4QTQwYW1fdkQzWVJQVHhGSGJwTDk0cmF6OHlDOW1LV2xSTk1OTVNZQQ?oc=5",
+      "description": "수출 1조달러에도 연말 환율 1380원 전망…美 긴축·외국인 역송금 변수 파이낸셜뉴스",
+      "pub_date": "Sat, 21 Nov 2026 22:30:22 GMT",
       "category": "환율 전망",
-      "key": "dbe46105ba983b8c",
+      "key": "36e242edc3fd6cb1",
       "topic": "경제·환율·금리"
     },
     {
-      "title": "내란 이어 트럼프 관세전쟁…파랗게 질린 ‘한국 경제’ - 세상을 바꾸는 시민언론 민들레",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBZQzhuNlZVNndYa3Z0NWpnTzA4QlBITnFaNlNlVHpCc2E2aDNzNG1jcUl5WjhLVEhFTlM3RDNVQ01tUmJsYURDUjlXOHZYR1Iwc0p6RVFfQW1XZGFCV3F2WHljMlRWV1FLYWc0OA?oc=5",
-      "description": "내란 이어 트럼프 관세전쟁…파랗게 질린 ‘한국 경제’ 세상을 바꾸는 시민언론 민들레",
-      "pub_date": "Mon, 03 Feb 2025 08:00:00 GMT",
-      "category": "미국 경제·정책",
-      "key": "b91905cc9c050fc1",
+      "title": "[환율 전망] 미 고용보다 센 K-반도체 달러 | KB의 생각 - KB Think",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9KNDM3VC00RHNYaktXOU1vV1BDOFRoeVpieVI4anJjU3RCdUxVcHRjRDF4eG82eU82NE5rdGFIWDF5MnBpYUNjUTdCNzgwbmFyRy1CLU54azNCOFc1eVlCNw?oc=5",
+      "description": "[환율 전망] 미 고용보다 센 K-반도체 달러 | KB의 생각 KB Think",
+      "pub_date": "Mon, 07 Sep 2026 07:00:00 GMT",
+      "category": "환율 전망",
+      "key": "1d338c9f006bf336",
       "topic": "경제·환율·금리"
     },
     {
-      "title": "트럼프 3대 오판… 시장·물가·중국이 반대로 갔다 - 조선일보",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbU05bjJNZ29YZzJSVXR6UXRFaXRmSFJDUVl2dlc1RV8xMkVLNE5HTWVZQ3IzT0NRY0ZTNjJSRC1STmdoNlB6YUZqMF8zYm9TM3U5VTlDTVJuX3gzejNwc1E3VWJmbjZZRDgwRWxvbTNlUWJkeEhtLVZMZ3c4UUw5NklsSXBNc1ZqS0RFNGl3?oc=5",
-      "description": "트럼프 3대 오판… 시장·물가·중국이 반대로 갔다 조선일보",
-      "pub_date": "Sat, 12 Apr 2025 07:00:00 GMT",
-      "category": "미국 경제·정책",
-      "key": "9b6b373efe878181",
+      "title": "'스페이스X' 12일 나스닥 상장, 코스피 대형주 수급 우려 - 진일보 | 전남일보",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9FWTNzbGNJb0lDQ1lPN21mRS1Ka28wdXBJSktiQ0N3TXFnaDA1Q1VCOFRsTmhrTTlPenJXcEhkMTVkLV9HZFQwbDhRSVduREtrMVZWM0lSZUc4cmpIejdqWkNrd1BXdGRFaXQ0VWpabw?oc=5",
+      "description": "'스페이스X' 12일 나스닥 상장, 코스피 대형주 수급 우려 진일보 | 전남일보",
+      "pub_date": "Sun, 07 Jun 2026 07:00:00 GMT",
+      "category": "글로벌 시장",
+      "key": "d8f87101bd2c4833",
       "topic": "경제·환율·금리"
     },
     {
-      "title": "“안전밸트 매라” 서학개미 긴장해야?…‘트럼프 관세’ 공포에 파랗게 질린 美 월가 [투자360] - 헤럴드경제",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4zMkRZQkx4VlItTk5OQ2dYekx4eVNBdmFhTmQ0OU5sVEVRRl91dTVtdW11N0ppa1J0ZndWcGtPN01XZm9zZUZZRkhORFZiMEEwVzBhaVJn?oc=5",
-      "description": "“안전밸트 매라” 서학개미 긴장해야?…‘트럼프 관세’ 공포에 파랗게 질린 美 월가 [투자360] 헤럴드경제",
-      "pub_date": "Wed, 05 Mar 2025 08:00:00 GMT",
-      "category": "미국 경제·정책",
-      "key": "99efbeeba2090258",
+      "title": "'5천피' 무너지고 美증시 급락…'AI 투매' 추가 충격오나 - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1XWm5VM256ZnJreUFOcXdyLWNnWnFJbTJVeno1MEZCVFdma2NkbEVzOC1rbVRXaGlVZVJUZXozN3lxN2hWTnpURnlGY09uUzV5NXY4YnVfc1BERkNRTktNaNIBYEFVX3lxTE1XWm5VM256ZnJreUFOcXdyLWNnWnFJbTJVeno1MEZCVFdma2NkbEVzOC1rbVRXaGlVZVJUZXozN3lxN2hWTnpURnlGY09uUzV5NXY4YnVfc1BERkNRTktNaA?oc=5",
+      "description": "'5천피' 무너지고 美증시 급락…'AI 투매' 추가 충격오나 연합뉴스",
+      "pub_date": "Sat, 21 Nov 2026 21:00:06 GMT",
+      "category": "글로벌 시장",
+      "key": "176bab3892abda50",
       "topic": "경제·환율·금리"
     },
     {
-      "title": "트럼프 관세 폭탄, 글로벌 금융시장 '패닉' - 뉴스로드",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1oOFlHSnE2NUtlRkZONGZKZjR2N3FYdC1Vd21ibnUzNUY1bVNNYmFsZWFfS0ZBb3gzREM4ZTgwU0c2YjR3VzdfQlBNejViN1AyYk5wT2JlNjVCOTNzejFyTWZwS0Y3b2lvMVRN0gFvQVVfeXFMTnN3ZGszSmY3Mm11MldfU0Y0UGNwcDg2MHpjSGFRNVFyZEY4VWo2WWY5UjlhRGxUYnIyOXNfek9TaWNCMlVDZXFBcy1nYUVudXd5bVhteHlTWHlfRzJzeXNlNGhTdmxiTzRpSmZjamVV?oc=5",
-      "description": "트럼프 관세 폭탄, 글로벌 금융시장 '패닉' 뉴스로드",
-      "pub_date": "Fri, 04 Apr 2025 07:00:00 GMT",
-      "category": "미국 경제·정책",
-      "key": "fb208e5f0d252c78",
+      "title": "AI 투자 불안에 글로벌 증시 급락…코스피 이번 주도 약세 전망 - 산경투데이",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9QSHhIbVg3bmRfMGE0R19qN3gtU0xGSGVtakpCaWlTWXh6UU5RckZxVWxEaUd1MVg0T3FsNXVzNl9iZjRKVnR2dlpuZlVma2kxWkphU1I3YkladXJGa09GVWFVNk9PcFc1TW1Oa05ldHLSAXRBVV95cUxPVWV6UHNLdElPTWVEc0dwZmFFWVlBYU5xUV80MnhEX21FMWU0ei1TY2o1VGg5dlhWaDBrVFpITERQZDE0X2xxM01fZ1ZITnBpYjFZT1J4TW5LSmFubTVibFFqTGNuOWF1TjR3c0Rhc3JidjNCSQ?oc=5",
+      "description": "AI 투자 불안에 글로벌 증시 급락…코스피 이번 주도 약세 전망 산경투데이",
+      "pub_date": "Sun, 22 Nov 2026 01:04:50 GMT",
+      "category": "글로벌 시장",
+      "key": "0d35933050dbd0c3",
       "topic": "경제·환율·금리"
     },
     {
-      "title": "워런 버핏 ‘깜짝 은퇴’ 선언…트럼프에 “무역전쟁은 해롭다” 경고도 - 한겨레",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1NV0p3RE9kT3hURVdGRVBMMTQ2b2FQS1NQOHRMZUFMZ0ZQS0F4aWpCSjkzcmRVX1hsTDdFNFNELU9zMjdIdWxDYlhtUEdHNHpvaFYwbWdsMllwc2dWWV9mN0p3NEpFdUpVeDBYbmtpYw?oc=5",
-      "description": "워런 버핏 ‘깜짝 은퇴’ 선언…트럼프에 “무역전쟁은 해롭다” 경고도 한겨레",
-      "pub_date": "Sun, 04 May 2025 07:00:00 GMT",
-      "category": "미국 경제·정책",
-      "key": "aa0c0afe6d499c2c",
+      "title": "“증시 누가 살리나”…AI株 폭락에 월가 패닉, 코스피 ‘비상’ [머니+] - 에너지경제신문",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9yR2hQWmVqWDBTeVNONUtUOXl1LW5LTEhhVWJ3NW5pNGlmUWcwSE5IWlNxeTIyLW9ON25KT1dhdTZMSjA3U2VFR3Z0ejR0MXlyeGtfc05yZGRrTkxUWDczUmpyNA?oc=5",
+      "description": "“증시 누가 살리나”…AI株 폭락에 월가 패닉, 코스피 ‘비상’ [머니+] 에너지경제신문",
+      "pub_date": "Sun, 22 Nov 2026 02:37:10 GMT",
+      "category": "글로벌 시장",
+      "key": "40b5af27c5cb77b1",
       "topic": "경제·환율·금리"
     },
     {
-      "title": "美·中 무역전쟁, 국내 증시선 미국 압승…춘절 리오프닝 효과도 없을 것 - 아주경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1nd0hUSEhJNmtFMTZ6MGtWMFlZQUxnRWI2b3g3cVZSMDYxOEg2ci1OcjhLSFAyRFJFZVJVeUUxcTNGMUJtVm9ZQS1ONUkxeWwwQXZ3Y2xyazBJUdIBWEFVX3lxTE5icElkRzhGOHh5SHZ6S09hVHZGbUdaTXo4QWN4Rk9WNmx5NmJhdmJreFpMUUZ0eXcxMzNOM1h5eDQ4RTFidnN2XzRNbkpxOVZUTHVMdTNqU0g?oc=5",
-      "description": "美·中 무역전쟁, 국내 증시선 미국 압승…춘절 리오프닝 효과도 없을 것 아주경제",
-      "pub_date": "Tue, 21 Jan 2025 08:00:00 GMT",
-      "category": "미국 경제·정책",
-      "key": "6c66c6493544d65b",
-      "topic": "경제·환율·금리"
-    },
-    {
-      "title": "\"美증시 투자자들, '트럼프발 관세위협'에도 주식매수 지속\" - 글로벌경제신문",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5sTUg1QUx3Q1pRTDJKUHNsMHVOSVpfckIyMlJPVVNRVUl0VEFjYkgwaTNSdldKRTVfdl9OWGVpdG5NVUswQy04RkFhUDlfdjc5OVhWR1F5ZlpuTTB5OURpdHNwLWl0eWZQTE16VdIBcEFVX3lxTFBPUnpQVTBRVDBfRUFpSkdHa0REcUM3WVNxWkpzU201XzQ4VEw2ZzJRM2dfUWRXSTNRaGlrQWlVSnMwSndGWDJNVFFGc1NYRU1Nc0VNVV9RUzVIR2FxakR4bGVqS1RXNlZiYW96NWNxYjg?oc=5",
-      "description": "\"美증시 투자자들, '트럼프발 관세위협'에도 주식매수 지속\" 글로벌경제신문",
-      "pub_date": "Mon, 17 Feb 2025 08:00:00 GMT",
-      "category": "미국 경제·정책",
-      "key": "60ad9476feb871b9",
-      "topic": "경제·환율·금리"
-    },
-    {
-      "title": "美증시 투자자들 \"S&P500지수, 1년 내로 최고치 경신 어렵다\" - 뉴스핌",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9wMEEza3YzQ0tDcWJFTy1Yal93UGdaazI3Sm1NSEZQM1Q3Rmp6OS1sNmpESlUzeUM2VWNZWWNlejJPSmx6bTlZcTlqTDVNVXk4NHY4NklhcVFPalZW?oc=5",
-      "description": "美증시 투자자들 \"S&P500지수, 1년 내로 최고치 경신 어렵다\" 뉴스핌",
-      "pub_date": "Tue, 29 Apr 2025 07:00:00 GMT",
-      "category": "미국 경제·정책",
-      "key": "4d68fa5d87d3a6d2",
-      "topic": "경제·환율·금리"
-    },
-    {
-      "title": "\"미국 경제에 총을 쐈다\"…미중 희토류 전쟁의 수혜주 [빈난새의 빈틈없이월가] - 한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1nRHdUd0xnVGxBUmxHQlU4RERNNFZGMTJFTWVZSmd2UTRGck9VVkg3MFdIb0NZVzdBNDRmc1A3bUdBZk5BYlBodDdYVnJNcnJsODhLdERobHpNUQ?oc=5",
-      "description": "\"미국 경제에 총을 쐈다\"…미중 희토류 전쟁의 수혜주 [빈난새의 빈틈없이월가] 한국경제",
-      "pub_date": "Wed, 15 Oct 2025 07:00:00 GMT",
-      "category": "미국 경제·정책",
-      "key": "42f453d4f8486d70",
-      "topic": "경제·환율·금리"
-    },
-    {
-      "title": "[개장] 뉴욕증시 트럼프 관세 폭풍에 널뛰기, 나스닥만 반등 - 알파경제",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBzVTFvakszTlBwUEdUdmd2bVRqQ3NzRV83TGxyQWFCX0UyWjNGV3RYVHhzV3hManNwN1hGOFRHVlA5YkxyOXh4Ymo2NlA5RlU0S1otUjdnNnozX2VJU2VaRjZVdlA0V3VtTnVmN2F3?oc=5",
-      "description": "[개장] 뉴욕증시 트럼프 관세 폭풍에 널뛰기, 나스닥만 반등 알파경제",
-      "pub_date": "Tue, 08 Apr 2025 07:00:00 GMT",
-      "category": "미국 경제·정책",
-      "key": "1b287761735cf6f7",
-      "topic": "경제·환율·금리"
-    },
-    {
-      "title": "\"달러 패권 위기\"…美 신뢰 무너져 '탈 달러화' 진행 중 - 뉴시스",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5GajljSzVVTGxtbmsxRjRjVjJYVFpLaHBmUHh6NnNCWWZJWUlVRjQxYU9QSG5nVWVLVUhnTVdGaGVSTUN3MnFFZS1OTHZLNWxtVlFUR2g2bm1Cb3FaVk9SLdIBeEFVX3lxTE5HQ1NrdkhZQTVCSC1LdWFQOENVQ19sdmwxTnFPaXdtYkFmOTVIOVA4NWNONzhCYmFDOElET2tuc0hyZ0pnMHdhTjRJWjlWV2xuWmYyUnJMbnRINzFNdVRPLWdaQVpMRk1nNUxUWU1wbHBoNklzczlLeg?oc=5",
-      "description": "\"달러 패권 위기\"…美 신뢰 무너져 '탈 달러화' 진행 중 뉴시스",
-      "pub_date": "Fri, 11 Apr 2025 07:00:00 GMT",
-      "category": "미국 경제·정책",
-      "key": "c86d6177b15dbb8b",
-      "topic": "경제·환율·금리"
-    },
-    {
-      "title": "`관세전쟁` 현실화에 뉴욕증시 3대 지수 줄줄이 폭락 `5년 만에 최악` - 매일신문",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1UUWpabWl2dmxSaFZjTGFuNWlOTFJ1OThKOG1kSDNFbVRwdWtZNVJiM2N5NVlZTjd3NDBOMnY1OU90eWItUDFXUjRIdVFweXhXd2s4OHN1WXRYZUhCM001TGlB?oc=5",
-      "description": "`관세전쟁` 현실화에 뉴욕증시 3대 지수 줄줄이 폭락 `5년 만에 최악` 매일신문",
-      "pub_date": "Sat, 05 Apr 2025 07:00:00 GMT",
-      "category": "미국 경제·정책",
-      "key": "28211c153073be80",
-      "topic": "경제·환율·금리"
-    },
-    {
-      "title": "트럼프 관세전쟁 여파…코스피 132p 급락·금융시장 ‘패닉’ - 뉴스피릿",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE94aHpwZW1GQ19iUFhQWF9vaElfR0JValRWR2dvOVBaUUlKaDZhUnYtdnJGNG9RSGpFT2t1MjExU1d0dlVqTDBvYURtZDhhOFJxeHZuWnVLUW9YTi1RNG5EYlRMcTVESnJaM09V?oc=5",
-      "description": "트럼프 관세전쟁 여파…코스피 132p 급락·금융시장 ‘패닉’ 뉴스피릿",
-      "pub_date": "Mon, 07 Apr 2025 07:00:00 GMT",
-      "category": "미국 경제·정책",
-      "key": "c4854606e29eafb2",
-      "topic": "경제·환율·금리"
-    },
-    {
-      "title": "일본·대만·홍콩 증시, 트럼프 관세 전쟁에 9% 급락 - 글로벌이코노믹",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPX2pXNG5EemtXSnQ0WkhjbWYyNTV4aE00bnphR0g1T21oNS1JcjVBMTJKMVZHeU5mREVpMUltUWhCcGFXaFhqZ0Vlci01THVxSmo3c1UxakdSR3JKcExnVUtUN2dWNnZNVGRXRnc0WHdKSmRBS1dpQXhCdTlqNTFFYWdxSzRiVDB0?oc=5",
-      "description": "일본·대만·홍콩 증시, 트럼프 관세 전쟁에 9% 급락 글로벌이코노믹",
-      "pub_date": "Mon, 07 Apr 2025 07:00:00 GMT",
-      "category": "미국 경제·정책",
-      "key": "56cb139624bd94db",
-      "topic": "경제·환율·금리"
-    },
-    {
-      "title": "M7 기술株 폭락…美·韓 증시 ‘트럼프 공포’ 확산 - 헤럴드경제",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE93RG9IQVFIQkpDU0p6T0pQTmdXLTFMZEktUi1oOFVEd2VrdVFlY1RyTE9YYlhSelM5SG9aTE1INUp5d3Y3XzI3YlN6MnQ0aThPcUlVVkJ3?oc=5",
-      "description": "M7 기술株 폭락…美·韓 증시 ‘트럼프 공포’ 확산 헤럴드경제",
-      "pub_date": "Wed, 21 Jan 2026 08:00:00 GMT",
-      "category": "미국 경제·정책",
-      "key": "c86bec0bc1b93efe",
+      "title": "11월 4주차 나스닥 폭락에 따른 투자 전략 - 네이버 프리미엄콘텐츠",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPS3Bpamo4c1VWYl9ISFd5VmItYWlIdno3UnM5UzNIcHZzbmtnQ19GeGxhMFNxTVFySDRqeVpCOTdCcC12V3k5RlR2ZHBUSWlDaWNPay1nVGx5M3pNRjNsanM5SWF2UHFQUUdZNGMtN3VNSE5jX3RtSkl0N3ZNMFBHQ0JrUl9XTjBKbkotbU1qZzg0NGVkZHR3?oc=5",
+      "description": "11월 4주차 나스닥 폭락에 따른 투자 전략 네이버 프리미엄콘텐츠",
+      "pub_date": "Sun, 22 Nov 2026 02:12:00 GMT",
+      "category": "글로벌 시장",
+      "key": "12c25083be40821f",
       "topic": "경제·환율·금리"
     }
   ]
