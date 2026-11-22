@@ -1,65 +1,105 @@
 {
-  "collected_at": "2026-11-22T10:35:47.356726+00:00",
+  "collected_at": "2026-11-22T15:45:11.787512+00:00",
   "items": [
     {
-      "keyword": "서울 경전철 서부선",
+      "keyword": "브라이튼",
+      "traffic": "100+",
+      "news_title": "헐 시티 vs 브라이튼 경기 프리뷰 및 예측: 브라이튼은 여전히 ​​높이 비상한다",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "4fb8a2f4590af674",
+      "collected_at": "2026-11-22T15:45:11.786756+00:00"
+    },
+    {
+      "keyword": "laliga",
       "traffic": "200+",
-      "news_title": "20년 넘게 끌어온 서부선…사업비 급증의 암초를 넘을 수 있을까",
+      "news_title": "Barcelona vs Villarreal Confirmed Lineups",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "fcb2735b8447b41d",
-      "collected_at": "2026-11-22T10:35:47.355393+00:00"
+      "key": "931e1ec515454021",
+      "collected_at": "2026-11-22T15:45:11.786756+00:00"
     },
     {
-      "keyword": "무신사",
-      "traffic": "2000+",
-      "news_title": "SKT, 무신사 블랙프라이데이서 &apos;에어&apos; 요금제 할인",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "be1651f719489d86",
-      "collected_at": "2026-11-22T10:35:47.355393+00:00"
-    },
-    {
-      "keyword": "김혜윤",
-      "traffic": "100+",
-      "news_title": "“진심과 태도 때문에 만나자고 했어요” 장나라, 김혜윤 영입 위해 보는 면접!",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "7399100fa76cff9d",
-      "collected_at": "2026-11-22T10:35:47.355393+00:00"
-    },
-    {
-      "keyword": "김영훈",
+      "keyword": "백종헌",
       "traffic": "200+",
-      "news_title": "김영훈 노동장관 “정년연장, 27일 여당 특위서 결론 못 내면 정부안 발표”",
+      "news_title": "검증 안 된 농산물 성분 광고 제동…과학적 근거 따진다",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "ee36862a9f2c0f2a",
-      "collected_at": "2026-11-22T10:35:47.355393+00:00"
+      "key": "5aa93aae592c7d90",
+      "collected_at": "2026-11-22T15:45:11.786756+00:00"
     },
     {
-      "keyword": "기온",
-      "traffic": "100+",
-      "news_title": "[날씨] &apos;소설&apos; 추위 12월 하순 수준...내일 전국 또 눈비",
+      "keyword": "아우크스부르크 대 마인츠 05",
+      "traffic": "1000+",
+      "news_title": "Best of ESPN New York (Clips) - NY GameDay Hour 1: Why isn&apos;t Cade Klubnik starting?",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "bab311bede14f561",
-      "collected_at": "2026-11-22T10:35:47.355393+00:00"
+      "key": "601bc0121bf16672",
+      "collected_at": "2026-11-22T15:45:11.786756+00:00"
     },
     {
-      "keyword": "코스닥",
-      "traffic": "100+",
-      "news_title": "급락장에서도 로봇주는 약진…반도체 장비주 시총 제치기도",
+      "keyword": "맨유 리버풀",
+      "traffic": "500+",
+      "news_title": "“새 감독 선임한 맨유가 어떤 축구를 할지 모르겠다”… 노스웨스트 더비 앞두고 경계심 드러낸 리버풀 감독, “경기 초반이 중요”",
       "snippet": "",
       "source_type": "google_trends",
-      "category": "경제·환율·금리",
-      "key": "3aee034cd32cd0e7",
-      "collected_at": "2026-11-22T10:35:47.355393+00:00"
+      "category": "당일 화제 이슈",
+      "key": "49001f307744de9c",
+      "collected_at": "2026-11-22T15:45:11.786756+00:00"
+    },
+    {
+      "keyword": "조정석",
+      "traffic": "100+",
+      "news_title": "",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "3db475a1eba78cb9",
+      "collected_at": "2026-11-22T15:45:11.786756+00:00"
+    },
+    {
+      "keyword": "총파업",
+      "traffic": "200+",
+      "news_title": "[속보] 철도노조 &quot;안전운행 투쟁 26일로 연기…사고 복구가 먼저&quot;",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "8cbeb7156649e7da",
+      "collected_at": "2026-11-22T15:45:11.786756+00:00"
+    },
+    {
+      "keyword": "지드래곤",
+      "traffic": "1000+",
+      "news_title": "&quot;첫사랑 결혼&quot; 태양, ♥민효린 子육아에 8년 활동중단..미안해서 오열 &quot;주책이다&quot; [Oh!쎈 이슈]",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "908af1dfb7b9188c",
+      "collected_at": "2026-11-22T15:45:11.786756+00:00"
+    },
+    {
+      "keyword": "persib bandung vs bali united",
+      "traffic": "100+",
+      "news_title": "Latest Super League Standings After Persib Beats Bali United: Maung Bandung Enters Top 4, Persija Threatened!",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "d3c9e33b7edd1acd",
+      "collected_at": "2026-11-22T15:45:11.786756+00:00"
+    },
+    {
+      "keyword": "barcelona đấu với villarreal",
+      "traffic": "200+",
+      "news_title": "Barcelona 3-2 Villarreal: 3 điểm nhọc nhằn của Yamal và đồng đội",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "d136f51c1f3f7ee1",
+      "collected_at": "2026-11-22T15:45:11.786756+00:00"
     }
   ]
 }

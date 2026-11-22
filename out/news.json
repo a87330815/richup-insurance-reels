@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-22T10:35:45.757893+00:00",
+  "collected_at": "2026-11-22T15:45:10.529256+00:00",
   "topic_weight": {
     "보험·상품": 30,
     "영업·마인드": 25,
@@ -7,134 +7,108 @@
     "경제·환율·금리": 25
   },
   "topic_counts": {
-    "보험·상품": 14
+    "영업·마인드": 1,
+    "경제·환율·금리": 10
   },
   "items": [
     {
-      "title": "고환율에도 달러보험 ‘숨 고르기’…메트라이프·AIA 주도 속 시장 질적 재편 - 보험매일",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE54ZXZzN1dmNlpQYXZSdXZzQU5Bbzh6dVFibkNXdnYzOS1oU2wyOXlWVC1PLXZheHJrODJ3VVRpUUMyclFMUFFKblpyZXJoM19MMHN5UXlaVGhIWHc4YnJPbVgwRm14RDh6?oc=5",
-      "description": "고환율에도 달러보험 ‘숨 고르기’…메트라이프·AIA 주도 속 시장 질적 재편 보험매일",
-      "pub_date": "Tue, 14 Apr 2026 07:00:00 GMT",
-      "category": "달러보험 환율",
-      "key": "ff1d11a5e658db3f",
-      "topic": "보험·상품"
+      "title": "특집-보험GA협회 선정 ‘2026 우수인증설계사’ 인터뷰 [안대기 신한금융플러스 카라본부 카라지사 큐브지점 지점장] - 보험신보",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE15MVBzSWpiQk1xWDRpWjRQQUYtZ3RUWThtelh6NERjcWNtN2lMMUdGQ3lfYUFoQUxXUWtSRzhtREJXU2p3WHJzdG91X0xzazNtOFNIVHRGTXVnVlhGY2dLV1RPd2Z1bGNwY0Fr?oc=5",
+      "description": "특집-보험GA협회 선정 ‘2026 우수인증설계사’ 인터뷰 [안대기 신한금융플러스 카라본부 카라지사 큐브지점 지점장] 보험신보",
+      "pub_date": "Sun, 22 Nov 2026 15:00:00 GMT",
+      "category": "보험설계사 영업",
+      "key": "4c5d1ae430a26957",
+      "topic": "영업·마인드"
     },
     {
-      "title": "달러연금·GA 확대 전략 통했다…메트라이프·한화생명 실적 ‘점프’ - 보험매일",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBNeUlGOTZrd0MtZXdKTk5rM19nVFhmNUhvdmRPRWNGN1gzNFc2NnpybFBObGNSdGUzRk4tQzRaZ1RBazd3YXFPMHk5cDJIWGtsM19MX1M1NjJwcndqdzREdGg0UHFEUDBn?oc=5",
-      "description": "달러연금·GA 확대 전략 통했다…메트라이프·한화생명 실적 ‘점프’ 보험매일",
-      "pub_date": "Tue, 10 Feb 2026 08:00:00 GMT",
-      "category": "달러보험 환율",
-      "key": "d39da01cf173450d",
-      "topic": "보험·상품"
+      "title": "9개월 만의 미국 기준금리 인하, 우리 경제에 미칠 영향은? - 뉴닉",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5IMWF4b0toZUVES1NoY1hHUEFzX0ZKMU10cXd1M0tYRlJEUVVvR2g5QWJsRE9IcXZLNDg2dk41R3RLdVdjMEpwejhoWUJ5amtjM3ZN?oc=5",
+      "description": "9개월 만의 미국 기준금리 인하, 우리 경제에 미칠 영향은? 뉴닉",
+      "pub_date": "Wed, 17 Sep 2025 07:00:00 GMT",
+      "category": "기준금리·통화정책",
+      "key": "4b04e176e6e44869",
+      "topic": "경제·환율·금리"
     },
     {
-      "title": "설치 전에 확인할 카지노 솔루션 업체 지원 환경 - belpostel.com",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBGUTU2aWJfRlFuNkRuV0RZVllidDNCT0hNOHNnOFMtYklkT0J2d1E5TWNLb3NmYkxwU2Rid1N2MVlGYm5SSXlfY3FLRVk2Nk5zd2tJd3J2Zw?oc=5",
-      "description": "설치 전에 확인할 카지노 솔루션 업체 지원 환경 belpostel.com",
-      "pub_date": "Fri, 06 Nov 2026 21:03:46 GMT",
-      "category": "달러보험 환율",
-      "key": "6a336c217ca02e50",
-      "topic": "보험·상품"
+      "title": "[모닝 리포트] 달러/원 환율 1334~1356원 전망…약달러에 하락 우위 - 뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1qdnZXay1iQkV6UmZ4b0VGbjZQdHVYcXNUeGt0cTJZNzdiWUpweXY5a19aMFozd2ZUQ0kzbTFoRmlMaFNpUkFUWjB0OENFcWdWaF9fMk5MU0h2TzRk?oc=5",
+      "description": "[모닝 리포트] 달러/원 환율 1334~1356원 전망…약달러에 하락 우위 뉴스핌",
+      "pub_date": "Tue, 10 Nov 2026 08:00:00 GMT",
+      "category": "환율 전망",
+      "key": "b683d1b7f018a964",
+      "topic": "경제·환율·금리"
     },
     {
-      "title": "aia 달러 종신보험, 연금 전환 가능해도 환율 변동 유의해야 - 블로그차트",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOVR5ang0LTRjVkJfbVRocGNTZUdNNFZIQmU1UDNoUC1LV2QtRWZ4bzJ4WnRsRjdnMENQRmZqQU9PNU8tN1I5RWhtYWVISXotaFMybEJpdk1mY2lMbm8wY0hlMzQwM254QUdNYS1VaTVmUHVnX2pGb1NxTGt0b2JhTXV2SHc2N1JDdFFuUHkydzRaQ3hpYWNnTA?oc=5",
-      "description": "aia 달러 종신보험, 연금 전환 가능해도 환율 변동 유의해야 블로그차트",
-      "pub_date": "Sun, 27 Sep 2026 07:00:00 GMT",
-      "category": "달러보험 환율",
-      "key": "3cb413d6855ad597",
-      "topic": "보험·상품"
+      "title": "[37th SRE][Issue]1600원 위협하던 환율의 반전…내년에도 ‘반도체의 힘’ 통할까 - edaily.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNHZSTHVMdE1mcFlaLXU2MzZkTmdVdjZJRkhNNzdPdllCaU5zYTZEQ21ETzZNdHByRHQ1ekl3QU0wLXlwVTdHV0tOUmEyaW93N3dQUF90aDFIZ245TTEtNng4a05Na0tjS0ZlbnFlQ1BudkktbEFPS2lTS3kzMU9OZg?oc=5",
+      "description": "[37th SRE][Issue]1600원 위협하던 환율의 반전…내년에도 ‘반도체의 힘’ 통할까 edaily.co.kr",
+      "pub_date": "Wed, 18 Nov 2026 01:00:04 GMT",
+      "category": "환율 전망",
+      "key": "9ca4032e46edcfd7",
+      "topic": "경제·환율·금리"
     },
     {
-      "title": "메트라이프 달러종신, 10년차 환급률 124%의 숨겨진 진실 - 블로그차트",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbVF4cHozNi0wSXlSekpEdnZfbHc2enBYM0U0aWNpckNBZFEyMWs2dC0yV3ZYX1hHVzJJRmRsUWV5clMwZ2UtX3gydllwc2xpdktaOUtQMkdtLVBtTXVzNXd6S3BvcEFWM2s5ME9tWnZHU18tTUl2dG5tdEdDNjJjaVFYakJZQ3NsYTgyVEZoNEVqMWNNeVM3bzdiNlFDY0FiYnlNc1Vyd2M0WDRfNDFBQW96Q0F2T2s?oc=5",
-      "description": "메트라이프 달러종신, 10년차 환급률 124%의 숨겨진 진실 블로그차트",
-      "pub_date": "Fri, 25 Sep 2026 07:00:00 GMT",
-      "category": "달러보험 환율",
-      "key": "075547023904dbaf",
-      "topic": "보험·상품"
+      "title": "한투증권 \"원/달러 환율, 1,330원대 복귀해도 추가 하락 압력\" - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBXUkhZM0o2N3kwVUdJdk5ZYlJEN3dCTTE4RXV4bnFkYUwzY0thOEMzcDFWOGR6RnplbDlNYnVUYm1JMlU2dzhPMTFlRGo5S1NTZXN0SURaNUY2T1nSAWBBVV95cUxPSmFmOEg5TDhfT1c3WWhEei13RVp1YjNjLUNDQXRQMlZIUVhVSV9SOHFvTE10UFdqQ3JHTWZuaFdpckJXempXYzNPMUx0eEhzMklWM203bzI5a29UQ2VCLVM?oc=5",
+      "description": "한투증권 \"원/달러 환율, 1,330원대 복귀해도 추가 하락 압력\" 연합뉴스",
+      "pub_date": "Thu, 08 Oct 2026 07:00:00 GMT",
+      "category": "환율 전망",
+      "key": "89b39df28e843675",
+      "topic": "경제·환율·금리"
     },
     {
-      "title": "AIA 달러 보험, 월납보다 일시납 추천? 10년 비과세 조건은 - 블로그차트",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWUgzc0lHaU50ZDdQeWlvdW9CRjhBYS1QUVliMUhGb29wZF82bUJhb05IbVFsUlhReXpXbUwxNkpGajJmNlBiNjBUU0U5bXVTaVdfVkdPcThhakhQYl9pc3RDRmZXZndBb052dkJZS19Bd3ktbnQ3bHBZbGZtbFBUbw?oc=5",
-      "description": "AIA 달러 보험, 월납보다 일시납 추천? 10년 비과세 조건은 블로그차트",
-      "pub_date": "Wed, 30 Sep 2026 07:00:00 GMT",
-      "category": "달러보험 환율",
-      "key": "782b9a3592579d9d",
-      "topic": "보험·상품"
+      "title": "강달러 뚫은 원화, 힘 못 쓰는 엔화…원·엔 환율 840원까지 '뚝' - 마켓인",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1scklKOGctbklJNEg4b1hQY2ZYb1AzNml2UjRjZzVpTF9wQUp4eW5TUHRoRUtneDNhRU8zRUhrRUtGaXNqZEJnQzJlZHlTa1hZWkRQNS1oT1AtUmExaFQ3eEdjY2szdGJNdklZS0xGS08yMVU?oc=5",
+      "description": "강달러 뚫은 원화, 힘 못 쓰는 엔화…원·엔 환율 840원까지 '뚝' 마켓인",
+      "pub_date": "Tue, 13 Oct 2026 07:00:00 GMT",
+      "category": "환율 전망",
+      "key": "411bbf8fbb8b1f07",
+      "topic": "경제·환율·금리"
     },
     {
-      "title": "1억 비과세 한도? AIA 달러연금 일시납, 10년 뒤 160% 확정의 진실 - 블로그차트",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQS3RVSTc4b1VlMmNWQVVEd0VxZGNrX2RmWDRLaHBuQVZWLVY5M3lBY21yMFJiTk4zNDJPUVZSY1BrVVVia19QZmNEQUd6dXFIOU1QdkJ2VEVRU08walpTRU5XTTFPemw5aUtmQTlzSFpUNTdCc0c3WlZkQTJueFV3RGNEcjlMTFMzal9WQzZhMUtJcWZGQnZDVUZuUTN0NXlCRDVoQg?oc=5",
-      "description": "1억 비과세 한도? AIA 달러연금 일시납, 10년 뒤 160% 확정의 진실 블로그차트",
-      "pub_date": "Sat, 26 Sep 2026 07:00:00 GMT",
-      "category": "달러보험 환율",
-      "key": "d0e9b1cb3d20f27a",
-      "topic": "보험·상품"
+      "title": "[외환] 원·달러 1336.7원…증시 꺾이자 반등 - 자본시장뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9LUEMwUWRxSEVIeWpPZnNhZlBIOWtnQkJEaHBfUF9uVzI5anQyN01leHlGdGFYTDVJQW5CYkNWeEg1Q29velZMOTRPY3NsRy1Zc1NyZnlpTU5sRU9vaE1xUDdfcDdIOEU?oc=5",
+      "description": "[외환] 원·달러 1336.7원…증시 꺾이자 반등 자본시장뉴스",
+      "pub_date": "Fri, 13 Nov 2026 09:00:00 GMT",
+      "category": "환율 전망",
+      "key": "792b686b08c35a7c",
+      "topic": "경제·환율·금리"
     },
     {
-      "title": "금융위 \"실손개혁, 보험료 연간 30∼50% 인하 효과\" - 퍼블릭뉴스",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4wYkVHdFNRUWhVVXJHM3YyQXd0OTVrUE5fal9McWxBZ1FDSVgyV3Vrdm41d2swdEp0N0RMRUdta0U3NXc4clBuQngtMFVjUHVUTTkyNGpLUEJqWDZJSDNXN1JsbW1JMlNlRlpnTw?oc=5",
-      "description": "금융위 \"실손개혁, 보험료 연간 30∼50% 인하 효과\" 퍼블릭뉴스",
-      "pub_date": "Tue, 18 Mar 2025 07:00:00 GMT",
-      "category": "보험 제도·규제",
-      "key": "5174007ce60315a0",
-      "topic": "보험·상품"
+      "title": "삼전닉스 '458조' 움직인다…거꾸로가는 환율 뒤에 '반도체 달러' - 전자신문",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE15NFBHT0JJMG9xMFlpVnVWaE9nbzg1RkJ2U2Rrb0phWW1ZbmdZN3lEYkVyeTdha2dBNDJxdG5TdktqNEt3bFdReFNCLURjUQ?oc=5",
+      "description": "삼전닉스 '458조' 움직인다…거꾸로가는 환율 뒤에 '반도체 달러' 전자신문",
+      "pub_date": "Fri, 02 Oct 2026 07:00:00 GMT",
+      "category": "환율 전망",
+      "key": "66fa365953ad6a42",
+      "topic": "경제·환율·금리"
     },
     {
-      "title": "정무위 출범, GA 판매전문회사 추진 재개…부회장 선임도 본격화 - 파이낸셜투데이",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ublhMcTFhN0t2WTBqUHF2eXd5ZnVFZ1MxUlZOLVdKbElyd1I3OW1EMDlEQnNkd2xtbU5jV1h4VFExa1ZfWU56UTVfRlJRSHBoUmUzbUpSNmJmOVR6Y3p0djNnWGlaZmdPd3fSAW5BVV95cUxNRmU5Nkh1V3AxSmVEZldGMU5Zc0tweWlFUm9qdHZGVVZZMFJvc0Q2RkY3WGJYY2I3QVVnTERVdkxjdWhXcWFacnJkS194RFNZYm8wbWptSF85dE9rREd1bmQ3ZXF0Z1M3cHhSZW9EQQ?oc=5",
-      "description": "정무위 출범, GA 판매전문회사 추진 재개…부회장 선임도 본격화 파이낸셜투데이",
-      "pub_date": "Fri, 03 Jul 2026 07:00:00 GMT",
-      "category": "보험 제도·규제",
-      "key": "f3d7b66d97cdd4fe",
-      "topic": "보험·상품"
+      "title": "[다음주 환율전망] 美 국채금리 하락에 원·달러 환율 하방 압력…다음주 1330원대에서 공방 전망 - 굿모닝경제",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5aWG9Ed0YyNTVUSTdMMFJISV9ONUJGbld4aDZmQ1V2U1NBR0hvdXMtTlA5bzBucGp1bFZwWnpmbzREdlY4c2tUZFBhQ1A1MDkxclB3cDdvaUdraXBKLUVSY2lqZjk3VmF6LVJVOQ?oc=5",
+      "description": "[다음주 환율전망] 美 국채금리 하락에 원·달러 환율 하방 압력…다음주 1330원대에서 공방 전망 굿모닝경제",
+      "pub_date": "Sat, 17 Oct 2026 07:00:00 GMT",
+      "category": "환율 전망",
+      "key": "fdbf20f7f521fe5b",
+      "topic": "경제·환율·금리"
     },
     {
-      "title": "1200%룰 시행 후 GA 영입경쟁 과열… 에즈금융서비스 “허위사실 유포 무관용” - 한국보험신문",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBYMkxDdGhkYXhSQzNTNWxwZUFTWVZBTGk1aGY4dGluM3VUeXBXZWdMenZwUFNseGFVT2dvbTVPWUZnaTA0ZWdOVGtFZC0zZzhGbGJkaERnWjZkWXNWWGJYNXhGcVhDVmdQZExN0gFvQVVfeXFMTVRPUDJRQUlacXVKUDRVLU1mOGplZmtPcVZDNENNVGluLVRncG5hblZFbWN5ZTZJR1ZGSjdWWXNSUTRYcS1NRFVSUmFHeXo2dXlwaDBxb29XS0VpcFZxTy03V19uUjFpRjVXSmVab1lj?oc=5",
-      "description": "1200%룰 시행 후 GA 영입경쟁 과열… 에즈금융서비스 “허위사실 유포 무관용” 한국보험신문",
-      "pub_date": "Mon, 13 Jul 2026 07:00:00 GMT",
-      "category": "보험 제도·규제",
-      "key": "49661d2357cd6285",
-      "topic": "보험·상품"
+      "title": "[다음주 환율전망] 원·달러 14개월 만에 최저…다음주 1340원선도 깨질까 - 굿모닝경제",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB5QlhwYXExMUM3aGp6MWxJbEtCTHZKREltdHRkOHVKbllFUk1RMlJlb1BfWWZrYnNMS1FXRGg5ekFOQ1hFc0JUTlFwV2FiOXZoX3c4UjA4MzZNNmJnSTN5NzhWd0NHeng0UWRzNA?oc=5",
+      "description": "[다음주 환율전망] 원·달러 14개월 만에 최저…다음주 1340원선도 깨질까 굿모닝경제",
+      "pub_date": "Sun, 06 Sep 2026 07:00:00 GMT",
+      "category": "환율 전망",
+      "key": "7b8d1bddc31bfcbd",
+      "topic": "경제·환율·금리"
     },
     {
-      "title": "GA, 2차년도 시책비 환수 시행에 경영 압박 ‘가중’ - 한국보험신문",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9QTUxSRGR6LUI2NWdSX3B2YlZaSWlYOTlCVkZCQVJMcjhGRTR5dWhlS19PVjdVWURmNTNJVWZEekRUb1Nxcm9SR3ZiQkowNHpyYV9yTUx5Q3hzRFBYWHFzSjdKR3NlOS1neHlR0gFvQVVfeXFMTk9uSmJ4amExMS1URE5paWZXZ1JuUWEzMG5ZcnBYcWJfRXpSZktEMWNRZzNuS2RSTnNZZmhfeUdhclp4cnN3QmRLWHpuamItcnUzZkc0V09udGZ6MFdpdWVNa0JaNnkxelhoMFRiTmQ0?oc=5",
-      "description": "GA, 2차년도 시책비 환수 시행에 경영 압박 ‘가중’ 한국보험신문",
-      "pub_date": "Mon, 24 Jul 2023 07:00:00 GMT",
-      "category": "보험 제도·규제",
-      "key": "e08ac796052334ef",
-      "topic": "보험·상품"
-    },
-    {
-      "title": "금융위-보험사-GA, 수수료 규제 두고 ‘설왕설래’ - 보험매일",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBOc2NOTXZVWW1GVi1xQk41X1MtOUoxd3hlVHRwTVRkSm5rRFl5QXduOWFHamNJNFN4amJzSldwN0ZOT2ZWaXVXV2dsb1lJNzE3c1ZFekI3N2ZEejIwUjRHa0pCTjBJaWM?oc=5",
-      "description": "금융위-보험사-GA, 수수료 규제 두고 ‘설왕설래’ 보험매일",
-      "pub_date": "Tue, 02 Aug 2022 07:00:00 GMT",
-      "category": "보험 제도·규제",
-      "key": "74881af0ff102d8f",
-      "topic": "보험·상품"
-    },
-    {
-      "title": "대형 GA, 내부통제 운영실태 자체 평가 시작 - 보험매일",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5QdTVNWl9CUmJ3NS1OVmFOYm9RWEN1d2I1cFBrUEw3VUtxVUFLRG9WZ0hJLXhiVG11dGVISXhrUkctRHJnOFRXelAwdTJDcm81Q21KTjR2ckJpZE8yWnRONFphaVBWNWc?oc=5",
-      "description": "대형 GA, 내부통제 운영실태 자체 평가 시작 보험매일",
-      "pub_date": "Wed, 17 Jan 2024 08:00:00 GMT",
-      "category": "보험 제도·규제",
-      "key": "842f389131854f57",
-      "topic": "보험·상품"
-    },
-    {
-      "title": "[단독] \"모집질서 위반\"...금감원, 인카금융·GA코리아에 '수십억 과태료' 중징계 - 중앙이코노미뉴스",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0tdmFCMi0wWno3RmlzcTFrYXR3TkZ5d0oxQWRRSEdBSklsaWpWR0ZyMmVjZXJjblR5V3Z3MzZiR3ZBZHc2UDI3WXVjWkh2d3FhY05KTV83REFGUEpUN09aYndWRmpQbTZDd1RXa0k5UUVPQQ?oc=5",
-      "description": "[단독] \"모집질서 위반\"...금감원, 인카금융·GA코리아에 '수십억 과태료' 중징계 중앙이코노미뉴스",
-      "pub_date": "Wed, 09 Sep 2026 07:00:00 GMT",
-      "category": "보험 제도·규제",
-      "key": "f85d7e5ca9ed1579",
-      "topic": "보험·상품"
+      "title": "원·달러 환율 1325원 돌파, 달러 강세 속 상단 제한 - https://www.2news.co.kr/",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE94czdPWTZqZ19vT1hMUHRTc3FIcTFBb2JFd2JuN0RQaEhmLXlJSjlHV1dMcVh5dmhEbnJzODNPQ0tQb3pvWko0Z1Q1NVZGWWkyNFpKYWRHN2lwT0VrcjhQWFladWM0ZVo4?oc=5",
+      "description": "원·달러 환율 1325원 돌파, 달러 강세 속 상단 제한 https://www.2news.co.kr/",
+      "pub_date": "Tue, 27 Oct 2026 07:00:00 GMT",
+      "category": "환율 전망",
+      "key": "e1332242aff97d0c",
+      "topic": "경제·환율·금리"
     }
   ]
 }
