@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-22T02:46:25.123720+00:00",
+  "collected_at": "2026-11-22T10:35:45.757893+00:00",
   "topic_weight": {
     "보험·상품": 30,
     "영업·마인드": 25,
@@ -7,81 +7,134 @@
     "경제·환율·금리": 25
   },
   "topic_counts": {
-    "의료·건강": 1,
-    "경제·환율·금리": 7
+    "보험·상품": 14
   },
   "items": [
     {
-      "title": "환자 가족까지 위로받는 치매간병보험 [보험 200% 활용법] - 매일경제",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBrNEprVEk3b1RxbkNkNTAwMmZkOU04ZGVfQkxpYkpHMnNLQjYzVHFPa0t3bW5jcG92RVBZNGxvM2pOdkhGU3NpRUJMTDdaaWV1bGNaYw?oc=5",
-      "description": "환자 가족까지 위로받는 치매간병보험 [보험 200% 활용법] 매일경제",
-      "pub_date": "Thu, 22 Aug 2024 07:00:00 GMT",
-      "category": "치매 간병",
-      "key": "e298e0068b598ed6",
-      "topic": "의료·건강"
+      "title": "고환율에도 달러보험 ‘숨 고르기’…메트라이프·AIA 주도 속 시장 질적 재편 - 보험매일",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE54ZXZzN1dmNlpQYXZSdXZzQU5Bbzh6dVFibkNXdnYzOS1oU2wyOXlWVC1PLXZheHJrODJ3VVRpUUMyclFMUFFKblpyZXJoM19MMHN5UXlaVGhIWHc4YnJPbVgwRm14RDh6?oc=5",
+      "description": "고환율에도 달러보험 ‘숨 고르기’…메트라이프·AIA 주도 속 시장 질적 재편 보험매일",
+      "pub_date": "Tue, 14 Apr 2026 07:00:00 GMT",
+      "category": "달러보험 환율",
+      "key": "ff1d11a5e658db3f",
+      "topic": "보험·상품"
     },
     {
-      "title": "수출 1조달러에도 연말 환율 1380원 전망…美 긴축·외국인 역송금 변수 - 파이낸셜뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WN1pIRWpiNlNNbkJmVGpqM0FiUUQxNUkwMFJwckNPR3YyVnhUWEI4NmV4QTQwYW1fdkQzWVJQVHhGSGJwTDk0cmF6OHlDOW1LV2xSTk1OTVNZQQ?oc=5",
-      "description": "수출 1조달러에도 연말 환율 1380원 전망…美 긴축·외국인 역송금 변수 파이낸셜뉴스",
-      "pub_date": "Sat, 21 Nov 2026 22:30:22 GMT",
-      "category": "환율 전망",
-      "key": "36e242edc3fd6cb1",
-      "topic": "경제·환율·금리"
+      "title": "달러연금·GA 확대 전략 통했다…메트라이프·한화생명 실적 ‘점프’ - 보험매일",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBNeUlGOTZrd0MtZXdKTk5rM19nVFhmNUhvdmRPRWNGN1gzNFc2NnpybFBObGNSdGUzRk4tQzRaZ1RBazd3YXFPMHk5cDJIWGtsM19MX1M1NjJwcndqdzREdGg0UHFEUDBn?oc=5",
+      "description": "달러연금·GA 확대 전략 통했다…메트라이프·한화생명 실적 ‘점프’ 보험매일",
+      "pub_date": "Tue, 10 Feb 2026 08:00:00 GMT",
+      "category": "달러보험 환율",
+      "key": "d39da01cf173450d",
+      "topic": "보험·상품"
     },
     {
-      "title": "[환율 전망] 미 고용보다 센 K-반도체 달러 | KB의 생각 - KB Think",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9KNDM3VC00RHNYaktXOU1vV1BDOFRoeVpieVI4anJjU3RCdUxVcHRjRDF4eG82eU82NE5rdGFIWDF5MnBpYUNjUTdCNzgwbmFyRy1CLU54azNCOFc1eVlCNw?oc=5",
-      "description": "[환율 전망] 미 고용보다 센 K-반도체 달러 | KB의 생각 KB Think",
-      "pub_date": "Mon, 07 Sep 2026 07:00:00 GMT",
-      "category": "환율 전망",
-      "key": "1d338c9f006bf336",
-      "topic": "경제·환율·금리"
+      "title": "설치 전에 확인할 카지노 솔루션 업체 지원 환경 - belpostel.com",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBGUTU2aWJfRlFuNkRuV0RZVllidDNCT0hNOHNnOFMtYklkT0J2d1E5TWNLb3NmYkxwU2Rid1N2MVlGYm5SSXlfY3FLRVk2Nk5zd2tJd3J2Zw?oc=5",
+      "description": "설치 전에 확인할 카지노 솔루션 업체 지원 환경 belpostel.com",
+      "pub_date": "Fri, 06 Nov 2026 21:03:46 GMT",
+      "category": "달러보험 환율",
+      "key": "6a336c217ca02e50",
+      "topic": "보험·상품"
     },
     {
-      "title": "'스페이스X' 12일 나스닥 상장, 코스피 대형주 수급 우려 - 진일보 | 전남일보",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9FWTNzbGNJb0lDQ1lPN21mRS1Ka28wdXBJSktiQ0N3TXFnaDA1Q1VCOFRsTmhrTTlPenJXcEhkMTVkLV9HZFQwbDhRSVduREtrMVZWM0lSZUc4cmpIejdqWkNrd1BXdGRFaXQ0VWpabw?oc=5",
-      "description": "'스페이스X' 12일 나스닥 상장, 코스피 대형주 수급 우려 진일보 | 전남일보",
-      "pub_date": "Sun, 07 Jun 2026 07:00:00 GMT",
-      "category": "글로벌 시장",
-      "key": "d8f87101bd2c4833",
-      "topic": "경제·환율·금리"
+      "title": "aia 달러 종신보험, 연금 전환 가능해도 환율 변동 유의해야 - 블로그차트",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOVR5ang0LTRjVkJfbVRocGNTZUdNNFZIQmU1UDNoUC1LV2QtRWZ4bzJ4WnRsRjdnMENQRmZqQU9PNU8tN1I5RWhtYWVISXotaFMybEJpdk1mY2lMbm8wY0hlMzQwM254QUdNYS1VaTVmUHVnX2pGb1NxTGt0b2JhTXV2SHc2N1JDdFFuUHkydzRaQ3hpYWNnTA?oc=5",
+      "description": "aia 달러 종신보험, 연금 전환 가능해도 환율 변동 유의해야 블로그차트",
+      "pub_date": "Sun, 27 Sep 2026 07:00:00 GMT",
+      "category": "달러보험 환율",
+      "key": "3cb413d6855ad597",
+      "topic": "보험·상품"
     },
     {
-      "title": "'5천피' 무너지고 美증시 급락…'AI 투매' 추가 충격오나 - 연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1XWm5VM256ZnJreUFOcXdyLWNnWnFJbTJVeno1MEZCVFdma2NkbEVzOC1rbVRXaGlVZVJUZXozN3lxN2hWTnpURnlGY09uUzV5NXY4YnVfc1BERkNRTktNaNIBYEFVX3lxTE1XWm5VM256ZnJreUFOcXdyLWNnWnFJbTJVeno1MEZCVFdma2NkbEVzOC1rbVRXaGlVZVJUZXozN3lxN2hWTnpURnlGY09uUzV5NXY4YnVfc1BERkNRTktNaA?oc=5",
-      "description": "'5천피' 무너지고 美증시 급락…'AI 투매' 추가 충격오나 연합뉴스",
-      "pub_date": "Sat, 21 Nov 2026 21:00:06 GMT",
-      "category": "글로벌 시장",
-      "key": "176bab3892abda50",
-      "topic": "경제·환율·금리"
+      "title": "메트라이프 달러종신, 10년차 환급률 124%의 숨겨진 진실 - 블로그차트",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbVF4cHozNi0wSXlSekpEdnZfbHc2enBYM0U0aWNpckNBZFEyMWs2dC0yV3ZYX1hHVzJJRmRsUWV5clMwZ2UtX3gydllwc2xpdktaOUtQMkdtLVBtTXVzNXd6S3BvcEFWM2s5ME9tWnZHU18tTUl2dG5tdEdDNjJjaVFYakJZQ3NsYTgyVEZoNEVqMWNNeVM3bzdiNlFDY0FiYnlNc1Vyd2M0WDRfNDFBQW96Q0F2T2s?oc=5",
+      "description": "메트라이프 달러종신, 10년차 환급률 124%의 숨겨진 진실 블로그차트",
+      "pub_date": "Fri, 25 Sep 2026 07:00:00 GMT",
+      "category": "달러보험 환율",
+      "key": "075547023904dbaf",
+      "topic": "보험·상품"
     },
     {
-      "title": "AI 투자 불안에 글로벌 증시 급락…코스피 이번 주도 약세 전망 - 산경투데이",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9QSHhIbVg3bmRfMGE0R19qN3gtU0xGSGVtakpCaWlTWXh6UU5RckZxVWxEaUd1MVg0T3FsNXVzNl9iZjRKVnR2dlpuZlVma2kxWkphU1I3YkladXJGa09GVWFVNk9PcFc1TW1Oa05ldHLSAXRBVV95cUxPVWV6UHNLdElPTWVEc0dwZmFFWVlBYU5xUV80MnhEX21FMWU0ei1TY2o1VGg5dlhWaDBrVFpITERQZDE0X2xxM01fZ1ZITnBpYjFZT1J4TW5LSmFubTVibFFqTGNuOWF1TjR3c0Rhc3JidjNCSQ?oc=5",
-      "description": "AI 투자 불안에 글로벌 증시 급락…코스피 이번 주도 약세 전망 산경투데이",
-      "pub_date": "Sun, 22 Nov 2026 01:04:50 GMT",
-      "category": "글로벌 시장",
-      "key": "0d35933050dbd0c3",
-      "topic": "경제·환율·금리"
+      "title": "AIA 달러 보험, 월납보다 일시납 추천? 10년 비과세 조건은 - 블로그차트",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWUgzc0lHaU50ZDdQeWlvdW9CRjhBYS1QUVliMUhGb29wZF82bUJhb05IbVFsUlhReXpXbUwxNkpGajJmNlBiNjBUU0U5bXVTaVdfVkdPcThhakhQYl9pc3RDRmZXZndBb052dkJZS19Bd3ktbnQ3bHBZbGZtbFBUbw?oc=5",
+      "description": "AIA 달러 보험, 월납보다 일시납 추천? 10년 비과세 조건은 블로그차트",
+      "pub_date": "Wed, 30 Sep 2026 07:00:00 GMT",
+      "category": "달러보험 환율",
+      "key": "782b9a3592579d9d",
+      "topic": "보험·상품"
     },
     {
-      "title": "“증시 누가 살리나”…AI株 폭락에 월가 패닉, 코스피 ‘비상’ [머니+] - 에너지경제신문",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9yR2hQWmVqWDBTeVNONUtUOXl1LW5LTEhhVWJ3NW5pNGlmUWcwSE5IWlNxeTIyLW9ON25KT1dhdTZMSjA3U2VFR3Z0ejR0MXlyeGtfc05yZGRrTkxUWDczUmpyNA?oc=5",
-      "description": "“증시 누가 살리나”…AI株 폭락에 월가 패닉, 코스피 ‘비상’ [머니+] 에너지경제신문",
-      "pub_date": "Sun, 22 Nov 2026 02:37:10 GMT",
-      "category": "글로벌 시장",
-      "key": "40b5af27c5cb77b1",
-      "topic": "경제·환율·금리"
+      "title": "1억 비과세 한도? AIA 달러연금 일시납, 10년 뒤 160% 확정의 진실 - 블로그차트",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQS3RVSTc4b1VlMmNWQVVEd0VxZGNrX2RmWDRLaHBuQVZWLVY5M3lBY21yMFJiTk4zNDJPUVZSY1BrVVVia19QZmNEQUd6dXFIOU1QdkJ2VEVRU08walpTRU5XTTFPemw5aUtmQTlzSFpUNTdCc0c3WlZkQTJueFV3RGNEcjlMTFMzal9WQzZhMUtJcWZGQnZDVUZuUTN0NXlCRDVoQg?oc=5",
+      "description": "1억 비과세 한도? AIA 달러연금 일시납, 10년 뒤 160% 확정의 진실 블로그차트",
+      "pub_date": "Sat, 26 Sep 2026 07:00:00 GMT",
+      "category": "달러보험 환율",
+      "key": "d0e9b1cb3d20f27a",
+      "topic": "보험·상품"
     },
     {
-      "title": "11월 4주차 나스닥 폭락에 따른 투자 전략 - 네이버 프리미엄콘텐츠",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPS3Bpamo4c1VWYl9ISFd5VmItYWlIdno3UnM5UzNIcHZzbmtnQ19GeGxhMFNxTVFySDRqeVpCOTdCcC12V3k5RlR2ZHBUSWlDaWNPay1nVGx5M3pNRjNsanM5SWF2UHFQUUdZNGMtN3VNSE5jX3RtSkl0N3ZNMFBHQ0JrUl9XTjBKbkotbU1qZzg0NGVkZHR3?oc=5",
-      "description": "11월 4주차 나스닥 폭락에 따른 투자 전략 네이버 프리미엄콘텐츠",
-      "pub_date": "Sun, 22 Nov 2026 02:12:00 GMT",
-      "category": "글로벌 시장",
-      "key": "12c25083be40821f",
-      "topic": "경제·환율·금리"
+      "title": "금융위 \"실손개혁, 보험료 연간 30∼50% 인하 효과\" - 퍼블릭뉴스",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4wYkVHdFNRUWhVVXJHM3YyQXd0OTVrUE5fal9McWxBZ1FDSVgyV3Vrdm41d2swdEp0N0RMRUdta0U3NXc4clBuQngtMFVjUHVUTTkyNGpLUEJqWDZJSDNXN1JsbW1JMlNlRlpnTw?oc=5",
+      "description": "금융위 \"실손개혁, 보험료 연간 30∼50% 인하 효과\" 퍼블릭뉴스",
+      "pub_date": "Tue, 18 Mar 2025 07:00:00 GMT",
+      "category": "보험 제도·규제",
+      "key": "5174007ce60315a0",
+      "topic": "보험·상품"
+    },
+    {
+      "title": "정무위 출범, GA 판매전문회사 추진 재개…부회장 선임도 본격화 - 파이낸셜투데이",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ublhMcTFhN0t2WTBqUHF2eXd5ZnVFZ1MxUlZOLVdKbElyd1I3OW1EMDlEQnNkd2xtbU5jV1h4VFExa1ZfWU56UTVfRlJRSHBoUmUzbUpSNmJmOVR6Y3p0djNnWGlaZmdPd3fSAW5BVV95cUxNRmU5Nkh1V3AxSmVEZldGMU5Zc0tweWlFUm9qdHZGVVZZMFJvc0Q2RkY3WGJYY2I3QVVnTERVdkxjdWhXcWFacnJkS194RFNZYm8wbWptSF85dE9rREd1bmQ3ZXF0Z1M3cHhSZW9EQQ?oc=5",
+      "description": "정무위 출범, GA 판매전문회사 추진 재개…부회장 선임도 본격화 파이낸셜투데이",
+      "pub_date": "Fri, 03 Jul 2026 07:00:00 GMT",
+      "category": "보험 제도·규제",
+      "key": "f3d7b66d97cdd4fe",
+      "topic": "보험·상품"
+    },
+    {
+      "title": "1200%룰 시행 후 GA 영입경쟁 과열… 에즈금융서비스 “허위사실 유포 무관용” - 한국보험신문",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBYMkxDdGhkYXhSQzNTNWxwZUFTWVZBTGk1aGY4dGluM3VUeXBXZWdMenZwUFNseGFVT2dvbTVPWUZnaTA0ZWdOVGtFZC0zZzhGbGJkaERnWjZkWXNWWGJYNXhGcVhDVmdQZExN0gFvQVVfeXFMTVRPUDJRQUlacXVKUDRVLU1mOGplZmtPcVZDNENNVGluLVRncG5hblZFbWN5ZTZJR1ZGSjdWWXNSUTRYcS1NRFVSUmFHeXo2dXlwaDBxb29XS0VpcFZxTy03V19uUjFpRjVXSmVab1lj?oc=5",
+      "description": "1200%룰 시행 후 GA 영입경쟁 과열… 에즈금융서비스 “허위사실 유포 무관용” 한국보험신문",
+      "pub_date": "Mon, 13 Jul 2026 07:00:00 GMT",
+      "category": "보험 제도·규제",
+      "key": "49661d2357cd6285",
+      "topic": "보험·상품"
+    },
+    {
+      "title": "GA, 2차년도 시책비 환수 시행에 경영 압박 ‘가중’ - 한국보험신문",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9QTUxSRGR6LUI2NWdSX3B2YlZaSWlYOTlCVkZCQVJMcjhGRTR5dWhlS19PVjdVWURmNTNJVWZEekRUb1Nxcm9SR3ZiQkowNHpyYV9yTUx5Q3hzRFBYWHFzSjdKR3NlOS1neHlR0gFvQVVfeXFMTk9uSmJ4amExMS1URE5paWZXZ1JuUWEzMG5ZcnBYcWJfRXpSZktEMWNRZzNuS2RSTnNZZmhfeUdhclp4cnN3QmRLWHpuamItcnUzZkc0V09udGZ6MFdpdWVNa0JaNnkxelhoMFRiTmQ0?oc=5",
+      "description": "GA, 2차년도 시책비 환수 시행에 경영 압박 ‘가중’ 한국보험신문",
+      "pub_date": "Mon, 24 Jul 2023 07:00:00 GMT",
+      "category": "보험 제도·규제",
+      "key": "e08ac796052334ef",
+      "topic": "보험·상품"
+    },
+    {
+      "title": "금융위-보험사-GA, 수수료 규제 두고 ‘설왕설래’ - 보험매일",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBOc2NOTXZVWW1GVi1xQk41X1MtOUoxd3hlVHRwTVRkSm5rRFl5QXduOWFHamNJNFN4amJzSldwN0ZOT2ZWaXVXV2dsb1lJNzE3c1ZFekI3N2ZEejIwUjRHa0pCTjBJaWM?oc=5",
+      "description": "금융위-보험사-GA, 수수료 규제 두고 ‘설왕설래’ 보험매일",
+      "pub_date": "Tue, 02 Aug 2022 07:00:00 GMT",
+      "category": "보험 제도·규제",
+      "key": "74881af0ff102d8f",
+      "topic": "보험·상품"
+    },
+    {
+      "title": "대형 GA, 내부통제 운영실태 자체 평가 시작 - 보험매일",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5QdTVNWl9CUmJ3NS1OVmFOYm9RWEN1d2I1cFBrUEw3VUtxVUFLRG9WZ0hJLXhiVG11dGVISXhrUkctRHJnOFRXelAwdTJDcm81Q21KTjR2ckJpZE8yWnRONFphaVBWNWc?oc=5",
+      "description": "대형 GA, 내부통제 운영실태 자체 평가 시작 보험매일",
+      "pub_date": "Wed, 17 Jan 2024 08:00:00 GMT",
+      "category": "보험 제도·규제",
+      "key": "842f389131854f57",
+      "topic": "보험·상품"
+    },
+    {
+      "title": "[단독] \"모집질서 위반\"...금감원, 인카금융·GA코리아에 '수십억 과태료' 중징계 - 중앙이코노미뉴스",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0tdmFCMi0wWno3RmlzcTFrYXR3TkZ5d0oxQWRRSEdBSklsaWpWR0ZyMmVjZXJjblR5V3Z3MzZiR3ZBZHc2UDI3WXVjWkh2d3FhY05KTV83REFGUEpUN09aYndWRmpQbTZDd1RXa0k5UUVPQQ?oc=5",
+      "description": "[단독] \"모집질서 위반\"...금감원, 인카금융·GA코리아에 '수십억 과태료' 중징계 중앙이코노미뉴스",
+      "pub_date": "Wed, 09 Sep 2026 07:00:00 GMT",
+      "category": "보험 제도·규제",
+      "key": "f85d7e5ca9ed1579",
+      "topic": "보험·상품"
     }
   ]
 }

@@ -1,85 +1,65 @@
 {
-  "collected_at": "2026-11-22T02:46:26.684210+00:00",
+  "collected_at": "2026-11-22T10:35:47.356726+00:00",
   "items": [
     {
-      "keyword": "이강인",
-      "traffic": "2000+",
-      "news_title": "이제는 내가 간판! 이강인, 2년 연속 AFC 국제선수상 영예",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "57022f86a578253d",
-      "collected_at": "2026-11-22T02:46:26.683482+00:00"
-    },
-    {
-      "keyword": "lpga",
-      "traffic": "1000+",
-      "news_title": "Kim A-lim Maintains Sole Lead After Third Round of LPGA Tour Championship",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "3752fbe7faa817b3",
-      "collected_at": "2026-11-22T02:46:26.683482+00:00"
-    },
-    {
-      "keyword": "파주시",
+      "keyword": "서울 경전철 서부선",
       "traffic": "200+",
-      "news_title": "파주시의회 옥승철 의원 5분 자유발언 &quot;교하동 신청사 건립, 더 이상 미뤄선 안돼&quot;",
+      "news_title": "20년 넘게 끌어온 서부선…사업비 급증의 암초를 넘을 수 있을까",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "066be3194e683449",
-      "collected_at": "2026-11-22T02:46:26.683482+00:00"
+      "key": "fcb2735b8447b41d",
+      "collected_at": "2026-11-22T10:35:47.355393+00:00"
     },
     {
-      "keyword": "오현규",
-      "traffic": "500+",
-      "news_title": "“레전드 손흥민이 영입에 중요한 역할 할 수도”…토트넘, 공격진 보강 계획 속 ‘이적료 442억’ 오현규 영입 관심",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "30d51f5bb2bd9cd6",
-      "collected_at": "2026-11-22T02:46:26.683482+00:00"
-    },
-    {
-      "keyword": "영구자석",
-      "traffic": "1000+",
-      "news_title": "Bunker Hill, 케냐 희토류 프로젝트 독점 협상 대상 선정",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "e5a19d33ee8cce62",
-      "collected_at": "2026-11-22T02:46:26.683482+00:00"
-    },
-    {
-      "keyword": "울산광역시",
-      "traffic": "1000+",
-      "news_title": "산업화의 중심 울산, AI 시대 새로운 도약을 기대합니다.",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "79012109b2476579",
-      "collected_at": "2026-11-22T02:46:26.683482+00:00"
-    },
-    {
-      "keyword": "도경완",
+      "keyword": "무신사",
       "traffic": "2000+",
-      "news_title": "&apos;한강뷰 120억&apos; 도경완, 자차는 1억 후반대 외체자(&apos;도장TV&apos;)",
+      "news_title": "SKT, 무신사 블랙프라이데이서 &apos;에어&apos; 요금제 할인",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "c45c408a6dd4809d",
-      "collected_at": "2026-11-22T02:46:26.683482+00:00"
+      "key": "be1651f719489d86",
+      "collected_at": "2026-11-22T10:35:47.355393+00:00"
     },
     {
-      "keyword": "김호영",
-      "traffic": "200+",
-      "news_title": "&apos;카톡 친구 5000명&apos; 김호영, 길에서 카드 주웠는데 &quot;아는 사람 거&quot; - 머니투데이",
+      "keyword": "김혜윤",
+      "traffic": "100+",
+      "news_title": "“진심과 태도 때문에 만나자고 했어요” 장나라, 김혜윤 영입 위해 보는 면접!",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "9b0d015142231906",
-      "collected_at": "2026-11-22T02:46:26.683482+00:00"
+      "key": "7399100fa76cff9d",
+      "collected_at": "2026-11-22T10:35:47.355393+00:00"
+    },
+    {
+      "keyword": "김영훈",
+      "traffic": "200+",
+      "news_title": "김영훈 노동장관 “정년연장, 27일 여당 특위서 결론 못 내면 정부안 발표”",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "ee36862a9f2c0f2a",
+      "collected_at": "2026-11-22T10:35:47.355393+00:00"
+    },
+    {
+      "keyword": "기온",
+      "traffic": "100+",
+      "news_title": "[날씨] &apos;소설&apos; 추위 12월 하순 수준...내일 전국 또 눈비",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "bab311bede14f561",
+      "collected_at": "2026-11-22T10:35:47.355393+00:00"
+    },
+    {
+      "keyword": "코스닥",
+      "traffic": "100+",
+      "news_title": "급락장에서도 로봇주는 약진…반도체 장비주 시총 제치기도",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "경제·환율·금리",
+      "key": "3aee034cd32cd0e7",
+      "collected_at": "2026-11-22T10:35:47.355393+00:00"
     }
   ]
 }
