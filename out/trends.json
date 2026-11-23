@@ -1,85 +1,105 @@
 {
-  "collected_at": "2026-11-23T03:24:52.906907+00:00",
+  "collected_at": "2026-11-23T11:36:28.933321+00:00",
   "items": [
     {
-      "keyword": "네이버 주가",
-      "traffic": "100+",
-      "news_title": "네이버 주가 장중 9%대 내려, 데이터센터 투심 위축에 관련주 약세",
+      "keyword": "중위소득",
+      "traffic": "500+",
+      "news_title": "‘자녀가 있어 못받은 생계급여’ 기준 폐지 추진",
       "snippet": "",
       "source_type": "google_trends",
-      "category": "경제·환율·금리",
-      "key": "1ca5fddf2bd4d8c9",
-      "collected_at": "2026-11-23T03:24:52.906335+00:00"
+      "category": "당일 화제 이슈",
+      "key": "be2dea690adb5eb0",
+      "collected_at": "2026-11-23T11:36:28.932671+00:00"
     },
     {
-      "keyword": "국가장학금",
+      "keyword": "브레인악셀",
+      "traffic": "500+",
+      "news_title": "경찰 &quot;이진우 강제수사 가능‥기기 사용 여부 확인해야&quot;",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "8407e0d8cd3f3e7c",
+      "collected_at": "2026-11-23T11:36:28.932671+00:00"
+    },
+    {
+      "keyword": "일론 머스크",
+      "traffic": "100+",
+      "news_title": "&quot;내년에 엄청난 일 벌어진다&quot;…머스크의 섬뜩한 경고",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "f676d8f168594094",
+      "collected_at": "2026-11-23T11:36:28.932671+00:00"
+    },
+    {
+      "keyword": "가석방",
+      "traffic": "100+",
+      "news_title": "靑 &quot;스토킹 접근금지 기간 연장·가석방 없는 무기형 등 검토&quot;",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "91ac3f7727711d75",
+      "collected_at": "2026-11-23T11:36:28.932671+00:00"
+    },
+    {
+      "keyword": "이세창",
+      "traffic": "100+",
+      "news_title": "이세창·김지연, 이혼 후 13년만 공개한 딸..김연아·이민정 닮은 외모 대박 &quot;한예종 입학&quot; [Oh!쎈 이슈]",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "e4e2ebcf3c9ca1c4",
+      "collected_at": "2026-11-23T11:36:28.932671+00:00"
+    },
+    {
+      "keyword": "딜라이트",
       "traffic": "200+",
-      "news_title": "내년 1학기 국가장학금 신청하세요…내일부터 내년 1월7일까지",
+      "news_title": "‘도란·카나비’ DK, 코치진 교체 T1…뜨거운 LCK 스토브리그",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "e909e8037b37b61e",
-      "collected_at": "2026-11-23T03:24:52.906335+00:00"
+      "key": "82fe8e36b984fb53",
+      "collected_at": "2026-11-23T11:36:28.932671+00:00"
     },
     {
-      "keyword": "제주특별자치도",
-      "traffic": "500+",
-      "news_title": "",
+      "keyword": "설악산",
+      "traffic": "5000+",
+      "news_title": "전남광주 아침 영하권 추위…24일까지 비 예보",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "44239ae284a4565b",
-      "collected_at": "2026-11-23T03:24:52.906335+00:00"
+      "key": "33f7339223540700",
+      "collected_at": "2026-11-23T11:36:28.932671+00:00"
     },
     {
-      "keyword": "삼성증권",
-      "traffic": "500+",
-      "news_title": "삼성증권 고객 개인정보 8241건 유출... ‘고객의소리’ 서비스 노린 해킹",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "092760ce00d014ba",
-      "collected_at": "2026-11-23T03:24:52.906335+00:00"
-    },
-    {
-      "keyword": "리비아",
-      "traffic": "100+",
-      "news_title": "우크라 전쟁, 북아프리카로 전선 확대…리비아서 드론 공격에 러 군함 침몰",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "53d63f5dbb5df08f",
-      "collected_at": "2026-11-23T03:24:52.906335+00:00"
-    },
-    {
-      "keyword": "화이트캡스 대 솔트레이크",
+      "keyword": "고규필",
       "traffic": "2000+",
-      "news_title": "NSHvsCIN 11-22-2026 | MLS Match Recap",
+      "news_title": "배우 고규필·가수 에이민 부부 득녀…&quot;인생 가장 잘한 일&quot;",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "1214f49d6404b28a",
-      "collected_at": "2026-11-23T03:24:52.906335+00:00"
+      "key": "6c4d26a3ebabb77e",
+      "collected_at": "2026-11-23T11:36:28.932671+00:00"
     },
     {
-      "keyword": "구조조정",
-      "traffic": "1000+",
-      "news_title": "대기업에 부는 감원 칼바람…불황형 구조조정 넘어 상시 인력 재편",
+      "keyword": "한국지엠",
+      "traffic": "500+",
+      "news_title": "김홍록·김은미, 인천마라톤대회 국내 남녀부 우승",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "582274499e97b856",
-      "collected_at": "2026-11-23T03:24:52.906335+00:00"
+      "key": "f59c80c642e72621",
+      "collected_at": "2026-11-23T11:36:28.932671+00:00"
     },
     {
-      "keyword": "부산항",
-      "traffic": "1000+",
-      "news_title": "부산항만공사, 중기 우수기술 판로 확대 &apos;기술마켓데이&apos; 개최",
+      "keyword": "sa vs ban",
+      "traffic": "200+",
+      "news_title": "&apos;It&apos;s quite a smooth transition&apos;- Markram on stepping in for Bavuma",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "1c11bef902135726",
-      "collected_at": "2026-11-23T03:24:52.906335+00:00"
+      "key": "8e9a96de5d24eb82",
+      "collected_at": "2026-11-23T11:36:28.932671+00:00"
     }
   ]
 }
