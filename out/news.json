@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-23T11:36:27.792754+00:00",
+  "collected_at": "2026-11-23T19:35:08.861390+00:00",
   "topic_weight": {
     "보험·상품": 30,
     "영업·마인드": 25,
@@ -7,450 +7,306 @@
     "경제·환율·금리": 25
   },
   "topic_counts": {
-    "보험·상품": 15,
-    "의료·건강": 30,
-    "경제·환율·금리": 4
+    "보험·상품": 30,
+    "영업·마인드": 1,
+    "경제·환율·금리": 2
   },
   "items": [
     {
-      "title": "미래에셋생명, '증시랠리'에 웃는다…변액보험 판매 ‘고공행진’ - 오피니언뉴스",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBJTjl0dy1ob05aMm1tTG04cFJDYlQ1bFFSbHgxZm05N3RHb21IcTFaTGswVTktU1pYSV93S2JQWC02ZC1ZSzRyYnZjSldtMjVhZXlXbWZ0X1JiR1VpbWh0aVNXMVBpZTFJOFgycEF0YlVPdw?oc=5",
-      "description": "미래에셋생명, '증시랠리'에 웃는다…변액보험 판매 ‘고공행진’ 오피니언뉴스",
+      "title": "‘3배 격차’ 주식형 펀드, 국내 6.50% vs 해외 18.95%… 해외비중 확대로 변액보험수익률 7%대 회복 - 보험저널",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE50WVdpUEpGR1ZWVF9lR3VQNjdyWmtrYmY4cG5hZUh0ZWlSOGtLSVhUZFVfcTBJcHRNc1dOdUZMWEJFbGZtbmZJeTNZRFhsY3RtbnQwQ2t0M05fTVZtT1lqcDg5TTZzdWdaaEdBeEV5RQ?oc=5",
+      "description": "‘3배 격차’ 주식형 펀드, 국내 6.50% vs 해외 18.95%… 해외비중 확대로 변액보험수익률 7%대 회복 보험저널",
+      "pub_date": "Sun, 01 Dec 2024 08:00:00 GMT",
+      "category": "변액보험 수익률",
+      "key": "39799eef0df6a1cd",
+      "topic": "보험·상품"
+    },
+    {
+      "title": "[대한금융DB] 2022년 1월 변액보험 수익률 1등 보험사는 - DFT 대한금융신문",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1POWpDTERQV0hGQlIwU3p0VFkzLWJaT1RQVEszUksxcUZMcVg3VkVkcWkyN1RuNUtTa0xPcV9WLV92amRaZkU0alB6dlBibUVwYjljT1dOWjExcW16OFBoeWYxNkxPM2xiX1U5TtIBcEFVX3lxTFBiSWFRa25lUVhlU0JfWHUzeldGV3dWSUZRNjFJZ3pQTDBLc0RqQng0a21CVDdpaFhsXzNmRHREbVlvOGNMNno0UlVvTlFvaURMMS1LNk0wbFlYWVBXU2ZZczcwMFlla2Q1T25WcWF2MHU?oc=5",
+      "description": "[대한금융DB] 2022년 1월 변액보험 수익률 1등 보험사는 DFT 대한금융신문",
+      "pub_date": "Fri, 11 Feb 2022 08:00:00 GMT",
+      "category": "변액보험 수익률",
+      "key": "e939d4eff6362c59",
+      "topic": "보험·상품"
+    },
+    {
+      "title": "[대한금융DB] 2022년 2월 변액보험 펀드 상위 5개 종목은 - DFT 대한금융신문",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5wRV9yMHpBNDJGdERTWDA3eS1jNzRKS1FrVE8xYVdTM3d0eFY5YzJjU0tZSmxMczVmaFl2RjI4b29hbkhySmRZSmlib05rUEp4cktDbW1aNDk0Y2hTSmNRQndLSmQ2WWd6UVJkatIBcEFVX3lxTFBwYzlBRENySlF2azhEZTVJWjZfZHhjeDBDOHNGMXE1OHNWQWNKdzZkX1FYQncyWklWMVBaR0taaGhaWnlCdDhhMVFBTWw4dzdJcE5KT2FzNGxoNkVSQ203R0FSSEJ6a1oxNzJYdlJoOXc?oc=5",
+      "description": "[대한금융DB] 2022년 2월 변액보험 펀드 상위 5개 종목은 DFT 대한금융신문",
+      "pub_date": "Fri, 25 Mar 2022 07:00:00 GMT",
+      "category": "변액보험 수익률",
+      "key": "58f48dac74b5b8df",
+      "topic": "보험·상품"
+    },
+    {
+      "title": "DGB생명 “2021년 변액보험펀드 수익률 1위 기록” - 한국보험신문",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8zVVBSOE11UjNqZ2tma05LdmVqQklOTVpPV2dnOFV5RC1mRTV2TzhrYnZpbnRZV3ItWTJMTWY2V1ZNM0FZQkVqbmViNzYxWjJSckIzRmsycUZoSHBTdFNfY0ZFQWMydWZmbUhn0gFvQVVfeXFMTlRYN05KMzk2QUxTY0RrMTNyWDMwWndtaGMtX0hNTzgtNGd3d1Q2YVlpQS12MXJYZUpVTkZJS0VHUnVtLW90RjRpakVEeE5EemdpdlN6RHJkaTh3dFNNdmJVVkttVVVUN0otNk5CWFFj?oc=5",
+      "description": "DGB생명 “2021년 변액보험펀드 수익률 1위 기록” 한국보험신문",
+      "pub_date": "Fri, 07 Jan 2022 08:00:00 GMT",
+      "category": "변액보험 수익률",
+      "key": "91b06111930a221a",
+      "topic": "보험·상품"
+    },
+    {
+      "title": "증시 랠리에 변액보험 신계약 32% 증가… 미래에셋생명 3년 수익률 107% - Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYUZIUkRVSXZmak1yR2ZFOUVSc1lnYktHekpaYjN3ZjloWHlZM19tSE1FR0ZzdWxueXBhbUJnUGt2RXE1YXQwMXBZVVNZWlBuenNqenVNeVFzcHl6SjVjOUpmaGhuOWJBaGd4QlBFa0pEV3lwWjlBLXZBcEhTa2c1TNIBlAFBVV95cUxQcDgtUVBzVm9IZlE1NzN6dFRnWHdGX21EdW9CNXg4MEJ6NUFSMktqOXhpN3pZNlhZSkZRaGRlNzN2U1l0OVBST0MwUzRYMVdKSGExMTM4SmRlMC1DcFlXUDNjWnBmUnEzbkNxV01PdVBodFdkeDJTM1ZOdWlETVJaVmZtWHlWY2RzUkJZYzhNZkpZWG1y?oc=5",
+      "description": "증시 랠리에 변액보험 신계약 32% 증가… 미래에셋생명 3년 수익률 107% Chosunbiz",
       "pub_date": "Thu, 24 Jul 2025 07:00:00 GMT",
       "category": "변액보험 수익률",
-      "key": "98c9f4e0c6674edb",
+      "key": "6bf7fdbafd9b30de",
       "topic": "보험·상품"
     },
     {
-      "title": "변액보험 펀드도 ‘美 주식형’이 날았다… 1년 최고 수익률 45% - Chosunbiz",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdTJNM0czNXlNamluZ0o4ZlFqSWRpRDNOTmhfd3V4amNhVkp3amg4V1A1SGVfallFN2ZsTVNPclp6Y2U0aklDR00wcFdOaFlaYmpDc1hiZVlrcENpcjJIa1pvN3lxX1h6QzNwc0JiOHBOZDgwLVNkcE5SM2g0WU1lcNIBlAFBVV95cUxOdllHMUo4d29acUpuZ3AxYjRRZG9jMlZZdkFmQl9zNDNoSkJ2QklnV241N1RQZ2N2THN1dUp3SXJ0QW9STEFaTTBNSG5nTDg3ZDYxTFV4d1RrQlR5ZlBiNkktdFNteTUtY3VnTC1oWV9pWk9udlh1VHlwRk44Y0NOamM0OGlLQXFDcjJYMjFLZnpPanUw?oc=5",
-      "description": "변액보험 펀드도 ‘美 주식형’이 날았다… 1년 최고 수익률 45% Chosunbiz",
-      "pub_date": "Sat, 12 Oct 2024 07:00:00 GMT",
+      "title": "[대한금융DB] 2022년 2월 변액보험 수익률 1등 보험사는 - DFT 대한금융신문",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBmQmRoVWk4eVFMd3d1eExuLTYtNk4xZ1VfOE1La3RiU013TllNU3BXMEdDZ1otVXFiRnlDcnY5eEFRNnAwdG01eWN4eXF1MUxpSFVIaEhtZ25IT05heVJNMEdyWmpCQUFjbTdGNtIBcEFVX3lxTE5ZdVE2d0xGRW9zVXFrTEk2U0lXVmxzcVAyZjZTV3ZkYW56WHZGVXd5eVRpTXJ1MFlwREl4RzdVZXNDMUVaRUp1N2xYUnRYQ0hyZWRGVjJTSllKd19VRnltOGpuN0x0cjlHYlp2eU5SU0Q?oc=5",
+      "description": "[대한금융DB] 2022년 2월 변액보험 수익률 1등 보험사는 DFT 대한금융신문",
+      "pub_date": "Fri, 25 Mar 2022 07:00:00 GMT",
       "category": "변액보험 수익률",
-      "key": "eda34b1e65c0ea97",
+      "key": "4ef1a79f4401a779",
       "topic": "보험·상품"
     },
     {
-      "title": "'보험으로 ETF 투자를?' 미래에셋생명, 변액보험 펀드 '글로벌ㆍAI펀드 수익률' 두각 - 우먼센스",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE04MklHRzVpeXVwZllYMjNsME9EU0lUZ1g3UGZQNF9wQ1lBV3FmeXZiaHcwbWVfWjBNWUhHMVhFbGZXR2xsU21paXhQQ2RKZUVxcU5YNzkwY2g2ZHVBYnk3dFJYRVFjTDNUc1dINzZKbw?oc=5",
-      "description": "'보험으로 ETF 투자를?' 미래에셋생명, 변액보험 펀드 '글로벌ㆍAI펀드 수익률' 두각 우먼센스",
-      "pub_date": "Fri, 28 Nov 2025 08:00:00 GMT",
+      "title": "[대한금융DB] 2022년 1월 변액보험 펀드 상위 5개 종목은 - DFT 대한금융신문",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE43dmVyalYyLUtSZk90NUtleUstaGEyQkhqdUNEVVZXNXY3alVfalZYbVQ2aGFsOUdTNWRid0Y3b1I1S3gyMWxQTHNCbmM0X1VLZElydkZHeVRVSGFBNWJrWWhTR3JVWGtfblFTbdIBcEFVX3lxTE5VRUstNFl1MHBRZFJfeVp0T004V203UTlvWHpCZjF4Wk1DRVpKVkJMYXpkTDhCWnhXVTFZaUVOSGZ4dktoRnljQ2RwMDVEVUd4aEJwSV9wSll3Z0p3Z0R6OVp6Vk42STR6YkdibG1xZ08?oc=5",
+      "description": "[대한금융DB] 2022년 1월 변액보험 펀드 상위 5개 종목은 DFT 대한금융신문",
+      "pub_date": "Fri, 11 Feb 2022 08:00:00 GMT",
       "category": "변액보험 수익률",
-      "key": "b6059cc7c840b281",
+      "key": "475a91cde6045af0",
       "topic": "보험·상품"
     },
     {
-      "title": "미래에셋생명, 변액펀드 주식형 수익률 업계 1위 - DFT 대한금융신문",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAyV1VzSFFBSXlLOUlNWlFoRVZZM1kzdk9mRHZYTDVNbEU5QVNXVVpSZ1UyRzhWeG9hWkhfUWhONHVNWV9OSWxUQm5rQXhHdi1jNDJJTHRXUkZYVjM4dEE2bDl6dURpemQ4SVRERdIBcEFVX3lxTE5KNDE3ek01SzZ6XzA4QU5td25ZYk5aN1dkbVdoX3cxZ3gxdzJMQzhlbGVFU2tSUDFiSDJyTVN1SmpEZmpreGpZUHRnclZWZUxVNUlDdjZhNFdBYzJoU2l5UUJ5YjhjLXBTeHBzdzZTOGI?oc=5",
-      "description": "미래에셋생명, 변액펀드 주식형 수익률 업계 1위 DFT 대한금융신문",
-      "pub_date": "Mon, 18 Aug 2025 07:00:00 GMT",
+      "title": "2월 변액보험 순자산·수익률 모두 반등… 상승 얼마나 갈까 - 보험저널",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE56ZkltaTB2LWdMWDQ0NlE2YldnaElYbzNsaHF5cU5MOU9qUjFfdlMwQV9PNVVsRzF3U20xOExLLXpkNmUzTGpnRGhFSVl1SVl6ZFFLSmNwc1dXeGlEWGl6RWlGaEFoZWlqcHpNSnF2WQ?oc=5",
+      "description": "2월 변액보험 순자산·수익률 모두 반등… 상승 얼마나 갈까 보험저널",
+      "pub_date": "Sat, 02 Mar 2024 08:00:00 GMT",
       "category": "변액보험 수익률",
-      "key": "1338033be4efbb9d",
+      "key": "91e74707a9a532f0",
       "topic": "보험·상품"
     },
     {
-      "title": "미래에셋생명 “변액보험으로 ‘강달러 시대’ 환노출로 수익 극대화” - CEO스코어데일리",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5UNmZ3NUx1amtUWW1MUmRiZXFLcGYyTUJhWjBIZU11ekx1ZWxnbHZ0WkdKM01fSXZQZ0p4b2F6VHEwLVQyWHdJZWlKWW1lVlZDWi1LMkswNDRsZ0xqUmEwTXdvLUdpZw?oc=5",
-      "description": "미래에셋생명 “변액보험으로 ‘강달러 시대’ 환노출로 수익 극대화” CEO스코어데일리",
-      "pub_date": "Tue, 28 Oct 2025 07:00:00 GMT",
+      "title": "미래에셋생명 변액펀드, 시장수익률 상회 기염 - 이투데이",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nX2NXTGI3Z0lTeVBPMTE3NnkyeFBMeDdoZTlESmZ1Z3FvanBLZFZNOS10Umh6aTZFU255ZGhDWUJjRC1CMkx5aHpUTkZ6UXN2TEZtVjZPQy1vQQ?oc=5",
+      "description": "미래에셋생명 변액펀드, 시장수익률 상회 기염 이투데이",
+      "pub_date": "Tue, 26 Mar 2024 07:00:00 GMT",
       "category": "변액보험 수익률",
-      "key": "87bbdb10f2bcff81",
+      "key": "a2810ae99f0c265d",
       "topic": "보험·상품"
     },
     {
-      "title": "보험으로 금투자? 변액보험 구조 살펴보기...미래에셋생명, '골드투자형' 펀드 누적수익률 62.5% - 녹색경제신문",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0xNDNjOEhDbHkxdDNQVVBxb0VVS2hqRnBqem9VYTk1elk4eXNuaG9zeDNkRzZrWWhWMTlGd2RkaGdhWFJIT1RUbDJEbWF3UUIwanVPUmxOcjdCUWthTkN1eEU2WnFJdmJC?oc=5",
-      "description": "보험으로 금투자? 변액보험 구조 살펴보기...미래에셋생명, '골드투자형' 펀드 누적수익률 62.5% 녹색경제신문",
-      "pub_date": "Wed, 22 Oct 2025 07:00:00 GMT",
+      "title": "메트라이프생명, 변액보험 펀드 7·10·15년 수익률 '1위' - 뉴스포트",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5DUVFOdG9keEpzRmxLQ0ZXNHZUSy1kZ3Z4N3BjbENlallQUGZ4MnFjYmZYeXI5bnJENWYxbDJmeUdOVHN5SW91Ym4tVUVRSGZUaldkTFRSU19YUnRUWnVaZFRiQjNHSWxGTlJn?oc=5",
+      "description": "메트라이프생명, 변액보험 펀드 7·10·15년 수익률 '1위' 뉴스포트",
+      "pub_date": "Thu, 25 Jan 2024 08:00:00 GMT",
       "category": "변액보험 수익률",
-      "key": "431d7c27d0eddc4b",
+      "key": "a512749b18c4c98e",
       "topic": "보험·상품"
     },
     {
-      "title": "[흔들리는 변액보험①] 출렁이는 증시에 고꾸라진 펀드 수익률 - DFT 대한금융신문",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1fU0ZMZFpJUTVSVUVhTFNmeUwwa0xVY0hyZVdndkhkTHJqemw4QUFQNG9FY1QxcWlsb1hROXpycFRRR1JKVU1HYmg0QjQ2Tkk5SWJZRllWS3NOOUFfSzFOZkx2aFRmRmNTbWVSUNIBcEFVX3lxTE1INkpobFdBbEZISVNpR0RTZEh5bG91ODVEejVRVUZKZWZDUzZlOHpxTnRRdTNSaHFkUXVTQllBZllHdHN2N0Z3TXJSXzhSM1RyT3NHR0FiLVotM05PSmlYMTJST0l0bFpDTDQtRTM1NXM?oc=5",
-      "description": "[흔들리는 변액보험①] 출렁이는 증시에 고꾸라진 펀드 수익률 DFT 대한금융신문",
-      "pub_date": "Wed, 23 Mar 2022 07:00:00 GMT",
+      "title": "미래에셋생명 변액연금보험, 고객들로부터 눈길 - 매일일보",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBlekVoeEE0M1JNOGtNakpFNG9UUUJ5ZnBOdjBJY3IyWkpMNnhyMUFRMU5qdkdHejg3U3JIc0NzM1U0LW1DenpXeDBvcy1ESng5a2JBZ3RPR0lGd2tWNVppS0xZVGU?oc=5",
+      "description": "미래에셋생명 변액연금보험, 고객들로부터 눈길 매일일보",
+      "pub_date": "Tue, 19 Dec 2023 08:00:00 GMT",
       "category": "변액보험 수익률",
-      "key": "f65e1e66076a5195",
+      "key": "c102496fc2c6426b",
       "topic": "보험·상품"
     },
     {
-      "title": "'금값 고공행진' 미래에셋생명 ‘골드투자형’ 펀드 누적 수익률 62.5% - 이투데이",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA2V2JMOGNaa1FYQTFsd2VOajBpU05MMlJiNFVuZ001T0JPRWtGUERRY1lBU0RPSUdEUXBsSEZkVndRbEVWTHpoa2xsUy11THlSbE9ER2FydlNnUQ?oc=5",
-      "description": "'금값 고공행진' 미래에셋생명 ‘골드투자형’ 펀드 누적 수익률 62.5% 이투데이",
-      "pub_date": "Tue, 28 Oct 2025 07:00:00 GMT",
-      "category": "변액보험 수익률",
-      "key": "e7d8673b213151c3",
-      "topic": "보험·상품"
-    },
-    {
-      "title": "미래에셋생명, 글로벌 펀드 누적 수익률 234% 기록… 연평균 28% - Chosunbiz",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOWlaYkt4bGdyRVgyZU5semtDRzJib0hiUGdkTkYyd2p3R0FjVU9nTmhLTWJManE3Y1pTQzRNVW5wcUg0ZEpHSWd0a3paME1IcFZrWDFjbFVjVzl0XzhaYzRqUkxRdFZ0SHdIMkRzMXhIaW1rUHlCT3A3QzdnN0xEV9IBlAFBVV95cUxOYTE0bWFZTnFSX05zOWxYRGlXbGNCb2ZtdjRKWG1KYzRSWG5DUUtTdlpnblNfcks3V0R0Q1RRSk9uSkt5Nm1hWmJGeHhhSURncjJ5cWZkQ1lrbHFCaVRtNEVtazRiUDBrTlk1Y2UzZXJrSW1wR05LazBrVEdrbV9VNS1UVU9xSkdUNWFhdDhUbklmMmJX?oc=5",
-      "description": "미래에셋생명, 글로벌 펀드 누적 수익률 234% 기록… 연평균 28% Chosunbiz",
-      "pub_date": "Tue, 25 Nov 2025 08:00:00 GMT",
-      "category": "변액보험 수익률",
-      "key": "ca6ac7dcf4a2f4fe",
-      "topic": "보험·상품"
-    },
-    {
-      "title": "24년 1월 변액보험 “해외펀드수익률이 살렸다” ... 간신히 순자산 100조 방어 - 보험저널",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1vcEhhNVhRSUo1bjlHYV9rdml3aEloSlNkVnRuNE1NQlBGYk10NDZHNUpWNWdMTHAwck5XaG8zdHZRbjNGSTFEYktRcDJaY0FSSUdpamhoNG1kTVJqSU5YWVluZ19CUkxwLUZsRW1Jaw?oc=5",
-      "description": "24년 1월 변액보험 “해외펀드수익률이 살렸다” ... 간신히 순자산 100조 방어 보험저널",
-      "pub_date": "Thu, 01 Feb 2024 08:00:00 GMT",
-      "category": "변액보험 수익률",
-      "key": "bb428fdc00ebd99d",
-      "topic": "보험·상품"
-    },
-    {
-      "title": "증시 활황에 변액보험 '급부상'...미래에셋생명, 주식형 수익률 1위 - 마켓인",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5SRWs3SGVHOWtOa1NucWw2bU9ZMGNlSkNxZEFUc2xibTAyRU5pT2pjUVhZZFZGM2U3MjQ5Y3FrTkFaV0VEc1NsNWtQalJfeHJIeFRRNWtqRWY5bjVIZjFsQ0pzb2I2VzlPWnl0TkMwRGZDaWM?oc=5",
-      "description": "증시 활황에 변액보험 '급부상'...미래에셋생명, 주식형 수익률 1위 마켓인",
-      "pub_date": "Thu, 28 Aug 2025 07:00:00 GMT",
-      "category": "변액보험 수익률",
-      "key": "6ec330e7b72d41fd",
-      "topic": "보험·상품"
-    },
-    {
-      "title": "투자·보장·절세까지 한 번에…고환율이 부각시킨 변액보험 가치 - 뉴스드림",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ZcTZ1NmJpYUhYS0FsRTFKcXJTSDNJUEJ3VVBDQWFYQnY2Q0pZem9yamJoVERDdXItSF9CTlAwU083bE5XclNYMzZmSnJWNUZRbWE1RExOdlVCNWVpNThyRElQc09zMlJXemfSAW5BVV95cUxNck1OUDItWnJpSEpMYmMxOURMTDZhUExrQ2hNdEZUT0V4dmNjOERXLS1vRE95RndqRDZOSVJkdkUwd0JtSldIVC1LNEkxV2ktb2wzeDhYaXBONm5ucVNVcmFhaVQyWUh2Q0F0bndxdw?oc=5",
-      "description": "투자·보장·절세까지 한 번에…고환율이 부각시킨 변액보험 가치 뉴스드림",
-      "pub_date": "Fri, 28 Nov 2025 08:00:00 GMT",
-      "category": "변액보험 수익률",
-      "key": "db9758121fa5f090",
-      "topic": "보험·상품"
-    },
-    {
-      "title": "금리 인하에 다시 변액보험 훈풍?…수익률·리스크 따져야 - 비즈워치",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5rOUhCZUxWbEhKeHp5WEZodEloTGZETUdGYllkQnhaNUNrWFNhX1d0VlFRUWJ6Y0hMRFo3NGxXY1dCektLM2ZVbWtYSlNNQ0ZNbWZBc3ZLNlJvM2M2d1pyWVUwWlpGcXNSLTBJ?oc=5",
-      "description": "금리 인하에 다시 변액보험 훈풍?…수익률·리스크 따져야 비즈워치",
-      "pub_date": "Fri, 30 May 2025 07:00:00 GMT",
-      "category": "변액보험 수익률",
-      "key": "e37abab3472af613",
-      "topic": "보험·상품"
-    },
-    {
-      "title": "증시 활황에 변액보험 ‘급부상’…미래에셋생명, 주식형 수익률 1위 - 매일일보",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBocU9fNE43NkJ5M0ZjNlpMbnRURjVhTnhBb2dyZVRIWlpPenhkUWNLRUNSQU1kNURRNzBUcGxuQzlBWE5xNjVkaEtmQXdLcWVZdXB2bXVVWWJURVVfLW9qNVlEUng?oc=5",
-      "description": "증시 활황에 변액보험 ‘급부상’…미래에셋생명, 주식형 수익률 1위 매일일보",
-      "pub_date": "Thu, 31 Jul 2025 07:00:00 GMT",
-      "category": "변액보험 수익률",
-      "key": "9891fcc7c4d8b651",
-      "topic": "보험·상품"
-    },
-    {
-      "title": "보험으로 '금투자'…미래에셋생명, '골드투자형' 펀드 수익률 62.5% - 뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5lMGJuS0xLYUdKYVlGblRuT0hwYU5fX01aS0dfVDhvemZneFpxYzc4OWlrZHNDckt4LV9IelFJekpUdEpMNk1oakdqdTJ3SU8yLWNlWV81V0cxZV93OHo1dg?oc=5",
-      "description": "보험으로 '금투자'…미래에셋생명, '골드투자형' 펀드 수익률 62.5% 뉴스1",
-      "pub_date": "Wed, 29 Oct 2025 07:00:00 GMT",
-      "category": "변액보험 수익률",
-      "key": "d3262a27bf4e342a",
-      "topic": "보험·상품"
-    },
-    {
-      "title": "부담 줄이고 혜택 챙기고, ‘미니보험’ 관심 - 스트레이트뉴스",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9FU3BYeTBYeE1NdWpYdUx0dGZMYmNsWjFqY3J4U3kxeUNZRlRqdl9YaXgxbFcxMTZrejNpcE96Y0ZwUVFNc1dLbHJUOU4xSmdVcDNDTTlKVHhZTUtYTVZ3SjJteVByTDMxcURFUERMNExNMzjSAXdBVV95cUxNa2N5cDhfQmc2eFVDSjV0V0NsdU5QcDN6SUFCSm9pYVppbWZtNWhZaEswUmdBSE1leWttcmVVXzAwYmYxdUo3WFNrZkY0XzhDeWpuOUVIV0ktTU5Jd0dJdnY3X3NxREF5UzhabEhKN0M4R2p6dUhfUQ?oc=5",
-      "description": "부담 줄이고 혜택 챙기고, ‘미니보험’ 관심 스트레이트뉴스",
-      "pub_date": "Tue, 17 Nov 2026 01:58:44 GMT",
-      "category": "암 의료비",
-      "key": "55a82beb5745e2f1",
-      "topic": "의료·건강"
-    },
-    {
-      "title": "진행성 암 환자 가족의 '재정 독성', 의료비보다 심리적 부담이 삶의 질 좌우 - e-의료정보",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9VeWV0VnR3N3hDNWt6TVlhOHpWQWtvMHIyLTh0Ni1ZWkJ4UzNCcWw4U2p3SVRtUmhzTkJULThSbHVIZVhUMWlNLVIxTjdydlZoQjVvYmhtWjd3dFJSWWsyNWNEaFVSclVseWR30gFvQVVfeXFMTm9NUGNBU1BGeFpMM25DR1NsdFZFODZEOGZaU1BndXNIb3FFb3RGS2hZUllpTUtOcHJpMU5sM1JxWGNUVlVOQTItTFdaTmsxRk1Ba21mN2F0YmptdmJsYnRGRllldUdHVlpCb2dKUGZJ?oc=5",
-      "description": "진행성 암 환자 가족의 '재정 독성', 의료비보다 심리적 부담이 삶의 질 좌우 e-의료정보",
-      "pub_date": "Mon, 29 Jun 2026 07:00:00 GMT",
-      "category": "암 의료비",
-      "key": "ebf40fe19a9859d1",
-      "topic": "의료·건강"
-    },
-    {
-      "title": "푸본현대생명, 암 전 단계부터 항암치료까지 보장 확대 - 보험매일",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5pbHFQVUQ1cDZPaVZfaDlFMWx1MXRURXliblJxTmQzZC04aFd0dEN0SDkyWkdqWllUZmFuNngyYnhWZnZHS1dkWHd6VmhiOXNiSVh0QnBadno3S0dSUzdCMEJwX1ZDTS1s?oc=5",
-      "description": "푸본현대생명, 암 전 단계부터 항암치료까지 보장 확대 보험매일",
-      "pub_date": "Fri, 20 Nov 2026 00:29:32 GMT",
-      "category": "암 의료비",
-      "key": "20eaa3f88c908196",
-      "topic": "의료·건강"
-    },
-    {
-      "title": "\"완치돼도 약값 걱정\"···유방암 최신 항암제가 키운 ‘비급여 딜레마’ - 여성경제신문",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBBN18zZlRaVF9ITzJvVl9OWkdDTnVNVnh4cXE2NlVvX3hiYXJ3UktGRFZmdUFCUE42eU5Ld1d2NUEzZ09PeVI3VTJCMWFqYXR3b1hITGlSQ2pETll1RkltU2UxRUp6eTJwTVpkNmU2VWtJNlk?oc=5",
-      "description": "\"완치돼도 약값 걱정\"···유방암 최신 항암제가 키운 ‘비급여 딜레마’ 여성경제신문",
-      "pub_date": "Mon, 01 Jun 2026 07:00:00 GMT",
-      "category": "암 의료비",
-      "key": "72a90b8c16250b25",
-      "topic": "의료·건강"
-    },
-    {
-      "title": "DB손보, ‘건강할때 준비하는 행복케어종합보험’ 출시 - 한국보험신문",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1pOG11b1BIa0Y3bjUxZ0RsUUNraTRVUXZUU3hBNHJPN2x5QkpFRzN3ZWlfWFZqRExYSzNOWFREYU1MMUJ5NzhpdXdPbXFEc1ktYW1wU2tyRm16Sm41dnlEVW9HbDJ2T0lSQkhj0gFvQVVfeXFMTk9rOFppVE5GZWctXzNaOG8zeTdWck45aXZNNF81Vm5uSzZnSEdOTU5jX1k3YklPWEJQeFU3T3FYMXVwZTdncXVzbjRpeWloSzFOYVJJR1VnUFF4ZnF2Z2VRUWFqaDMzcV9YaHNoRk1v?oc=5",
-      "description": "DB손보, ‘건강할때 준비하는 행복케어종합보험’ 출시 한국보험신문",
-      "pub_date": "Fri, 17 Oct 2025 07:00:00 GMT",
-      "category": "암 의료비",
-      "key": "38a9e9e878741391",
-      "topic": "의료·건강"
-    },
-    {
-      "title": "DB손보, 치료비 보장 강화한 인터넷가입전용 미니 암보험 출시 - 더퍼블릭",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB1dm9rd0VZTmxZZGdlYmI2X0hydnZKOVdpUm0zT29PV0pQMlJfZzNYRlhON045YW9UOXhVbFRWbzNRZVFYT2pBbi1VRVBmanBoNjNMdWNpZ2dDdzhsbWdyMVRERDJsalZmbHpV0gFvQVVfeXFMUGEwWHNhb0l3SXY2V0o2azg5ZHE0Y2g0cV90RHZHU0Z2YWV3ZlVNNmdzX21XNzB1b2cteHZtWC01QVl3c292aW1QLWFBRTBsdFhuemY5NDR0RllkNlA3VXVCdUtwNy01SFgwVXI0d0hn?oc=5",
-      "description": "DB손보, 치료비 보장 강화한 인터넷가입전용 미니 암보험 출시 더퍼블릭",
-      "pub_date": "Mon, 16 Nov 2026 08:04:35 GMT",
-      "category": "암 의료비",
-      "key": "d48f32c197e1424f",
-      "topic": "의료·건강"
-    },
-    {
-      "title": "암 치료비 부담 커지는 선별급여…한화생명 보장 특약 독창성 인정 - 이코노미사이언스",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4tckZUc3lza29qbWFtMEoxOHJEUFZRNDVKenhpMklYWkI2V0lpOWlRMlhVUmNMdFVPTDNTMWNJMW9ibndpV1JxX09EYUhPNWNLZ2dJblN1dW5XY0VCMFdpVm9YSC03LUZ5LXFWYjFsRQ?oc=5",
-      "description": "암 치료비 부담 커지는 선별급여…한화생명 보장 특약 독창성 인정 이코노미사이언스",
-      "pub_date": "Fri, 03 Jul 2026 07:00:00 GMT",
-      "category": "암 의료비",
-      "key": "bbb0cdd3f93c826e",
-      "topic": "의료·건강"
-    },
-    {
-      "title": "KB손해보험, ‘KB 금쪽같은 펫보험’… 의료비 보장 확대 - 한국보험신문",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBna2JHSjFSdl9meDRYNjNZdElZUGVRT0l6QnlGSHFsekdhWlVjY05IcGJkVzl1OVphdFlxN1RzSmdQVHZFb3ZweUt6M0tUbUM2empfdXJCNFh4ZzFqOHZUWDhzaEtuMWFwcTdV0gFvQVVfeXFMTnYzMlJHb2lJOUtjOVNaRktxek1NR1dsWUZCNlBfM05ySDRRMC1GeFg5MkhkOTJOLVkwMkx0UW42RVIyX05IeUlFYjRZdXUxZThQc2w3OC00N3RhS0lReEJTNVJlMGhQaFRCdHQtN0FJ?oc=5",
-      "description": "KB손해보험, ‘KB 금쪽같은 펫보험’… 의료비 보장 확대 한국보험신문",
-      "pub_date": "Mon, 05 Jan 2026 08:00:00 GMT",
-      "category": "암 의료비",
-      "key": "eb3c181eb2019525",
-      "topic": "의료·건강"
-    },
-    {
-      "title": "삼성화재, \"유방암 치료비 커졌다…비급여 부담 여전히 높아\" - 시사캐스트",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5KSGdHZnRGTWhfZGxSdVBqOGxpOENtcDZSTUFER1QyaXhyZlc1U3BKQ090WDZ1WnFmVlk0WmpiQ0pUVGJ6QjFoQi1JVFVhczVNV2NmN0l1bEVsck9mV1k4ZnJOX1hDbkk?oc=5",
-      "description": "삼성화재, \"유방암 치료비 커졌다…비급여 부담 여전히 높아\" 시사캐스트",
-      "pub_date": "Mon, 01 Jun 2026 07:00:00 GMT",
-      "category": "암 의료비",
-      "key": "529daa5c9c8f377a",
-      "topic": "의료·건강"
-    },
-    {
-      "title": "삼성화재 \"유방암 연평균 5.9% 증가…표적항암 치료에 부담 확대\" - edaily.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNmFRWVJxR1FEcTlRU0NHQ052Mi1GRmJMMDFKT3RmaTlKcnQ5c0tfUGFoUVdteW5LYXVhNFQ1T21zVzdrRWpPbld4TE1pZFM2WTgtSEh5SEVuRjRnWkR2YTF6QjJLZi1jT21JektmeTdNZHNUdE5LNWEzN1o3Unl6cg?oc=5",
-      "description": "삼성화재 \"유방암 연평균 5.9% 증가…표적항암 치료에 부담 확대\" edaily.co.kr",
-      "pub_date": "Mon, 01 Jun 2026 07:00:00 GMT",
-      "category": "암 의료비",
-      "key": "96a303cf15b43928",
-      "topic": "의료·건강"
-    },
-    {
-      "title": "NH농협생명 제주총국, ‘치료비안심해NH건강보험 1호 가입’ 행사 실시 - 농수축산신문",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE55VXpjdndJTi1YcUo4ZTFpamNENWFxS1EyaVdNNC1zcl9TMGZnSS1FcjFHWXNBZGNtdW83WUZSRW5uTC0ySW9ubGhCNnMtaksxVVNGSEJtOElNNHlRaHljcENhTVZ4WFkyVlV4cQ?oc=5",
-      "description": "NH농협생명 제주총국, ‘치료비안심해NH건강보험 1호 가입’ 행사 실시 농수축산신문",
-      "pub_date": "Tue, 03 Sep 2024 07:00:00 GMT",
-      "category": "암 의료비",
-      "key": "4865c597bdb0a0e7",
-      "topic": "의료·건강"
-    },
-    {
-      "title": "\"오프라벨 사용 고가 항암제, 실손보험금 지급 대상\" - 히트뉴스",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1KLWhwM3Zpc3d4c1ZvaDc2RGZSVUZqWjY1bFYzU1dsMkZFaXJaRDVjVUZRQ3RtNzRIU21vVXpSNDl3Nnl2YnYtY0xYeXdmOVc4RGp3ZHNoaW1YQXNaRVBzcGlrLUU4dnlNS3FJ?oc=5",
-      "description": "\"오프라벨 사용 고가 항암제, 실손보험금 지급 대상\" 히트뉴스",
-      "pub_date": "Fri, 02 Jun 2023 07:00:00 GMT",
-      "category": "암 의료비",
-      "key": "3e2175df07dc9fa9",
-      "topic": "의료·건강"
-    },
-    {
-      "title": "DB손보, 인터넷 전용 미니암플랜 '참좋은암보험' 출시 - 데일리안",
-      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQLXJESjQxX19IOVZZNWpCUW5IZF9icDdtVlZUdzM2bnc4UC1sT0dXWmN2QnJJNHRDNmlsSl9PQ3YzMEljZ3VXczFQaHo0ZjQwYzJ6WmZHRmMzVkpYLWdNb05CTW5ob1JqazRyMHNlbzJrcVRJYVR2QnppOXRJYlhmcUozLWUycHVnU2FaV0pCdE85bVJsajA4em1JcHZ2RHdiNDQ1NzZ2LTlfVV8yYTFlUTZOZkZheGV4SXZNWUZxRU5lTlJKVzdrVzFvUEtKazZVamFJQlpjcl82UEpSREM2c2dsWno1cjZESVpMMThxRHVBN0ZOSVlTTk9ibXE5b29wcElNLXR3R3pHUFdHQ3c?oc=5",
-      "description": "DB손보, 인터넷 전용 미니암플랜 '참좋은암보험' 출시 데일리안",
-      "pub_date": "Mon, 16 Nov 2026 02:00:00 GMT",
-      "category": "암 의료비",
-      "key": "a7657c3e94720229",
-      "topic": "의료·건강"
-    },
-    {
-      "title": "NH농협생명 경남총국, 신상품 권역별 집합교육 - 경남경제",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9xX21EWEtXaXIwZlNsWXI5RjQ3eUlCeDdxSm8xTWdSMHpFSTBGSlkxOGhmRUFxZjZ4TmhTbkVXblVJV2pJVGN4czBFaG1GNm84c0pSR0NYaWItM2FvNHowZDNGY9IBZ0FVX3lxTE42OXA4X2V5WVB3UVIteXJOdGU1V2VCd3hPbUU3dXQ3a19iSHN0TUxSTDI4MDZUdEVuR2tJTEhIZnFlRXJyWEdlNUpyZlF6ZFpjTEpWTVdhM3NIZWN2Zkp1Q3owNHBVYUE?oc=5",
-      "description": "NH농협생명 경남총국, 신상품 권역별 집합교육 경남경제",
-      "pub_date": "Wed, 21 Aug 2024 07:00:00 GMT",
-      "category": "암 의료비",
-      "key": "d089a7f6f9107185",
-      "topic": "의료·건강"
-    },
-    {
-      "title": "암환자들, 완치돼도 5년 뒤 '폭탄' 떨어진다 - 프레시안",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBOVmJyYlJ3WDJqanY4SW52bVZaUVFYMjNMTzRXRDlNQ21XR1FSYTRTcjkzSkRKSno0ZXdCSV9yTjJuVlp4dzVmZG16RTB4SWNkb0NrZlRucnY?oc=5",
-      "description": "암환자들, 완치돼도 5년 뒤 '폭탄' 떨어진다 프레시안",
-      "pub_date": "Wed, 14 Nov 2012 08:00:00 GMT",
-      "category": "암 의료비",
-      "key": "bd2f39b0653af4e3",
-      "topic": "의료·건강"
-    },
-    {
-      "title": "국제성모병원, 카자흐스탄 망기스타우주에 원격의료센터 개소 - 로이슈",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1zVUdnY2RNODlyUk92UlZFUC1wcXotVU1kdk13RlV3ZG9veF8xSUNGZkFsd2J5NVNHdEJ2Q1FpWmFHczFVTTF1bGt2NXJIamZvdWZzamh1S28xMWZNcjVFaXY3ZUF6T1VqZXRfQVNQOEo5OGNPTEFtQ2hn?oc=5",
-      "description": "국제성모병원, 카자흐스탄 망기스타우주에 원격의료센터 개소 로이슈",
-      "pub_date": "Thu, 15 Oct 2026 07:00:00 GMT",
-      "category": "AI 의료기술",
-      "key": "21a028b0bc11c6c7",
-      "topic": "의료·건강"
-    },
-    {
-      "title": "AI 기반 예측형 헬스케어, 미래 의료 핵심 패러다임으로 부상 - 디지털데일리",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Pb1JUWVZ2Y1JSbXdFNG9iaml0bkFwVEV6emR2aEFmbVBMMHJQOHlDSmJSZHRCOG9QMnd3Q2tnV3gxeTN6N0kxWEpsVjJDWENqeXNkSTgwNDJaX2NfOTNDeXVsRHE?oc=5",
-      "description": "AI 기반 예측형 헬스케어, 미래 의료 핵심 패러다임으로 부상 디지털데일리",
-      "pub_date": "Tue, 11 Nov 2025 08:00:00 GMT",
-      "category": "AI 의료기술",
-      "key": "7b4ca5833878bc55",
-      "topic": "의료·건강"
-    },
-    {
-      "title": "삼정KPMG \"AI·빅데이터 기반 ‘예측형 헬스케어’ 시대 온다\" - 마켓인",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5vQjZCb1EtZlpUNmJhcjNaWWRMNTBBRFI3dFUwQnlLcGZHV2pYSC1MSEtqU2tiOGQ4cXl5OWxFUjYzaUM0X1VkUWZ6T0psRlphOV9CWC1MbkFERzlXUlJxczliMEJuM19aRjYxVWFmdEZBODg?oc=5",
-      "description": "삼정KPMG \"AI·빅데이터 기반 ‘예측형 헬스케어’ 시대 온다\" 마켓인",
-      "pub_date": "Tue, 11 Nov 2025 08:00:00 GMT",
-      "category": "AI 의료기술",
-      "key": "bdb6c4f940989678",
-      "topic": "의료·건강"
-    },
-    {
-      "title": "영국, NHS 디지털 전환 가속…헬스케어 혁신 이끈다 - 의학신문",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1KRVJRT19FZjFhUnQ5ZEtBSDVQdVRJRHg2dEpJVFZiWm1kRlV5R1paWTFfcWRfOXRwOWpSTnFSbEhGYVlhdFJ3Sl8wYm1aekJseG1hNU81UGYxVnNEcVRJdzBIWTVjU2taeVE?oc=5",
-      "description": "영국, NHS 디지털 전환 가속…헬스케어 혁신 이끈다 의학신문",
-      "pub_date": "Tue, 13 May 2025 07:00:00 GMT",
-      "category": "AI 의료기술",
-      "key": "fe4eeffb61b4882f",
-      "topic": "의료·건강"
-    },
-    {
-      "title": "인공지능 진료실 솔루션 ‘원닥’, 효율·안전성 동시에 잡았다 - 더메디컬",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE56aUpJSTRhVG9KQ2lqUE85Sm15RTZwSlF4WHJuVExNQk5KV1dRWXRvbk1CNFdab29zVkJxVEVrYWkzUTV5My1Rc1NLTVBqbE55eTlZZnhMVUEtd3U2c1R3VTNkN0NvaWJCYWfSAW5BVV95cUxQdmhkOTRicWtkbUpzUmM3Q2VyTmtaLVRXSmgxOUVxSWE3MXdJOXYzYi1uM1NZZ192RTRoajVyaHc5akJjXzNwODRaX2VvY29CaG5obTRBWUQyZ3FmREgtTV9kekhfU2tQU205T0tUdw?oc=5",
-      "description": "인공지능 진료실 솔루션 ‘원닥’, 효율·안전성 동시에 잡았다 더메디컬",
-      "pub_date": "Fri, 08 Aug 2025 07:00:00 GMT",
-      "category": "AI 의료기술",
-      "key": "d286961f1a0053d0",
-      "topic": "의료·건강"
-    },
-    {
-      "title": "AI·IoT 원격 돌봄 '의료 취약 고령층' 사각지대 해소 - 보건신문",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5lc2ZyWkdrcW51OVdBVVljeVRDeFN1UXcya0YyVVdfY0UyYWdrQURRQVpjM1dhTkJRaVN2dTJfUXVjTW5TVG96YnpCdHd4Tm5HLWhEVHZKSTBXekdwMkVTQW90RQ?oc=5",
-      "description": "AI·IoT 원격 돌봄 '의료 취약 고령층' 사각지대 해소 보건신문",
-      "pub_date": "Mon, 16 Jun 2025 07:00:00 GMT",
-      "category": "AI 의료기술",
-      "key": "8a6f8eade73e4c71",
-      "topic": "의료·건강"
-    },
-    {
-      "title": "“디지털헬스 경쟁은 곧 AI 경쟁…강원 ICT 인프라 확보 강점” - 강원도민일보",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8xT3NKaEtHN1lSVVRWeHJ4SlJqdU9aVnRFYW1DbHVaeG1ENTFnN0FUNGpiS3RGM21SbzhxYlN6V1RjWjF1OGVDNnRhOWlLb3hRc3BXOFVVOG92YmZqRlA1NXFOZ0xEdm1O?oc=5",
-      "description": "“디지털헬스 경쟁은 곧 AI 경쟁…강원 ICT 인프라 확보 강점” 강원도민일보",
-      "pub_date": "Mon, 22 Sep 2025 07:00:00 GMT",
-      "category": "AI 의료기술",
-      "key": "c38eff766eb8f11c",
-      "topic": "의료·건강"
-    },
-    {
-      "title": "[청년발언대] 의료의 미래인가, 새로운 격차의 시작인가…디지털 헬스케어의 두 얼굴 - 청년일보",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1fSkExQ0ZUckgtX1dmdVZTVmd6Mkd3YUJXS2tVZFNmS3JKTW1nT2NCektGaWhsMGZ5cUZENTlRMW93Rzl6cGhwWExWQk43cDBPaEh0aUN2QzRHb0pmRGZ3ODgtcHZLbU0?oc=5",
-      "description": "[청년발언대] 의료의 미래인가, 새로운 격차의 시작인가…디지털 헬스케어의 두 얼굴 청년일보",
-      "pub_date": "Sun, 12 Oct 2025 07:00:00 GMT",
-      "category": "AI 의료기술",
-      "key": "cead900febc3e866",
-      "topic": "의료·건강"
-    },
-    {
-      "title": "데이터와 AI가 여는 미래 의료, ‘예측형 헬스케어’로 전환 가속 - 금융경제플러스",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCdkZpSkkxRnBkWWhITlF6bndmR01yNksxTzNnTktCelRpX0xRZFNqdm9DSklnamdKekJHaXdwaU1QdUF0VzUtXzU3X1llT2NJblVZOVZWa01raGdBa21WZ2d4N1VaNjYzXy1ncA?oc=5",
-      "description": "데이터와 AI가 여는 미래 의료, ‘예측형 헬스케어’로 전환 가속 금융경제플러스",
-      "pub_date": "Tue, 11 Nov 2025 08:00:00 GMT",
-      "category": "AI 의료기술",
-      "key": "6868627d0c0f41ce",
-      "topic": "의료·건강"
-    },
-    {
-      "title": "의료 AI 윤리 5대 원칙...디지털 혁신 속 책임 있는 데이터 사용 강조 - 지티티코리아",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAtMVpSZFNWbnVodjVVUUEzRmVYNVZ1eldBcGhDLXdkZndvbW9lRzViaG14dEhYRFJucmRld3RXSUtqb3gyYlI1NlpTalk4VnYwMFA0OGJ2aUgxNjNmTnBxMGh0eDEtWC13VHc?oc=5",
-      "description": "의료 AI 윤리 5대 원칙...디지털 혁신 속 책임 있는 데이터 사용 강조 지티티코리아",
-      "pub_date": "Fri, 27 Jun 2025 07:00:00 GMT",
-      "category": "AI 의료기술",
-      "key": "f8dcae5f986dbabb",
-      "topic": "의료·건강"
-    },
-    {
-      "title": "스마트폰 앱이 병원 대신할까…디지털 헬스케어, 500조원 시장으로 큰다 - 지디넷코리아",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9EaHlkaDlHUGdPUkZtZmFUMllsRmthYVBBeEVXd2tNN0hLYTI2TXRrSzY3UEo4dDg2U3puY0Y5UWhfOE42TC1OWUxMSGFOMVFiQVhJR1Zn?oc=5",
-      "description": "스마트폰 앱이 병원 대신할까…디지털 헬스케어, 500조원 시장으로 큰다 지디넷코리아",
+      "title": "‘변액보험으로 금 투자’…미래에셋생명 ‘골드투자형’ 펀드 눈길 - 부산일보",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9XZkFEVlltOXZZcDRCMUM0Y2lKX04wNUczVzNmY0FWWThGZGdGT3pZNmlFeU4xMVdDV29JNHoxWHhwUkFQYnZkVDRzN2NEUEwzRTFjellCS2FVY2ltcXJvV3FvNHU3b2tuQWhqZlZlc28xdTRt?oc=5",
+      "description": "‘변액보험으로 금 투자’…미래에셋생명 ‘골드투자형’ 펀드 눈길 부산일보",
       "pub_date": "Tue, 23 Sep 2025 07:00:00 GMT",
-      "category": "AI 의료기술",
-      "key": "332f3216801fccae",
-      "topic": "의료·건강"
+      "category": "변액보험 수익률",
+      "key": "d6d1f164edcb5863",
+      "topic": "보험·상품"
     },
     {
-      "title": "[현장] '초고령사회 태풍' 앞 노인 의료...디지털 헬스케어에 거는 미래 - 디멘시아뉴스",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBIUzltU2dYQmdpZE1GbHNmWWlwVUdONjVqUXVnd1hJNldIZ1VtQXpUeU9MUkdYUUJtR0Q4c2I4Q2pFVE1yYmNXVERFWXUwMWdXV0Z3d2xmbFN0SFhQV2phdEVkQ1NNWF9CSDRhazFNb3g?oc=5",
-      "description": "[현장] '초고령사회 태풍' 앞 노인 의료...디지털 헬스케어에 거는 미래 디멘시아뉴스",
-      "pub_date": "Mon, 20 May 2024 07:00:00 GMT",
-      "category": "AI 의료기술",
-      "key": "d8317a48aa0d16c5",
-      "topic": "의료·건강"
+      "title": "[연금시대 성공전략 (3)] 연 8% 수익률 보장? 최저 보증 변액연금 고르는 꿀팁 - 웰스매니지먼트",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9hVkhlTk96aklxY2N4TkNUT253c1ZxaVFhQ3FxOXBBMlBTQjhURWhsZWJHMi1JMFo5UTQ3N1ZEQ1FFYzE3azBHSVFnRWhpR1NsM0VrRUpUZ0lEN0VTR2RrOHB0MmJyTWI0UlE?oc=5",
+      "description": "[연금시대 성공전략 (3)] 연 8% 수익률 보장? 최저 보증 변액연금 고르는 꿀팁 웰스매니지먼트",
+      "pub_date": "Tue, 11 Jun 2024 07:00:00 GMT",
+      "category": "변액보험 수익률",
+      "key": "de2441f5bd3486a0",
+      "topic": "보험·상품"
     },
     {
-      "title": "“스마트폰으로 폐렴 조기진단” 노타, AI 호흡음 분석 기술 실증 - 헬로티",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5JTzV2YkJaNEZKbkphWGpWMlE1YldzajBNYUZPUkRCSjBMTHFnT2FYTHlqS1FzSHN4WUEwdHh4R1kzaDhwV1FZLTRtS21BblFka3l0NG5CSEJXeWlpVjVj?oc=5",
-      "description": "“스마트폰으로 폐렴 조기진단” 노타, AI 호흡음 분석 기술 실증 헬로티",
+      "title": "[대한금융DB] 2021년 12월 기준 변액보험 수익률 1등 보험사는 - DFT 대한금융신문",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1MTjdZM3VEWVZRZzZmZ2xMZF9XVVVYOFp6N0k3THNfU2xwdTNJSjJkSGFkdkVsV01POEZmREFUT013TXJZenp4ZGtWTEd3NGo5ZkRNMVY1V2dZWWFHNVRwQ091eFNORGFFRW94RNIBcEFVX3lxTE9vLWQ4T1Z4MHA1dWtoZmlYU1EzSjVTRnVJamYtclZLVWQ4MmN1QWppdFNtNnc4ZmpCU1hwa2ZCeXlLdXpZSFlwakw5LWNENTRoOGlDWmR2d2JNdUxMc05Ubkx6REthUVVlQWc3Tmk2dVA?oc=5",
+      "description": "[대한금융DB] 2021년 12월 기준 변액보험 수익률 1등 보험사는 DFT 대한금융신문",
+      "pub_date": "Mon, 17 Jan 2022 08:00:00 GMT",
+      "category": "변액보험 수익률",
+      "key": "999e3a0056256bf9",
+      "topic": "보험·상품"
+    },
+    {
+      "title": "변동성 장세, ‘분산투자’로 대비···미래에셋생명 변액보험 주목 - 시사저널e",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ldWo5Z2lvSjctdUtYNEFGcDhXd1BxTDBxSkt4ZjVNVW5CcVV5aEFUZUhRaGJHOVJodVA0blIwbTN6MHl0UmlMWVF1SmtFRk4tdHRmUjNKZWNoM3dXd05UUGF1d3RMcHJhTVRwQ2daS0pWd9IBdkFVX3lxTE1kV0hzM0lpYUM4R2oyZ3FIeFBReDMyT1VkalFlTE5aXzd6ODBxOFhuVGtCeDRQeEktaVZMNmI5SXRrVTBVdmdneHpLMFNSREVKS0JINkZYeVRDOWRpNTlvdnY2a3FYSktJMXJlNzdfY0pZVTVzNFE?oc=5",
+      "description": "변동성 장세, ‘분산투자’로 대비···미래에셋생명 변액보험 주목 시사저널e",
+      "pub_date": "Thu, 26 Oct 2023 07:00:00 GMT",
+      "category": "변액보험 수익률",
+      "key": "ac9a0f56cd2e82f1",
+      "topic": "보험·상품"
+    },
+    {
+      "title": "보험硏 “연금 세제구조 바꿔야 노후소득 늘어난다…세액공제 이월·매칭보조금 도입 필요” - 보험매일",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5HTU4tZGlTWWlDVlZmS0tpX0I5NlJxSHJXeFkzN2dZVldHTFUxY0xIcnlBR1JUUG1palBvR3UzUGxkVmgzYjE4UlcyQXdXZ0pZYzFIMjlMNXoyRWVvdktMWVZCaFRtZHkt?oc=5",
+      "description": "보험硏 “연금 세제구조 바꿔야 노후소득 늘어난다…세액공제 이월·매칭보조금 도입 필요” 보험매일",
+      "pub_date": "Sun, 22 Feb 2026 08:00:00 GMT",
+      "category": "연금보험 노후",
+      "key": "28e6fd4a7290de30",
+      "topic": "보험·상품"
+    },
+    {
+      "title": "[진단]국민연금에만 의존할 수 없는 노후 자금…보험사 개인연금, 알고 대비해야 - 리버티코리아포스트",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1Lem82cktUdzJDMGstRWtjMjVyQkl5WFdkSDFaMzdJaktjZkZWSHBYMkFlaGVERVhrM1VPd2lWTDlqQ1RjNkFhR2sxcEMtRlQtQVo3Yk5TU0JYeU5TTFdxYlIyNNIBZ0FVX3lxTE5XNkxTY0hOZUV2MDRWcnA0c2ZadXB2RVUwdWJRTTFRTnpwLWVVUVAzU0hpRU9MdUhlQlJoYUV2aHZwZ1pzWUVQZzNadTZuTW5EVXdVdlN5dHlEWllpekRPLWFlYkVHaVk?oc=5",
+      "description": "[진단]국민연금에만 의존할 수 없는 노후 자금…보험사 개인연금, 알고 대비해야 리버티코리아포스트",
+      "pub_date": "Tue, 26 Sep 2023 07:00:00 GMT",
+      "category": "연금보험 노후",
+      "key": "59b396e23409a441",
+      "topic": "보험·상품"
+    },
+    {
+      "title": "[추석특집-100세 시대, 연금이 답-上] 노후대비, 3층 연금으로 대비하자 - 시사저널e",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE55LVFyYWZ2WEd0VlE5ZlAzSUZmTEdNNG9YVG95bVJzeVJDLXpteWdIZFQwQ0JXSXhVZENWbW9rMnJLakIwMnpieXBIcUpueC13NGFIS0VlSms5VG1CSEdORkxQd3NqdVdicmV4V1YtdnlBUdIBdkFVX3lxTE52QkNTVjFtOWhBR0x4SWhPUmdERGdNekZyTzVNenBhTTZlOWx1RFJ2ajVuWGZoWWx4OVJxTVZjdzBHcG9zWmZiTkxFRVJvNGdWTWdzeDZ1UXdUNXJJS1VIWWgwcTVBdGhGdUg3YWNtSl82R1JUbEE?oc=5",
+      "description": "[추석특집-100세 시대, 연금이 답-上] 노후대비, 3층 연금으로 대비하자 시사저널e",
+      "pub_date": "Sun, 01 Oct 2023 07:00:00 GMT",
+      "category": "연금보험 노후",
+      "key": "81979c0e1cac0691",
+      "topic": "보험·상품"
+    },
+    {
+      "title": "[재테크 Lab] IRP 하나로 연 150만원 절세하기 - 더스쿠프",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zVGxGZDZjbGZJUEVXazRUN0VsdzZKWHBXU3hiUkZwSDdzREhUbUZiT0pDRjVWQ2NMSVcwemFORFV0RDk2aFJuNGVtVGlvNUFJTy0zellwZVFEcGl1Smg4RUJSa1hXOHBSQW0wTQ?oc=5",
+      "description": "[재테크 Lab] IRP 하나로 연 150만원 절세하기 더스쿠프",
+      "pub_date": "Thu, 15 Jun 2023 07:00:00 GMT",
+      "category": "연금보험 노후",
+      "key": "3b9dc11c1fb468ef",
+      "topic": "보험·상품"
+    },
+    {
+      "title": "부부 생활비 월400만원 목표...10년간 노후 소득 보강하라 [WM 연금전략] - 웰스매니지먼트",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBxQlF5VkdDSm1xNDZncW9ob2NTQnBVRG1wdmtTRHA5TGVZOWFLRGxZbzhZTmlqZi1PWHRHbDlQbmQxMWNEY3RmWlBlX1BfRS03Ul94endtZE1uNmZCOTJ6cXdWd0xMYWxkMHfSAW5BVV95cUxPMzNJT1MwQXlXcWFkd0ZlSWZlaEJ5WkU1UFpyY0h6ZEJkZlBSTjZmNE9idzhPR2ZsUnhhbXVLODJPOTNfbWU3ZU5Kb21ySE51b2JVT3RYQkZ5WUJMdDRkbTZOMU5ZaVhlZVVKV0NGdw?oc=5",
+      "description": "부부 생활비 월400만원 목표...10년간 노후 소득 보강하라 [WM 연금전략] 웰스매니지먼트",
+      "pub_date": "Mon, 18 Aug 2025 07:00:00 GMT",
+      "category": "연금보험 노후",
+      "key": "d05953cb974c1899",
+      "topic": "보험·상품"
+    },
+    {
+      "title": "[연중기획-고령인구 1000만명, 보험의 역할을 넓히자!]부모·자녀 동시 부양 60대, 개인적 노후설계 시급 - 한국보험신문",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE10ZUZPWUZtVmRsaWV1b21vNnlwbHlkQlRqdVA5c2dhRDRTMnQ5RFZqT096SFlYUTlYWkFUOUEwc1FwTnpaMTFtdjlaZFZDcDlDdjQyMVZsMW85SlZ1REotclk5YnJYanQya0kw0gFvQVVfeXFMT2ZyenAxVHFSQ2xtV0czZjZEeU9jOExMbmNCeW5nZ3AxSlF5Z1Y5ZHVuWUcyOXBCYm9yZHI3dE9pR0dJb0VzT0Etbl9oMkw0cjNhZEk5OUZZLVoyY0piemNqMVZNb3d1XzVVMXFqbXhF?oc=5",
+      "description": "[연중기획-고령인구 1000만명, 보험의 역할을 넓히자!]부모·자녀 동시 부양 60대, 개인적 노후설계 시급 한국보험신문",
+      "pub_date": "Mon, 24 Jun 2024 07:00:00 GMT",
+      "category": "연금보험 노후",
+      "key": "9980552f1339684f",
+      "topic": "보험·상품"
+    },
+    {
+      "title": "연금저축펀드 2배 증가…직장인 세액공제 같아도 노후자금 차이 커진다 - 창원특례신문",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBHM1FaNlFpNjR5cGlnQ3pxa25UTVBST2pWQmZTNG9Bc0V5RmxQMHZrZktaNDdSYjhpNkZpTEdPc0h6dXhodGY0SGwyZE5MVUg3NUNHYVYxZkJVUVFZY2tqUDNrdGwzM0nSAWtBVV95cUxPYk9jU1dDbVdLNEhxNWRlSDkyWFdLUHlVeTlDX2tiSEMtSXN2cmhnSU8zYzRpdlM3N2locWJmZ1ZSVVNlVENycFg4SGRFbVk3OEpudmZUWk1jd2E5NlRDYjVnb2dVZm9wMzQ1Zw?oc=5",
+      "description": "연금저축펀드 2배 증가…직장인 세액공제 같아도 노후자금 차이 커진다 창원특례신문",
+      "pub_date": "Wed, 20 May 2026 07:00:00 GMT",
+      "category": "연금보험 노후",
+      "key": "4fe95f53b6fbafca",
+      "topic": "보험·상품"
+    },
+    {
+      "title": "은퇴 후 '10억' 필요한데…57% \"생활비 부족하다\" - 마켓인",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0xRG1JVjlyanJYUnh0WnFJcmFhTm5uVFp2aVh1ZW4ybkdXWk1KQU9ZdS00Vlg3Tjd6VDZXWS01NFNJaEZNUV9NZGVxaEFMczU1Q1dNOGc3U19BWUU1aWZ3QkJGeW9EbzZWVzlxZjlKVXFTajg?oc=5",
+      "description": "은퇴 후 '10억' 필요한데…57% \"생활비 부족하다\" 마켓인",
+      "pub_date": "Mon, 10 Mar 2025 07:00:00 GMT",
+      "category": "연금보험 노후",
+      "key": "7dfc5a61670b4499",
+      "topic": "보험·상품"
+    },
+    {
+      "title": "[보푸라기]연금계좌 세액공제 확대…보험사 '뜨뜻 미지근' - 비즈워치",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1vYWQtbHZOMUJBVVBtOHRHaEtTOUkyMW1hNTV2YmlObmE4UWJZaWk0SGFlSW1ycFJxNF9JaWN2U3gyaWF0OUxGWjhJX05XYVpOU3hBeVZRcThlV0pibHlPbmxxaGpyTEIwYXg4?oc=5",
+      "description": "[보푸라기]연금계좌 세액공제 확대…보험사 '뜨뜻 미지근' 비즈워치",
+      "pub_date": "Sat, 23 Jul 2022 07:00:00 GMT",
+      "category": "연금보험 노후",
+      "key": "91f08f2639ecf215",
+      "topic": "보험·상품"
+    },
+    {
+      "title": "국민연금, 역대급 수익률로 200조원 벌었어요 - 핀다포스트",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9rcl9SNkdvZXR6V29uNXIyMGU5YWs3T2FyTU9iNmg5ay1uc3NpdFF5aUR5c0Ewd010TXJTeEJ2U2N1eXpjQjZfRGxaR25LUXpUT3Nndg?oc=5",
+      "description": "국민연금, 역대급 수익률로 200조원 벌었어요 핀다포스트",
       "pub_date": "Wed, 12 Nov 2025 08:00:00 GMT",
-      "category": "AI 의료기술",
-      "key": "8913dbc2ae42fd83",
-      "topic": "의료·건강"
+      "category": "연금보험 노후",
+      "key": "c3942a32cf28ccb7",
+      "topic": "보험·상품"
     },
     {
-      "title": "[1000만 노인시대/②의료·헬스케어] 매일 ‘병원 쇼핑’하는 노인들...원격의료·AI진단·재택케어가 대안 될까 - 뉴스퀘스트",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5NS0d3d1JvZktYR1RDX09FbENKZHJ3Y0RxcUx4VDBnYnJBMmJYZVdudmlqTEFPbEdQSVFiRjNmay1rWUxNSzRURUxCSXFtcnZ1Z24wWlVtRE1YOHZDSGY0b2Q5Vzc0X1VGUzlTbFJTRQ?oc=5",
-      "description": "[1000만 노인시대/②의료·헬스케어] 매일 ‘병원 쇼핑’하는 노인들...원격의료·AI진단·재택케어가 대안 될까 뉴스퀘스트",
-      "pub_date": "Tue, 19 Aug 2025 07:00:00 GMT",
-      "category": "AI 의료기술",
-      "key": "5dfac3e344728749",
-      "topic": "의료·건강"
+      "title": "[위기의 저축성보험]①개인연금 떠받치는 기둥 - 비즈워치",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBEYVIyWkgtbEIwLXUyZ0UtWlZwcEZmVkpXeFRoS1hKNFViN2JxbUJ3dGxtZWFSWEIzbDhJU2lBZGVYQ0U5dHFGZ2hXTUJQQlFBUTcwSDlqQkdoMXAxbXBGUmhCUUtNckZZZkE?oc=5",
+      "description": "[위기의 저축성보험]①개인연금 떠받치는 기둥 비즈워치",
+      "pub_date": "Wed, 15 Jan 2020 08:00:00 GMT",
+      "category": "연금보험 노후",
+      "key": "a2febbf8dbbaea04",
+      "topic": "보험·상품"
     },
     {
-      "title": "글로벌 미래 먹거리로 각광… 2027년 5090억弗 규모 - 보건신문",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE81QTZ0Tk5LSGNfR2VSRUdaMjAtdl9NQXhwTHdDempnaWk4VDZ6VXl2ejFDamVYY3JZZXhmREtsQ3YzRnF1T0huaHdiN09DN1ZRMVh3ZHFuSGhNNkYxNFE?oc=5",
-      "description": "글로벌 미래 먹거리로 각광… 2027년 5090억弗 규모 보건신문",
-      "pub_date": "Mon, 17 Jun 2024 07:00:00 GMT",
-      "category": "AI 의료기술",
-      "key": "81f38e11414ba3f1",
-      "topic": "의료·건강"
+      "title": "부모 부양도, 내 노후도 막막 … 50대 은퇴지옥 벗어날 3대 해법 - 매일경제",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1USXhocVVMSjVvbFdWMFBrREk4WWtwMngwaFJqdjNVUWdqQzIxU19aRzhGajJJMGt3Vmc3Q1BjNHB1WXhZSkl6VEZVSm9TYlpxUkt3dWp0aHJyeU0?oc=5",
+      "description": "부모 부양도, 내 노후도 막막 … 50대 은퇴지옥 벗어날 3대 해법 매일경제",
+      "pub_date": "Wed, 20 May 2026 07:00:00 GMT",
+      "category": "연금보험 노후",
+      "key": "648dd79b89d2c5d7",
+      "topic": "보험·상품"
     },
     {
-      "title": "메가톤급 외국인 배당에 달러/원 상방 압력 확대 - KB Think",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1CRTE0VTFLaU9jWVZpMWc1c3Q5Y2dnSE5kOU1GaWlCVnZXR2w4endHX25MQlp5WUdpbkgzcWhCa2c2SGNNZDA0QWxYY3ZUeUxYRDJCajF3LTVWNDA4aUU2cllR?oc=5",
-      "description": "메가톤급 외국인 배당에 달러/원 상방 압력 확대 KB Think",
-      "pub_date": "Mon, 23 Nov 2026 08:03:36 GMT",
+      "title": "[이슈] 믿었던 '노후자금의 함정'... 예상 밑도는 연금보험에 민원 급증 - 오늘경제",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4xR1JnTXhuc2xVOG52VnU0YmtCT2NvQy0xeC02bXBiQXU2WDc0V0FTNGNoSlNQc0VDdC1qSHl6NVJWTG9zaUEybm9NY0tFUTNkSGRqeERWcTN3WExvTmptcG5uRXd0akFiaDRPSUJLNjJKZEk?oc=5",
+      "description": "[이슈] 믿었던 '노후자금의 함정'... 예상 밑도는 연금보험에 민원 급증 오늘경제",
+      "pub_date": "Wed, 21 Oct 2026 07:00:00 GMT",
+      "category": "연금보험 노후",
+      "key": "682331d839c1ec54",
+      "topic": "보험·상품"
+    },
+    {
+      "title": "“난 DC형 퇴직연금으로 6.5% 수익 냈다” - 더스쿠프",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPWTFwTFFTbzVVQ193bE9pa3QyNVBkbXdBT3ZCNjZRVi05NVJfLURTSmZlWmF5ZnY0N0NMNGV4MG5RWXJXSHRlWjJYX1BPVjQ1QnQtOXMzaEc3MXAzc01scWo3c3FWLVdhaVY2bw?oc=5",
+      "description": "“난 DC형 퇴직연금으로 6.5% 수익 냈다” 더스쿠프",
+      "pub_date": "Tue, 22 Oct 2019 07:00:00 GMT",
+      "category": "연금보험 노후",
+      "key": "97d4ba5fd3c74cad",
+      "topic": "보험·상품"
+    },
+    {
+      "title": "나의 노후준비 자금, 20대부터 - 한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aa0xWdnpTMWNxb3hrVTNxcUNUc2UtRDlXOGRaQVZ2emFhS2hWX0VpTGpRTHp0aHNKai1taEhzMS1MSUhuaTV5SXhQR0hreEhmbGtaTWVWUExEQQ?oc=5",
+      "description": "나의 노후준비 자금, 20대부터 한국경제",
+      "pub_date": "Mon, 15 May 2023 07:00:00 GMT",
+      "category": "연금보험 노후",
+      "key": "a25a7bfd8257b4bf",
+      "topic": "보험·상품"
+    },
+    {
+      "title": "핀테크 GA, 정규직 설계사 확대…영업조직 운영방식 변화 - 보험매일",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBPTXN2a1dJTFdtOWhpSExTSnpNN3kwUURxM2N2SGRDM0ZYUGRLUzc2dTB5allGZV96QURqWFdrZUZFek5VMUpIczN4SThXUUZGX0JTVUF4SWZDdHRKY3lkbU9qa3VDMG12?oc=5",
+      "description": "핀테크 GA, 정규직 설계사 확대…영업조직 운영방식 변화 보험매일",
+      "pub_date": "Mon, 23 Nov 2026 04:46:26 GMT",
+      "category": "보험설계사 영업",
+      "key": "11428a6ea28b779f",
+      "topic": "영업·마인드"
+    },
+    {
+      "title": "수출 1조달러에도 연말 환율 1380원 전망…美 긴축·외국인 역송금 변수 - 뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5mbEJWVS1Dd25QX0F3aS1UNHZjYW5HOTJ4T0dxajZaVVRiaVJMT2F0YUNWaklpQkdIWkZWVHlJdUdTZnpQZjQzMm1xSjUwYWVSWlhsbw?oc=5",
+      "description": "수출 1조달러에도 연말 환율 1380원 전망…美 긴축·외국인 역송금 변수 뉴스1",
+      "pub_date": "Sat, 21 Nov 2026 22:30:00 GMT",
       "category": "환율 전망",
-      "key": "e85e9605d7279dc0",
+      "key": "ddcebab0f734c8b1",
       "topic": "경제·환율·금리"
     },
     {
-      "title": "[환율 전망] 조금씩 흔들리는 균형 - KB Think",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBCT0NpTUlNU1JXb2Y2U3Jod3NwVGkzcEpVQTlubzBQY1I5b0U2QjRVM1NOOGdaRXRlZE9pOFNKbHJOZ3lTUFprdVBjQjBhR1dKZ3lsZnRGcllfLTFBcEpiRg?oc=5",
-      "description": "[환율 전망] 조금씩 흔들리는 균형 KB Think",
-      "pub_date": "Sun, 22 Nov 2026 23:05:54 GMT",
-      "category": "환율 전망",
-      "key": "2113adf65836a7c7",
-      "topic": "경제·환율·금리"
-    },
-    {
-      "title": "반도체 투매에 나스닥 -5%↓ - KB Think",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1GYkNOZGFGamFObXNaQTI3NVFwbm44UHRhVThjbVFldVkxUXBXSm9tZU1jdVpYSE1sRnc3Wld3emtVQVBhcWJScFZieERwU1JkLVJFeW5VUHhQRmVYVk5kYkJORzFJR09LQWtwZQ?oc=5",
-      "description": "반도체 투매에 나스닥 -5%↓ KB Think",
-      "pub_date": "Sun, 22 Nov 2026 22:45:36 GMT",
-      "category": "글로벌 시장",
-      "key": "714bcabcea6eda07",
-      "topic": "경제·환율·금리"
-    },
-    {
-      "title": "한미 증시 도미노 급락속 또 출렁…코스피, 연초 수준으로 '뚝' - 연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBLR3QyZkhuWXROWGNkWmtjQjZYaUFXWDluci05UTFvSmFicEFRRzlwblhEb1hWQXJvNDFjQmxqalFjZ3dyZEplMHVhQmFQSHd5bVR1MXlmRTNuSGM3emhoQdIBYEFVX3lxTFBLR3QyZkhuWXROWGNkWmtjQjZYaUFXWDluci05UTFvSmFicEFRRzlwblhEb1hWQXJvNDFjQmxqalFjZ3dyZEplMHVhQmFQSHd5bVR1MXlmRTNuSGM3emhoQQ?oc=5",
-      "description": "한미 증시 도미노 급락속 또 출렁…코스피, 연초 수준으로 '뚝' 연합뉴스",
-      "pub_date": "Mon, 23 Nov 2026 01:53:00 GMT",
-      "category": "글로벌 시장",
-      "key": "c495460868a7f444",
+      "title": "트럼프 \"시장개방 안하면 더 높은 관세\"…뉴욕증시, 강세 마감 [모닝브리핑] - 한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE52eldnRHB5ejhodllKNnBXbmd0ejRkc3ZKZW9BU3hhYVd6WmFFNTdMMlZUaVBZZjAydzFxcGZ1aGJjQUVhaTRqMHRFU0c4eUY4bFkxUDV0UlRudw?oc=5",
+      "description": "트럼프 \"시장개방 안하면 더 높은 관세\"…뉴욕증시, 강세 마감 [모닝브리핑] 한국경제",
+      "pub_date": "Thu, 24 Jul 2025 07:00:00 GMT",
+      "category": "미국 경제·정책",
+      "key": "a1b9d7572c06a1c9",
       "topic": "경제·환율·금리"
     }
   ]

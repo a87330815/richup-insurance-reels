@@ -1,105 +1,75 @@
 {
-  "collected_at": "2026-11-23T11:36:28.933321+00:00",
+  "collected_at": "2026-11-23T19:35:09.915343+00:00",
   "items": [
     {
-      "keyword": "중위소득",
-      "traffic": "500+",
-      "news_title": "‘자녀가 있어 못받은 생계급여’ 기준 폐지 추진",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "be2dea690adb5eb0",
-      "collected_at": "2026-11-23T11:36:28.932671+00:00"
-    },
-    {
-      "keyword": "브레인악셀",
-      "traffic": "500+",
-      "news_title": "경찰 &quot;이진우 강제수사 가능‥기기 사용 여부 확인해야&quot;",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "8407e0d8cd3f3e7c",
-      "collected_at": "2026-11-23T11:36:28.932671+00:00"
-    },
-    {
-      "keyword": "일론 머스크",
-      "traffic": "100+",
-      "news_title": "&quot;내년에 엄청난 일 벌어진다&quot;…머스크의 섬뜩한 경고",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "f676d8f168594094",
-      "collected_at": "2026-11-23T11:36:28.932671+00:00"
-    },
-    {
-      "keyword": "가석방",
-      "traffic": "100+",
-      "news_title": "靑 &quot;스토킹 접근금지 기간 연장·가석방 없는 무기형 등 검토&quot;",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "91ac3f7727711d75",
-      "collected_at": "2026-11-23T11:36:28.932671+00:00"
-    },
-    {
-      "keyword": "이세창",
-      "traffic": "100+",
-      "news_title": "이세창·김지연, 이혼 후 13년만 공개한 딸..김연아·이민정 닮은 외모 대박 &quot;한예종 입학&quot; [Oh!쎈 이슈]",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "e4e2ebcf3c9ca1c4",
-      "collected_at": "2026-11-23T11:36:28.932671+00:00"
-    },
-    {
-      "keyword": "딜라이트",
+      "keyword": "탁구",
       "traffic": "200+",
-      "news_title": "‘도란·카나비’ DK, 코치진 교체 T1…뜨거운 LCK 스토브리그",
+      "news_title": "강릉아레나서 제15회 GN 전국장애인 탁구대회 막 내려…전국 17개 시도 300여 명 참가",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "82fe8e36b984fb53",
-      "collected_at": "2026-11-23T11:36:28.932671+00:00"
+      "key": "33328887eb332037",
+      "collected_at": "2026-11-23T19:35:09.914779+00:00"
     },
     {
-      "keyword": "설악산",
-      "traffic": "5000+",
-      "news_title": "전남광주 아침 영하권 추위…24일까지 비 예보",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "33f7339223540700",
-      "collected_at": "2026-11-23T11:36:28.932671+00:00"
-    },
-    {
-      "keyword": "고규필",
-      "traffic": "2000+",
-      "news_title": "배우 고규필·가수 에이민 부부 득녀…&quot;인생 가장 잘한 일&quot;",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "6c4d26a3ebabb77e",
-      "collected_at": "2026-11-23T11:36:28.932671+00:00"
-    },
-    {
-      "keyword": "한국지엠",
-      "traffic": "500+",
-      "news_title": "김홍록·김은미, 인천마라톤대회 국내 남녀부 우승",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "f59c80c642e72621",
-      "collected_at": "2026-11-23T11:36:28.932671+00:00"
-    },
-    {
-      "keyword": "sa vs ban",
+      "keyword": "노태문",
       "traffic": "200+",
-      "news_title": "&apos;It&apos;s quite a smooth transition&apos;- Markram on stepping in for Bavuma",
+      "news_title": "삼성전자 사장단 인사 – 삼성전자 뉴스룸",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "8e9a96de5d24eb82",
-      "collected_at": "2026-11-23T11:36:28.932671+00:00"
+      "key": "03e00fe2ccaf653c",
+      "collected_at": "2026-11-23T19:35:09.914779+00:00"
+    },
+    {
+      "keyword": "테슬라 주가",
+      "traffic": "200+",
+      "news_title": "테슬라 주가, 오늘 급등한 이유는?",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "경제·환율·금리",
+      "key": "1ba306facd3cd694",
+      "collected_at": "2026-11-23T19:35:09.914779+00:00"
+    },
+    {
+      "keyword": "샌디스크 주가",
+      "traffic": "100+",
+      "news_title": "샌디스크 주가, 오늘 왜 급등하나?",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "경제·환율·금리",
+      "key": "dfa4c48b59243165",
+      "collected_at": "2026-11-23T19:35:09.914779+00:00"
+    },
+    {
+      "keyword": "to me my x men",
+      "traffic": "500+",
+      "news_title": "Watch the Final ‘Avengers: Doomsday’ Trailer",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "4999edfded584903",
+      "collected_at": "2026-11-23T19:35:09.914779+00:00"
+    },
+    {
+      "keyword": "tradingview",
+      "traffic": "100+",
+      "news_title": "WhiteBIT launches joint Black Friday promotion with TradingView for new users",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "5510cef5cc40aece",
+      "collected_at": "2026-11-23T19:35:09.914779+00:00"
+    },
+    {
+      "keyword": "스페이스x 주가",
+      "traffic": "100+",
+      "news_title": "제프리스도 추가 상승 전망…10%대 급등",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "경제·환율·금리",
+      "key": "37dd77f07ae6085e",
+      "collected_at": "2026-11-23T19:35:09.914779+00:00"
     }
   ]
 }
