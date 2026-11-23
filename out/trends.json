@@ -1,105 +1,85 @@
 {
-  "collected_at": "2026-11-22T20:37:35.358139+00:00",
+  "collected_at": "2026-11-23T03:24:52.906907+00:00",
   "items": [
     {
-      "keyword": "잠수함",
-      "traffic": "1000+",
-      "news_title": "與 “핵추진잠수함 도입, 특별법으로 뒷받침”",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "c6c0729a03529cf6",
-      "collected_at": "2026-11-22T20:37:35.357424+00:00"
-    },
-    {
-      "keyword": "비야디",
+      "keyword": "네이버 주가",
       "traffic": "100+",
-      "news_title": "네덜란드 법원, 디자인 분쟁으로 BYD SUV의 EU 판매 금지",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "06fbd83fc1606a39",
-      "collected_at": "2026-11-22T20:37:35.357424+00:00"
-    },
-    {
-      "keyword": "평택시장",
-      "traffic": "100+",
-      "news_title": "집 늘리려니 길·물도 &apos;숙제&apos;…경기 7개 시, 총리에 &apos;맞춤 지원&apos; 요청",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "797b03f15d4af7e3",
-      "collected_at": "2026-11-22T20:37:35.357424+00:00"
-    },
-    {
-      "keyword": "코스피",
-      "traffic": "5000+",
-      "news_title": "외인매도에 5,000선도 깨진 코스피…호재에도 &apos;받아줄 돈이 없다&apos;",
+      "news_title": "네이버 주가 장중 9%대 내려, 데이터센터 투심 위축에 관련주 약세",
       "snippet": "",
       "source_type": "google_trends",
       "category": "경제·환율·금리",
-      "key": "aa7fe95c8772b3c6",
-      "collected_at": "2026-11-22T20:37:35.357424+00:00"
+      "key": "1ca5fddf2bd4d8c9",
+      "collected_at": "2026-11-23T03:24:52.906335+00:00"
     },
     {
-      "keyword": "헤타페 대 아틀레티코",
-      "traffic": "10000+",
-      "news_title": "“이강인 선발 제외→벤치에 앉을 것” 西 매체 “AT·마드리드, 최전방 공격수들 득점력 문제있어” 헤타페전 LE...",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "3bbe023b91b5c4d1",
-      "collected_at": "2026-11-22T20:37:35.357424+00:00"
-    },
-    {
-      "keyword": "카를로스 알카라스",
-      "traffic": "500+",
-      "news_title": "알카라스, ATP 파이널스 전승으로 준결승 진출…셸턴과 4강 격돌",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "cc776c85ad343a14",
-      "collected_at": "2026-11-22T20:37:35.357424+00:00"
-    },
-    {
-      "keyword": "휴게소",
+      "keyword": "국가장학금",
       "traffic": "200+",
-      "news_title": "[단독] 전관 천국, 휴게소… 납품대금 18억원 떼먹어도 ‘이상 없음’",
+      "news_title": "내년 1학기 국가장학금 신청하세요…내일부터 내년 1월7일까지",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "620a316e0f5976cf",
-      "collected_at": "2026-11-22T20:37:35.357424+00:00"
+      "key": "e909e8037b37b61e",
+      "collected_at": "2026-11-23T03:24:52.906335+00:00"
     },
     {
-      "keyword": "통장",
-      "traffic": "1000+",
-      "news_title": "코스피 반토막에 고금리…4050 마통 연체액 82%·77% 급증",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "3d5f8b17178083ac",
-      "collected_at": "2026-11-22T20:37:35.357424+00:00"
-    },
-    {
-      "keyword": "집",
+      "keyword": "제주특별자치도",
       "traffic": "500+",
-      "news_title": "‘전세금+3억’이면 샀던 집, 올해는 6억 더 줘야 산다",
+      "news_title": "",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "934f9d188f6e3e33",
-      "collected_at": "2026-11-22T20:37:35.357424+00:00"
+      "key": "44239ae284a4565b",
+      "collected_at": "2026-11-23T03:24:52.906335+00:00"
     },
     {
-      "keyword": "수색영장",
-      "traffic": "100+",
-      "news_title": "[단독] 중수청 첫 기업 수사부터 ‘별건’ 의혹…공소청·법원 ‘줄기각’",
+      "keyword": "삼성증권",
+      "traffic": "500+",
+      "news_title": "삼성증권 고객 개인정보 8241건 유출... ‘고객의소리’ 서비스 노린 해킹",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "d5442b289b2c6616",
-      "collected_at": "2026-11-22T20:37:35.357424+00:00"
+      "key": "092760ce00d014ba",
+      "collected_at": "2026-11-23T03:24:52.906335+00:00"
+    },
+    {
+      "keyword": "리비아",
+      "traffic": "100+",
+      "news_title": "우크라 전쟁, 북아프리카로 전선 확대…리비아서 드론 공격에 러 군함 침몰",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "53d63f5dbb5df08f",
+      "collected_at": "2026-11-23T03:24:52.906335+00:00"
+    },
+    {
+      "keyword": "화이트캡스 대 솔트레이크",
+      "traffic": "2000+",
+      "news_title": "NSHvsCIN 11-22-2026 | MLS Match Recap",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "1214f49d6404b28a",
+      "collected_at": "2026-11-23T03:24:52.906335+00:00"
+    },
+    {
+      "keyword": "구조조정",
+      "traffic": "1000+",
+      "news_title": "대기업에 부는 감원 칼바람…불황형 구조조정 넘어 상시 인력 재편",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "582274499e97b856",
+      "collected_at": "2026-11-23T03:24:52.906335+00:00"
+    },
+    {
+      "keyword": "부산항",
+      "traffic": "1000+",
+      "news_title": "부산항만공사, 중기 우수기술 판로 확대 &apos;기술마켓데이&apos; 개최",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "1c11bef902135726",
+      "collected_at": "2026-11-23T03:24:52.906335+00:00"
     }
   ]
 }

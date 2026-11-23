@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-22T20:37:34.298364+00:00",
+  "collected_at": "2026-11-23T03:24:51.688775+00:00",
   "topic_weight": {
     "보험·상품": 30,
     "영업·마인드": 25,
@@ -7,315 +7,52 @@
     "경제·환율·금리": 25
   },
   "topic_counts": {
-    "보험·상품": 15,
-    "의료·건강": 15,
-    "경제·환율·금리": 4
+    "경제·환율·금리": 5
   },
   "items": [
     {
-      "title": "미래에셋생명 변액보험 경쟁력 높여, \"글로벌 시장 변화에 탄력적 대응\" - 비즈니스포스트",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5hb2g1RWU0aFp0UlR5ODRNUndXdGhFZkE5SW5DU2RvT3NGV3RXZUx4U05sU3V5WWR2WlJDbkExTU1oMDRPS20yT19VS1ByLW9yZl80ek9xaXNSczQzNmc3UlNQeGd1ZXdUTUpzU29POWExc3c?oc=5",
-      "description": "미래에셋생명 변액보험 경쟁력 높여, \"글로벌 시장 변화에 탄력적 대응\" 비즈니스포스트",
-      "pub_date": "Mon, 21 Sep 2026 07:00:00 GMT",
-      "category": "변액보험 수익률",
-      "key": "dc6e044819e6bfe3",
-      "topic": "보험·상품"
-    },
-    {
-      "title": "\"누적수익률 1100% 대박\"…이 변액보험 들길 잘했네 - 머니투데이 - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5qR1JhaVhwZnR3NElPaGZ2OU1xYUNvenZ0d0p5bkhZVURNdlV2U2I5ejRDazNyNmY4ZXBIRl9feFVWb1BZZWtmTXpwOWVXZlltU3FTOGJhWFJVTU1Yd2Vidy1rMXZJM3Z0bDRFTWtfNmZyZmFZYVFVYdIBfkFVX3lxTE9HNXl4cUxyTlc3TjZBZExWdWxrdEtraEphczRoeWlXSnd3RVJyX3g2RkFIUTNobHI1ODgxeXdZdUVsUERJel9PUnVKcTlPWlY3OXpObVItcmQxRVpJVk5IbDRUOWhGbzVYV3B2UGJNNFdaZ05UeTBNeXlBSEFBQQ?oc=5",
-      "description": "\"누적수익률 1100% 대박\"…이 변액보험 들길 잘했네 - 머니투데이 머니투데이",
-      "pub_date": "Sat, 19 Sep 2026 07:00:00 GMT",
-      "category": "변액보험 수익률",
-      "key": "1ff52a36977d2719",
-      "topic": "보험·상품"
-    },
-    {
-      "title": "‘코스피 6000 시대’ 미래에셋생명 변액보험 주목…투자·비과세 혜택 ‘쏠쏠’ - 한국금융경제신문",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5fN2FFYjNvLXB0aF96ZFo5a0toRlVCTDJfR0FjNmZXdi1YS3BST3BaaUx2ZDIxaGI4TXZycEh3UzdXNEt3dFdram9VSlJGd1U1cERuakR4RHhQYWg3TjIyN3FTaDdiUXFueWItdNIBcEFVX3lxTE0ydTVQZ1IwT2UtTkRJMV9ZTnRHTHUwRDRydHJUY2NHU2RuVHAtZVVoMEtzcnpBRHZKeG9vMWlNdWN4OHBXcHVwRDRqWjU0dTNHejdqUFpydUVxb09oT0wwQWtxZWpkQXhVLXBsTlBDRkM?oc=5",
-      "description": "‘코스피 6000 시대’ 미래에셋생명 변액보험 주목…투자·비과세 혜택 ‘쏠쏠’ 한국금융경제신문",
-      "pub_date": "Fri, 27 Feb 2026 08:00:00 GMT",
-      "category": "변액보험 수익률",
-      "key": "e3448ed4244bb6bd",
-      "topic": "보험·상품"
-    },
-    {
-      "title": "'수익률 잔치' 뒤의 그림자, 변액보험 불완전판매 '경고등' - ebn.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5MYkJWZE1aeTF1OEx5Q0tCbFNCd0ZVdUFZRDl6TGk5YkhrU0RJY09yUTdEQ3dHZmxxaXpwUlNSbWNhTlRQc3pCcFpHZ0xzN3IzZTdXSXVSMlppazdDMWFDZUU4RlBqV0xl?oc=5",
-      "description": "'수익률 잔치' 뒤의 그림자, 변액보험 불완전판매 '경고등' ebn.co.kr",
-      "pub_date": "Tue, 24 Mar 2026 07:00:00 GMT",
-      "category": "변액보험 수익률",
-      "key": "550b93e5165a34cb",
-      "topic": "보험·상품"
-    },
-    {
-      "title": "배당주 담고 비과세까지...미래에셋생명 변액보험 장기 전략 - 청년일보",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBjajAxbFlCOEhfWGlCOVQ1Mnp4UEhTTVNONjgxYzVObG9XRlJUbmlqalczTjRZOGp4U1lFWlR4bVkwUjZuLVQwc3hrQnZWOTM3dVFVTDBsV1N4djl0R1RtVTdROU9wOHc?oc=5",
-      "description": "배당주 담고 비과세까지...미래에셋생명 변액보험 장기 전략 청년일보",
-      "pub_date": "Tue, 18 Aug 2026 07:00:00 GMT",
-      "category": "변액보험 수익률",
-      "key": "ba21bd723b1113ae",
-      "topic": "보험·상품"
-    },
-    {
-      "title": "미래에셋생명, 변액보험 펀드 누적수익률 200% 돌파 - 데일리한국",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBDS1pDTHowWXVKSUNSNmNyMDRQbGRDaWo1aGJZNmc3MzFsUC1EdDZhc29qNWFoT29FaVR5a3pDUXM4YlNXWkRhdFFsY3FKNFpabHhpaEpxQWMxTEVEX1JSZVA0TVI0UGNKd1JYU3UyONIBc0FVX3lxTE9VblFlME1RZTJQeFZiNjQ2WmxUbVVVZ1JrVVZjU3h5U1JwMl81U05YcG96NnBmMW9VbWU2U1dVMHZvc1YyLVdjWXJfOTQtbGRQWnhsNktNYXZEVHJDN3dZc0RoQTBjbkhrWGwtOGlnZlRic1E?oc=5",
-      "description": "미래에셋생명, 변액보험 펀드 누적수익률 200% 돌파 데일리한국",
-      "pub_date": "Wed, 27 May 2026 07:00:00 GMT",
-      "category": "변액보험 수익률",
-      "key": "49e21160e6a71f2d",
-      "topic": "보험·상품"
-    },
-    {
-      "title": "증시 훈풍에 미래에셋생명 변액보험 관심...글로벌 투자·비과세 혜택 부각 - 위키리크스한국",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAxX2pxcmw5el9HWTBqSUtmN3R4MzJxVHRTUzdIazNMX0pkYnNpb3Yya0d4X2dYR0sxODREWW5QLU1temMtckZ3U0NrYVFrLU14MzZraEdTbEV4ZEtiMGF4NFg2Uk0tOTNOcldzczNYWUk?oc=5",
-      "description": "증시 훈풍에 미래에셋생명 변액보험 관심...글로벌 투자·비과세 혜택 부각 위키리크스한국",
-      "pub_date": "Thu, 25 Jun 2026 07:00:00 GMT",
-      "category": "변액보험 수익률",
-      "key": "0a0678961d51aad6",
-      "topic": "보험·상품"
-    },
-    {
-      "title": "미래에셋생명, 변액보험 글로벌 분산으로 '세금·수익' 동시 공략 - 블로터",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9aNV8xS1ZoMHNGVlRJZFdqN3BXOENBUTRfWEJ0NUNvX1lYSVdTWXFUakgyQVY0Y1JUd25nWHZwUE9Sd3lHU1BoVVJMQXVWUmJYdnVqcFRyRW9oYjZua243V3RRdER1b1ZC0gFsQVVfeXFMTzhhX3h0Z1Y0MUxhLWFaZmIxZDBTMThXd0VoXzRSbDlqMnN6bGtiUWZQeVVaQnlad2ZrYUIyVjgyMzMwVWk0R0ZFRzN5RlhGd3lNWEt4eEM4WWVvX25VQjVwS2lpUGVHZGhVVk1P?oc=5",
-      "description": "미래에셋생명, 변액보험 글로벌 분산으로 '세금·수익' 동시 공략 블로터",
-      "pub_date": "Fri, 27 Feb 2026 08:00:00 GMT",
-      "category": "변액보험 수익률",
-      "key": "8c81fa3c4e785107",
-      "topic": "보험·상품"
-    },
-    {
-      "title": "“AI가 골라 담았더니 연 20% 수익”…미래에셋생명 변액펀드 눈길 - edaily.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdF94dVJaRlA2R1pTQ1ZCd3Zoa0xHX0Z6OUQ2Z1NhcnpQTEliMWY4YWY3OWdUVVVIYjBYTUdrLUItNnNhM0Q4elNWaVVseVpsM0dhYmhPWjB1aDZWYkNUTGhaSGVETm5DdjYxWFZ1b0psaXJGSWxqZW9JUFVwemoxXw?oc=5",
-      "description": "“AI가 골라 담았더니 연 20% 수익”…미래에셋생명 변액펀드 눈길 edaily.co.kr",
-      "pub_date": "Thu, 22 Oct 2026 07:00:00 GMT",
-      "category": "변액보험 수익률",
-      "key": "860278e2390b3941",
-      "topic": "보험·상품"
-    },
-    {
-      "title": "미래에셋생명 “변액보험, 글로벌 분산투자·비과세 전략으로 주목” - 위키리크스한국",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA3dWVzUDEya3pMZTdsS1BrYzdOekFRaEM1UjZYM2NNdXVWaG1OTmlzVUJERkd6RjhPdVQwclIweVFNSFI3TDN3dGd5RXEtclpIaF9Nb0FSUUZ4MnF3SHRGcEw1MERDMHFkQWZoaEhYZG4?oc=5",
-      "description": "미래에셋생명 “변액보험, 글로벌 분산투자·비과세 전략으로 주목” 위키리크스한국",
-      "pub_date": "Fri, 20 Feb 2026 08:00:00 GMT",
-      "category": "변액보험 수익률",
-      "key": "59f89e18bcbb5b36",
-      "topic": "보험·상품"
-    },
-    {
-      "title": "증시 상승기에는 변액보험…미래에셋생명 글로벌 분산투자·절세 효과 - 아주경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE02SC1HdWpUanBqTWdScGRCVm5hLWx1UGxRWnFIRy1ZMGZGcDhsSDlwTmQyMnZINW41YThFYU9Ea1ViSzJHOVB1cUlrOTVOaWxreXYydkV0Ui1wd9IBWEFVX3lxTE90ZmZsWXBmTU1LREhyN19HZEtodTZialdBRm5peDgxRTNJVmFuOG9fNDhkNTZvODBSdVAydl9UcGgxbHlMQkpjQmRtVUZoWVZaTXhycG9pYVM?oc=5",
-      "description": "증시 상승기에는 변액보험…미래에셋생명 글로벌 분산투자·절세 효과 아주경제",
-      "pub_date": "Thu, 25 Jun 2026 07:00:00 GMT",
-      "category": "변액보험 수익률",
-      "key": "2c5ed483309b00a3",
-      "topic": "보험·상품"
-    },
-    {
-      "title": "미래에셋생명이 알려주는 변액보험 '팁' … 글로벌 분산투자와 비과세 - 디지털포스트",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4zR3p1RUMySGY2US1NcktyRm9vR1R3NkpYa3paMW5FelplTkZCaS1ZVEJyVkoxeUFHaXEtSnVocmVzRzlnOVgtVml4bGt6d1JrR2dYOHdRbXVXUmp2Vm44RUkxZzRLX0VBVG9V?oc=5",
-      "description": "미래에셋생명이 알려주는 변액보험 '팁' … 글로벌 분산투자와 비과세 디지털포스트",
-      "pub_date": "Wed, 25 Feb 2026 08:00:00 GMT",
-      "category": "변액보험 수익률",
-      "key": "d5f85d3b7db2f08e",
-      "topic": "보험·상품"
-    },
-    {
-      "title": "국내 변액펀드 가입자 변동성 커졌다…… 11월 변액보험 총자산·수익률 동반 하락 - 보험저널",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBBdHZJQzNHNmRlX1ozVWFKTF93bVg1cnpVTDFSb0t0QmI2Q19oVXNvZ25WR2VRZGw4MW14U01RSVVZNnByMEVSSlRBVWJfNm02RDNTcHNDZlVBUno4Z0ZxREp5S01adVA5MHUxaEJ5UQ?oc=5",
-      "description": "국내 변액펀드 가입자 변동성 커졌다…… 11월 변액보험 총자산·수익률 동반 하락 보험저널",
-      "pub_date": "Mon, 01 Dec 2025 08:00:00 GMT",
-      "category": "변액보험 수익률",
-      "key": "fb47375988ad0aa7",
-      "topic": "보험·상품"
-    },
-    {
-      "title": "[이서영의 재테크루] 배당보다 낫다는 변액보험?…10년 납입 여력부터 따져야 - 아주경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ZMUxoLTVBTEJsSlpXVEFzVUwwVjRmcFpHbVQzRjNNTF8zM3J0bUpxcDgyT1BVamRGVVAteGQtWWxQT3J5NzlELVZ5ckdRMG1ITjByTlZ4azluZ9IBWEFVX3lxTFA0VHdzZThlYWtQQWp0OGJ2Q2p2Zjk1SVdXVWNsYTYzWk9fcGdrcGlRWWdtWnBZOXFzZmtGRVdSZ3hUbXFxNnA4VFBLWWRlN3JIWGlubkhoNmY?oc=5",
-      "description": "[이서영의 재테크루] 배당보다 낫다는 변액보험?…10년 납입 여력부터 따져야 아주경제",
-      "pub_date": "Thu, 20 Aug 2026 07:00:00 GMT",
-      "category": "변액보험 수익률",
-      "key": "0289d3a8466f592b",
-      "topic": "보험·상품"
-    },
-    {
-      "title": "변액보험, ‘불장’에 시장성 커져…신계약 3조원 몰렸다 - 보험매일",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ReWQxaGJCMkFybDVZczhvdktoUkVUeG1vR29sbGd3U0NKU2hkWUtWWGpYdTI2dkVGYlJ4Vkk2dWpXNlNycmF3aTZnRDBWRnZWX241TU5tWGpIRGFzYmQ0QjNENGVSREVW?oc=5",
-      "description": "변액보험, ‘불장’에 시장성 커져…신계약 3조원 몰렸다 보험매일",
-      "pub_date": "Wed, 18 Mar 2026 07:00:00 GMT",
-      "category": "변액보험 수익률",
-      "key": "402b038a4c13c1a9",
-      "topic": "보험·상품"
-    },
-    {
-      "title": "원격의료·반려로봇·피지컬 AI와 복지기술의 현재 - 에이블뉴스",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBYN3hHMlRCVGU4cnlTTFlpZk1pLVZLY0lrdDRqdFpERTBCUU5FZXRUenpaVmFUZHpEQWhIU2RBSmxkY1dxUDFhQlZ5Z1A2d2R1RUMyYWtRQTJybHY5Q0pNNUFlTXFRWGx2MjB3cVBB0gFyQVVfeXFMTXRsbm9pczRfZXBEUnN4VUx1WDdlbmIwYXYwclF1Ymx5NmhWSmFmVUl6bDhnVnhIZWhjbVNrdTRvVk1nZVluLTRzcVp0VGVkZnVRYWtiMGhpN1huYkZLNUJWM2RHMVNDZ2p5a2VaOERhaEZn?oc=5",
-      "description": "원격의료·반려로봇·피지컬 AI와 복지기술의 현재 에이블뉴스",
-      "pub_date": "Fri, 20 Nov 2026 08:34:00 GMT",
-      "category": "AI 의료기술",
-      "key": "4dc5a3cefd2402a9",
-      "topic": "의료·건강"
-    },
-    {
-      "title": "﻿국제성모병원, 카자흐스탄 원격의료센터 개소 - 데일리메디",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1SSDl0X0J1NlhlV1RjcnhEOHdud1J0UlVNWDJDYlVyLTZNaUp4MGQwbjUtRjRsd2Rycllnbmo4TXhIQVRGOGZTZjlSU29NSWhrcG9KaTlIUnVnT21JMmJ5RkN2SngzelF6?oc=5",
-      "description": "﻿국제성모병원, 카자흐스탄 원격의료센터 개소 데일리메디",
-      "pub_date": "Fri, 16 Oct 2026 07:00:00 GMT",
-      "category": "AI 의료기술",
-      "key": "12a3793cdf6b49ca",
-      "topic": "의료·건강"
-    },
-    {
-      "title": "퍼슬리, 아시아원격의료학회서 병원기록 연동 AI 상담 사례 발표 - 스타트업엔(StartupN)",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE04cHctMG9rVVJvdmJFbWs2Zzl1QVBWNXlVbS1DdXlIckdIX29mRmQ2Z2gtY012NWRTOFN6SWlJb2Z6aHJGVGFObk5SbWZMZWtxdXpVaF9rZnVWLWtxeHpzZ3BNZDVUclUx0gFsQVVfeXFMTzRVNW9lVGZjYzFLZDBKMUJheEp5dEY5TnlMb0tLU1lKQ0ZCVUN3OW5DUkpNRVd2Zi1pZl9pMXNKZV9VQ2J1cTZPZW5Vc0FFSDVZMTlBY0QxZmNSbF9XbTlQdlJHUVB4b1pQNzZ2?oc=5",
-      "description": "퍼슬리, 아시아원격의료학회서 병원기록 연동 AI 상담 사례 발표 스타트업엔(StartupN)",
-      "pub_date": "Thu, 22 Oct 2026 07:00:00 GMT",
-      "category": "AI 의료기술",
-      "key": "6224c65e7d532139",
-      "topic": "의료·건강"
-    },
-    {
-      "title": "비대면 의료 시대 성큼…뷰웍스·차바이오텍 등 U-Healthcare株 '휘파람' - 핀포인트뉴스",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBSd21YNy1SUV9XYWNENW4yWm9ta3o4Ui04cDN4OGhkbkdnMUlSczF2RmtYWFFvaTVlOHByaHp6SUxTWEVxNGR6WFNmWktSZEpxUElyRXRsZENTUEFxUTQ2c0dsZVlVdXJYaER0SzRZY2N0MUHSAXdBVV95cUxOVVk5ZzEtZ2xJakNNVEtmTjgtRkNaclhsc09pZWcyMGpxTlluTHJjN0gyVnd3NnNvdTE2Z1p5TEw3R1pkVTlpakcwYU1WMGZwMFJXeGVSWDZpUWxTQ3pWalgyMHlJaDZublpRZDRZbzZudXF2YmduUQ?oc=5",
-      "description": "비대면 의료 시대 성큼…뷰웍스·차바이오텍 등 U-Healthcare株 '휘파람' 핀포인트뉴스",
-      "pub_date": "Sat, 14 Nov 2026 09:37:37 GMT",
-      "category": "AI 의료기술",
-      "key": "023088026b6e8062",
-      "topic": "의료·건강"
-    },
-    {
-      "title": "KHF 2026 개막…병원·헬스테크 산업, AI·로봇·디지털 전환 해법 찾는다 - 산업종합저널",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9IdmNZdjJELU9kMDIzNE5fLXdmOFV2RlRnbmZ0dnlPMFN2bHE3QWRhZlJGTERMa1ZsS19CMUU1LVdVMjJmZ2pxNXFDT1Z1bGp0cVJJ?oc=5",
-      "description": "KHF 2026 개막…병원·헬스테크 산업, AI·로봇·디지털 전환 해법 찾는다 산업종합저널",
-      "pub_date": "Wed, 19 Aug 2026 07:00:00 GMT",
-      "category": "AI 의료기술",
-      "key": "36d76e579e5671f7",
-      "topic": "의료·건강"
-    },
-    {
-      "title": "국제성모병원, 카자흐스탄 원격의료센터 개소…어린이병원 확대 추진 - 간호사신문",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1YM3VJWWd5d010OHFqLVRHdXZVQ3BPUGZfUE1henFaSjlpSjVVejJMN3ZMTS1Tb0FUcjA5WURsenV6S1NrUUhYZl8xcFVZN2Faa2V5WkdMWG9obm5GTF9hajB4MnFqbTNQTUlOUVln?oc=5",
-      "description": "국제성모병원, 카자흐스탄 원격의료센터 개소…어린이병원 확대 추진 간호사신문",
-      "pub_date": "Thu, 15 Oct 2026 07:00:00 GMT",
-      "category": "AI 의료기술",
-      "key": "c7139e28c1b15be3",
-      "topic": "의료·건강"
-    },
-    {
-      "title": "[DH times K-의료AI·비대면진료]“카메라로 혈압·심박수 읽고 AI가 문진한다”…시선AI, 일본서 ‘SEEU Health’ 공개 - dhtimes.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0ta2hIZ2NqNFFrdWVPQmZ5bXdtbUpmU28weDloWWFoblVxeEhsMW55M3Jkb3cxYm1LRWcyTnQ3RHo4VE8xRHJ2Nl8wUGtwMWlwemZ1U2tFRUVkTXBIcUVmZ1ZKZDJldEdXV3c?oc=5",
-      "description": "[DH times K-의료AI·비대면진료]“카메라로 혈압·심박수 읽고 AI가 문진한다”…시선AI, 일본서 ‘SEEU Health’ 공개 dhtimes.co.kr",
-      "pub_date": "Fri, 23 Oct 2026 07:00:00 GMT",
-      "category": "AI 의료기술",
-      "key": "8190cb31c861d04e",
-      "topic": "의료·건강"
-    },
-    {
-      "title": "토마토시스템·소프트센 주가 함박웃음…원격의료 테마 뭉칫돈 유입 - 핀포인트뉴스",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1lazZTN2hyRGpnOTRYNVQ5Mkttem5rSjdPWnFtV1h3UHBIY0ZQdVA5LTZ3UVpJSkV4SDBFdDdoMVVZVHVRaGlOTk9CUkgxTnQ2dkpzY0ZZRU5USGNtbXlXeThoSHRVeEJUZlhaVjVnVXRIQlXSAXdBVV95cUxQRGM2QnYxWUEwck54OWU0MEMySF9NanA0VFlDWGEyNGR4blFNUlR4MnZkMU5PMl9mNnpYeUFaZlh3QUtQQVU5SWdvNC1ZUDhqQTdoS0NjSG9Qd3BlcV9aSEhxMkhMdG1sNnpXWFB6eFJwcnJKalhWQQ?oc=5",
-      "description": "토마토시스템·소프트센 주가 함박웃음…원격의료 테마 뭉칫돈 유입 핀포인트뉴스",
-      "pub_date": "Tue, 03 Nov 2026 07:12:23 GMT",
-      "category": "AI 의료기술",
-      "key": "23fa16ffd97c0630",
-      "topic": "의료·건강"
-    },
-    {
-      "title": "해외 원격의료 시장 커지자…토마토시스템·제이엘케이 주목 - 핀포인트뉴스",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1fdFlCaUZiZzljVjRXZWE0cWJIM2pmOTRNdlVkbHBZSk9ndW1FbVF3MnRUMjBsLVE4b2t1ZlZ6U0FQelBfSXp4VHQtX2lWLW00YU5OZDBGN254REVubUZTMlVONmtMRENERXNwazdfaUJlZE3SAXdBVV95cUxOaWNzTng0V1dwVE1TeGFvdFhyckl3VU5KZTZ0Y2s4VW9seFVzY2cwNTZVNG40WlJhdHFGNzBReXJ4bTcxeGVOWGEySEE1eW82bUU1RFJ6Z21jYml1Y2V0RHN5U3NpZWpIYWpwRVNzeGxScDZlUEplcw?oc=5",
-      "description": "해외 원격의료 시장 커지자…토마토시스템·제이엘케이 주목 핀포인트뉴스",
-      "pub_date": "Mon, 28 Sep 2026 07:00:00 GMT",
-      "category": "AI 의료기술",
-      "key": "1f17fc0a37c40f67",
-      "topic": "의료·건강"
-    },
-    {
-      "title": "서류 없는 실손보험 청구 시대…레몬헬스케어, 모바일 헬스케어 선도 - 핀포인트뉴스",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9haUlzSU5jVWN1aC14WTVSQkFKQ0l0ZzNkZ3VXMkdIQ0RucFFYNG5KUFhLLU5ENWRfVmJDZFRESUZGSlBEd2lKRU9wT2pkU3B3MEFvRG1wbmh6czYwa21pc0hxcWVQMkIzUFU5ek1Hc3F1ZnPSAXdBVV95cUxQQmtWWmxlVU9NMVR0RnNNc0x6NGdXcUpxeEtzTXZRYjlzVkVvbTJBd2llYWhYTUtsT013dGJadndwN1Z0VWlYb0pnLUxFWVdxcnl3cF9Wc2pBcnNzanpnUmJGQTl6NXRhSW5uYWpGZEljVzFpd20wMA?oc=5",
-      "description": "서류 없는 실손보험 청구 시대…레몬헬스케어, 모바일 헬스케어 선도 핀포인트뉴스",
-      "pub_date": "Mon, 20 Jul 2026 07:00:00 GMT",
-      "category": "AI 의료기술",
-      "key": "028c5b14de897667",
-      "topic": "의료·건강"
-    },
-    {
-      "title": "2026년 국제의료기기전시회(KIMES) 3월19일 코엑스 개최 - 한국의약통신",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1aVlhOSlc0T2o3UHo5dHQtUEFOVmpyU0tFR0hXakRuV1VkYWRNS3MzcEFId1dTWkNiVXBjNEJyeE1IRTNnX1pORTR4dWJaSWQ5SDFGRi02V05CalBNTVEwc2JvNjNZTUdnUTVj?oc=5",
-      "description": "2026년 국제의료기기전시회(KIMES) 3월19일 코엑스 개최 한국의약통신",
-      "pub_date": "Mon, 26 Jan 2026 08:00:00 GMT",
-      "category": "AI 의료기술",
-      "key": "d5a154aeb27b89ce",
-      "topic": "의료·건강"
-    },
-    {
-      "title": "러시아 디지털 헬스케어 ‘폭발적 성장’… AI·원격의료가 시장을 재편 - 금융경제플러스",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5UVFpWRF9xSFh3aXB2LXVVZXJ0WDl4UG9zLTdzclZiWF9iNnQ0bk54cGRCMXk4NGd6aTMwbFdhbk14OTdCcFFxbEZSLTB0ckdPS0s3dTY2VlM3THA2TzRCRkxad0FkTWJPSDNndA?oc=5",
-      "description": "러시아 디지털 헬스케어 ‘폭발적 성장’… AI·원격의료가 시장을 재편 금융경제플러스",
-      "pub_date": "Wed, 10 Dec 2025 08:00:00 GMT",
-      "category": "AI 의료기술",
-      "key": "1daf2080f552b4f6",
-      "topic": "의료·건강"
-    },
-    {
-      "title": "서울대기술지주, 소아 비대면 진료 스타트업 ‘다다닥헬스케어’ 투자… AI 원격의료 시장 판도 흔들까 - 스타트업엔(StartupN)",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8wNjF0Z015U2xpNDBIQ1BTTnViQWtzWnFSeF9OQU5qcmJ2U1YxMTNMM201RW1VOXBubjlqTUlDeGIxaXNId1VfcWlXQXFvcW1GblNMWG5jUm9PZUNHdVFTRi0tYVVGRVZv0gFsQVVfeXFMUGt6LWRTaDg0a0RDWHZvVzZnNWtJcjREcnJxYlc4MHZ6LVZ3MzR5VGY2bjh6empBeVE1SUMxLVp5dDNydVpDVkh1bjdVTklPczRldnlLZjJMR2tjSFVQX1FNc29WZXlJM1h4Q19B?oc=5",
-      "description": "서울대기술지주, 소아 비대면 진료 스타트업 ‘다다닥헬스케어’ 투자… AI 원격의료 시장 판도 흔들까 스타트업엔(StartupN)",
-      "pub_date": "Tue, 25 Nov 2025 08:00:00 GMT",
-      "category": "AI 의료기술",
-      "key": "6d25e7f911ee5d27",
-      "topic": "의료·건강"
-    },
-    {
-      "title": "스마트 헬스케어 시장 규모, 점유율, 성장률, 전망(2034년) - Straits Research",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBKNktjLW5rcERSOTdMYldPczAxeDdkcWx3amh2YlptOHdPWVNCSUxWbElISEhqRjAwam9pclo3bnotQnBQcTlyWjNMSmRGTkdrTmtoN0ZBUjZyQmdjYmstQUFCRzBxVnU5bDBIWGV3?oc=5",
-      "description": "스마트 헬스케어 시장 규모, 점유율, 성장률, 전망(2034년) Straits Research",
-      "pub_date": "Thu, 26 Feb 2026 16:49:27 GMT",
-      "category": "AI 의료기술",
-      "key": "6990466d66ce0b7f",
-      "topic": "의료·건강"
-    },
-    {
-      "title": "[AI 활용서4_헬스케어] 생성형 AI가 바꾸는 헬스케어의 10가지 혁신 - 아웃소싱타임스",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5SNFNGUWE1MWhVQUI1OEZ6YjAwb3BFaDFPZFFyX2ZaSExTVTVXSTVlQ3pMLWJBdzZNUTRvUENvOHlKRllURjJKTmQ5VVRlVWEzSWR4WG5IVkd3TTR3cl9odEdfLXc4SE5tcGlMbmZaTEcwdw?oc=5",
-      "description": "[AI 활용서4_헬스케어] 생성형 AI가 바꾸는 헬스케어의 10가지 혁신 아웃소싱타임스",
-      "pub_date": "Wed, 17 Sep 2025 07:00:00 GMT",
-      "category": "AI 의료기술",
-      "key": "7ab0e08f804a44d9",
-      "topic": "의료·건강"
-    },
-    {
-      "title": "美 금리 인하 가속에도…‘집값’에 발목 잡힌 한은 - 부산일보",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBoRGoxd05tUTV2MEgyNDIydm5YUEFST3p2Yk1iMFF6bk0zQ1c1bjYxTVc4d2xkUkh0MkxUOW4zNnF5TFhwYmk5dXFQSXlGQlZzd1E4eHd2bGNzYlp4cEhldHF4TmlBT2tOeWVZemxqWXRlblUt?oc=5",
-      "description": "美 금리 인하 가속에도…‘집값’에 발목 잡힌 한은 부산일보",
-      "pub_date": "Thu, 30 Oct 2025 07:00:00 GMT",
-      "category": "기준금리·통화정책",
-      "key": "ee5bc1430639a0fb",
-      "topic": "경제·환율·금리"
-    },
-    {
-      "title": "[다음주 환율전망] 다시 1350원 넘보는 환율…중동發 유가 쇼크에 FOMC까지 '변동성 장세' - 굿모닝경제",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5nM0dpS1dlZVFkTXlMQUVmMm1hZEdieUo0TUhiQVZTU1JJRUV5c1VMeTdQaENQSU9jWVpQWXBWZmxkM2M0TXdaWHBscXFTTzBoVEFDb3dDY1lsLTNCOXVFTmdOV2RSNlZFSk5yRw?oc=5",
-      "description": "[다음주 환율전망] 다시 1350원 넘보는 환율…중동發 유가 쇼크에 FOMC까지 '변동성 장세' 굿모닝경제",
-      "pub_date": "Sun, 13 Sep 2026 07:00:00 GMT",
+      "title": "수출 1조달러에도 연말 환율 1380원 전망…美 긴축·역송금 변수 - nbn 시사경제",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE53Y09KVVU4S25PVVljTVdXa1liSzJUbHVmNXdiUjYzUnZhNm9NRDlGcUJYT25YWk9OLTZJeXNtQ29udk8yZm9Cc1Y2MTlBVkUzTU5iakx1RG90cUFWOENXQWFSUHNuTXFQT1E?oc=5",
+      "description": "수출 1조달러에도 연말 환율 1380원 전망…美 긴축·역송금 변수 nbn 시사경제",
+      "pub_date": "Mon, 23 Nov 2026 02:09:46 GMT",
       "category": "환율 전망",
-      "key": "81e35774a94960b4",
+      "key": "95e6acd733004e35",
       "topic": "경제·환율·금리"
     },
     {
-      "title": "[다음주 환율전망] 달러 약세에 1320원대 내려온 환율…다음 주 추가 하락할까 - 굿모닝경제",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE02Z0xtczhxakpwb0d5b0toZGNxcHNQclZ1cFB1Yi1LNGYxUlZqdlU4S2dCcGZ4MjA0Y1N4aHhpZ0k5UGFYTFBBRnR5MVhCTnFkd3R2dVA5MTBSWG80QTFMSWJCcjc3WTlWem9Vbw?oc=5",
-      "description": "[다음주 환율전망] 달러 약세에 1320원대 내려온 환율…다음 주 추가 하락할까 굿모닝경제",
-      "pub_date": "Sat, 24 Oct 2026 07:00:00 GMT",
+      "title": "iM증권 \"주식시장 불안에 달러 강세 지속…이번주 환율 1330~1370원 전망\" - 이투데이",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE56SkZmb0dnQ296U25Cc0lQeEdlNlMyejg4NDBoUVZhYUs5SHFzOW1fZldqWjc4RDFMcUtVeEdtWm1LYy15TlhDY0RZYXRpQ2RWb19KVg?oc=5",
+      "description": "iM증권 \"주식시장 불안에 달러 강세 지속…이번주 환율 1330~1370원 전망\" 이투데이",
+      "pub_date": "Sun, 22 Nov 2026 22:36:00 GMT",
       "category": "환율 전망",
-      "key": "aa16ba45d9a3d0b0",
+      "key": "196aeebfc4fb010d",
       "topic": "경제·환율·금리"
     },
     {
-      "title": "엔비디아 14% 폭락이 끝이 아니다…美 증시 7일째 하락, ‘공포지수’ 35.89까지 치솟았다 - 데일리25",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBlQkktbjVRdUwtWEMxVTZRR1Q2d2JxTWFhcm8yRXAxXzV5eVBwMGpEbmdsNnhBLVVmYmhzSC1obEtRcXgxaEZENDljdTJPWEg2MVZwclVIOGN1ZUk4RVdvZmptSkNHbFM4a2pHbg?oc=5",
-      "description": "엔비디아 14% 폭락이 끝이 아니다…美 증시 7일째 하락, ‘공포지수’ 35.89까지 치솟았다 데일리25",
-      "pub_date": "Sun, 22 Nov 2026 17:04:16 GMT",
+      "title": "[주간환율전망] 야간 1346원까지 뛰었다…美 물가 지표에 달렸다 - 자본시장뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBqejI1U3hKVGhRaW94Q3lDeks2OHg0REJzUjJCRWdybWJmTEpTMDBoZjRHQmlPb1g2WDhfX2lqMy1kVUEtTlRpSEtDbHFNNHhDalEzNU5zeXVIbjFObXFsdG5ua2l4SkE?oc=5",
+      "description": "[주간환율전망] 야간 1346원까지 뛰었다…美 물가 지표에 달렸다 자본시장뉴스",
+      "pub_date": "Sun, 22 Nov 2026 22:30:00 GMT",
+      "category": "환율 전망",
+      "key": "9aa484a38a246f20",
+      "topic": "경제·환율·금리"
+    },
+    {
+      "title": "뉴욕증시, 美·中 관세전쟁 격화로 이틀 만 6.6조 달러 증발...트럼프 “버텨라” - 더퍼블릭",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5UbURkcTBTQ3licXJORDdsaVBkeTh0YjZObkVaMGFMRm5XdzRwN1BYMFNjTGtBVHNLRzRZQWtnNVowN2pHb0Z6ZDAydUhQQ0JxUW9TU1h4N1B2VFdrMTRfMG5mUXA2UC1mT2FN0gFvQVVfeXFMTlQwdU01N1RKc0JCamRWelk0MDN4ZWc1NGl0MWNqaWhGc2EtZnpUYnNyNDV1ZWRpdjlScTQwX3J6UXhiWE0yVHgxTS1RTGhrMFR5QThpMEpxakt4Y2lqNnBKZGhKWWcyNXRNc0ZPTGpr?oc=5",
+      "description": "뉴욕증시, 美·中 관세전쟁 격화로 이틀 만 6.6조 달러 증발...트럼프 “버텨라” 더퍼블릭",
+      "pub_date": "Mon, 07 Apr 2025 07:00:00 GMT",
+      "category": "미국 경제·정책",
+      "key": "1f1c46d4687a12a0",
+      "topic": "경제·환율·금리"
+    },
+    {
+      "title": "美 AI주 투매 쇼크…글로벌 시장 덮친 '블랙먼데이' 공포[뉴스새벽배송] - 이데일리",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWVRMRm10MVRnTzVLQXhsMUU3TGpuWWZicDVUUkNPS2w2VmUxWWRJbkJzWFRtNHdzU3FCYnFRRkhhbzFEX0lrS2pEbGxrZ18yZ2w1VFFUbUQzZTYyMi16d3VJemtETHZVVFJvMTYwMHpkT2FvVlhEeExHOFBBd2VreA?oc=5",
+      "description": "美 AI주 투매 쇼크…글로벌 시장 덮친 '블랙먼데이' 공포[뉴스새벽배송] 이데일리",
+      "pub_date": "Sun, 22 Nov 2026 22:58:39 GMT",
       "category": "글로벌 시장",
-      "key": "e36e5f08d38dd220",
+      "key": "03395bccbe7082ac",
       "topic": "경제·환율·금리"
     }
   ]
