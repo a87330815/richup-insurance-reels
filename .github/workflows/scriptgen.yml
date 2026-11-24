@@ -1,6 +1,12 @@
 name: 대본 생성
 
 on:
+  push:
+    branches: ["main"]
+    paths:
+      - "scriptgen.py"
+      - "news_collect.py"
+      - ".github/workflows/scriptgen.yml"
   workflow_run:
     # 이름이 정확히 같아야 걸린다. 수집 워크플로의 name은 "collect"이고
     # 여기에 "수집"이라고 적혀 있어서 체인이 한 번도 이어지지 않았다.
