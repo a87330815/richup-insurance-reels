@@ -554,8 +554,9 @@ TEMPLATES = {
     },
     "오해정정": {
         "cover_pattern": [
-            lambda a: [f"{hook_fit(a.get('hook',''))}", "<y>다 틀렸습니다</y>"],
-            lambda a: ["이거 반대로", "<y>알고 계셨죠</y>"],
+            lambda a: [f"{hook_fit(a.get('hook',''))}", "<y>현장 체크</y>"],
+            lambda a: ["보험인이라면", "<y>꼭 확인</y>"],
+            lambda a: ["오늘의", "<y>보험 팩트체크</y>"],
         ],
         "narration_pattern": "{summary}. 제목만 보고 판단하기보다 현장에 미칠 영향을 확인해 보겠습니다.",
         "scene_count": 6,
@@ -989,24 +990,70 @@ def template_generate(angle):
 
     # 데이터 기반 장면 (scene_count - 2: 인트로 1장 + CTA 1장 제외)
     items = angle.get("items", [])
-    max_data_scenes = tpl["scene_count"] - 2
-    for i, item in enumerate(items[:max_data_scenes]):
-        if isinstance(item, dict):
-            narration, subtitle = _format_item_narration(item, idx=i, total=len(items), angle_data=angle.get("data"))
-            img_kw = _scene_image_keyword_item(item)
-        else:
-            narration = str(item)
-            subtitle = narration[:30]
-            img_kw = "부동산 아파트"
-        scenes.append({
-            "image": None,
-            "photo_query": img_kw,
-            "narration": narration,
-            "subtitle": subtitle,
-        })
+    is_insurance_news = bool(items and isinstance(items[0], dict)
+                             and items[0].get("source") == "insurance_news")
+
+    if is_insurance_news:
+        item = items[0]
+        title = item.get("title", angle.get("summary", "보험업계 주요 변화"))
+        topic = item.get("topic", "")
+        category = item.get("category", "보험업계 뉴스")
+
+        impact = {
+            "GA·업계": "GA와 설계사의 영업 환경, 수수료, 준법 기준에 어떤 변화가 생기는지 살펴봐야 합니다.",
+            "보험상식·팩트체크": "고객에게 설명할 때 오해하기 쉬운 부분과 실제 약관 기준을 구분해야 합니다.",
+            "보상·의료": "치료비 숫자만 강조하지 말고 급여 여부, 지급 조건, 면책 사항을 함께 확인해야 합니다.",
+            "영업·리쿠르팅": "현장 상담과 조직 운영에 적용할 수 있는 핵심 포인트를 정리해 보겠습니다.",
+            "사람·성장": "성과보다 과정과 고객 신뢰를 만든 행동을 중심으로 살펴보겠습니다.",
+        }.get(topic, "보험 현장과 고객 상담에 미칠 영향을 확인해 보겠습니다.")
+
+        check = {
+            "GA·업계": "공식 발표일, 시행일, 적용 대상, 소속 GA의 내부 지침을 순서대로 확인하세요.",
+            "보험상식·팩트체크": "상품명보다 보장 범위, 보험기간, 갱신 여부, 해지환급금 조건을 먼저 확인하세요.",
+            "보상·의료": "진단명만으로 판단하지 말고 약관의 지급 사유와 필요한 의무기록을 대조하세요.",
+            "영업·리쿠르팅": "그대로 따라 하기보다 우리 지점의 고객군과 활동 단계에 맞게 적용하세요.",
+            "사람·성장": "고객 관리, 꾸준한 활동, 소개가 이어진 구체적인 행동을 찾아보세요.",
+        }.get(topic, "원문과 공식 자료를 확인한 뒤 고객에게 안내하세요.")
+
+        scenes.extend([
+            {
+                "image": None,
+                "photo_query": "insurance office meeting documents",
+                "narration": impact,
+                "subtitle": short_subtitle(f"{category} · 현장 영향"),
+            },
+            {
+                "image": None,
+                "photo_query": "insurance contract checklist desk",
+                "narration": check,
+                "subtitle": "설계사가 확인할 핵심",
+            },
+            {
+                "image": None,
+                "photo_query": "financial regulator report documents",
+                "narration": "기사 제목만으로 단정하지 않습니다. 공식 자료와 약관, 회사 지침을 확인한 뒤 상담에 활용하세요.",
+                "subtitle": "공식 자료 · 약관 확인",
+            },
+        ])
+    else:
+        max_data_scenes = tpl["scene_count"] - 2
+        for i, item in enumerate(items[:max_data_scenes]):
+            if isinstance(item, dict):
+                narration, subtitle = _format_item_narration(item, idx=i, total=len(items), angle_data=angle.get("data"))
+                img_kw = _scene_image_keyword_item(item)
+            else:
+                narration = str(item)
+                subtitle = narration[:30]
+                img_kw = "real estate apartment"
+            scenes.append({
+                "image": None,
+                "photo_query": img_kw,
+                "narration": narration,
+                "subtitle": subtitle,
+            })
 
     # 맥락 요약 장면 — 전체 데이터를 한 문장으로 분석
-    context_narration = _build_context_scene(angle)
+    context_narration = None if is_insurance_news else _build_context_scene(angle)
     if context_narration:
         scenes.append({
             "image": None,
@@ -1076,14 +1123,14 @@ LLM_SYSTEM = """당신은 리치업지점의 보험 전문 콘텐츠 작가입�
 최우선 문체는 차분하고 신뢰감 있는 존댓말입니다. 반말·명령조·공포 조장·과장 표현을 쓰지 마세요.
 확인되지 않은 상품 수치나 치료비를 단정하지 말고, 출처와 적용 조건을 함께 확인하도록 안내하세요.
 당신은 보험 설계사와 예비 설계사를 위한 보험업계 뉴스 릴스 전문 작가입니다.
-일반 소비자용 가입 권유가 아니라, 설계사가 업계 흐름과 영업 환경 변화를 이해하도록 대본을 씁니다.
+GA·보험설계사에게 필요한 업계정보, 보험상식, 팩트체크, 보상·의료, 영업·리쿠르팅 자료를 만듭니다.
 수집된 보험 뉴스의 제목·요약·출처를 바탕으로 사실을 재구성하되, 기사 문장을 복사하지 않습니다.
 
 ## 타깃과 관점
 - 시청자는 보험 설계사, GA 종사자, 예비 설계사입니다.
 - 매번 "이 뉴스가 설계사에게 왜 중요한가"를 설명해야 합니다.
-- 일반 소비자용 가입 권유·보장 분석·보험금 청구 내용은 쓰지 않습니다.
-- 업계 변화 → 현장 영향 → 설계사가 확인할 점 순서로 씁니다.
+- GA 현장정보·보험상식·팩트체크·보상사례·의료 변화·영업·리쿠르팅을 균형 있게 다룹니다.
+- 핵심 사실 → 왜 중요한가 → 현장 영향 → 확인할 점 → 공식자료 안내 순서로 씁니다.
 - 설계사들의 주력 상품군: 변액연금, 변액종신, 달러연금, 달러종신
 - 환율·금리·글로벌 경제·미국 선거 등은 이 상품군 판매에 직결되므로 적극 다룹니다.
 - "이 뉴스를 고객 상담에 어떻게 활용할 수 있는가"까지 연결하면 좋습니다.
