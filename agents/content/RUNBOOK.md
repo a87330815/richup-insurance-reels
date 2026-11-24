@@ -37,8 +37,9 @@ WebSearch 로 `sources_priority` 순서대로 찾습니다. 언론 기사는 사
 1. `python3 -m contentagent --account $ACCOUNT remote <폴더>/script.json` → 출력된 JSON 그대로
    GitHub 도구 `actions_run_trigger`(method `run_workflow`, owner `a87330815`, repo `richup-insurance-reels`,
    workflow_id `contentagent_render.yml`, ref `main`, inputs 는 출력의 inputs)로 실행합니다.
-2. `python3 -m contentagent --account $ACCOUNT fetch <폴더> --wait 900` (최대 15분, 보통 3~5분).
-   백그라운드 실행이 필요하면 백그라운드로 돌리고 끝날 때까지 기다립니다.
+2. `python3 -m contentagent --account $ACCOUNT fetch <폴더> --wait 540` (Bash timeout 600000 으로, 보통 3~5분).
+   결과가 아직 없다고 나오면 한 번 더 실행합니다(합계 최대 약 18분). 같은 폴더 이름을 다시 렌더할 때는
+   이전 결과가 먼저 보일 수 있으니 status.json 의 run_id 가 바뀌었는지 확인합니다.
    성공하면 `cards/`, `reel.mp4`, `caption.txt` 가 사진·음성 들어간 본으로 바뀝니다.
 3. 실패하거나 15분 안에 안 오면 5번의 예비본을 납품하고, 업무일지에 `음성 실패: <status.json 의 notes>` 를 적습니다.
 대본의 `photo`(영문 검색어)가 비어 있으면 계정 파일 `photo_fallback` 을 씁니다. 사진 출처는 `photos/credits.json`.
