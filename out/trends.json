@@ -1,75 +1,95 @@
 {
-  "collected_at": "2026-11-23T19:35:09.915343+00:00",
+  "collected_at": "2026-11-24T01:32:16.183055+00:00",
   "items": [
     {
-      "keyword": "탁구",
-      "traffic": "200+",
-      "news_title": "강릉아레나서 제15회 GN 전국장애인 탁구대회 막 내려…전국 17개 시도 300여 명 참가",
+      "keyword": "세인트루이스 시티 sc 대 엘에이 fc",
+      "traffic": "20000+",
+      "news_title": "City SC opens MLS playoffs in better spot than in previous appearance, in inaugural season",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "33328887eb332037",
-      "collected_at": "2026-11-23T19:35:09.914779+00:00"
+      "key": "9da5cf5969c5221e",
+      "collected_at": "2026-11-24T01:32:16.182566+00:00"
     },
     {
-      "keyword": "노태문",
+      "keyword": "우지원",
       "traffic": "200+",
-      "news_title": "삼성전자 사장단 인사 – 삼성전자 뉴스룸",
+      "news_title": "우지원·우서윤, ‘아침마당’ 생방송 중 볼뽀뽀…미스코리아 진 축하",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "03e00fe2ccaf653c",
-      "collected_at": "2026-11-23T19:35:09.914779+00:00"
+      "key": "355eee2920a1a34a",
+      "collected_at": "2026-11-24T01:32:16.182566+00:00"
     },
     {
-      "keyword": "테슬라 주가",
-      "traffic": "200+",
-      "news_title": "테슬라 주가, 오늘 급등한 이유는?",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "경제·환율·금리",
-      "key": "1ba306facd3cd694",
-      "collected_at": "2026-11-23T19:35:09.914779+00:00"
-    },
-    {
-      "keyword": "샌디스크 주가",
+      "keyword": "kospi",
       "traffic": "100+",
-      "news_title": "샌디스크 주가, 오늘 왜 급등하나?",
+      "news_title": "Floor Leader Chung Chi-sik to enter the People&apos;s Power Floor Countermeasures CommitteeFloor leader C..",
       "snippet": "",
       "source_type": "google_trends",
-      "category": "경제·환율·금리",
-      "key": "dfa4c48b59243165",
-      "collected_at": "2026-11-23T19:35:09.914779+00:00"
+      "category": "당일 화제 이슈",
+      "key": "8dffaddb371e3a47",
+      "collected_at": "2026-11-24T01:32:16.182566+00:00"
     },
     {
-      "keyword": "to me my x men",
+      "keyword": "필라데피아 대 포틀랜드",
       "traffic": "500+",
-      "news_title": "Watch the Final ‘Avengers: Doomsday’ Trailer",
+      "news_title": "Live updates: Sixers&apos; knotted up with Trail Blazers at halftime",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "4999edfded584903",
-      "collected_at": "2026-11-23T19:35:09.914779+00:00"
+      "key": "76fd8a8cd7fd2f7b",
+      "collected_at": "2026-11-24T01:32:16.182566+00:00"
     },
     {
-      "keyword": "tradingview",
-      "traffic": "100+",
-      "news_title": "WhiteBIT launches joint Black Friday promotion with TradingView for new users",
+      "keyword": "청약홈",
+      "traffic": "1000+",
+      "news_title": "종로 &apos;경희궁 에피트&apos;·영등포 &apos;해링턴 문래&apos; 등 이번주 6295가구 청약",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "5510cef5cc40aece",
-      "collected_at": "2026-11-23T19:35:09.914779+00:00"
+      "key": "039014a05417a748",
+      "collected_at": "2026-11-24T01:32:16.182566+00:00"
     },
     {
-      "keyword": "스페이스x 주가",
-      "traffic": "100+",
-      "news_title": "제프리스도 추가 상승 전망…10%대 급등",
+      "keyword": "cj그룹",
+      "traffic": "200+",
+      "news_title": "CJ문화재단, &apos;유재하 음악경연대회&apos; 개최…역대 최다 지원",
       "snippet": "",
       "source_type": "google_trends",
-      "category": "경제·환율·금리",
-      "key": "37dd77f07ae6085e",
-      "collected_at": "2026-11-23T19:35:09.914779+00:00"
+      "category": "당일 화제 이슈",
+      "key": "cdaea90335f7e824",
+      "collected_at": "2026-11-24T01:32:16.182566+00:00"
+    },
+    {
+      "keyword": "차두리",
+      "traffic": "200+",
+      "news_title": "화성FC, 최종전 남기고 첫 플레이오프행 확정",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "13678d00bd28d712",
+      "collected_at": "2026-11-24T01:32:16.182566+00:00"
+    },
+    {
+      "keyword": "사이드카",
+      "traffic": "200+",
+      "news_title": "[속보] 급등장에 코스피 이어 코스닥도 &apos;매수 사이드카&apos;",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "b8c5ddd6959e586f",
+      "collected_at": "2026-11-24T01:32:16.182566+00:00"
+    },
+    {
+      "keyword": "한국장학재단",
+      "traffic": "1000+",
+      "news_title": "한국우편사업진흥원, 지역사회공헌 인정 4년 연속 획득",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "3442fd8a113ab19a",
+      "collected_at": "2026-11-24T01:32:16.182566+00:00"
     }
   ]
 }
