@@ -389,27 +389,63 @@ def analyze_price(items):
     return angles
 
 
-def analyze_insurance_news(items):
-    """보험 뉴스 수집 결과를 릴스용 앵글로 변환한다."""
+def analyze_insurance_news(items, max_age_days=14):
+    """최근 보험·금융 뉴스만 릴스용 앵글로 변환한다.
+
+    Google News 검색은 수년 전 기사도 다시 섞어 주므로 발행일을 반드시
+    검증한다. 날짜가 없거나 미래 날짜인 항목도 자동 게시에서 제외한다.
+    """
+    from datetime import timedelta
+    from email.utils import parsedate_to_datetime
+
+    now = datetime.now(timezone.utc)
+    cutoff = now - timedelta(days=max_age_days)
+    future_limit = now + timedelta(days=2)
     angles = []
+
     for item in items:
-        title = (item.get("title") or "").strip()
-        if not title:
+        raw_title = (item.get("title") or "").strip()
+        pub_date = (item.get("pub_date") or "").strip()
+        if not raw_title or not pub_date:
             continue
+        try:
+            published = parsedate_to_datetime(pub_date)
+            if published.tzinfo is None:
+                published = published.replace(tzinfo=timezone.utc)
+        except (TypeError, ValueError, OverflowError):
+            continue
+        if published < cutoff or published > future_limit:
+            continue
+
+        # 제목 뒤에 Google News가 붙이는 언론사명을 제거한다.
+        title = raw_title.rsplit(" - ", 1)[0].strip()
+        title = re.sub(r"\s+", " ", title)
+        if len(title) < 6:
+            continue
+
         category = item.get("category", "보험업계 뉴스")
-        desc = (item.get("description") or "").strip()
-        topic = item.get("topic", "")  # news_collect.py가 분류한 주제
+        topic = item.get("topic", "")
+        clean_item = dict(item)
+        clean_item.update({
+            "title": title,
+            "description": "",
+            "source": "insurance_news",
+            "attribution": "공개 뉴스 RSS · 원문 링크는 캡션에 표기",
+        })
         angles.append({
             "type": "시행일훅" if category == "보험 제도 변경" else "오해정정",
-            "hook": title[:12],
+            "hook": title,
+            "short": title,
             "summary": title,
             "source": "insurance_news",
             "category": category,
             "attribution": "공개 뉴스 RSS · 원문 링크는 캡션에 표기",
-            "items": [item],
-            "data": {"title": title, "description": desc, "link": item.get("link", ""),
-                     "topic": topic, "source": category},
+            "items": [clean_item],
+            "data": {"title": title, "link": item.get("link", ""),
+                     "pub_date": pub_date, "topic": topic, "source": category},
         })
+
+    print(f"보험 뉴스 최신성 필터: {len(angles)}/{len(items)}건 (최근 {max_age_days}일)")
     return angles
 
 
@@ -513,7 +549,7 @@ TEMPLATES = {
             lambda a: ["이거 안 하면", f"<r>과태료 나옵니다</r>"],
             lambda a: ["다음 달부터", "<r>이게 바뀝니다</r>"],
         ],
-        "narration_pattern": "이거 모르고 지나가면 손해다. {summary}. 시행일 전에 꼭 확인해라.",
+        "narration_pattern": "{summary}. 변경 시점과 적용 대상을 먼저 확인해 보세요.",
         "scene_count": 6,
     },
     "오해정정": {
@@ -521,7 +557,7 @@ TEMPLATES = {
             lambda a: [f"{hook_fit(a.get('hook',''))}", "<y>다 틀렸습니다</y>"],
             lambda a: ["이거 반대로", "<y>알고 계셨죠</y>"],
         ],
-        "narration_pattern": "이거 모르고 지나가면 손해다. {summary} 다들 잘못 알고 있다. 사실은 이렇다.",
+        "narration_pattern": "{summary}. 제목만 보고 판단하기보다 현장에 미칠 영향을 확인해 보겠습니다.",
         "scene_count": 6,
     },
     "체크리스트": {
@@ -741,6 +777,19 @@ def _format_item_narration(item, idx=0, total=0, angle_data=None):
     angle_data: 앵글의 data dict (맥락 비교용)
     """
     src = item.get("source", "")
+
+    if src == "insurance_news":
+        title = (item.get("title") or "보험업계 주요 변화").strip()
+        topic = item.get("topic", "")
+        category = item.get("category", "보험업계 뉴스")
+        impact = {
+            "보험·상품": "상품 설명 전 최신 공시와 약관을 다시 확인해야 합니다.",
+            "영업·마인드": "고객 상담 방식과 현장 활동에 미칠 영향을 점검해 보세요.",
+            "의료·건강": "치료비 수치는 보장 범위와 실제 청구 조건을 함께 확인해야 합니다.",
+            "경제·환율·금리": "달러보험과 변액보험 상담에 미칠 영향을 함께 점검해야 합니다.",
+        }.get(topic, f"{category} 관련 상담 자료를 최신 기준으로 확인해 보세요.")
+        narration = f"{title}. {impact}"
+        return narration, short_subtitle(title)
 
     if src == "molit_apt_trade":
         region = item.get("region", item.get("dong", ""))
@@ -970,8 +1019,8 @@ def template_generate(angle):
     scenes.append({
         "image": None,
         "photo_query": "follow subscribe social media phone",
-        "narration": "팔로우 눌러라. 매일 현장 이슈 정리해서 쏜다.",
-        "subtitle": "팔로우 · 매일 업데이트",
+        "narration": "보험 현장에서 필요한 정보를 리치업지점이 정확하게 정리해 드립니다.",
+        "subtitle": "리치업지점 · 보험정보",
     })
 
     # URL 제거 후처리 — narration에 뉴스 링크가 섞이는 문제 방지
@@ -1013,7 +1062,7 @@ def template_generate(angle):
             "category": category,
             "attribution": attribution,
             "chart": angle.get("chart"),
-            "tone": "단정형반말",
+            "tone": "신뢰형존댓말",
             "generated_at": datetime.now(timezone.utc).isoformat(),
         },
     }
@@ -1023,7 +1072,10 @@ def template_generate(angle):
 #  LLM 모드 — Anthropic Claude API
 # ═══════════════════════════════════════════════════════════
 
-LLM_SYSTEM = """당신은 보험 설계사와 예비 설계사를 위한 보험업계 뉴스 릴스 전문 작가입니다.
+LLM_SYSTEM = """당신은 리치업지점의 보험 전문 콘텐츠 작가입니다.
+최우선 문체는 차분하고 신뢰감 있는 존댓말입니다. 반말·명령조·공포 조장·과장 표현을 쓰지 마세요.
+확인되지 않은 상품 수치나 치료비를 단정하지 말고, 출처와 적용 조건을 함께 확인하도록 안내하세요.
+당신은 보험 설계사와 예비 설계사를 위한 보험업계 뉴스 릴스 전문 작가입니다.
 일반 소비자용 가입 권유가 아니라, 설계사가 업계 흐름과 영업 환경 변화를 이해하도록 대본을 씁니다.
 수집된 보험 뉴스의 제목·요약·출처를 바탕으로 사실을 재구성하되, 기사 문장을 복사하지 않습니다.
 
