@@ -1,0 +1,23 @@
+검수 통과: 걸린 항목 없음
+  [사진] unsplash 'hospital receipt desk' 결과 없음
+  [사진] openverse 'hospital receipt desk' 결과 없음
+  [사진] 01 'hospital receipt desk' → OK Unsplash / Szabolcs Antal
+  [사진] unsplash 'calendar deadline desk' 결과 없음
+  [사진] openverse 'calendar deadline desk' 결과 없음
+  [사진] 02 'calendar deadline desk' → OK Unsplash / Jonas Allert
+  [사진] 03 'law book library' → OK Unsplash / Olena Bohovyk
+  [사진] 04 'clock time paperwork' → OK Unsplash / Jon Tyson
+  [사진] 05 'receipts organized folder' → OK Unsplash / Alexander Grey
+  [사진] 06 'insurance policy documents' → OK Unsplash / Jakub Żerdzicki
+  [사진] 07 'calm hospital corridor' → OK Unsplash / Nan Zhou
+배경 사진 7/7장 (출처 photos/credits.json)
+만든 파일:
+  contentagent/out/richup/voicetest_candidates/cards/01.png
+  contentagent/out/richup/voicetest_candidates/cards/02.png
+  contentagent/out/richup/voicetest_candidates/cards/03.png
+  contentagent/out/richup/voicetest_candidates/cards/04.png
+  contentagent/out/richup/voicetest_candidates/cards/05.png
+  contentagent/out/richup/voicetest_candidates/cards/06.png
+  contentagent/out/richup/voicetest_candidates/cards/07.png
+  contentagent/out/richup/voicetest_candidates/reel.mp4
+  contentagent/out/richup/voicetest_candidates/caption.txt
