@@ -13,19 +13,19 @@
     {
       "image": null,
       "photo_query": "insurance policy document closeup",
-      "narration": "이거 모르고 지나가면 손해다. 달러보험에 돈 몰린다…年 6% 확정금리 상품도. 수치로 확인해보자.",
+      "narration": "달러보험의 연 6%라는 숫자는 적용 기간과 환율 위험을 함께 봐야 합니다. 확정금리라는 표현의 조건부터 확인해 보겠습니다.",
       "subtitle": "달러보험에 돈 몰린다…年 6% 확정금리"
     },
     {
       "image": null,
       "photo_query": "insurance contract checklist desk",
-      "narration": "고객에게 설명할 때 오해하기 쉬운 부분과 실제 약관 기준을 구분해야 합니다.",
+      "narration": "달러보험은 표시 금리뿐 아니라 적용 기간, 환전 비용, 환율 변동, 중도해지 조건을 함께 설명해야 합니다.",
       "subtitle": "달러보험·환율 · 현장 영향"
     },
     {
       "image": null,
       "photo_query": "insurance policy checklist pen",
-      "narration": "상품명보다 보장 범위, 보험기간, 갱신 여부, 해지환급금 조건을 먼저 확인하세요.",
+      "narration": "금리 적용 기간, 원화 환산 기준, 환차손 가능성, 중도해지 환급률을 순서대로 확인하세요.",
       "subtitle": "설계사가 확인할 핵심"
     },
     {
@@ -48,6 +48,6 @@
     "attribution": "공개 뉴스 RSS · 원문 링크는 캡션에 표기",
     "chart": null,
     "tone": "신뢰형존댓말",
-    "generated_at": "2026-11-24T03:00:07.229801+00:00"
+    "generated_at": "2026-11-24T03:01:24.499279+00:00"
   }
 }
