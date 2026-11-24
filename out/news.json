@@ -1,773 +1,315 @@
 {
-  "collected_at": "2026-11-24T01:32:14.717544+00:00",
+  "collected_at": "2026-11-24T06:38:44.851714+00:00",
   "topic_weight": {
-    "보험·상품": 30,
-    "영업·마인드": 25,
-    "의료·건강": 20,
-    "경제·환율·금리": 25
+    "GA·업계": 25,
+    "보험상식·팩트체크": 30,
+    "보상·의료": 20,
+    "영업·리쿠르팅": 15,
+    "사람·성장": 10
   },
   "topic_counts": {
-    "보험·상품": 26,
-    "영업·마인드": 9,
-    "의료·건강": 15,
-    "경제·환율·금리": 34
+    "GA·업계": 18,
+    "보험상식·팩트체크": 2,
+    "보상·의료": 12,
+    "영업·리쿠르팅": 1
   },
   "items": [
     {
-      "title": "미래에셋생명 변액보험 강자로 떠올라, 자산증식 수단으로 주목 - 비즈니스포스트",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5jQS1FSlZxcE50ZU1XU2t1dFJMYlFIem1DSTQ2Q1luZ3BEYm9PeTVlSmk3Sm05dzFiQkFjWndvVWV4MDk3Q3RrM1NFdlNXbVNDbjZZblVKRXo5OVdfcjN1bWNxNkV6eXE5aVYxZ3pONmRneVk?oc=5",
-      "description": "미래에셋생명 변액보험 강자로 떠올라, 자산증식 수단으로 주목 비즈니스포스트",
-      "pub_date": "Fri, 25 Feb 2022 08:00:00 GMT",
-      "category": "변액보험 수익률",
-      "key": "a636cb3294bb30ce",
-      "topic": "보험·상품"
-    },
-    {
-      "title": "변액보험 “최고 예시수익률 산출 기준 변경” - 보험신보",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA4R2NialZ5ZGtNeFJlX0tGelFva3pxb3NXdmdGekgwRHJ3cEdsZlk4QWFLTGpleHh3YWF6WFVXUEZEYl9VRWNNS21weXdETnNoYW0wOGZ3UmxPckxsWmQweWxVRDZjTzVnMmFV?oc=5",
-      "description": "변액보험 “최고 예시수익률 산출 기준 변경” 보험신보",
-      "pub_date": "Mon, 09 Aug 2021 07:00:00 GMT",
-      "category": "변액보험 수익률",
-      "key": "ca83bf06a8f36c80",
-      "topic": "보험·상품"
-    },
-    {
-      "title": "시행 7년째에도 찾는 고객은 없고 유명무실한 변액보험 펀드주치의제도 - 보험신보",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5QX25VcWZyVjY1SGtFVHh6Z3lJVnlUaG5sTk1ha1JkZENBclNCMGJDaVRWWjNyTFI0dEV1Z3NyZGtIUGl4YXB4Y3FtMzZyWTVIR3c0elpfVnpUMk5Xczc0bHVDUTA5VlY4Nmh3?oc=5",
-      "description": "시행 7년째에도 찾는 고객은 없고 유명무실한 변액보험 펀드주치의제도 보험신보",
-      "pub_date": "Mon, 03 Jun 2024 07:00:00 GMT",
-      "category": "변액보험 수익률",
-      "key": "fcdc2a75ad2b36eb",
-      "topic": "보험·상품"
-    },
-    {
-      "title": "미래에셋생명, 최근 5년 변액보험 수익률 22.5% '1위' - 비즈워치",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE81ZXBZcTlyRXJLQkhRa1JtOVZsbEFKd25WQU5aQlJLSFVsQTI5Z1kzUGYwRGdzRDQ1S3BsMkluVkFWTUNDNEs2a1pKeHBFR2FoTG4yQ1N0ZUxlN2lzYWN6bTR3NTlvZ0NBd2lJ?oc=5",
-      "description": "미래에셋생명, 최근 5년 변액보험 수익률 22.5% '1위' 비즈워치",
-      "pub_date": "Wed, 25 Oct 2023 07:00:00 GMT",
-      "category": "변액보험 수익률",
-      "key": "1cf1c13d57536adf",
-      "topic": "보험·상품"
-    },
-    {
-      "title": "메트라이프생명, 변액보험 펀드 장기 수익률 1위 - 매일경제",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1GakwwaVN4ZDRwV1BXWTZDWVZTeURlUlhvUm1LNnA1MmlEa3R2RDBRSk8tTlVUWElHUXVGdzdJWFJsOEU0QUlnNnBMY3d2QUgwZGl4aA?oc=5",
-      "description": "메트라이프생명, 변액보험 펀드 장기 수익률 1위 매일경제",
-      "pub_date": "Tue, 16 Jan 2024 08:00:00 GMT",
-      "category": "변액보험 수익률",
-      "key": "524b6f55cf1b9c18",
-      "topic": "보험·상품"
-    },
-    {
-      "title": "‘변액명가’ 내세운 iM라이프, 1년의 성과는 - 보험매일",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ITXl3Ti1XQkN0elZGc2lJaDI5cFM3X1RrM01QYnlNaGtJajNpOXhkcXpNTTh6TWJRcXBqUU1IRElGdXlMNnpSLXZ0SEtkSlB0VEY2WEhOSy02eklBNGxVTk5SWVNUN3ZK?oc=5",
-      "description": "‘변액명가’ 내세운 iM라이프, 1년의 성과는 보험매일",
-      "pub_date": "Thu, 31 Jul 2025 07:00:00 GMT",
-      "category": "변액보험 수익률",
-      "key": "5380f0346ead2876",
-      "topic": "보험·상품"
-    },
-    {
-      "title": "중국 경제 회복에 미래에셋생명 변액보험 차이나펀드 수익률 30% - 머니투데이 - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE03R2RaT1NHYURybjdyVG1mT1ozZnV0WXhPTEt1V1pSNkRnZmJEZGg3akZkR010ZUVJX3NkalFwNmV4QVBoS0R1RlpRV1BKN2VVN01FOWFXRlczaFF0SjBJTWZ5WGppX1dfdGlr0gFwQVVfeXFMTVZqX194ckg5bksyOS1wV2F2THl1aWk2TWxXQkJXcVJKU1pwQUdLMWFIX3hCTFBqN2M2NHFPTmVqbWZZbXR0a3F0VGE0Ty1WZ1FkeW1BQ1NhQ2pUeFJERTI1dVBILWRzXzlURHdHaWpWQg?oc=5",
-      "description": "중국 경제 회복에 미래에셋생명 변액보험 차이나펀드 수익률 30% - 머니투데이 머니투데이",
-      "pub_date": "Wed, 19 Mar 2025 07:00:00 GMT",
-      "category": "변액보험 수익률",
-      "key": "75a4f97e738fa3b9",
-      "topic": "보험·상품"
-    },
-    {
-      "title": "메트라이프생명, 변액보험 펀드 장기 수익률 압도적 1위 - 보험저널",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBHVUVqQWJQOWtEY0hZMHlMMlB2ZVpMMVZaeXlFLTR2ZExWWHdfTEVXZmt4bWlscUNFb1UzNmxPNVpJYm4wU3lYeWQwWU5PZmhmU3p4MldqN29FTzlRRnR2Qm5GWnBrdEVZN1BkRFln?oc=5",
-      "description": "메트라이프생명, 변액보험 펀드 장기 수익률 압도적 1위 보험저널",
-      "pub_date": "Tue, 18 Jan 2022 08:00:00 GMT",
-      "category": "변액보험 수익률",
-      "key": "44f3a328d32b9195",
-      "topic": "보험·상품"
-    },
-    {
-      "title": "미래에셋생명으로 나스닥 펀드 투자했더니… 3년 수익률 75.5% - 머니투데이 - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE56aFlnekROMGpieU9EZ2JIODNvZWhOajU3dmh2SlppUG45MXNtVnpNMXpDOUdSY3ZMb1NWR2VuNzdVXzN5UDJPaTZNXzdJc25Fc0NYbkZRSFJ5bm5sODNRMGN0a0dya21jTTFr0gFwQVVfeXFMT0J4VFlQd2tqVUlBNEFELWFGdDZWdkFGM0cySHZKeGdJU1FlQTNjdm1sUEdyc1VBQTA2WXF5cUVOZUhDZVd3Y1NJbDkwZnktWTE3UzhPb1h3dFdmZHplXzhHXzU2Y1NMRk93aGgzZEwyTg?oc=5",
-      "description": "미래에셋생명으로 나스닥 펀드 투자했더니… 3년 수익률 75.5% - 머니투데이 머니투데이",
-      "pub_date": "Mon, 24 Feb 2025 08:00:00 GMT",
-      "category": "변액보험 수익률",
-      "key": "0a6ddda75a2bcf89",
-      "topic": "보험·상품"
-    },
-    {
-      "title": "메트라이프 달러보험, 10년 환급률 124%의 숨겨진 진실은? - 블로그차트",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYTNTeUctTDZhUFdsNjJZYnBCRllIOWk1ZmtUS25NM2kySnc2aDdrV1hQQ0wwVkhaZDV5NF9KMHVJdUtmUEZHc3hYdjgzUEZUbGRkTU9ydzhQX1VRWGVhRm40ME1ISlpkRHlncnVFQWxsSFk4NXV2dkFKNU8zQzdhd0l6MXNrbTJXTTcxdW9DVTg1OHlyWkZtOHRNRldhczUzQjAwbjFzV29Iem05Z3JFNEhMb2R5N2M?oc=5",
-      "description": "메트라이프 달러보험, 10년 환급률 124%의 숨겨진 진실은? 블로그차트",
-      "pub_date": "Fri, 25 Sep 2026 07:00:00 GMT",
-      "category": "달러보험 환율",
-      "key": "689d3af5b2391d8c",
-      "topic": "보험·상품"
-    },
-    {
-      "title": "손은서 카지노 다시보기 콘텐츠 길잡이 - https://intella.it/",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFB0X3ZDSVhRREQ1bk01TEo3bG5QcGUzZjNhYV9wUHhqU3VrRElIZjRCREZnNEFmUS1fMUNtcDMteWkycU03ZDRv?oc=5",
-      "description": "손은서 카지노 다시보기 콘텐츠 길잡이 https://intella.it/",
-      "pub_date": "Wed, 10 Dec 2025 21:57:02 GMT",
-      "category": "달러보험 환율",
-      "key": "dbf4e670980cfc6a",
-      "topic": "보험·상품"
-    },
-    {
-      "title": "[연금경제] 연금 3층탑: 평생 무너지지 않는 자본기반 설계 I - 글로벌에픽",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBjM1JVMkhiVmxQZkJ3ZTFKNnhheENaemV6Sml0TkFVMmREcTFYVjhVM0IySEpuSkF2N0kzUjF5WURaTjgyLTY1Z2xDSFoyUDhUTHhKT1cxVWRpMmlxUjQ3VVEzcko4Yk01NC1NUTZyaHIxaWg0UjJsbUpRVEo?oc=5",
-      "description": "[연금경제] 연금 3층탑: 평생 무너지지 않는 자본기반 설계 I 글로벌에픽",
-      "pub_date": "Mon, 12 Oct 2026 07:00:00 GMT",
-      "category": "연금보험 노후",
-      "key": "0ec4b81cee0b0ebb",
-      "topic": "보험·상품"
-    },
-    {
-      "title": "이름도 헷갈리는 개인연금 양대장(연금저축 vs 연금보험)…결정적 차이는 稅 [노후(NO後)준비,지금부터-②] - 헤럴드경제 미주판",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE00dHFFZGdMbFp4N3RRWF9LR3Q2SnRTV3ZnUDlCeUxWcWlvanlJYzhiSFBZNG9CZ2ZLN2h3QzlkeE9Jd0tpZklrcnJXNUQwT0llblVQbmZCaXpoSEtmU3dlRw?oc=5",
-      "description": "이름도 헷갈리는 개인연금 양대장(연금저축 vs 연금보험)…결정적 차이는 稅 [노후(NO後)준비,지금부터-②] 헤럴드경제 미주판",
-      "pub_date": "Thu, 04 Apr 2024 07:00:00 GMT",
-      "category": "연금보험 노후",
-      "key": "bf92edf5ae16ca89",
-      "topic": "보험·상품"
-    },
-    {
-      "title": "공무원을 위한 노후 준비 전략 - 한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HNjU1ZDdVeV9rWWVXV2NDWVoyeWVWTzhuVDIteXdObU1KajJ2XzBMcXFZZVVfYXp1bWVOdTBOQ2hoMG1UWmVNTVkzQkZudHhxaFN2eWdmd050Zw?oc=5",
-      "description": "공무원을 위한 노후 준비 전략 한국경제",
-      "pub_date": "Mon, 21 Aug 2023 07:00:00 GMT",
-      "category": "연금보험 노후",
-      "key": "a314b1fb356d5b69",
-      "topic": "보험·상품"
-    },
-    {
-      "title": "즉시 연금 2억 넣으면…매달 100만원씩 20년간 생활비 받는다 - 매일경제",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5QV05uZUoyc3J4Zm9BaXYxbGNDUHN6VHM2OUVPSDZUdGpKdTdtaEk1Q1doYVJ5SVFiVF9KLWxvN0Z5a3doMkIyN05tYU5OUWp1M2RsQjE3RXQ5UTF3Vmc?oc=5",
-      "description": "즉시 연금 2억 넣으면…매달 100만원씩 20년간 생활비 받는다 매일경제",
-      "pub_date": "Sun, 04 Jul 2021 07:00:00 GMT",
-      "category": "연금보험 노후",
-      "key": "11e09380e6ec5f22",
-      "topic": "보험·상품"
-    },
-    {
-      "title": "은퇴 이후를 위한 재무설계, 여유로운 노후를 위해 - 매일신문",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1aMGg4VzFEbUNoQW1kZlhKbWc5V3VsajFuMGZwc2M2ZTFZVHMybml1QUdqMks5ejd1SXNNdlhJZ3NyOXhBTnV6STlTa3l6a2xpYnB4R2FvYzhSb0M3QlZCQ3FB?oc=5",
-      "description": "은퇴 이후를 위한 재무설계, 여유로운 노후를 위해 매일신문",
-      "pub_date": "Sun, 17 Mar 2019 07:00:00 GMT",
-      "category": "연금보험 노후",
-      "key": "d86076dcc1990134",
-      "topic": "보험·상품"
-    },
-    {
-      "title": "연금저축‧사고보험금‧중소퇴직기금 예금처럼 5천만 원 별도 보호 받는다 - 리얼캐스트",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE41Zl9YYUZ6c3YyNkRMX3BTN2otTDZ3SUR4LWFWNDB4UWI1UzUyVjdCcHh3cGNBTFBRbHVsbWN5V2RiZmUzdmpRc254ZmYxUG1EbGx2NWZFVlRfdVJBcG1PZ0g0S0NQb3o00gFsQVVfeXFMTkI1WXVSM2t0SXZjalFXZk1ibzFtbnJiY2FDS3lqaDFZZG9FYjU4RDRTUEhQZ2h5MmxwYmQwQllabTlOMUlTT1J4OU5oRC1ybjZFM2NNWktBckpNYnRYMHh2RXNlZk92VmNzZGdw?oc=5",
-      "description": "연금저축‧사고보험금‧중소퇴직기금 예금처럼 5천만 원 별도 보호 받는다 리얼캐스트",
-      "pub_date": "Mon, 03 Jul 2023 07:00:00 GMT",
-      "category": "연금보험 노후",
-      "key": "74022b50d133a2d6",
-      "topic": "보험·상품"
-    },
-    {
-      "title": "연말정산 보험료 공제 | 놓치기 쉬운 혜택 확인해 보세요! - KB Think",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1XY3c1ejFRdzFac0F6cGlsZVFLbGJlZmw4SDR1YUtDdzhvSFRvcG9aN0JzQ1FyNUcxUnhxTXJtMFkzbFRNQnhRTkJOcE00LTgtWnAyaFhzRS1YaFBaY3FOdVgyUnRxQQ?oc=5",
-      "description": "연말정산 보험료 공제 | 놓치기 쉬운 혜택 확인해 보세요! KB Think",
-      "pub_date": "Thu, 04 Dec 2025 03:39:07 GMT",
-      "category": "연금보험 노후",
-      "key": "32461729a5704224",
-      "topic": "보험·상품"
-    },
-    {
-      "title": "연금저축펀드 수익률 3개월만에 9.41% (12/26), 연금저축보험과의 비교 / KB증권 미국S&P500인덱스, 글로벌AI&반도체 펀드 - 블로그",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tRU9NelZocFc4dk1CQUVva0M5NElWZk1xcnhjSTBQMlhiSS0yZ3lUUUtGMXlkcEJZcnh3UnhEV1VLQmgwdkZ2UGpwWlFHaHI2bXZwekIwdFZsZw?oc=5",
-      "description": "연금저축펀드 수익률 3개월만에 9.41% (12/26), 연금저축보험과의 비교 / KB증권 미국S&P500인덱스, 글로벌AI&반도체 펀드 블로그",
-      "pub_date": "Tue, 26 Dec 2023 08:00:00 GMT",
-      "category": "연금보험 노후",
-      "key": "810642cfd9f12b09",
-      "topic": "보험·상품"
-    },
-    {
-      "title": "[카드뉴스] 연금저축? 보험? 무턱대고 들면 안 됩니다 - 시선뉴스",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9WLW1CdDdxV3VuNWdQaUliMjJGQWF4X2ZDbFpaVXZaREV3R0VpVGxmVEFCdm5RMEtkcUtoN2ttMTFjMk5zSnROdXN6OXB1UFhYT1ZSaG1DZldqMGYxUFcxeHRoNXZMdXhyY1FkRjV30gFyQVVfeXFMT2NfSVROV0pxUndnZ3RNS0lkanAtYk9wdUVpcDMzeFlWVVJLUWFWRC02YmFEMV84cFBZZXFVRVliWnRRWEJuOHljYWZTSEh5VlBrMEh0S095WFpnUGhfaUxPalZ6WW5IbVNnSlhYQUxtYjN3?oc=5",
-      "description": "[카드뉴스] 연금저축? 보험? 무턱대고 들면 안 됩니다 시선뉴스",
-      "pub_date": "Wed, 07 Oct 2020 07:00:00 GMT",
-      "category": "연금보험 노후",
-      "key": "bff69a03cf75cdd4",
-      "topic": "보험·상품"
-    },
-    {
-      "title": "장수 리스크를 극복할 보험 - 우먼센스",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZWC13RXY0QXRmWjA2WWVLd2FxVXlUcEJuS2dudW56d1NCSGJBdldWZHotdFpJV3JQMjJyUEZUbU1jLWNuZ2RfTDAzTGhpRG5ZQWFJN1BwYWNZNzFXYzRVbklCV2F3RFF0OW0xOEt4UQ?oc=5",
-      "description": "장수 리스크를 극복할 보험 우먼센스",
-      "pub_date": "Fri, 28 Jun 2019 07:00:00 GMT",
-      "category": "연금보험 노후",
-      "key": "336cb24dc0dcf2f0",
-      "topic": "보험·상품"
-    },
-    {
-      "title": "국민연금, 개인연금, 퇴직연금, 주택연금, 기초연금 - 연금상품 대해부 - 한국금융신문",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1kSE5KejY1OElmNl9UWlFDMEFLakVBLVEwUGhOeVhQYk5PaVBma1RteUIxbDM2SVJCY0pWT3dKbVQ3SmFMUUE3dmphMjFIcHYxWmZ5a2tjNzM1V2lnaFprTGJoZUJPWDdjUXNqTWwwYUpNdw?oc=5",
-      "description": "국민연금, 개인연금, 퇴직연금, 주택연금, 기초연금 - 연금상품 대해부 한국금융신문",
-      "pub_date": "Fri, 06 Nov 2015 08:00:00 GMT",
-      "category": "연금보험 노후",
-      "key": "a6058a4f06cd1918",
-      "topic": "보험·상품"
-    },
-    {
-      "title": "보험사별 개인연금 연평균 수익률 '천차만별' - 뉴데일리 경제",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1TWE9yMnh2TTE1S3Vna2ZZa0ozY0dJOWF0YVNTSUVobnc2OURCVWtrZ1FHV2txak1HS0tIeGFnM2NCazlOa1h3SzVRcnIxMk5NdnlzMV9hTjYyVE0zVU9aM0JITG9vVGlmaUVmSXlBZ2RDOTFwajg1b0p1SdIBgAFBVV95cUxPV3lLNGx5aTE1Rk9oODlRMzlXbGgwYkE4cVJXNVlycHhyVnNkZl9nQTNLVU5OUXFOSDFfRjkwcFZMV3lCMnRsSm9wQ2QtaDZfdkxjdUhQMzE2SGV2ZV9wUzNyb09RT29zS0FyOTg1MFlKNkNVMFJ0S0hUSGx1Nm95Yw?oc=5",
-      "description": "보험사별 개인연금 연평균 수익률 '천차만별' 뉴데일리 경제",
-      "pub_date": "Mon, 29 Aug 2016 07:00:00 GMT",
-      "category": "연금보험 노후",
-      "key": "c44048cb01a7bc2d",
-      "topic": "보험·상품"
-    },
-    {
-      "title": "[연금의 고수] 내 아이 노후도 책임?… 미성년자 연금저축계좌 장단점은 - Chosunbiz",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQmk2ZUVBY1JsNTdsQ0lmaDQ2WW15Y1JZX3JLUGZwQXR0TjFZcG5PMDROSXNPZUlSemh6LTBQVlRqUS0xZWRCcXgwSUFZWk1VX0l0VW5UZHZxR0d2S1QzZUhYbWwzVEdYNHdDLWdrR05OZ0VfTFhibG5jMXZJMDE3RjREa9IBlwFBVV95cUxPMUxlVzlkSl9zU0JYWWdPb09iZkQxNTN5R1lCZWgxNTJvVWxUdkVjV1hwaDJEbFNqaC1tVTlwakozMllaOTd1Yld1ZUtzQTdEMW5oRlkxRmdULVFTRXRyRkpJUzNwc1NJUWZSNVBreUdPTml5OW9tajBCWTJJUEVXRE9ObHdCNTREYU8wS3kyUGkxLWF4cENF?oc=5",
-      "description": "[연금의 고수] 내 아이 노후도 책임?… 미성년자 연금저축계좌 장단점은 Chosunbiz",
-      "pub_date": "Fri, 09 Aug 2024 07:00:00 GMT",
-      "category": "연금보험 노후",
-      "key": "5312f85e81914103",
-      "topic": "보험·상품"
-    },
-    {
-      "title": "금감원 ‘소비자위험대응협의회’ 가동… 전방위 금융위험 선제 차단 - 한국보험신문",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1pQUhDLXlfRFB4b3NVMEJRRFlJd1RuU1NBTEdQNUJ1dG5HcTUtbEU4TUpLZy00dFZOUnJLTDNBRmNNNmlQZE5hY0FldzFoV1FFR0VzV2pXVjNLaFBvX0g3TlBSbE0zY2FjWVZB0gFvQVVfeXFMT3JSc0U0YXoxby0tVHpwTlRoTHE5TjJZamNEdUwwcXhtbFg1TlQxOE9VbjFSdmFXTnYtTXJLa1RjLWhUeHF6RjctTnNRSnZwN0wzV0VIUVVEUWpnZF9GZm0zT0RJNTZpVUo4b0o0eW1j?oc=5",
-      "description": "금감원 ‘소비자위험대응협의회’ 가동… 전방위 금융위험 선제 차단 한국보험신문",
-      "pub_date": "Sun, 22 Mar 2026 07:00:00 GMT",
-      "category": "보험 제도·규제",
-      "key": "e30cbac204b21e39",
-      "topic": "보험·상품"
-    },
-    {
-      "title": "GA에 “금감원은 누구인가” - 한국보험신문",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8zdGdjSElHMGZNdDduTUdNNkkwUUkyX1VWRTdveFZ5LVBZWGRUQW5JdHZ5ZU0yQ0Q1V3dETFdRcVdJZ2VrMERmdFpWcUU1dHZ2bHV5RzJ4VHFZc3RHVW02dEhxSlJvdDRmMjRJ0gFvQVVfeXFMUEpGWDdjZUp6ejVOek1FSVJpZkI4akVWLTZ4YWxSSmxqSTZrNWJXcUw4bjhOX2FIc3gxM3lVWERxaHZrTjVsejcxM2JNWEM0c1ZUaG8zTDZLS194bm4zNjBmRk9hSllROW5vTWxuOV8w?oc=5",
-      "description": "GA에 “금감원은 누구인가” 한국보험신문",
-      "pub_date": "Mon, 27 Oct 2008 07:00:00 GMT",
-      "category": "보험 제도·규제",
-      "key": "73c7bb363bd136e7",
-      "topic": "보험·상품"
-    },
-    {
-      "title": "토스인슈어런스, 설계사 모집 브랜드 페이지 ‘뉴 스탠다드’ 오픈… 재직 설계사 후기·직무 설명회 제공 - 보험저널",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9JYmpEZktGSmhySHd1VEtyNGIyamZkM3BReThQLVhXWV9UaUJwcXBzME1UOTlmWU1CNGFPLVZ2WU9nLXllR0Y2UFhqYUdQNzVlOGxSdmVnaHM5SmtJRy1oZXc4eDJDRnc3NjZ6SEk5OA?oc=5",
-      "description": "토스인슈어런스, 설계사 모집 브랜드 페이지 ‘뉴 스탠다드’ 오픈… 재직 설계사 후기·직무 설명회 제공 보험저널",
-      "pub_date": "Wed, 01 Jul 2026 07:00:00 GMT",
-      "category": "GA 법인보험대리점",
-      "key": "0fe30708ce9da4f9",
-      "topic": "영업·마인드"
-    },
-    {
-      "title": "AIA생명 '메기' 행보에 업계‧GA 속수무책 - 보험매일",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1wWDdwY3lVUWNPTlBTRTZFRFh1d2V1TmVrcTMtSVlEWFMyRkJOaDRjM3c0cUdTdGFOblg4c1ZJRnVzdGxpM1NQS3BtanF3S2xkNkxFbmlSWnFEZHJrWlRFSFBuc1VfWUk?oc=5",
-      "description": "AIA생명 '메기' 행보에 업계‧GA 속수무책 보험매일",
-      "pub_date": "Thu, 07 Sep 2023 07:00:00 GMT",
-      "category": "GA 법인보험대리점",
-      "key": "6c63540752959bf6",
-      "topic": "영업·마인드"
-    },
-    {
-      "title": "[리더 100 시리즈] 헷지자산관리 곽나영 대표 - 보험매일",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1OWi1HajY2RnRQWmRRVGFMb1Z3Zlgyd2Z2MUFzaXNxY1N1VXlPNlVaS3VSbkJNQTBMN0NyczlWRmhTMzlZdWdMOFVGc241TzgtNTJ1eFFnVC1FZUIzV0FtZ0ZyMDliUzBq?oc=5",
-      "description": "[리더 100 시리즈] 헷지자산관리 곽나영 대표 보험매일",
-      "pub_date": "Mon, 21 Oct 2024 07:00:00 GMT",
-      "category": "GA 법인보험대리점",
-      "key": "770ac7470f235a7a",
-      "topic": "영업·마인드"
-    },
-    {
-      "title": "인카금융서비스·에이플러스에셋 CEO 체제 전환...'갑진년' 주요 과제는? - 녹색경제신문",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1GeTVDd28zS2diSnBvY1ZPaTB3S1EyQmRJTlN3bURxZThiNGlCQkp3eUZCTlpwdmhXakxaU1NpckRoMDNsOElzRTNIMTNmMS1Qc01fdHgxY1QxNHNKcmJKblBWREZKNE1E?oc=5",
-      "description": "인카금융서비스·에이플러스에셋 CEO 체제 전환...'갑진년' 주요 과제는? 녹색경제신문",
-      "pub_date": "Mon, 04 Dec 2023 08:00:00 GMT",
-      "category": "GA 법인보험대리점",
-      "key": "5de9d0b451d7e1b2",
-      "topic": "영업·마인드"
-    },
-    {
-      "title": "‘설계사와 DM소통’ 조병익 토스인슈어런스 대표 “3년 내 설계사 5000명 도전\" - 헤럴드경제",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1Wak9rbG84ZklBUjNJemtvc2NTYm8xOTJzYUJPakVBYV81NWNvU2ttd2JuZUNKaW5CdFpMNUhkRU1YQ1JHNkxnVzJpVV9zMGhoSGpyWQ?oc=5",
-      "description": "‘설계사와 DM소통’ 조병익 토스인슈어런스 대표 “3년 내 설계사 5000명 도전\" 헤럴드경제",
-      "pub_date": "Wed, 10 May 2023 07:00:00 GMT",
-      "category": "GA 법인보험대리점",
-      "key": "bfb33761aee44ab7",
-      "topic": "영업·마인드"
-    },
-    {
-      "title": "인카금융, IPO 전 잡음...돈 놀이 논란에 눈총 - 아주경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBjX3RCbkNEcHQtRmpiQWNnSThMLUF5TzZtQXpac19FVVhqcEU1dm5yMGZhR2pUMF9VUkIyNzU2clRvUDJXVl8ybkppVUVrYTBrQWpkbXhDalJBd9IBWEFVX3lxTE9fZTF1TnlHWXdpS09yZWp1c0U1UE9Vel9pckFIT3RnUGMwekNQckJKd1JDd1RYelBXLXRHdkdZWTFUV3FNbVlwY21Hbnlvb1pPOXVxZjlITm0?oc=5",
-      "description": "인카금융, IPO 전 잡음...돈 놀이 논란에 눈총 아주경제",
-      "pub_date": "Tue, 09 Nov 2021 08:00:00 GMT",
-      "category": "GA 법인보험대리점",
-      "key": "c4b95775a14ffc13",
-      "topic": "영업·마인드"
-    },
-    {
-      "title": "보험설계사는 왜 ‘충(蟲)’이 됐나 - 인더뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE92NDJXVUN6UWg0djdPTlpnbWc4a2tjSDlDZlB6QUFySldsX0ZrcTJOWHQ1bFJ2VHlHR2RoVEdsV1IyZ1ZMeU9nMXl5SXRzajE2MlU1dldwVUtwNlllNlU4?oc=5",
-      "description": "보험설계사는 왜 ‘충(蟲)’이 됐나 인더뉴스",
-      "pub_date": "Wed, 25 Apr 2018 07:00:00 GMT",
-      "category": "GA 법인보험대리점",
-      "key": "ca046f32eac58ae6",
-      "topic": "영업·마인드"
-    },
-    {
-      "title": "메리츠화재만 설계사 급증...‘좋은 처우 vs 과장 광고’ 뭣 때문? - 인더뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1MUDc5ZnlTeTgwNHVWUFd4MHZkbGRSUjJ4anNLX2FYSmtNLVpHQjJPQVRBYXhRV1pSalRQbnpiZjkycm5pQkNWZWN0eF9DcDNJZGFHV1JZVVNpSEViRldn?oc=5",
-      "description": "메리츠화재만 설계사 급증...‘좋은 처우 vs 과장 광고’ 뭣 때문? 인더뉴스",
-      "pub_date": "Fri, 06 Jul 2018 07:00:00 GMT",
-      "category": "GA 법인보험대리점",
-      "key": "6f5372cf27b0af2a",
-      "topic": "영업·마인드"
-    },
-    {
-      "title": "삼성생명 대리점 '뿔났다'…\"자사형 GA 설립 반대\" - ebn.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1kLTZ5cWFMTncyTUtjd3BfczVUdFBtX0Y4Um1NOURaOEVoTm1sY3hWRHVDWlZPaDFFY2ZOQkdpM0RUMGl0SGVLZUJTQjA2X0k2ckVBeGI5YXVJOFF4VFJNb0FVanlySDQ?oc=5",
-      "description": "삼성생명 대리점 '뿔났다'…\"자사형 GA 설립 반대\" ebn.co.kr",
-      "pub_date": "Mon, 11 May 2015 07:00:00 GMT",
-      "category": "GA 법인보험대리점",
-      "key": "71f774b9bb438e20",
-      "topic": "영업·마인드"
-    },
-    {
-      "title": "치매 예방과 치료, 자산 관리까지 지원… ‘토털 케어’ 구축 나서 - 조선일보",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNFVqX2w0WXB5b3JVNE1Tdjh2Vko3Unhpa0U4emlUOUxteDZyUUx2Zk9DM0xXNWNYZ0pJVmtZQ1FSSkhzaWRIeFRqS1F1dzNTeXZQZ2k1S3oyV2NRTFB4bFlZQ2hXNzQydTZvMTgzakFhR2JkWXlEcWJyVUFEUFZhRGhGb3JRdlhhOEZ2S0Rn?oc=5",
-      "description": "치매 예방과 치료, 자산 관리까지 지원… ‘토털 케어’ 구축 나서 조선일보",
-      "pub_date": "Thu, 29 Oct 2026 07:00:00 GMT",
-      "category": "치매 간병",
-      "key": "d654931f879935a2",
-      "topic": "의료·건강"
-    },
-    {
-      "title": "[보험 이슈] 커지는 치매·간병보험 시장…보험사, 조기 진단·장기요양 보장 넓힌다 - 데일리e뉴스",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE16YnVGTkM5OXFpNU1ERjZkRmJYbTFFd1A2eldhQXNDUERnbDNUdEpfS3N1ZUZOOG13R0FPQ1NUeFRKRkFHNzJvTkhMSzJVOElMTk9mdGJCUVczRDcxT0ZnQkY4REQ0dnVrU21OS0hycw?oc=5",
-      "description": "[보험 이슈] 커지는 치매·간병보험 시장…보험사, 조기 진단·장기요양 보장 넓힌다 데일리e뉴스",
-      "pub_date": "Tue, 27 Oct 2026 07:00:00 GMT",
-      "category": "치매 간병",
-      "key": "e082d0514f3984f5",
-      "topic": "의료·건강"
-    },
-    {
-      "title": "치매 대응 나선 금융권, 보장에서 자산관리까지 - 한국보험신문",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBWM2RXVWMwSXlpdE5QbnJyazRLOC1CeWlEUlFtOEtIYkZPTmtGMUxqY0NNNm5Gc183djVKcl8tRGFLMFpBSWdrVzJPcjVFbFRrc1lQSzlmWHNNMjNhWm84a3VKZk4tckRiSUg00gFvQVVfeXFMUGpGLTFkTTdqcUM1dFhNSENNMGhFaDFFeWNZMF9IRGxnTG5ZR2JNLW8yRzktbmJYME11N2puUWZNZDlLX0dxTE1WZ1FHNG13YWt0U2dnTmhHdHk3VlV4dmt5ZWRzUDNkRW9IaGJqSENv?oc=5",
-      "description": "치매 대응 나선 금융권, 보장에서 자산관리까지 한국보험신문",
-      "pub_date": "Mon, 21 Sep 2026 07:00:00 GMT",
-      "category": "치매 간병",
-      "key": "85e0a5eb11dd0dd2",
-      "topic": "의료·건강"
-    },
-    {
-      "title": "하나손해보험, ‘하나더넥스트 치매플러스보험’ 출시 - 보험신보",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBnM3hxbWxGZUpLYkUwTURtVE1ZVlEzNE42UmtFWnVkbExKdHgwSWRKVjBhMVg3TTZEUFFKd24wLU1reFpVNTctbmZpWE9GaXhER1NuY1RqZ1M3eXpTMmlVV2RnSS1ONk4xSzhz?oc=5",
-      "description": "하나손해보험, ‘하나더넥스트 치매플러스보험’ 출시 보험신보",
-      "pub_date": "Mon, 02 Nov 2026 08:00:00 GMT",
-      "category": "치매 간병",
-      "key": "96c406fd65805787",
-      "topic": "의료·건강"
-    },
-    {
-      "title": "치매·간병보험 신계약, 2년 새 50% 급증 - 스트레이트뉴스",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9jM25nVXhOSS1UQmtWLVhGUVRsWDZrYWFpenlnYmdvLTRXRG5UTDk2M2VfeTB5SE9EYnlkMU1iX3NVZVdKaTFEN2plYkNVLWRQcm9lYmU4UHFwNG5aSXdTR0RhRjdVUmNXd18wMVR4dWFVWkHSAXdBVV95cUxQcV9wVWt0bmZhRDFCN1BmLXVaMWZuWUxWRUluU3ZYcmxVZHhrV3c5MDU4bG1mblpmZnpPRHNkVHlHRjctR1RENFROY1lOMVZZUXF2b3lrWExFU2pySFJmdDFmQjVmNFV0bjkyanFMTjhuRXFrMnhFRQ?oc=5",
-      "description": "치매·간병보험 신계약, 2년 새 50% 급증 스트레이트뉴스",
-      "pub_date": "Mon, 28 Sep 2026 07:00:00 GMT",
-      "category": "치매 간병",
-      "key": "fcfaf30a007fb1c2",
-      "topic": "의료·건강"
-    },
-    {
-      "title": "'고령화 시대' 치매 보험시장 확장 - 매일일보",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBNVEN4SHc4S2FJeXNfUS1keFQ3TEV1cXBZeFpCTkJ4U3JKLWNNRzU4XzN4X2JNWUVlXzd1YzJZdk5lRjRDMGlKTUlQUHZfTmJmNHFwUm5EcElPM3JOaUQ2OWdxOXQ?oc=5",
-      "description": "'고령화 시대' 치매 보험시장 확장 매일일보",
-      "pub_date": "Thu, 22 Oct 2026 07:00:00 GMT",
-      "category": "치매 간병",
-      "key": "ec3e6ecf2cd309e5",
-      "topic": "의료·건강"
-    },
-    {
-      "title": "치매 전 과정 보장…하나손보, '치매플러스보험' 출시 - 경제타임스",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE81a3NaZUx1V2VDVkQ4VnhlZjFmUVgxZHpFMExfaDZmVDNJTHNXWnNTaUFHWmlEc0pHS0VSZlE3VXJsYUV4QnFuTHptR0Z2VzNRVndV?oc=5",
-      "description": "치매 전 과정 보장…하나손보, '치매플러스보험' 출시 경제타임스",
-      "pub_date": "Mon, 02 Nov 2026 08:00:00 GMT",
-      "category": "치매 간병",
-      "key": "ab3734992ec589cb",
-      "topic": "의료·건강"
-    },
-    {
-      "title": "한화생명, 촘촘한 치매관리체계로 '치매보험 명가' 부상...\"맞춤형 치매 보장 넘어 전문 컨설턴트 양성까지\" - 녹색경제신문",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE84Ymt0UUpreFRBcHU2Zm5ralp5dWhzVHNhTjhGcEZRY0ZYZEttcW41NEk4Q1hObUxaMDA1T2hPRXpSWm9maTBTNWtWYkhpLXZxMHY3MWNHdjl6RkY0dG9jeDJkOUZMTlJH?oc=5",
-      "description": "한화생명, 촘촘한 치매관리체계로 '치매보험 명가' 부상...\"맞춤형 치매 보장 넘어 전문 컨설턴트 양성까지\" 녹색경제신문",
-      "pub_date": "Mon, 21 Sep 2026 07:00:00 GMT",
-      "category": "치매 간병",
-      "key": "b3203bae743abd84",
-      "topic": "의료·건강"
-    },
-    {
-      "title": "치매 초기부터 장기 간병까지…생보사, '돌봄 영역' 넓혀 - 아시아경제",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ucDBLazk0STRIc2FFNWQyWEdwdHN3VHU2dEREaldDckxEeGpmUHNfOXlJTnVCNm9mNjhFM0dUOXVtc0xjMG42amlhcV9nZnhOemxPNXZNSUNyWU53SFlTMQ?oc=5",
-      "description": "치매 초기부터 장기 간병까지…생보사, '돌봄 영역' 넓혀 아시아경제",
-      "pub_date": "Wed, 28 Oct 2026 07:00:00 GMT",
-      "category": "치매 간병",
-      "key": "0b8d856a17a0a9d9",
-      "topic": "의료·건강"
-    },
-    {
-      "title": "[초고령화 시대] 치매 보장 '토탈케어' 겨냥한 보험사...치매환자 100만명 '대세상품' 부상한 치매보험 - 녹색경제신문",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBrcUZUYjQ0eU1QTXFfcmtxUGhOSzBrODd1T3RqSzE5QnNXUVRyTGw3elNIVi1LeGQ5aTdsajE2eGd3V0I1ZVV1SXU2WjVtTkdzam9VSVZrQ1QwTGRQdEgwRFdEdndiQWNn?oc=5",
-      "description": "[초고령화 시대] 치매 보장 '토탈케어' 겨냥한 보험사...치매환자 100만명 '대세상품' 부상한 치매보험 녹색경제신문",
-      "pub_date": "Wed, 15 Jul 2026 07:00:00 GMT",
-      "category": "치매 간병",
-      "key": "8c907809219861d9",
-      "topic": "의료·건강"
-    },
-    {
-      "title": "AIA생명 ‘파워100치매보험’, 치매 진단 후 생활비·간병비까지 보장 - 한국보험신문",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA4MUM2WGZRZXJQTkMyV1psRndtZV9VNXVOWjlCOTB5bmlTMDdhNXZmR3VITDdRS25BLUt1cUxidXhiS1FXUE51d1hxQ1FsYnBUYlhOd25JY0RPanI2LTQwY2I5RjhfS29palk00gFvQVVfeXFMUEpGREE0VlEyVzRrZ0E1UHJNTlRMMG9YVkJRMnNsa3h2dzRITUxyQ0t2TmNSMjk5VFFNZG1jNzdtX1lWRVJETnM5MzBhRXlkZUlTZjBMSkZTSnN6WjhPblpHR0tpQTEwMElDWGFyOWtZ?oc=5",
-      "description": "AIA생명 ‘파워100치매보험’, 치매 진단 후 생활비·간병비까지 보장 한국보험신문",
-      "pub_date": "Wed, 15 Jul 2026 07:00:00 GMT",
-      "category": "치매 간병",
-      "key": "6570250e30761e20",
-      "topic": "의료·건강"
-    },
-    {
-      "title": "한화생명, 치매 대응 종합솔루션 구축...\"치매 보장 넘어 예방활동·자산관리까지\" - 녹색경제신문",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9OVXZRTGFZVEFMRGkzWDVRaVpXbWloNXVmNTdpX05PR1doSzJnTkpQczVHZlRhT3F0S3hvOFo2V0JXQ21lUzFubWdTRFo5ZW55VmYyRHpjdWpnMXhnSExnNWZscjA1dDBw?oc=5",
-      "description": "한화생명, 치매 대응 종합솔루션 구축...\"치매 보장 넘어 예방활동·자산관리까지\" 녹색경제신문",
-      "pub_date": "Thu, 20 Aug 2026 07:00:00 GMT",
-      "category": "치매 간병",
-      "key": "f8203a94561babcf",
-      "topic": "의료·건강"
-    },
-    {
-      "title": "[초고령화 시대] 한화생명, 치매·돌봄 리스크 '정조준'...사회적 역할 강화로 '치매보험 명가' 부상 - 녹색경제신문",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE05ZlVNbE9fVldYN2lPYm9Yb0dKNXJyaVRHTS1lVFBJQ2hUS2xKM3dySTFLYzU2U0ZHcFhqVGNsbFVScjUwNGxHMVNvTDFaUWhJSnI5QXFoOGhUV2Jic0t1RXlMMjlEeTh4?oc=5",
-      "description": "[초고령화 시대] 한화생명, 치매·돌봄 리스크 '정조준'...사회적 역할 강화로 '치매보험 명가' 부상 녹색경제신문",
-      "pub_date": "Wed, 22 Jul 2026 07:00:00 GMT",
-      "category": "치매 간병",
-      "key": "80186e97159ded1d",
-      "topic": "의료·건강"
-    },
-    {
-      "title": "고령화에 치매보험 수요 확대…KB손보·삼성화재가 ‘시장 주도’ - CEO스코어데일리",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5vYS01eFl0TGZRdEZweEVYaWh3YktoQzgxWEVHYjNqcllmZTJudEI5SExLOUhfOGxkVGZlVWNUd1Izdm9VVmFxQ182VXFmUXZqRlBlU2xqbUpwNDhfVGJnX0JieUQzTFRtME9N?oc=5",
-      "description": "고령화에 치매보험 수요 확대…KB손보·삼성화재가 ‘시장 주도’ CEO스코어데일리",
-      "pub_date": "Wed, 05 Aug 2026 07:00:00 GMT",
-      "category": "치매 간병",
-      "key": "49c1b14621de84c7",
-      "topic": "의료·건강"
-    },
-    {
-      "title": "초기 치매 환자 늘자…생보사 치매보험도 ‘진화’ - 쿠키뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1PWEx0bUpEWHJ5aXFWLXQwek52NFFLZThLQTJkSXpBckxleWJoWDdLQzFFVWE1cW9xbW44UzRXalZWb3ZMVkNiZ2ZNUWVLWk4zem54aXZ5bGZRZE94cFNNbm5zRQ?oc=5",
-      "description": "초기 치매 환자 늘자…생보사 치매보험도 ‘진화’ 쿠키뉴스",
-      "pub_date": "Wed, 22 Jul 2026 07:00:00 GMT",
-      "category": "치매 간병",
-      "key": "cc54ba0a965fb0aa",
-      "topic": "의료·건강"
-    },
-    {
-      "title": "연준 기준금리 동결…추가 인상 여지 남겨 - 국제신문",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPclExTGZjLUp0cEVxYVAxVzZ2SEdHeU5UTHdhSmpNWWc1U2xPLWxGSkxWVXlJWERaYnhHdmwya1Z6LTVMRFRjSHBNQXZRQ2xVSXhaZ3NKZ1dUamhicFhtVE5TT3gxMG5WS19uV2NBN0MyUlB2SERQcU9pVUx6SlR6SGo3VnkxM0ZBaHhZOGJ3?oc=5",
-      "description": "연준 기준금리 동결…추가 인상 여지 남겨 국제신문",
-      "pub_date": "Thu, 29 Oct 2026 07:00:00 GMT",
-      "category": "기준금리·통화정책",
-      "key": "bf4c6c0a15f1a280",
-      "topic": "경제·환율·금리"
-    },
-    {
-      "title": "기준금리 유지 10명, 인상 2명···美 연준 금리 동결 - 데이터솜",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB5c2MyczhhTWstQlVVQ2p3Rnd4TmtOYU1Ya2FZcmpPem8zOUNobERTQUVQZ0RTTTl3UDFYTDliZWpNd1p6c0JxVGZYZnJLZV83c1dGZGllY3B5V3MwMHpZSGZudll6UUQ3eUIwTNIBcEFVX3lxTE1OMmwxOXFZMTRKbl9xdU9NYUJob2s4TG00NFBPbjNGdkM5T3VoUHdfZE9Qd0xrRXd0OUVOeFNtYnZMbmtJM3hnQmhSX2JhbVd3R04ycXFwa3lXLWJGa21ESEZIS2hVMEk3TU8xY1dPOUs?oc=5",
-      "description": "기준금리 유지 10명, 인상 2명···美 연준 금리 동결 데이터솜",
-      "pub_date": "Thu, 29 Oct 2026 07:00:00 GMT",
-      "category": "기준금리·통화정책",
-      "key": "509922f7c2748bc8",
-      "topic": "경제·환율·금리"
-    },
-    {
-      "title": "美 연준 3년 만에 금리인상…한미 금리역전 1%p로 확대 - 더스쿠프",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBVaWhYcXJkY3Q1bnptQzZHQmF4WHpBVVFEYzYxaGhqX0FxcjV6NkhMQ2IzNXYxdXlxMFUxSmttdGtSaGpMT1BGa2oxYjBKQUZPLTNtbHJVRlBxQUl0bi1rRFFLMTlOOTB5LXZpcVlR?oc=5",
-      "description": "美 연준 3년 만에 금리인상…한미 금리역전 1%p로 확대 더스쿠프",
-      "pub_date": "Thu, 17 Sep 2026 07:00:00 GMT",
-      "category": "기준금리·통화정책",
-      "key": "4ae71bac04d73072",
-      "topic": "경제·환율·금리"
-    },
-    {
-      "title": "미 기준금리 '매파적' 동결…한은 이달 금리 향방은? - 비즈워치",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA2Mmh6R1QtOVBSaEJtWUU5VFN4OXFITXIydzNWY0lTMmtmQ3B1bDNHWFNVWHBHZFpUMnFOaS16Q0VuVFhGQU1MR3ZmT2JmS0lWS0xsMUdlLWFRN1NBX2hkaktWM0VPV201WDN3?oc=5",
-      "description": "미 기준금리 '매파적' 동결…한은 이달 금리 향방은? 비즈워치",
-      "pub_date": "Sun, 02 Aug 2026 07:00:00 GMT",
-      "category": "기준금리·통화정책",
-      "key": "8c453c6bd73f5584",
-      "topic": "경제·환율·금리"
-    },
-    {
-      "title": "글로벌 기준금리 인상기조 시작...한은도 연내 두 차례 인상 가능성↑ - 글로벌이코노믹",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQ1U3QlFIeHBKdmdOaVd4dmFrR3ZYNjJ2aUlxZVdaRTl2R09peWU3YlgycE0zZW1lYkxYa0h4c0JVLUtoeVpoVlpaNS0zcDJZWTJsNlpvOXB2YVREZlFmcGVpb1l5WkxSOEEyYXNuNExRMmhGZGRxUElTYlp6bUJxc2d5OXg?oc=5",
-      "description": "글로벌 기준금리 인상기조 시작...한은도 연내 두 차례 인상 가능성↑ 글로벌이코노믹",
-      "pub_date": "Sun, 21 Jun 2026 07:00:00 GMT",
-      "category": "기준금리·통화정책",
-      "key": "d11442e6ad12e504",
-      "topic": "경제·환율·금리"
-    },
-    {
-      "title": "케빈 워시의 첫 FOMC 미리보기, 기준금리는 어차피 동결? 🏦💸 - 뉴닉",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9uNGRuN2pBcVRuZ3Z3WkVMVXctQV9UX3AxZXNBcWJlcjAyLVJfV2JCR0F6eW5oYTd4RlNYYWl2N3B0cHBoNmdnVDhoaU5kUi03Y3dj?oc=5",
-      "description": "케빈 워시의 첫 FOMC 미리보기, 기준금리는 어차피 동결? 🏦💸 뉴닉",
-      "pub_date": "Tue, 16 Jun 2026 07:00:00 GMT",
-      "category": "기준금리·통화정책",
-      "key": "475a0e2972ddb997",
-      "topic": "경제·환율·금리"
-    },
-    {
-      "title": "트럼프가 금리 내리라고 임명한 케빈 워시 연준 의장 첫 행보 워시 첫 FOMC 기준금리 동결, 연내 인상 가능성까지 - economychosun.com",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TU3FKRVBRSkFobWdTdzBaa3RUNUt0b2Rmck9RYjM1MlBkZ09zM3lJME95ZHRLeEYxTy02SUYyZFQ1Y19kQTlpYXJCdW45ZnJSN21XODk5TDNBbjJUU21yUFBWZVllY2Z6d1lKbVJ4NzFQQ25CNjhhcUNsb3Z1Nk0?oc=5",
-      "description": "트럼프가 금리 내리라고 임명한 케빈 워시 연준 의장 첫 행보 워시 첫 FOMC 기준금리 동결, 연내 인상 가능성까지 economychosun.com",
-      "pub_date": "Mon, 22 Jun 2026 07:00:00 GMT",
-      "category": "기준금리·통화정책",
-      "key": "50eb64d41068413c",
-      "topic": "경제·환율·금리"
-    },
-    {
-      "title": "이번 주 주요국 금리 결정…美·日 오르고, 英 동결될 듯 - 뉴스웍스",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1LcHpERTBuNnV3a29sbGd1enlZMm54Q3Budkp0Wk5UeEJfYTNyQ0lhNTZqYUNxTE9jWUNPSHlINVJjU0lMV084Rk12eVlKVXF1MVU3VU9pV05TaEJwZk5XQ2FMcTJrRnRnLVdYOGg0VdIBc0FVX3lxTFBvODNLTUw4d0RSRkd4MHdHTVZhQ0Fzbnh4ZjR2ZEVveEphd0lpTHQ5aUtiTnlKSUx4SmVac3VZWXdiVjNhaENwNUhpRVB2WG41eDlzWXBXYmxsOVNoTnVUOTg1djBSN2ltRDgxR09sbVhqVE0?oc=5",
-      "description": "이번 주 주요국 금리 결정…美·日 오르고, 英 동결될 듯 뉴스웍스",
-      "pub_date": "Mon, 14 Sep 2026 07:00:00 GMT",
-      "category": "기준금리·통화정책",
-      "key": "e29727f2af1f7073",
-      "topic": "경제·환율·금리"
-    },
-    {
-      "title": "연준, 금리 5연속 동결…물가 불안 확산에 30년물 금리 19년 만에 최고치 - 한겨레",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1oelJpTWpsZzRtRTRXM0NpZEtlOG12djdVSWpVTFZDeDBZU1lmNGlfRGV4OExfYmNsQmNCdnE5dzZET0U0NEFBMmxHTlRfR3JtYjYzemRYTVBSTlhiNlh5MWRBUU9XYXVNWVdXWkJBaw?oc=5",
-      "description": "연준, 금리 5연속 동결…물가 불안 확산에 30년물 금리 19년 만에 최고치 한겨레",
-      "pub_date": "Thu, 30 Jul 2026 07:00:00 GMT",
-      "category": "기준금리·통화정책",
-      "key": "587250dfd29447b7",
-      "topic": "경제·환율·금리"
-    },
-    {
-      "title": "기준금리 인상에 미국은... - 매일일보",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4xV3huNG11bnFqS2JFcVBVeVpmNmlCaENJQ1gzSmx3VHZlM1NiTzhtaHd0dUtDQUFud0s1VXBnTWVRU0g3dmktaEtUZ1BtUzRTUlBtS3dnVWtQT2NneHB6bnQzZUU?oc=5",
-      "description": "기준금리 인상에 미국은... 매일일보",
-      "pub_date": "Sun, 19 Jul 2026 07:00:00 GMT",
-      "category": "기준금리·통화정책",
-      "key": "c7bdf3a3e22270f3",
-      "topic": "경제·환율·금리"
-    },
-    {
-      "title": "미국 금리, 인하만 기다리면 놓치는 기업의 위험 - 코리아비즈니스리뷰",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObFcxdFNpckpMSmo5NTFwdWd5czZUVDVLTVlXMDduTmRqV1RZa05MSHUxUXdYMWM4eHRGa0xxc0xrUk9PcnlyRjFpbDdCUXpLa0dWQUViYzFNNDJMRU1XbmdzZjR0VTF3TEhUUTVpV2JsU3FfUTFrVkJrUTVuOXdBVXZfX01MLTFSMlJ3UENBcC1NQkE?oc=5",
-      "description": "미국 금리, 인하만 기다리면 놓치는 기업의 위험 코리아비즈니스리뷰",
-      "pub_date": "Mon, 14 Sep 2026 07:00:00 GMT",
-      "category": "기준금리·통화정책",
-      "key": "724e8da7d1e15fbc",
-      "topic": "경제·환율·금리"
-    },
-    {
-      "title": "'매파적' 미국 연준에 한은 금리 인상 힘 실리나, '과묵한' 연준 의장 변수에 셈법 복잡해졌다 - 비즈니스포스트",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1VZEhreHREdzFnajVPRlcyODdoSFhPaDhQZGtQTGFUUVpPa1ZaeVZUNHJndmJ1R2Q5WGxGdWxwY1hTbDdxZVlWV2VfZXd6UDE4Sl9QMEhUOTdhSE9kM0t3a2RKNEVTdFBqTzIwMnFMdmxXbTA?oc=5",
-      "description": "'매파적' 미국 연준에 한은 금리 인상 힘 실리나, '과묵한' 연준 의장 변수에 셈법 복잡해졌다 비즈니스포스트",
-      "pub_date": "Thu, 18 Jun 2026 07:00:00 GMT",
-      "category": "기준금리·통화정책",
-      "key": "dae635e150541183",
-      "topic": "경제·환율·금리"
-    },
-    {
-      "title": "[이태경의 토지와 자유] 기준금리 인상 여지 남긴 연준의 매파적 금리 동결, 한국은행은? - 민중의소리",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1lZWk4Y2pfaW9hWnlET1hXaFJ1em9JVTlZQ2dGRVlEclVoUUpNRGZqNllmZ2xkRGR4YWlYZW5BNVI2c2RFemgycENKOA?oc=5",
-      "description": "[이태경의 토지와 자유] 기준금리 인상 여지 남긴 연준의 매파적 금리 동결, 한국은행은? 민중의소리",
-      "pub_date": "Sat, 02 May 2026 07:00:00 GMT",
-      "category": "기준금리·통화정책",
-      "key": "dc72ffa52fc1b4c9",
-      "topic": "경제·환율·금리"
-    },
-    {
-      "title": "금리 인하 기대 접은 연준…1500원 환율, 한은 선택지 좁아져 - 비즈중앙",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBQaWhkWUJHSDNNamIzVGp2OTVXYk44blJCT1R3RmhMNXZjR29PdXd0V2ljNVFCTE1hRVBmNDNCeHV1YUU5Nk5id21kbUpKSHlvcGNQb0JxNFNvTE1TZ2hROGpBWEtmcjVVWGdIeXlHYkc?oc=5",
-      "description": "금리 인하 기대 접은 연준…1500원 환율, 한은 선택지 좁아져 비즈중앙",
-      "pub_date": "Thu, 09 Jul 2026 07:00:00 GMT",
-      "category": "기준금리·통화정책",
-      "key": "9aae35d5b0fe05ef",
-      "topic": "경제·환율·금리"
-    },
-    {
-      "title": "연준 기준금리 점도표, ‘인하 12명(3월)→인상 9명(6월)’ 급반전 - 데이터솜",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1LQWU3UzRTMjBrTTRUU3VYVk1YbHpkNVFYY0l3R1lFNDlOd1Z1WmdDYkRITVExNU1WM1FPaE9BSE9NczdrSGhFN0psODZScFVJTS1iZEZHb1ltajRmYVVmZnFDOFBmRjdRSVBiZ9IBcEFVX3lxTFBiUjlmdXJTUGpldnVuZUJVSkpHa296ZU54Sjh4MkdxRUNubnRZOV9HVkZzaVZXWFc4Z2Z5eEwtVlRKWHlpbXJ3S2ptQ254M0NjTDRZYXBQdnBKZ2Nac0c5N3puWDVraEpVbUVYNkpJbDA?oc=5",
-      "description": "연준 기준금리 점도표, ‘인하 12명(3월)→인상 9명(6월)’ 급반전 데이터솜",
-      "pub_date": "Thu, 18 Jun 2026 07:00:00 GMT",
-      "category": "기준금리·통화정책",
-      "key": "8da20b7b3d4a4f80",
-      "topic": "경제·환율·금리"
-    },
-    {
-      "title": "환율, 1330원대 후반서 등락…美 증시 반등에도 강달러 여전 - 뉴스투데이",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBMcEdlTmNGcklGMFlhdk13YkN5cU5wUExYY1BIS21lZnMxUGJzQlZGLXdHMzdReWNGbXFSdE9CMDJwN2NSM2dfcTZKVW4wMjdvME1Vd0lsTUgxNDI0ZkE?oc=5",
-      "description": "환율, 1330원대 후반서 등락…美 증시 반등에도 강달러 여전 뉴스투데이",
-      "pub_date": "Tue, 24 Nov 2026 01:02:00 GMT",
-      "category": "환율 전망",
-      "key": "a5834717306a7321",
-      "topic": "경제·환율·금리"
-    },
-    {
-      "title": "[모닝 리포트] 강달러·외국인 매도에 환율 상승 전망…\"1340원대 등락\" - 뉴스핌",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB0dk45ZEM1enFva0FTYmE2Y0hQTmtMVkFSTVJaLWpiNUpLSE41STVDYnVnczYyS3o4UmdfN1JnVXFmOGl0LVVUQzJCc0FzNWlkanZuUEVzanplb25q?oc=5",
-      "description": "[모닝 리포트] 강달러·외국인 매도에 환율 상승 전망…\"1340원대 등락\" 뉴스핌",
-      "pub_date": "Mon, 12 Oct 2026 07:00:00 GMT",
-      "category": "환율 전망",
-      "key": "1914e59239a07961",
-      "topic": "경제·환율·금리"
-    },
-    {
-      "title": "[다음주 환율전망] 美 기술주 조정에 하락 압력…다음주 1320원대 재진입하나 - 굿모닝경제",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE05bjF0dlU3RlNnM2NsNnRNVS1sb3h1cDBXdGZaaUNRTnRDLVFtZ2t6SHpWc1dieGpPNW9CcDIwXzBqTWVYVzZQdXlXSkRIcTlmcjRXRG5yZExqczdBQUM0ajJRZGJ3ZGJMSXBVdQ?oc=5",
-      "description": "[다음주 환율전망] 美 기술주 조정에 하락 압력…다음주 1320원대 재진입하나 굿모닝경제",
-      "pub_date": "Sat, 31 Oct 2026 07:00:00 GMT",
-      "category": "환율 전망",
-      "key": "154e7e9ad551367e",
-      "topic": "경제·환율·금리"
-    },
-    {
-      "title": "'달러 강세' 꺾이자 환율 변동성 확대…내년 1200원대 전망도 - 메트로경제",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9MMjcyYTJOd2NuV2x4N0NldVV6cHFSZW40MGdudGtob0xwSEF6TkZHRmdoWFhHcEFJZXlPX0tSa0dkLVM1Zk43c1BqNWNmTXhWTkRUai1lWkRWaXhJaEtQNQ?oc=5",
-      "description": "'달러 강세' 꺾이자 환율 변동성 확대…내년 1200원대 전망도 메트로경제",
-      "pub_date": "Wed, 07 Oct 2026 07:00:00 GMT",
-      "category": "환율 전망",
-      "key": "71345b9d6c695f75",
-      "topic": "경제·환율·금리"
-    },
-    {
-      "title": "나스닥 훈풍 뒤로한 SK하이닉스 15% 급락…코스피 7000선 붕괴 - 직썰",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8yalc2SzQ0STJYTWpEWnJzYkNGYXp0b2hnVTBXM3RrRGo3Y3FxR2ZzZEJiSFlLZ1JGSk5qOUJ2cmlJaENJZXpLVGQyNG1YZ3FjS2dMVnZSQ1FvRlRCaEhyX2F0bjRpM2sx0gFsQVVfeXFMUHhpMDlCR1d1UXZXS2RENm51ckFIM3AwVVZ3amRGS21GVkh0bjB0ZUhXc0VFRGh2U2k4Q29zRXZJdHRIU2E0RVhFZ2twWmtkNlpPQVNRa0NUNjJoQktSSkRESEFCYnU3YWJhUEdv?oc=5",
-      "description": "나스닥 훈풍 뒤로한 SK하이닉스 15% 급락…코스피 7000선 붕괴 직썰",
-      "pub_date": "Tue, 14 Jul 2026 07:00:00 GMT",
-      "category": "글로벌 시장",
-      "key": "303f0a8ba9e944e7",
-      "topic": "경제·환율·금리"
-    },
-    {
-      "title": "'나스닥·비트코인 제친' 금·코스피, 나란히 '5000시대 진입'…\"유동성 장세에 올해도 강세\" - 프라임경제",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1VeDZrZk5fMFlHbXFaVG1hRUpIeDhjYVdjdUd2bDhrS1N5bExIMGVvZEhES1EzUW81WUtTT3ZuS05QYUtNS3JQR054aHk5LXROSHV5WUxDMDZtSnc3OUowRHk1UFlpOHlnTllPVg?oc=5",
-      "description": "'나스닥·비트코인 제친' 금·코스피, 나란히 '5000시대 진입'…\"유동성 장세에 올해도 강세\" 프라임경제",
-      "pub_date": "Sat, 31 Jan 2026 08:00:00 GMT",
-      "category": "글로벌 시장",
-      "key": "d494435319a82f76",
-      "topic": "경제·환율·금리"
-    },
-    {
-      "title": "\"비트코인 떨어질때 코스피 78% 쑥\"…韓 거래소도 '비상' - 블루밍비트",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9pVU5zeFBCQVpuejRQMjdpNkRJanNrZHNtSEd1OEVtQmQ0a2FkS0ZMZXAxbXN0bVF2TWxwN1VvVU80dHpzdEdZaFRrUEVOV0xH?oc=5",
-      "description": "\"비트코인 떨어질때 코스피 78% 쑥\"…韓 거래소도 '비상' 블루밍비트",
-      "pub_date": "Fri, 15 May 2026 07:00:00 GMT",
-      "category": "글로벌 시장",
-      "key": "3071f7cbae983579",
-      "topic": "경제·환율·금리"
-    },
-    {
-      "title": "코스피 5년 수익률 86% 돌파… AI 반도체 랠리로 나스닥 앞질렀다 - 자본시장뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE12MERGaE0xQVh2S2RpOG0wbDVyTVZiT2lCQmc5cnlEaFRTOG5jVnUxMTltTGhXQTVjOWR5NUVJd0ZrMzQyS2V0TnFqaUVMSzR6ZGhwMnhoMlJfVm9WcFB5U2xxU0o1MzA?oc=5",
-      "description": "코스피 5년 수익률 86% 돌파… AI 반도체 랠리로 나스닥 앞질렀다 자본시장뉴스",
-      "pub_date": "Sat, 21 Feb 2026 08:00:00 GMT",
-      "category": "글로벌 시장",
-      "key": "3f837ad67e7eb91f",
-      "topic": "경제·환율·금리"
-    },
-    {
-      "title": "[주간증시전망] 美 빅테크 실적 발표… ‘AI 과열론’은 지속 - Chosunbiz",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUEkwd19OaG5zWVA2T0x1cjEyWW4zcFMySmlwTENpSS1HOEo5Um1wN29rRUFUX0NndjBXS0E1b2hEaVhuXzVGbDZVX3UtSW1uVHhIMXNPcG1SYXIzRVJ1NDhzMDR1dFRLc0ZZVmRxOWFTYjM5ZGtvaVkyX2daZjdEMXZWa3hxQUhj0gGcAUFVX3lxTE9vV3R1NGRCaG55OVFBYnlHeHFUMlRrd29jdWhQVFBiTWQ2R3psWS1feFp3TFJiR1ZTWmpfZ0JhZE1xX3hhc2piQ2xORGpVNEpBTFJZQzRZR2I3TlFfTUZWbTFJTFpaVmE4d2FOZndMNk1hUkNmTDZSR0dqdmM4cmdlc1FwNmxGMlBlVGI4cXRTZG1VYTZDbDhOYUNkVQ?oc=5",
-      "description": "[주간증시전망] 美 빅테크 실적 발표… ‘AI 과열론’은 지속 Chosunbiz",
-      "pub_date": "Sun, 18 Oct 2026 07:00:00 GMT",
-      "category": "글로벌 시장",
-      "key": "574a37c8e960148b",
-      "topic": "경제·환율·금리"
-    },
-    {
-      "title": "美 경기침체 공포 재점화...글로벌증시 '패닉' - 매일일보",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5CeTdWdjBFY0pzUURLZDBDOGJpMTdkTHdFOGl5MGNod0hqYVZNWnNqbjVlSnYxM2lscktHVUJsSEF4YWxqU2llRVQzLXp0SnBpcldOOFdPWU0xRFVQbEtIR3IyUkw?oc=5",
-      "description": "美 경기침체 공포 재점화...글로벌증시 '패닉' 매일일보",
-      "pub_date": "Wed, 04 Sep 2024 07:00:00 GMT",
-      "category": "글로벌 시장",
-      "key": "2d6021e7352d2abc",
-      "topic": "경제·환율·금리"
-    },
-    {
-      "title": "[마켓톺] '글로벌 불장'에서 소외된 한국 증시, 왜? - 연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9XR2NBVmFKVmpXMkZSWS1lQ0FNVUtMT0JhSU5rMHpoakUzRGxNbGZkOHY5aW5RY09ZRnhwbjRESGpseE5zcXdEV1ZoY3otUWgzU0gxVTZHR0JVcFnSAWBBVV95cUxNNDJvYWFCQkp6ZDFiRWNGcFpVUWNvQ1dCY21SRUFkN0pPS2Z6cUN3U3NIR2EzczlRMWswMnhrc1VDdy12WkZ0YXpFQzh1N0szNzcxOUNMclJiS1phLUNtVVY?oc=5",
-      "description": "[마켓톺] '글로벌 불장'에서 소외된 한국 증시, 왜? 연합뉴스",
-      "pub_date": "Mon, 20 May 2024 07:00:00 GMT",
-      "category": "글로벌 시장",
-      "key": "6aceca9760fc6f10",
-      "topic": "경제·환율·금리"
-    },
-    {
-      "title": "“증시 누가 살리나”…AI株 폭락에 월가 패닉, 코스피 ‘비상’ [머니+] - 에너지경제신문",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DbDVaczlENlN5MVU4My1GSnRiNEUwaks2cE5EanZmVEx5LTFZNWRwOFN5Qnh6aURiNl94czIzNHhFNW1NVFBDbWh4dERwNWVIOGZLR25rLUtYMUE?oc=5",
-      "description": "“증시 누가 살리나”…AI株 폭락에 월가 패닉, 코스피 ‘비상’ [머니+] 에너지경제신문",
-      "pub_date": "Sun, 22 Nov 2026 02:37:10 GMT",
-      "category": "글로벌 시장",
-      "key": "8775da9e6f00e3ec",
-      "topic": "경제·환율·금리"
-    },
-    {
-      "title": "[글로벌 마켓 뷰] 뉴욕증시, 스캔들 엔비디아만 빼고 다 올랐다, 코스피에도 훈풍 기대감. - moneystorm.kr",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBvSmx6Q2dNUGtDdTNrb25tclhxazNWaGRmMHkyLVhJamNyVmQ3MjJKTFVEQU1oSTNKLWVwQ21mVWtDcmxPdjNLMkRpRFBsNVlfT2g1Y2NpZ2lVZmlnSUFfcnZCc1J3SFdsZWc?oc=5",
-      "description": "[글로벌 마켓 뷰] 뉴욕증시, 스캔들 엔비디아만 빼고 다 올랐다, 코스피에도 훈풍 기대감. moneystorm.kr",
-      "pub_date": "Mon, 09 Nov 2026 21:24:10 GMT",
-      "category": "글로벌 시장",
-      "key": "2ac8f949d9dd041a",
-      "topic": "경제·환율·금리"
-    },
-    {
-      "title": "[5월 넷째 주 세계경제동향 브리핑] 코스피 8,400선 돌파…한미 증시 동반 강세 - 기호일보",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5JUnBiOElpRThZZlpQZl9pb0JLblowanV1UEdrWk5QQzcwZi0xZXdWeXd5T1dmblBoZ21XeEU5OV9XaW11aVVqYm5sYllUWG5DVlluaUo1SHJzZDZyTmxBaWYwMjdkLXJBUS1aZFJsMA?oc=5",
-      "description": "[5월 넷째 주 세계경제동향 브리핑] 코스피 8,400선 돌파…한미 증시 동반 강세 기호일보",
-      "pub_date": "Sat, 30 May 2026 07:00:00 GMT",
-      "category": "글로벌 시장",
-      "key": "4d8fe7139e83af98",
-      "topic": "경제·환율·금리"
-    },
-    {
-      "title": "증시 ‘8·5 쇼크’ - 조선일보",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQUhmZk9iN3VwLS1ZT1VubkU4aU9qM3lTYzN4WUFQWUtPeXJuSXI0bDBfWFhESXZsN2lFSVkzNE5tdGFzMWV0MXNTT001LWQyRVg0eTBMb0xaTlZkMmF0NWJKaFJXdHJ2bzJJcFpuVmo5M3FycVlGXzlScVdRM3lRckdVUVlSYXRzeS1PZ0xn?oc=5",
-      "description": "증시 ‘8·5 쇼크’ 조선일보",
-      "pub_date": "Tue, 06 Aug 2024 07:00:00 GMT",
-      "category": "글로벌 시장",
-      "key": "b3330312024ba6a5",
-      "topic": "경제·환율·금리"
-    },
-    {
-      "title": "선물·옵션 동시만기 폭탄…11일이 코스피 분수령 - 중기이코노미",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE56S0RuOWhWVUFjc01OMHRnRGtrSk9QejBzN1FuNVpXdjdQU3Z4RlcxSkJ1cV8weGRZa2FId0p1clZkWVZJQnpLbFpUTGVDTWpmNWp6QUIyUlNybGVnbWNRbnYzcWdONG9WVnc?oc=5",
-      "description": "선물·옵션 동시만기 폭탄…11일이 코스피 분수령 중기이코노미",
-      "pub_date": "Thu, 04 Jun 2026 07:00:00 GMT",
-      "category": "글로벌 시장",
-      "key": "27b520c08d9b8667",
-      "topic": "경제·환율·금리"
-    },
-    {
-      "title": "美 경기침체 공포에 아시아 증시 '폭락'···코스피 2700선 무너져 - 뉴스핌",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1jdWxfUnMyUkZaM1lKNlkydkZYNDlPWVh0Ykh0d0NkYm5Jck83SUVCLUR2anlMRWdjMVV4UUkwS3BMaWRjcXBCakY3TlAxZE9pb1lvQ3dTd0xIeEdN?oc=5",
-      "description": "美 경기침체 공포에 아시아 증시 '폭락'···코스피 2700선 무너져 뉴스핌",
-      "pub_date": "Fri, 02 Aug 2024 07:00:00 GMT",
-      "category": "글로벌 시장",
-      "key": "ba3e926c6fa28cbf",
-      "topic": "경제·환율·금리"
-    },
-    {
-      "title": "'수익률 꼴찌'의 반전…K증시, 새해 개장하자 깜짝 상승 - 한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hbTA5V2NpWHkzS2M3MXNUOXdtV3BBVGpZbHR4RmFZN2VNV0lEcVh0STd2c2tYU3NLOXBNY3lFQjlHUWJCbUFXN05sTGZvVzd5YTc2b0RWU1o1dw?oc=5",
-      "description": "'수익률 꼴찌'의 반전…K증시, 새해 개장하자 깜짝 상승 한국경제",
-      "pub_date": "Mon, 06 Jan 2025 08:00:00 GMT",
-      "category": "글로벌 시장",
-      "key": "d7f1e453f00fe2e2",
-      "topic": "경제·환율·금리"
-    },
-    {
-      "title": "美 고용·금리·중동 리스크에 코스피 ‘7천선’ 시험대…원화·외국인 수급이 관건 - THE NEWS",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1mbm1aSFYtSElFNzlCUk5lbEFpN28zWl9ialRJR1dRMmRSYkEySWl5Qk0tUEhaMXo0QmhDZTg0cVBlYk1Hdno4Sno5bVB5OFRWQkp3alIydG9MNmxLd2NPR1hZTUhEb0xxSVlN0gFvQVVfeXFMT2dFbEI4TUUzc2o0UjJ3ZG1yMVFxdkFCaWMxdFhTRmxpY1FiSU81UThwalRkRlRrWXNpVFZDNjZoUkY5eGg5anQ0Q2lwYlQ1UGxoNHllYm82SnhwRmxkUFV6SlFPLXlnd2ktRTQxVWpr?oc=5",
-      "description": "美 고용·금리·중동 리스크에 코스피 ‘7천선’ 시험대…원화·외국인 수급이 관건 THE NEWS",
-      "pub_date": "Mon, 31 Aug 2026 07:00:00 GMT",
-      "category": "글로벌 시장",
-      "key": "33919e3680ede992",
-      "topic": "경제·환율·금리"
+      "title": "[분석] 가속페달 밟는 GA, 브레이크는? 당국도 신중론 - 파이낸셜포스트",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5adWd1MHRBTGZyOEVrT2VzM0Y0ZG5zYzdtVUdwOW1MelpCdjFwZ1RyNkJSVjhodkRfX2t0V1R1dkl0cW1wcXEzaGQ5VWtGVEh1X1NSSV95U2kyMTJ1MmR4cnN4OGpJOTRJRmdoWlcybXVDRGNQ?oc=5",
+      "description": "[분석] 가속페달 밟는 GA, 브레이크는? 당국도 신중론 파이낸셜포스트",
+      "pub_date": "Tue, 24 Nov 2026 04:55:21 GMT",
+      "category": "GA 제도·수수료",
+      "key": "837b8169ebead267",
+      "topic": "GA·업계"
+    },
+    {
+      "title": "[GA 수수료 대전환①] 정착지원금 4분의 1로…1200%룰 넉 달, 설계사 영입 주춤 - 뉴스투데이",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAxdENpaDVfdzNNWHpMbXBVWk5FTXU0RkJLendoUGczWVZTb3Z5T3ItTXJ6bS1FT20xMXk2RWs0dW5GNFE3M1pJQ3V1aTU0YzYyalhHR2R3RWwwZkJ0M0E?oc=5",
+      "description": "[GA 수수료 대전환①] 정착지원금 4분의 1로…1200%룰 넉 달, 설계사 영입 주춤 뉴스투데이",
+      "pub_date": "Mon, 23 Nov 2026 21:50:12 GMT",
+      "category": "GA 제도·수수료",
+      "key": "e07df6091b329a7d",
+      "topic": "GA·업계"
+    },
+    {
+      "title": "1200%룰 확대 시행 후…보험사, 전속 설계사 늘리나 - 뉴스저널리즘",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9rMnZxd0prbGo4OXl2dVJtamdENmJDTEhzbllsY0VNWmtMemZJUkVMS2tGaDBja2ZtZXRTbDNvRmkzcUdNMWxBQ3VYdHQ0TUc1aWVQUHVtWnpOMldXcWcyQjFRNFFPYVZnU1hJ?oc=5",
+      "description": "1200%룰 확대 시행 후…보험사, 전속 설계사 늘리나 뉴스저널리즘",
+      "pub_date": "Thu, 19 Nov 2026 01:21:17 GMT",
+      "category": "GA 제도·수수료",
+      "key": "31fc771bdd14c979",
+      "topic": "GA·업계"
+    },
+    {
+      "title": "금감원, 불법영업 대형 GA 퇴출 ‘초강수’ - 서울경제",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9scWZyVFE4WnppOVNIOENielIzSGFvVElYQlctU0NqSVhqUDdDcXB6YURiR2NsRVVnc0VON05idGZ6QjJzaTVyMEFGQ1lmNjdOdXfSAVNBVV95cUxPc2gyeTZsTFdyODJWZjlCOWlNYXlKMUJzNWY0NXE1SVJ5VGZ0dFp0MVNFcU9CaWNiUUtGMEs4elBtbjdtOEIzUDVOenZEZkhYVi1iTQ?oc=5",
+      "description": "금감원, 불법영업 대형 GA 퇴출 ‘초강수’ 서울경제",
+      "pub_date": "Mon, 16 Nov 2026 08:44:38 GMT",
+      "category": "GA 제도·수수료",
+      "key": "1f9fa13225354cad",
+      "topic": "GA·업계"
+    },
+    {
+      "title": "'불법 리베이트'에 철퇴 맞은 GA…설계사 6000명 '날벼락' - 뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1kMDlwc0V1bXBjd3BxOFhTNnIwaWt2cXhlc2d1cmk5c2NvRjM4UnNxWjc1eTdZMUFzUW1qSjJBUnVaMnpuX2pleklnQkIxTURBVE95elVOdkpHMjhMN1M2dA?oc=5",
+      "description": "'불법 리베이트'에 철퇴 맞은 GA…설계사 6000명 '날벼락' 뉴스1",
+      "pub_date": "Tue, 17 Nov 2026 05:46:14 GMT",
+      "category": "GA 제도·수수료",
+      "key": "2ec0070063e43fd8",
+      "topic": "GA·업계"
+    },
+    {
+      "title": "금감원, 한국보험금융에 '등록취소' 사전 통지…리베이트 혐의 - 금융소비자뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Rb05VazRxcnFzc3JQSmtOaXdlbXNEdW1vRDNSNjhMMFAwYTUwTjFGVzljZkpfNzZVTTJYOVRyanZKQjZraDVlV3pkbFhuZXh1TTRtYXdVSDUwVkpyUkg4clluVWZvTVFnMUE?oc=5",
+      "description": "금감원, 한국보험금융에 '등록취소' 사전 통지…리베이트 혐의 금융소비자뉴스",
+      "pub_date": "Tue, 17 Nov 2026 01:26:00 GMT",
+      "category": "GA 제도·수수료",
+      "key": "64b7637d24741946",
+      "topic": "GA·업계"
+    },
+    {
+      "title": "한국보험금융 등록취소 갈림길…금감원, 732억 리베이트에 사전통지 - 스페셜경제",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ybF9sOS1uRVNoQkRXUUhvQ1hVZHFxU1FXekxmTkROYnFWcm1uaTZtMjZCWHhDQm1xMW9PYk42Ui1lT2M1X3RudEZ4bk8ydUpjXy1GTlYtT2VCZmJfMnU4LWZLNjhjMHc5NUtsYQ?oc=5",
+      "description": "한국보험금융 등록취소 갈림길…금감원, 732억 리베이트에 사전통지 스페셜경제",
+      "pub_date": "Tue, 17 Nov 2026 05:10:54 GMT",
+      "category": "GA 제도·수수료",
+      "key": "a67a82230114e118",
+      "topic": "GA·업계"
+    },
+    {
+      "title": "금감원, 대형 GA ‘한국보험금융’ 등록취소 사전통지...732억원 리베이트 혐의 - 더퍼블릭",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBXR0tzY1RzdHlWZTF6ckZiYXl0VXBSam1fZW80aWpEeGZraDRXdFpfTHpuZC1YWkR4OHlTYWZmVmc1bW5OVmZNVjJSS3ZVNFVHVUxZRU5LbTlsZmFab05VaVdKZEowV2pKS3FV0gFvQVVfeXFMTVUxY2cyT3BVUjlOSk9mVDRiaVZ4SmNDRFViamVBNkJEQmd4WV9fWk5sZ203R250OXNzRUpLcUpDNWlMRWJwREY3WmV1a2N6T3FINzcybmJRWnBwelQ2UlIwTVlSLU1XZ0NTczB2VlhR?oc=5",
+      "description": "금감원, 대형 GA ‘한국보험금융’ 등록취소 사전통지...732억원 리베이트 혐의 더퍼블릭",
+      "pub_date": "Tue, 17 Nov 2026 02:26:41 GMT",
+      "category": "GA 제도·수수료",
+      "key": "8f947e2398bb60fd",
+      "topic": "GA·업계"
+    },
+    {
+      "title": "소비자피해 배상 보험사가 먼저…GA '판매전문회사' 공방 - 동행미디어 시대",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE45UHNCSzlBWU82NHZlYTQzYmtjVU4wYXhyM3BlMVZTV0x6QldsVWxZaUE4RGJXakNRQXJzNGo1VDZzYTJ2M0w2NExzVUc2cVVxa09wUUpGYjVfcjBRR3c?oc=5",
+      "description": "소비자피해 배상 보험사가 먼저…GA '판매전문회사' 공방 동행미디어 시대",
+      "pub_date": "Tue, 24 Nov 2026 04:58:59 GMT",
+      "category": "GA 제도·수수료",
+      "key": "b422a10a4122c345",
+      "topic": "GA·업계"
+    },
+    {
+      "title": "[공시돋보기] '등록 취소 위기' 한국보험금융 수수료 뜯어보니…보험사 쏠림 없었다 - 중앙이코노미뉴스",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE10UXJjeDB6Qkk2ejFTN1BjUWI4VmlGQzhuQ3BNZVg3R01QNmxNT1NzclFJZDQzam9FSGJhZXJYOWhRbFRSTGZ5X2FhLXZsX2prV21Fb1VmVUQzMnRUNko3emVsRTh0UE4tWFBfeWNobXMtZw?oc=5",
+      "description": "[공시돋보기] '등록 취소 위기' 한국보험금융 수수료 뜯어보니…보험사 쏠림 없었다 중앙이코노미뉴스",
+      "pub_date": "Fri, 20 Nov 2026 00:38:19 GMT",
+      "category": "GA 제도·수수료",
+      "key": "9f97c23bd5d34e1f",
+      "topic": "GA·업계"
+    },
+    {
+      "title": "GA 시장 양극화 심화…매각 앞두고 '유령 설계사'까지 동원 - 중앙이코노미뉴스",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBOMTM0QkxRQnVDQllibm0tSzFWSmlpdHBzQzhVQV84UFBrTVFpRlVCY3VIOFdueFZyOEszY1RBSFhOc09BbjF2R2g3X0lFZ2xxOWp0Nk9IYzdITFZ4ZkpaSlpaa0Z3WnljYkZNR0h6RENsZw?oc=5",
+      "description": "GA 시장 양극화 심화…매각 앞두고 '유령 설계사'까지 동원 중앙이코노미뉴스",
+      "pub_date": "Fri, 20 Nov 2026 05:50:17 GMT",
+      "category": "GA 제도·수수료",
+      "key": "2afc313767263035",
+      "topic": "GA·업계"
+    },
+    {
+      "title": "한국보험금융 '등록 취소' GA업계 충격...리더스금융판매 '데자뷔' - 중앙이코노미뉴스",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0wMmd4aEtaVWN3X3JsT3Z4MC1pLUpObzQ2T3A5ODBxRUVEZ0wtRVZ3dklGQTV0ODJaaGVhUU5uR2FvRm9sOHR3bDhlSTdwNV9hS0xicy1fNl9zNmlmT1NTQlBmd282UDN4Mi1KM2RkV1BrQQ?oc=5",
+      "description": "한국보험금융 '등록 취소' GA업계 충격...리더스금융판매 '데자뷔' 중앙이코노미뉴스",
+      "pub_date": "Wed, 18 Nov 2026 00:42:12 GMT",
+      "category": "GA 제도·수수료",
+      "key": "7820497a78990a41",
+      "topic": "GA·업계"
+    },
+    {
+      "title": "보험사기 전력자, 설계사 못 한다…GA 업무정지 대신 과징금 도입 - 헤럴드경제",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9fUTlXTUk1Z1laQzFTTERWMWNzRjJHd01lWHJwRXdHNjJMWW9PczlPSHdQbkJOUm9mYmpoTU1razlKWUtzdXNpNXBKWUhFajVpRU1fUXVmMA?oc=5",
+      "description": "보험사기 전력자, 설계사 못 한다…GA 업무정지 대신 과징금 도입 헤럴드경제",
+      "pub_date": "Tue, 24 Nov 2026 05:31:21 GMT",
+      "category": "보험 제도 변경",
+      "key": "f65dac4f26fad35f",
+      "topic": "GA·업계"
+    },
+    {
+      "title": "내년부터 보험사기 등 금융법률 위반자 보험모집인 시장 진입 차단! - K-Life TV",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9nd21VMDduNDNVekdaZzhlQWxnRlVRbG1sUGdOLU9Tdk5yU2NxdTJKdlBUdHdWcVZ6WXRkLTg4S25UVlpTZkNvOHpHU3hjQlVfamttNzNXRmhjQ1RveGhRR0VMVUFZblJ0N2NRUg?oc=5",
+      "description": "내년부터 보험사기 등 금융법률 위반자 보험모집인 시장 진입 차단! K-Life TV",
+      "pub_date": "Tue, 24 Nov 2026 05:55:54 GMT",
+      "category": "보험 제도 변경",
+      "key": "29df335e9672cfcc",
+      "topic": "GA·업계"
+    },
+    {
+      "title": "이번주 국내 주요 금융일정(11.23~11.27) - 뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE11VHlnMUl4M0ZFWlQwN2pvTmdreWR5bmNUTVdEdlQ0SU0zcEZJaGlSaFFVeW5BZm1fZzhVMUp4MDRBUnZKU2tFdlJzaldkQmZxUmh2Wi0xeVVyS1g0?oc=5",
+      "description": "이번주 국내 주요 금융일정(11.23~11.27) 뉴스핌",
+      "pub_date": "Sun, 22 Nov 2026 07:41:00 GMT",
+      "category": "보험 제도 변경",
+      "key": "09d7ef54aadff35a",
+      "topic": "GA·업계"
+    },
+    {
+      "title": "GA 업무정지 대신 과징금 부과…무고한 설계사 영업중단 막는다 - 보험저널",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9JUDNlcVp3RExhSDN3N2JiYi1fUE1OZU9TSjgzX3NiTW9acXc3VkdqU2JJUFRIZ2RJcWdnYVZodldTRDQyLXQxTnFVVlJ6TG1pODVuUkRGakozaXFTbjVnbXpqTkhhZmxOZ25zWkNOWQ?oc=5",
+      "description": "GA 업무정지 대신 과징금 부과…무고한 설계사 영업중단 막는다 보험저널",
+      "pub_date": "Tue, 24 Nov 2026 05:25:30 GMT",
+      "category": "보험 제도 변경",
+      "key": "41b77e0fb7d3013a",
+      "topic": "GA·업계"
+    },
+    {
+      "title": "금융위, 보험사기범 설계사 등록 차단…GA 업무정지 대신 과징금 - 중앙이코노미뉴스",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9GWlFHazhxWUpnZlJPZE9QMTF0V2I4YWpXQzFPZ1J1d0xWRVRQaDF6WFItdVhxZnRJc2IxWXQteTVTTFk5SUZkMFY1NHJuVUxZZ0pCT0x1OWRUSmo0aUtQeTl3a29QSWFwbTB1Z0ZEV1daUQ?oc=5",
+      "description": "금융위, 보험사기범 설계사 등록 차단…GA 업무정지 대신 과징금 중앙이코노미뉴스",
+      "pub_date": "Tue, 24 Nov 2026 06:07:55 GMT",
+      "category": "보험 제도 변경",
+      "key": "823d6378d441b1c5",
+      "topic": "GA·업계"
+    },
+    {
+      "title": "보험사기 전력자, 설계사 금지…금융위, 보험업법 시행령 개정안 입법예고 - 이슈에디코",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0tSzZnS01wLWdWSXFLcGhCNzRTVVRGUWNEN1hpT3BVM1dqZmpYWEpSQjFzYTVXSFd6aVFwbTlrT1ZQTWs0cFd2QTVTOFRPYVlXTVM3SW9GNVRhV2docmNHNVFFcW5oQQ?oc=5",
+      "description": "보험사기 전력자, 설계사 금지…금융위, 보험업법 시행령 개정안 입법예고 이슈에디코",
+      "pub_date": "Tue, 24 Nov 2026 05:24:24 GMT",
+      "category": "보험 제도 변경",
+      "key": "11073db6993a018d",
+      "topic": "GA·업계"
+    },
+    {
+      "title": "달러보험에 돈 몰린다…年 6% 확정금리 상품도 - 서울경제",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9lX3g0bU9ORlZuX0dpQjRHYTVwSXBZdE5rRno1RDdMYXRUM0Q0dnB3a0EtT05xQm9NNDVncXFpckp3Wjk3cEZGeWJyM2pDLXkyc1HSAVNBVV95cUxQVDlsSjVzZkc5aGt3dGc1NW9iUjFlRFhqdFBSSEMtVEkwNXFEU2NaWUplLUI5ajhNR1JfcXE4ZFQzWHlFcHN1TVp1SkwwWUJpVFc3OA?oc=5",
+      "description": "달러보험에 돈 몰린다…年 6% 확정금리 상품도 서울경제",
+      "pub_date": "Wed, 11 Nov 2026 08:00:00 GMT",
+      "category": "달러보험·환율",
+      "key": "06ef154d547bc2e7",
+      "topic": "보험상식·팩트체크"
+    },
+    {
+      "title": "퇴직연금으로 美 증시 투자, 환율이 연금 수익률 가른다 [이병희의 연금술사] - 이코노미스트",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBvSDI5anMzOTZLeVdnWmhkRGxlenZJZldzN2FKUFV2V2QyXzZSZk5xbjVvVW1vdmJMajZMd1FzZlYxdnpuZVFWZnlvVzU3NUI4YU5RVFgxTzFDcHk2WGQzeXF3?oc=5",
+      "description": "퇴직연금으로 美 증시 투자, 환율이 연금 수익률 가른다 [이병희의 연금술사] 이코노미스트",
+      "pub_date": "Thu, 19 Nov 2026 22:05:57 GMT",
+      "category": "달러보험·환율",
+      "key": "9915a52cd8236c8f",
+      "topic": "보험상식·팩트체크"
+    },
+    {
+      "title": "DB손보, 표적항암 치료비 담은 온라인 전용 ‘미니암플랜’ 출시 - 소셜밸류",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Vb1dvNU5RVEVibUQtV2dBcy1XWGFpOUd5QjU5RUxzVlFFOUt2RDhzRE5TYVBXZTNJV25icWZrRG9RclVReXZSZDZUVnBpZ3pIbzJpWTJvMTJidVJfWk9aXzczTdIBbEFVX3lxTE1GOFVac04tVjhXNUZ0SWdySW5nLWZQTUlNUFAwRHRlWGt3bk5JcjRzcGExazJNQmlZVmFNdWVWVEx2bTF4MUx1UnFUZ3E4Y3lqZTZ6bEJXVlRKa1JtWmdqeXktVWpLQzJnNU4wOQ?oc=5",
+      "description": "DB손보, 표적항암 치료비 담은 온라인 전용 ‘미니암플랜’ 출시 소셜밸류",
+      "pub_date": "Mon, 16 Nov 2026 01:33:23 GMT",
+      "category": "암·중증치료",
+      "key": "ea79f2cbc6a23c0b",
+      "topic": "보상·의료"
+    },
+    {
+      "title": "DB손해보험, 인터넷 전용 '참좋은암보험(미니암플랜)' 출시 - 파이낸셜포스트",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBfa1N0UXJiMWlJX2ZDU3Y0VVZGbkRUVG9IR0lPUEdPbFg2ZE1Uc3lhY0RJMEFtd0NCdHk1cExJZTc1SU9HdDVnTUxIN2t5WHJ2Zk1VOHR5ZDJ4LWdxSUhSS0ZoRWQwdzgzSmZzek9iYTN6dERk?oc=5",
+      "description": "DB손해보험, 인터넷 전용 '참좋은암보험(미니암플랜)' 출시 파이낸셜포스트",
+      "pub_date": "Mon, 16 Nov 2026 00:22:52 GMT",
+      "category": "암·중증치료",
+      "key": "bcef4c918a3242f3",
+      "topic": "보상·의료"
+    },
+    {
+      "title": "DB손해보험, 인터넷 가입 전용 암보험 '미니암플랜' 출시 - 전자신문",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5LTjFLLUVlV1U2YVNLSFdycTlPdWx6THB6bHFESjljeHVpS3ZJYVhxYjVsb3dfM1BNMHk4Q0syOWI4bnJqTzUzS1hnZ3ZtZw?oc=5",
+      "description": "DB손해보험, 인터넷 가입 전용 암보험 '미니암플랜' 출시 전자신문",
+      "pub_date": "Mon, 16 Nov 2026 00:06:37 GMT",
+      "category": "암·중증치료",
+      "key": "df5332e5fd27956b",
+      "topic": "보상·의료"
+    },
+    {
+      "title": "[보험사 풍향계] DB손해보험, 인터넷 전용 미니암보험 출시 外 - 에너지경제신문",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBRSXdtajF3cG8wOElkaFpMTUJ0eFIxQkhjQjJIVndVcl9xSWZ5a0IwdV9XODQ4bUc1Um51Z3F1bE8zckJvSzlLQW1zdm90ZzBZeWRvbEVmcWdER2c?oc=5",
+      "description": "[보험사 풍향계] DB손해보험, 인터넷 전용 미니암보험 출시 外 에너지경제신문",
+      "pub_date": "Mon, 16 Nov 2026 08:31:35 GMT",
+      "category": "암·중증치료",
+      "key": "a9e92008c888e033",
+      "topic": "보상·의료"
+    },
+    {
+      "title": "'치료비 보장 집중'…DB손보, 인터넷 미니암보험 출시 - 경제타임스",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE41WExSSlVEd1lFZnh1MjAyOW5FWnBrV3BtclUwZWoyWWktbUgyTy1oSGtmY0R6UFVEWGxkQUtQWTVVcml5b200N20xU05zSkNzVHkw?oc=5",
+      "description": "'치료비 보장 집중'…DB손보, 인터넷 미니암보험 출시 경제타임스",
+      "pub_date": "Mon, 16 Nov 2026 01:06:21 GMT",
+      "category": "암·중증치료",
+      "key": "370e63e609e28147",
+      "topic": "보상·의료"
+    },
+    {
+      "title": "DB손해보험, 인터넷 전용 ‘참좋은암보험’ 출시 - 뉴시안",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5iOEZsVXlyLXd1Mlc3STdORzZRY2NvTy10ZzF3VGdWdXp2Nl9JN3N4MklwdTdaakUwSVFfVG40T29PeXQtMjBYbmNTVGVOM3RCbEtQaGgxWkQ1Mng2SFRQUTIwOTZ3RUlzQUFVYQ?oc=5",
+      "description": "DB손해보험, 인터넷 전용 ‘참좋은암보험’ 출시 뉴시안",
+      "pub_date": "Mon, 16 Nov 2026 08:06:23 GMT",
+      "category": "암·중증치료",
+      "key": "2c50c1cde9577233",
+      "topic": "보상·의료"
+    },
+    {
+      "title": "DB손해보험, 온라인 전용 미니암보험 출시 - 뉴스후플러스",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9oamppU3JtbjB1cG55cUZRSFk2c2c4RVJwZWhLdjFwZ3JXemdZNUR1bmF0VXdGb2tjZ2JodWxTVVJoNnM1VlU3anpaQ3g4SDNCMFhDWHR3bGNURkNWcTA4S0NQM1pMaEFwNVNoMi1n?oc=5",
+      "description": "DB손해보험, 온라인 전용 미니암보험 출시 뉴스후플러스",
+      "pub_date": "Sun, 15 Nov 2026 23:50:08 GMT",
+      "category": "암·중증치료",
+      "key": "bc53cb1544edfefb",
+      "topic": "보상·의료"
+    },
+    {
+      "title": "DB손해보험, 인터넷가입전용 '참좋은암보험' 출시 - 마일드경제",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9jVlBOWjd4UFU1MHIwR2lhSlZxM1FmTmVCcFI0U1dCdkNWUWJmQW4xdU5faUR6UTV2UHNlaTZJTlUyYU00T3FuR2Zldm9hU0ZrSXRYTUQwMUkydFlRYXBjdDU2Zm5KTmZna0JF?oc=5",
+      "description": "DB손해보험, 인터넷가입전용 '참좋은암보험' 출시 마일드경제",
+      "pub_date": "Mon, 16 Nov 2026 05:22:00 GMT",
+      "category": "암·중증치료",
+      "key": "6f0155462b6fb5ce",
+      "topic": "보상·의료"
+    },
+    {
+      "title": "DB손해보험, 인터넷 전용 ‘참좋은암보험 미니암플랜’ 출시 - 더파워",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE93ajR5MlVfYWlsekdhMzN0Tm9vcGJmcWVMQTJ3d0VEazlyM1ZLR2hCYzVSU043TU5DLVF0dXlWQm5fdVlSMXkya1hndGwtVVczUHpzOG9RQ1hpekcyZEJ5UVM4OU03SWtZa3N2Q0lwVWRURHI1NXFraG5JdUczQQ?oc=5",
+      "description": "DB손해보험, 인터넷 전용 ‘참좋은암보험 미니암플랜’ 출시 더파워",
+      "pub_date": "Mon, 16 Nov 2026 01:37:46 GMT",
+      "category": "암·중증치료",
+      "key": "dcd4d14e9cfb19ec",
+      "topic": "보상·의료"
+    },
+    {
+      "title": "DB손보, 인터넷가입전용 참좋은암보험 출시 - 라온신문",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBtWElWa1JHQmgyc0M1SVJDckpCVnNUaFJuWk93Unp2TUhmelFQQUU5eTh4d0xpaklSUlFmR1dncDBqdk0zSnFkSS1JMzl2VkpnQXNtNlMzUXprQm1YTFFYag?oc=5",
+      "description": "DB손보, 인터넷가입전용 참좋은암보험 출시 라온신문",
+      "pub_date": "Sun, 15 Nov 2026 23:46:32 GMT",
+      "category": "암·중증치료",
+      "key": "1ad45b7dc2cc0d82",
+      "topic": "보상·의료"
+    },
+    {
+      "title": "DB손해보험, 인터넷 전용 미니암보험 출시 - 포인트데일리",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1XQ0FTT09NdDd5WDZ2MVd6Y0Rjclp3R3NWY1VHMUFxaEktTGItRmZLMFZhQ3ZDRkt2MVJZN3ZsZk1CdHZkNVBjX19pUGdIZzdiSVYxcEpQRXlrUWdDTU5vcndKVlNDdDVWT2VFcE54ODnSAXRBVV95cUxOWkJSTlRPc1VFcFN1cUFrS0pCc0cyUEUyM25jXzhyNTNkMS0wSVNOUHI3ZWtUNF96bTV6Yk1pam9mcVMtc0lSZDNBejMzR01jWVF3S3FXZHo4ZF93WU5VWGRrT3MtcnpWVjRVZTJBOEVWQTNHUg?oc=5",
+      "description": "DB손해보험, 인터넷 전용 미니암보험 출시 포인트데일리",
+      "pub_date": "Mon, 16 Nov 2026 00:38:56 GMT",
+      "category": "암·중증치료",
+      "key": "5947ace9e6a14a75",
+      "topic": "보상·의료"
+    },
+    {
+      "title": "DB손보, 인터넷 전용 '미니암보험' 출시…치료비 중심 보장 - 중앙이코노미뉴스",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1hYTd1X0ZKSDdpNjZiOFhseDZqaVY5bVFnVTFuMDE5QW1UdE1GSElZU1FMYXFvejhuR2tZTjdGWUJZZEN0ajZDRWRsTmxBTjg4WktieENLSG12N0x2TGFYQmJJMGFtTmpvVndoazlBS0I2Zw?oc=5",
+      "description": "DB손보, 인터넷 전용 '미니암보험' 출시…치료비 중심 보장 중앙이코노미뉴스",
+      "pub_date": "Mon, 16 Nov 2026 00:04:49 GMT",
+      "category": "암·중증치료",
+      "key": "c9806666e1cb94b9",
+      "topic": "보상·의료"
+    },
+    {
+      "title": "GA, 전문 교육인력 확보 전력 - 보험신보",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5YUUdRMzhKMVF0NktIWW1FUzl3NlRwNlhNNnEwUjZTdVVIMkZkT2tFODN0Vzk0cnFWWWtXd3dzM01qcUp4U0lYS1h5OXdUTDVLZ0EtUWwzUnBFNzRwZVN0X2VhZjd1TWRDQzJZ?oc=5",
+      "description": "GA, 전문 교육인력 확보 전력 보험신보",
+      "pub_date": "Sun, 22 Nov 2026 15:00:00 GMT",
+      "category": "보험영업 현장",
+      "key": "d39b0c09a6ca1a64",
+      "topic": "영업·리쿠르팅"
     }
   ]
 }

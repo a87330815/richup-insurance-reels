@@ -1,95 +1,105 @@
 {
-  "collected_at": "2026-11-24T01:32:16.183055+00:00",
+  "collected_at": "2026-11-24T06:38:46.124799+00:00",
   "items": [
     {
-      "keyword": "세인트루이스 시티 sc 대 엘에이 fc",
-      "traffic": "20000+",
-      "news_title": "City SC opens MLS playoffs in better spot than in previous appearance, in inaugural season",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "9da5cf5969c5221e",
-      "collected_at": "2026-11-24T01:32:16.182566+00:00"
-    },
-    {
-      "keyword": "우지원",
+      "keyword": "농심",
       "traffic": "200+",
-      "news_title": "우지원·우서윤, ‘아침마당’ 생방송 중 볼뽀뽀…미스코리아 진 축하",
+      "news_title": "농심 &apos;오징어집&apos;, 41년 만에 첫 시리즈…&apos;불오징어집&apos; 출시",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "355eee2920a1a34a",
-      "collected_at": "2026-11-24T01:32:16.182566+00:00"
+      "key": "0b5a8caf5f98fde5",
+      "collected_at": "2026-11-24T06:38:46.124112+00:00"
     },
     {
-      "keyword": "kospi",
+      "keyword": "장기 기증",
+      "traffic": "2000+",
+      "news_title": "&quot;줄 수 있는 건 다 주고 가겠다&quot;…장기기증으로 5명 살린 기관사",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "2158fd8b1b0c175b",
+      "collected_at": "2026-11-24T06:38:46.124112+00:00"
+    },
+    {
+      "keyword": "퇴직",
+      "traffic": "10000+",
+      "news_title": "NH농협은행·보험 등 명퇴 실시…최대 40개월치 임금 지급",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "c862dcec36ffa7aa",
+      "collected_at": "2026-11-24T06:38:46.124112+00:00"
+    },
+    {
+      "keyword": "12 월 3 일",
+      "traffic": "2000+",
+      "news_title": "&apos;12·3 그날&apos; 정부기념일로‥&quot;헌법 수호 국민 기념&quot;",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "d69d3b9587908762",
+      "collected_at": "2026-11-24T06:38:46.124112+00:00"
+    },
+    {
+      "keyword": "지방세",
+      "traffic": "1000+",
+      "news_title": "",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "5f19ddc8583edb07",
+      "collected_at": "2026-11-24T06:38:46.124112+00:00"
+    },
+    {
+      "keyword": "김서형",
+      "traffic": "1000+",
+      "news_title": "김서형, 건강 악화로 촬영 중 드라마 하차…박보경 긴급 투입",
+      "snippet": "",
+      "source_type": "google_trends",
+      "category": "당일 화제 이슈",
+      "key": "1a0e79fb353abff1",
+      "collected_at": "2026-11-24T06:38:46.124112+00:00"
+    },
+    {
+      "keyword": "임성한",
       "traffic": "100+",
-      "news_title": "Floor Leader Chung Chi-sik to enter the People&apos;s Power Floor Countermeasures CommitteeFloor leader C..",
+      "news_title": "임성한 작가 집 최초 공개...&quot;궁궐이냐&quot; 내비 켜고 구경 - 머니투데이",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "8dffaddb371e3a47",
-      "collected_at": "2026-11-24T01:32:16.182566+00:00"
+      "key": "9e5f78a5e5529279",
+      "collected_at": "2026-11-24T06:38:46.124112+00:00"
     },
     {
-      "keyword": "필라데피아 대 포틀랜드",
-      "traffic": "500+",
-      "news_title": "Live updates: Sixers&apos; knotted up with Trail Blazers at halftime",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "76fd8a8cd7fd2f7b",
-      "collected_at": "2026-11-24T01:32:16.182566+00:00"
-    },
-    {
-      "keyword": "청약홈",
-      "traffic": "1000+",
-      "news_title": "종로 &apos;경희궁 에피트&apos;·영등포 &apos;해링턴 문래&apos; 등 이번주 6295가구 청약",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "039014a05417a748",
-      "collected_at": "2026-11-24T01:32:16.182566+00:00"
-    },
-    {
-      "keyword": "cj그룹",
+      "keyword": "트롯 데스매치 금타는 금요일",
       "traffic": "200+",
-      "news_title": "CJ문화재단, &apos;유재하 음악경연대회&apos; 개최…역대 최다 지원",
+      "news_title": "",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "cdaea90335f7e824",
-      "collected_at": "2026-11-24T01:32:16.182566+00:00"
+      "key": "cf53a3207447ef99",
+      "collected_at": "2026-11-24T06:38:46.124112+00:00"
     },
     {
-      "keyword": "차두리",
-      "traffic": "200+",
-      "news_title": "화성FC, 최종전 남기고 첫 플레이오프행 확정",
+      "keyword": "강호동",
+      "traffic": "2000+",
+      "news_title": "강호동, 무대 보다가 대성통곡…손수건 꺼내 눈물 닦았다 (천만기인쇼)",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "13678d00bd28d712",
-      "collected_at": "2026-11-24T01:32:16.182566+00:00"
+      "key": "19784bceb524ca2d",
+      "collected_at": "2026-11-24T06:38:46.124112+00:00"
     },
     {
-      "keyword": "사이드카",
-      "traffic": "200+",
-      "news_title": "[속보] 급등장에 코스피 이어 코스닥도 &apos;매수 사이드카&apos;",
+      "keyword": "치이카와 클리닉",
+      "traffic": "2000+",
+      "news_title": "&apos;치이카와 클리닉&apos; 팝업 1차 사전예약 하루 연기된 이유",
       "snippet": "",
       "source_type": "google_trends",
       "category": "당일 화제 이슈",
-      "key": "b8c5ddd6959e586f",
-      "collected_at": "2026-11-24T01:32:16.182566+00:00"
-    },
-    {
-      "keyword": "한국장학재단",
-      "traffic": "1000+",
-      "news_title": "한국우편사업진흥원, 지역사회공헌 인정 4년 연속 획득",
-      "snippet": "",
-      "source_type": "google_trends",
-      "category": "당일 화제 이슈",
-      "key": "3442fd8a113ab19a",
-      "collected_at": "2026-11-24T01:32:16.182566+00:00"
+      "key": "1c8d0876127ceb3a",
+      "collected_at": "2026-11-24T06:38:46.124112+00:00"
     }
   ]
 }
