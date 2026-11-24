@@ -22,9 +22,10 @@ on:
         description: "TTS 음성 직접 지정 (비우면 프리셋이 정함)"
         type: string
         default: ""
-  push:
-    paths:
-      - "out/scripts/**.json"
+  # [비활성화 2026-11-24] 범용 콘텐츠 에이전트(contentagent, 평일 08:17)로 대체. 자동 실행 트리거만 주석 처리, 코드는 보존.
+  # push:
+  #   paths:
+  #     - "out/scripts/**.json"
 
 permissions:
   contents: write
