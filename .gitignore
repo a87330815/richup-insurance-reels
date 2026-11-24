@@ -8,3 +8,9 @@ out/scripts/
 out/approved/
 out/rendered/
 .docs/
+
+# 범용 콘텐츠 에이전트 결과물(드라이브로만 납품)
+contentagent/out/
+agents/content/examples/**/cards/
+agents/content/examples/**/reel_frames/
+agents/content/examples/**/reel.mp4

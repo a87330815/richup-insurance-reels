@@ -1,0 +1,23 @@
+{
+  "_설명": "모든 계정 공통 기본값. 계정 파일에 같은 키를 적으면 그 값이 우선합니다.",
+  "status": "draft_only",
+  "font_paths": [
+    "C:/Windows/Fonts/malgunbd.ttf",
+    "/System/Library/Fonts/AppleSDGothicNeo.ttc",
+    "/usr/share/fonts/opentype/noto/NotoSansCJK-Bold.ttc",
+    "/usr/share/fonts/truetype/wqy/wqy-zenhei.ttc"
+  ],
+  "colors": {"bg": "#0E0E0E", "accent": "#F5C518", "text": "#FFFFFF", "sub": "#B8B8B8"},
+  "limits": {"title": 30, "head": 24, "body": 95},
+  "slide_count": [5, 7],
+  "reel_seconds_per_slide": 3.5,
+  "cta": "저장해두고, 필요한 분께 공유해 주세요",
+  "default_hashtags": [],
+  "required_caption": [],
+  "banned_names": [],
+  "compliance": {"block": [], "warn": []},
+  "writing_rules": [],
+  "topic_pool": [],
+  "sources_priority": [],
+  "openai_model": "gpt-5-mini"
+}
