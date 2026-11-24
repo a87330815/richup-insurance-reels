@@ -1,5 +1,8 @@
 """(계정 공통) script.json → 카드 PNG(1080x1350, 캐러셀) + 릴스 프레임(1080x1920) + 릴스 MP4 + caption.txt
 
+선택: photos=True 면 페이지마다 배경 사진(contentagent/photos.py), voice=True 면 장면별 TTS 음성(contentagent/voice.py).
+음성이 있으면 장면 길이는 음성 길이에 맞춥니다. 둘 다 인터넷이 열린 곳(GitHub Actions)에서만 됩니다.
+
 글꼴은 config.font_paths 에서 처음 찾은 것을 씁니다(윈도 맑은 고딕, 맥 애플 SD 고딕 네오 등).
 """
 import shutil, subprocess, tempfile
@@ -16,6 +19,19 @@ def find_font(cfg):
     raise SystemExit("한글 글꼴을 찾지 못했습니다. accounts/_defaults.json(또는 계정 파일)의 font_paths 에 글꼴 파일 경로를 넣으십시오.")
 
 
+def with_photo(base, photo, bg_hex):
+    """사진을 꽉 차게 자르고, 글씨가 읽히도록 브랜드 배경색으로 덮습니다(위 55% → 아래 88%)."""
+    W, H = base.size
+    ph = Image.open(photo).convert("RGB")
+    s = max(W / ph.width, H / ph.height)
+    ph = ph.resize((int(ph.width * s) + 1, int(ph.height * s) + 1), Image.LANCZOS)
+    l, t = (ph.width - W) // 2, (ph.height - H) // 2
+    ph = ph.crop((l, t, l + W, t + H))
+    mask = Image.linear_gradient("L").resize((W, H))  # 위 0 → 아래 255
+    mask = mask.point(lambda v: int(140 + v * (225 - 140) / 255))
+    return Image.composite(base, ph, mask)
+
+
 class Painter:
     def __init__(self, cfg, kind):
         self.cfg, self.kind = cfg, kind
@@ -29,8 +45,10 @@ class Painter:
     def font(self, size):
         return ImageFont.truetype(self.font_path, size)
 
-    def new(self):
+    def new(self, photo=None):
         im = Image.new("RGB", (self.W, self.H), self.c["bg"])
+        if photo:
+            im = with_photo(im, photo, self.c["bg"])
         return im, ImageDraw.Draw(im)
 
     def wrap(self, d, text, font, width):
@@ -109,8 +127,8 @@ def stack(p, d, items):
     return y
 
 
-def draw_cover(p, script, total):
-    im, d = p.new()
+def draw_cover(p, script, total, photo=None):
+    im, d = p.new(photo)
     items = [("tag", script.get("series") or p.cfg["brand"], 44, None, 0, 60, None),
              ("text", script["title"], 112 if p.kind == "card" else 120, p.c["text"], 1.22, 50, 4),
              ("bar", None, 0, None, 0, 50, None)]
@@ -121,8 +139,8 @@ def draw_cover(p, script, total):
     return im
 
 
-def draw_slide(p, script, i, sl, total):
-    im, d = p.new()
+def draw_slide(p, script, i, sl, total, photo=None):
+    im, d = p.new(photo)
     stack(p, d, [("text", f"{i:02d}", 64, p.c["accent"], 1.3, 30, 1),
                  ("text", sl["head"], 84, p.c["accent"], 1.22, 50, 3),
                  ("text", sl["body"], 58, p.c["text"], 1.5, 0, 8)])
@@ -130,8 +148,8 @@ def draw_slide(p, script, i, sl, total):
     return im
 
 
-def draw_end(p, script, total):
-    im, d = p.new()
+def draw_end(p, script, total, photo=None):
+    im, d = p.new(photo)
     items = [("tag", "한 줄 정리", 44, None, 0, 50, None),
              ("text", script.get("summary", script["title"]), 76, p.c["text"], 1.25, 60, 4),
              ("text", p.cfg["cta"], 46, p.c["accent"], 1.35, 60, 2),
@@ -143,12 +161,13 @@ def draw_end(p, script, total):
     return im
 
 
-def frames(script, cfg, kind):
+def frames(script, cfg, kind, photos=None):
     p = Painter(cfg, kind)
     total = len(script["slides"]) + 2
-    out = [draw_cover(p, script, total)]
-    out += [draw_slide(p, script, i, sl, total) for i, sl in enumerate(script["slides"], 1)]
-    out.append(draw_end(p, script, total))
+    ph = list(photos or []) + [None] * total
+    out = [draw_cover(p, script, total, ph[0])]
+    out += [draw_slide(p, script, i, sl, total, ph[i]) for i, sl in enumerate(script["slides"], 1)]
+    out.append(draw_end(p, script, total, ph[total - 1]))
     return out
 
 
@@ -163,36 +182,67 @@ def caption_text(script, cfg):
     return "\n\n".join(p for p in parts if p)
 
 
-def make_reel(paths, out, seconds):
+def make_reel(paths, out, seconds, clips=None):
+    """장면마다 짧은 mp4 를 만든 뒤 이어 붙입니다. clips=[(mp3, 초)] 가 있으면 장면 길이 = 음성 + 0.5초."""
     ff = shutil.which("ffmpeg")
     if not ff:
         return None
-    with tempfile.NamedTemporaryFile("w", suffix=".txt", delete=False, encoding="utf-8") as lst:
-        for pth in paths:
-            lst.write(f"file '{Path(pth).resolve().as_posix()}'\nduration {seconds}\n")
-        lst.write(f"file '{Path(paths[-1]).resolve().as_posix()}'\n")  # concat 마지막 프레임 길이 보정
-    cmd = [ff, "-y", "-loglevel", "error", "-f", "concat", "-safe", "0", "-i", lst.name,
-           "-f", "lavfi", "-i", "anullsrc=r=44100:cl=stereo", "-shortest",
-           "-vf", "fps=30,format=yuv420p", "-c:v", "libx264", "-preset", "medium", "-crf", "20",
-           "-c:a", "aac", "-b:a", "128k", "-movflags", "+faststart", str(out)]
-    subprocess.run(cmd, check=True)
-    Path(lst.name).unlink(missing_ok=True)
+    tmp = Path(tempfile.mkdtemp())
+    segs = []
+    for n, png in enumerate(paths):
+        seg = tmp / f"{n:02d}.mp4"
+        if clips:
+            mp3, dur = clips[n]
+            dur = round(dur + 0.5, 2)
+            audio = ["-i", str(mp3)]
+            af = ["-af", "apad,loudnorm=I=-16:TP=-1.5:LRA=11", "-ar", "44100", "-ac", "2"]
+        else:
+            dur = seconds
+            audio = ["-f", "lavfi", "-i", "anullsrc=r=44100:cl=stereo"]
+            af = []
+        cmd = [ff, "-y", "-loglevel", "error", "-loop", "1", "-framerate", "30", "-i", str(png), *audio, *af,
+               "-t", str(dur), "-vf", "format=yuv420p", "-c:v", "libx264", "-preset", "medium", "-crf", "20",
+               "-tune", "stillimage", "-c:a", "aac", "-b:a", "128k", str(seg)]
+        subprocess.run(cmd, check=True)
+        segs.append(seg)
+    lst = tmp / "list.txt"
+    lst.write_text("".join(f"file '{p.as_posix()}'\n" for p in segs), encoding="utf-8")
+    subprocess.run([ff, "-y", "-loglevel", "error", "-f", "concat", "-safe", "0", "-i", str(lst),
+                    "-c", "copy", "-movflags", "+faststart", str(out)], check=True)
+    shutil.rmtree(tmp, ignore_errors=True)
     return out
 
 
-def render(script, cfg, outdir, reel=True):
+def render(script, cfg, outdir, reel=True, photos=False, voice=False, require_voice=False):
     outdir = Path(outdir)
     (outdir / "cards").mkdir(parents=True, exist_ok=True)
-    made = []
-    for n, im in enumerate(frames(script, cfg, "card"), 1):
+    made, notes = [], []
+    ph = None
+    if photos:
+        from . import photos as photomod
+        ph, credits = photomod.fetch(script, cfg, outdir)
+        notes.append(f"배경 사진 {sum(1 for x in ph if x)}/{len(ph)}장 (출처 photos/credits.json)")
+    clips = None
+    if reel and voice:
+        from . import voice as voicemod
+        clips, engine = voicemod.synthesize(script, cfg, outdir)
+        if clips:
+            notes.append(f"음성: {engine}, 총 {sum(d for _, d in clips):.0f}초")
+        elif require_voice:
+            raise SystemExit(f"음성을 만들지 못했습니다: {engine}")
+        else:
+            notes.append(f"음성 없음(무음 릴스): {engine}")
+    for n, im in enumerate(frames(script, cfg, "card", ph), 1):
         f = outdir / "cards" / f"{n:02d}.png"; im.save(f); made.append(f)
     if reel:
         (outdir / "reel_frames").mkdir(exist_ok=True)
         rf = []
-        for n, im in enumerate(frames(script, cfg, "reel"), 1):
+        for n, im in enumerate(frames(script, cfg, "reel", ph), 1):
             f = outdir / "reel_frames" / f"{n:02d}.png"; im.save(f); rf.append(f)
-        mp4 = make_reel(rf, outdir / "reel.mp4", cfg["reel_seconds_per_slide"])
+        mp4 = make_reel(rf, outdir / "reel.mp4", cfg["reel_seconds_per_slide"], clips)
         if mp4: made.append(mp4)
     (outdir / "caption.txt").write_text(caption_text(script, cfg), encoding="utf-8")
     made.append(outdir / "caption.txt")
+    for n in notes:
+        print(n)
     return made
