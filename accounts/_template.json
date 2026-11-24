@@ -26,5 +26,7 @@
   "default_hashtags": [],
   "cta": "저장해두고, 필요한 분께 공유해 주세요",
   "schedule": {"agent_run_kst": "평일 08:00", "post_times_kst": ["12:10", "20:40"]},
-  "delivery": {"drive_folder_name": "AI회사_납품함/<계정>_매일콘텐츠", "drive_folder_id": "", "log_folder_id": "1rfJRcIzPIm2YMSt2-vrTne47RxmPrFny"}
+  "delivery": {"drive_folder_name": "AI회사_납품함/<계정>_매일콘텐츠", "drive_folder_id": "", "log_folder_id": "1rfJRcIzPIm2YMSt2-vrTne47RxmPrFny"},
+  "photo_fallback": ["office desk morning light", "city street calm"],
+  "voice": {"elevenlabs_voice_id": "", "edge_voice": "ko-KR-SunHiNeural", "edge_rate": "+8%"}
 }

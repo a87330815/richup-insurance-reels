@@ -30,6 +30,18 @@ WebSearch 로 `sources_priority` 순서대로 찾습니다. 언론 기사는 사
 - `[수정필요]` 가 나오면 고쳐서 다시 실행합니다. 세 번 고쳐도 안 되면 주제를 바꿉니다.
 - `[확인]` 은 만들되 업무일지에 그대로 옮겨 적습니다.
 - `cards/01.png` 와 마지막 카드를 열어 글자 깨짐·잘림을 눈으로 확인합니다.
+- 여기서 나온 릴스는 **무음·단색 배경 예비본**입니다(클라우드는 TTS·사진 서버가 막혀 있음).
+
+## 5-1. 사진 + 음성 릴스 (GitHub Actions)
+배경 사진(Unsplash)과 TTS 음성(ElevenLabs, 실패 시 edge-tts)은 저장소 Secrets 를 쓰는 Actions 에서 만듭니다.
+1. `python3 -m contentagent --account $ACCOUNT remote <폴더>/script.json` → 출력된 JSON 그대로
+   GitHub 도구 `actions_run_trigger`(method `run_workflow`, owner `a87330815`, repo `richup-insurance-reels`,
+   workflow_id `contentagent_render.yml`, ref `main`, inputs 는 출력의 inputs)로 실행합니다.
+2. `python3 -m contentagent --account $ACCOUNT fetch <폴더> --wait 900` (최대 15분, 보통 3~5분).
+   백그라운드 실행이 필요하면 백그라운드로 돌리고 끝날 때까지 기다립니다.
+   성공하면 `cards/`, `reel.mp4`, `caption.txt` 가 사진·음성 들어간 본으로 바뀝니다.
+3. 실패하거나 15분 안에 안 오면 5번의 예비본을 납품하고, 업무일지에 `음성 실패: <status.json 의 notes>` 를 적습니다.
+대본의 `photo`(영문 검색어)가 비어 있으면 계정 파일 `photo_fallback` 을 씁니다. 사진 출처는 `photos/credits.json`.
 
 ## 6. 납품
 `delivery.drive_folder_id` 아래 `YYYY-MM-DD_주제` 폴더를 만들고 `reel.mp4`, `caption.txt`, `script.json`, `cards/*.png` 를 올립니다
@@ -45,4 +57,4 @@ WebSearch 로 `sources_priority` 순서대로 찾습니다. 언론 기사는 사
 ## 금지 (모든 계정)
 - 메모에 없는 숫자, 기사 문장 그대로 옮기기, 출처 사진·그래픽 사용.
 - 인스타·페이스북·유튜브·틱톡에 직접 게시(`status` 가 `auto_post` 가 되기 전까지). 이 저장소의 기존 게시 워크플로 실행.
-- 저장소에 결과물 커밋(드라이브로만 납품). 다른 계정의 저장소·토큰 사용.
+- 저장소 main 에 결과물 커밋(드라이브로만 납품). Actions 가 쓰는 `contentagent-out` 브랜치는 예외. 다른 계정의 저장소·토큰 사용.

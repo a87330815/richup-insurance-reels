@@ -88,3 +88,18 @@ class EngineTest(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+def test_narration_and_remote_request(tmp_path):
+    import base64, json as _j
+    from contentagent import accounts as _a, voice as _v, remote as _r
+    cfg = _a.load("richup")
+    src = Path(__file__).resolve().parents[1] / "agents/content/examples/richup/script.json"
+    script = _j.loads(src.read_text(encoding="utf-8"))
+    lines = _v.narration(script, cfg)
+    assert len(lines) == len(script["slides"]) + 2
+    d = tmp_path / "2026-11-25_테스트"; d.mkdir()
+    (d / "script.json").write_bytes(src.read_bytes())
+    req = _j.loads(_r.request("richup", d / "script.json"))
+    assert req["inputs"]["folder"] == "2026-11-25_테스트"
+    assert _j.loads(base64.b64decode(req["inputs"]["script_b64"]))["title"] == script["title"]

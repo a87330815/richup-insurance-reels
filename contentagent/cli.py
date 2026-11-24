@@ -7,7 +7,10 @@
   python -m contentagent --account richup import 답변.txt <결과폴더>     붙여 넣은 답변 → script.json
   python -m contentagent --account richup draft "<주제>" facts.txt <결과폴더>   OpenAI API로 대본
   python -m contentagent --account richup check <script.json>      검수만 (block 있으면 종료코드 1)
-  python -m contentagent --account richup render <script.json> [--no-reel]   검수 → 카드·릴스·캡션
+  python -m contentagent --account richup render <script.json> [--no-reel] [--photos] [--voice] [--require-voice]
+                                                                  검수 → 카드·릴스·캡션 (사진·음성은 인터넷 되는 곳에서)
+  python -m contentagent --account richup remote <script.json>     GitHub Actions 렌더(사진+음성) 요청 내용 출력
+  python -m contentagent --account richup fetch <결과폴더> [--wait 900]   Actions 결과(contentagent-out 브랜치) 받아오기
 
 공통 옵션: --series "<시리즈 이름>" (없으면 오늘 요일 시리즈)
 결과폴더 예: contentagent/out/richup/2026-11-25_실손청구
@@ -59,6 +62,10 @@ def main(argv=None):
     account = _opt(args, "--account")
     series = _opt(args, "--series")
     no_reel = _flag(args, "--no-reel")
+    photos = _flag(args, "--photos")
+    voice = _flag(args, "--voice")
+    require_voice = _flag(args, "--require-voice")
+    wait = int(_opt(args, "--wait", "0"))
     if not args:
         sys.exit(__doc__)
     cmd, rest = args[0], args[1:]
@@ -96,9 +103,16 @@ def main(argv=None):
         print(compliance.format_results(res))
         if compliance.has_block(res):
             sys.exit("[수정필요] 항목을 고친 뒤 다시 실행하십시오. 렌더링하지 않았습니다.")
-        made = render.render(script, cfg, sf.parent, reel=not no_reel)
+        made = render.render(script, cfg, sf.parent, reel=not no_reel, photos=photos,
+                             voice=voice or require_voice, require_voice=require_voice)
         print("만든 파일:\n" + "\n".join(f"  {m}" for m in made))
         if not no_reel and not any(str(m).endswith(".mp4") for m in made):
             print("ffmpeg 이 없어 릴스 MP4는 건너뛰었습니다(reel_frames/ 의 이미지는 있음).")
+    elif cmd == "remote" and len(rest) == 1:
+        from . import remote
+        print(remote.request(account, Path(rest[0])))
+    elif cmd == "fetch" and len(rest) == 1:
+        from . import remote
+        sys.exit(0 if remote.fetch(account, Path(rest[0]), wait) else 1)
     else:
         sys.exit(__doc__)

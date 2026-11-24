@@ -1,0 +1,117 @@
+name: 콘텐츠 에이전트 렌더 (사진 + 음성)
+
+# 클라우드 예약 작업(콘텐츠 에이전트)은 프록시 때문에 TTS·사진 서버에 못 닿는다.
+# 에이전트가 대본을 넘기면 여기서 배경 사진 + TTS 음성이 들어간 카드·릴스를 만들고
+# contentagent-out 브랜치의 <계정>/<결과폴더>/ 에 올린다. main 에는 커밋하지 않는다. 게시하지 않는다.
+on:
+  workflow_dispatch:
+    inputs:
+      account:
+        description: "계정 id (accounts/<id>.json)"
+        required: true
+        default: richup
+      folder:
+        description: "결과폴더 이름 (예: 2026-11-25_실손청구)"
+        required: true
+      script_b64:
+        description: "script.json 을 base64 로 (python -m contentagent remote 가 만들어 줌)"
+        required: true
+      voice:
+        description: "음성 넣기"
+        type: boolean
+        default: true
+
+permissions:
+  contents: write
+
+concurrency:
+  group: contentagent-render
+  cancel-in-progress: false
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: 의존성
+        env:
+          DEBIAN_FRONTEND: noninteractive
+        run: |
+          pip install -q pillow edge-tts elevenlabs
+          sudo apt-get update -qq || true
+          sudo timeout 600 apt-get install -y -qq --no-install-recommends fonts-noto-cjk ffmpeg \
+            || sudo timeout 600 apt-get install -y -qq --no-install-recommends fonts-noto-cjk ffmpeg
+          ls /usr/share/fonts/opentype/noto/NotoSansCJK-Bold.ttc
+          command -v ffmpeg && command -v ffprobe
+
+      - name: 대본 풀기
+        env:
+          ACCOUNT: ${{ inputs.account }}
+          FOLDER: ${{ inputs.folder }}
+          SCRIPT_B64: ${{ inputs.script_b64 }}
+        run: |
+          case "$ACCOUNT$FOLDER" in *..*|*/*) echo "::error::잘못된 이름"; exit 1;; esac
+          test -f "accounts/$ACCOUNT.json"
+          mkdir -p "contentagent/out/$ACCOUNT/$FOLDER"
+          printf '%s' "$SCRIPT_B64" | base64 -d > "contentagent/out/$ACCOUNT/$FOLDER/script.json"
+          python -c "import json,sys; json.load(open(sys.argv[1]))" "contentagent/out/$ACCOUNT/$FOLDER/script.json"
+
+      - name: 검수 + 렌더
+        id: render
+        env:
+          ACCOUNT: ${{ inputs.account }}
+          FOLDER: ${{ inputs.folder }}
+          VOICE: ${{ inputs.voice }}
+          ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
+          ELEVENLABS_VOICE_ID: ${{ secrets.ELEVENLABS_VOICE_ID }}
+          UNSPLASH_ACCESS_KEY: ${{ secrets.UNSPLASH_ACCESS_KEY }}
+        run: |
+          set -o pipefail
+          D="contentagent/out/$ACCOUNT/$FOLDER"
+          FLAGS="--photos"; [ "$VOICE" = "true" ] && FLAGS="$FLAGS --require-voice"
+          python -u -m contentagent --account "$ACCOUNT" render "$D/script.json" $FLAGS 2>&1 | tee "$D/render.log"
+
+      - name: 결과 올리기 (contentagent-out 브랜치)
+        if: always()
+        env:
+          ACCOUNT: ${{ inputs.account }}
+          FOLDER: ${{ inputs.folder }}
+          OK: ${{ steps.render.outcome == 'success' }}
+        run: |
+          D="contentagent/out/$ACCOUNT/$FOLDER"
+          [ -d "$D" ] || exit 0
+          python - "$D" "$OK" "${{ github.run_id }}" <<'PY'
+          import json, sys, re, pathlib
+          d, ok, run = pathlib.Path(sys.argv[1]), sys.argv[2] == "true", sys.argv[3]
+          log = (d / "render.log").read_text(encoding="utf-8") if (d / "render.log").exists() else ""
+          notes = [l for l in log.splitlines() if l.startswith(("음성", "배경 사진", "[확인]", "[수정필요]", "음성을"))]
+          json.dump({"ok": ok and (d / "reel.mp4").exists(), "run_id": run, "notes": notes},
+                    open(d / "status.json", "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+          PY
+          rm -rf "$D/reel_frames"
+          W=$(mktemp -d)
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          for i in 1 2 3 4 5; do
+            rm -rf "$W"; mkdir -p "$W"; cd "$W"
+            git init -q && git remote add origin "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git"
+            if git fetch -q --depth 1 origin contentagent-out; then git checkout -q -b contentagent-out FETCH_HEAD
+            else git checkout -q --orphan contentagent-out; fi
+            mkdir -p "$ACCOUNT"; rm -rf "$ACCOUNT/$FOLDER"; cp -r "$GITHUB_WORKSPACE/$D" "$ACCOUNT/$FOLDER"
+            git add -A && git commit -qm "렌더 결과: $ACCOUNT/$FOLDER (run ${{ github.run_id }})"
+            git push -q origin contentagent-out && { echo "올림: contentagent-out:$ACCOUNT/$FOLDER"; exit 0; }
+            cd "$GITHUB_WORKSPACE"; sleep $((i * 5))
+          done
+          exit 1
+
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: ${{ inputs.account }}-${{ inputs.folder }}
+          path: contentagent/out/${{ inputs.account }}/${{ inputs.folder }}
