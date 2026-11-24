@@ -1,0 +1,86 @@
+name: 📊 리치업지점 인사이트 수집
+
+on:
+  schedule:
+    # 매일 15:10 UTC (한국시간 00:10) — 하루 지표 마감 후 수집
+    - cron: "10 15 * * *"
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: "수집할 최대 미디어 수"
+        default: "50"
+      force:
+        description: "오늘 데이터 삭제 후 재수집"
+        type: boolean
+        default: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - run: pip install requests
+
+      - name: 페이지 토큰 조회
+        id: ig_token
+        env:
+          USER_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          IG_USER_ID: ${{ secrets.IG_USER_ID || vars.IG_USER_ID }}
+        run: |
+          python - <<'PY'
+          import os, requests
+          user_token = os.environ["USER_TOKEN"]
+          ig_id = os.environ["IG_USER_ID"]
+          r = requests.get(
+              "https://graph.facebook.com/v26.0/me/accounts",
+              params={
+                  "fields": "id,name,access_token,instagram_business_account",
+                  "limit": 100,
+                  "access_token": user_token,
+              },
+              timeout=30,
+          )
+          data = r.json()
+          if "error" in data:
+              print("페이지 토큰 조회 불가 - 저장된 토큰(페이지 토큰)을 그대로 사용: " + data["error"].get("message", "")); data = {"data": []}
+          selected = None
+          for page in data.get("data", []):
+              instagram = page.get("instagram_business_account") or {}
+              if str(instagram.get("id", "")) == str(ig_id):
+                  selected = page.get("access_token")
+                  break
+          token = selected or user_token
+          print("페이지 토큰 사용" if selected else "기존 토큰 사용")
+          print("::add-mask::" + token)
+          with open(os.environ["GITHUB_OUTPUT"], "a", encoding="utf-8") as f:
+              f.write("token=" + token + "\n")
+          PY
+
+      - name: 인사이트 수집
+        env:
+          IG_USER_ID: ${{ secrets.IG_USER_ID || vars.IG_USER_ID }}
+          IG_ACCESS_TOKEN: ${{ steps.ig_token.outputs.token || secrets.IG_ACCESS_TOKEN }}
+          IG_API_HOST: ${{ vars.IG_API_HOST || 'graph.facebook.com' }}
+        run: |
+          python insights.py --limit ${{ github.event.inputs.limit || '50' }} ${{ github.event.inputs.force == 'true' && '--force' || '' }}
+
+      - name: 주간 리포트 생성
+        run: python insights_report.py --days 7
+
+      - name: 결과 커밋
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/insights.csv data/weekly_report.md data/perf_hints.json
+          [ -f data/account_insights.csv ] && git add data/account_insights.csv || true
+          git diff --cached --quiet && echo "변경 없음" && exit 0
+          git commit -m "📊 인사이트 수집 + 주간 리포트 $(date -u +%Y-%m-%d)"
+          git push
