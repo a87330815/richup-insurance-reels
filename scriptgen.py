@@ -432,8 +432,15 @@ def analyze_insurance_news(items, max_age_days=14):
             "source": "insurance_news",
             "attribution": "공개 뉴스 RSS · 원문 링크는 캡션에 표기",
         })
+        format_map = {
+            "GA·업계": "GA업계",
+            "보험상식·팩트체크": "팩트체크",
+            "보상·의료": "보상의료",
+            "영업·리쿠르팅": "영업리쿠르팅",
+            "사람·성장": "사람성장",
+        }
         angles.append({
-            "type": "시행일훅" if category == "보험 제도 변경" else "오해정정",
+            "type": format_map.get(topic, "보험정보"),
             "hook": title,
             "short": title,
             "summary": title,
@@ -635,6 +642,21 @@ def _scene_image_keyword(angle, scene_type="intro"):
     fmt = angle.get("type", "")
     region = _angle_region(angle)
     region_en = _region_to_en(region)
+
+    source = angle.get("source", "")
+    topic = angle.get("data", {}).get("topic", "")
+    if source == "insurance_news":
+        insurance_images = {
+            "GA·업계": ("insurance agents business meeting", "insurance compliance documents desk"),
+            "보험상식·팩트체크": ("insurance policy document closeup", "insurance contract checklist desk"),
+            "보상·의료": ("hospital consultation medical records", "insurance claim form documents"),
+            "영업·리쿠르팅": ("financial advisor client meeting", "team recruiting interview office"),
+            "사람·성장": ("professional portrait insurance advisor", "team success business office"),
+        }
+        intro, context = insurance_images.get(
+            topic, ("insurance advisor meeting client", "insurance policy documents desk")
+        )
+        return intro if scene_type == "intro" else context
 
     if fmt == "지역한정":
         if scene_type == "intro":
@@ -949,25 +971,31 @@ def template_generate(angle):
     fmt = angle["type"]
     tpl = TEMPLATES.get(fmt, TEMPLATES["숫자훅"])
 
-    # 커버 카피 생성 — 제약 통과할 때까지 시도
-    #
-    # 앞서는 항상 0번 패턴에서 멈춰서, 패턴을 여러 개 둬도 모든 카드가 같은
-    # 문구로 나왔다. 하루 3건씩 올리면 피드가 복사본처럼 보인다.
-    # 훅에서 뽑은 고정 값으로 시작 위치를 돌려 카드마다 다른 문구가 걸리게
-    # 하되, 같은 앵글은 늘 같은 문구가 나오도록 해시를 쓴다(재생성해도 동일).
+    # 보험 뉴스는 @ga.world처럼 카테고리가 한눈에 보이는 정보형 표지를 쓴다.
+    topic = angle.get("data", {}).get("topic", "")
+    insurance_cover = {
+        "GA·업계": ["GA 현장", "<y>제도 변화</y>", "핵심 정리"],
+        "보험상식·팩트체크": ["보험상식", "<y>팩트체크</y>"],
+        "보상·의료": ["보상·의료", "<y>청구 핵심</y>"],
+        "영업·리쿠르팅": ["보험영업", "<y>현장 전략</y>"],
+        "사람·성장": ["보험인의", "<y>성장 이야기</y>"],
+    }
+    cover_lines = insurance_cover.get(topic)
+
+    # 일반 데이터는 기존 포맷별 커버 패턴을 사용한다.
     patterns = tpl["cover_pattern"]
     start = 0
     if len(patterns) > 1:
         seed = hashlib.md5(angle.get("hook", "").encode("utf-8")).hexdigest()
         start = int(seed[:8], 16) % len(patterns)
 
-    cover_lines = None
-    for i in range(len(patterns)):
-        candidate = patterns[(start + i) % len(patterns)](angle)
-        v = validate_cover(candidate)
-        if v is True:
-            cover_lines = candidate
-            break
+    if cover_lines is None:
+        for i in range(len(patterns)):
+            candidate = patterns[(start + i) % len(patterns)](angle)
+            v = validate_cover(candidate)
+            if v is True:
+                cover_lines = candidate
+                break
     if not cover_lines:
         # 최후 폴백: 훅만 사용
         hook_short = hook_fit(angle.get("hook", "확인하세요"), 12)
@@ -1018,19 +1046,19 @@ def template_generate(angle):
         scenes.extend([
             {
                 "image": None,
-                "photo_query": "insurance office meeting documents",
+                "photo_query": _scene_image_keyword(angle, "context"),
                 "narration": impact,
                 "subtitle": short_subtitle(f"{category} · 현장 영향"),
             },
             {
                 "image": None,
-                "photo_query": "insurance contract checklist desk",
+                "photo_query": "insurance policy checklist pen",
                 "narration": check,
                 "subtitle": "설계사가 확인할 핵심",
             },
             {
                 "image": None,
-                "photo_query": "financial regulator report documents",
+                "photo_query": "official financial report documents",
                 "narration": "기사 제목만으로 단정하지 않습니다. 공식 자료와 약관, 회사 지침을 확인한 뒤 상담에 활용하세요.",
                 "subtitle": "공식 자료 · 약관 확인",
             },
@@ -1065,7 +1093,7 @@ def template_generate(angle):
     # 마무리 장면 (사투리 적용)
     scenes.append({
         "image": None,
-        "photo_query": "follow subscribe social media phone",
+        "photo_query": "insurance advisor smartphone office",
         "narration": "보험 현장에서 필요한 정보를 리치업지점이 정확하게 정리해 드립니다.",
         "subtitle": "리치업지점 · 보험정보",
     })
@@ -1166,7 +1194,7 @@ GA·보험설계사에게 필요한 업계정보, 보험상식, 팩트체크, �
 - `지역한정` — 특정 지역에만 해당할 때
 
 ## 내레이션
-- 단정형 반말. "~이다/~된다/~한다" 체. 존댓말 금지
+- 차분하고 신뢰감 있는 존댓말. 짧고 명확하게 씁니다
 - 장면당 1~2문장. 짧게 끊으세요
 - 전체 **3~5장면**
 - 첫 장면은 설계사가 멈출 만한 질문이나 단정으로 시작하세요. 같은 문장을 반복하지 마세요
@@ -1174,16 +1202,16 @@ GA·보험설계사에게 필요한 업계정보, 보험상식, 팩트체크, �
 - 수치는 읽기 쉽게: "230000만원"이 아니라 "23억원", "84.99제곱미터"가 아니라 "84제곱미터"
 - 마지막 장면은 항상 팔로우 유도
 
-## 말투 — 강한 단정형 반말 (사투리 없음)
+## 말투 — 신뢰형 존댓말 (사투리 없음)
 현장 탑설계사가 후배한테 긴급 정보 쏘는 톤. 부드럽게 풀어주는 거 아니다. 딱딱 끊고 팩트 꽂아라.
 
 ### 핵심
-- **강한 단정형 반말**: "~이다", "~된다", "~해라", "~봐라". 존댓말 절대 금지
-- **한 문장 12자 이내**. 군더더기 없이 팩트만 꽂아라
+- **신뢰형 존댓말**: "~입니다", "~확인하세요", "~살펴보겠습니다"
+- 한 문장은 짧고 명확하게 씁니다
 - 설계사 10년 차가 후배한테 말하듯이. 기초 설명 빼라
-- "지금 당장 확인해라", "이거 놓치면 끝이다", "오늘 안에 전화해라" 식의 강한 어투
+- 불안과 공포를 과장하는 표현은 쓰지 않습니다
 - 긴급감: "방금 떴다", "어제 확정됐다", "지금 바로"
-- 행동 촉구: "고객한테 연락해라", "포트폴리오 점검해라", "세팅 바꿔라"
+- 행동 제안: 공식자료, 약관, 회사 공지를 차례로 확인하도록 안내합니다
 
 ### 금지사항
 - 경상도 사투리 일절 금지 ("~다 아이가", "~카더라", "~노" 등)
@@ -1848,61 +1876,38 @@ def main():
     elif not args.template:
         print("[알림] ANTHROPIC_API_KEY / OPENAI_API_KEY 없음 → 템플릿 모드로 전환")
 
-    # 앵글 다양화: @ga.world 스타일 주제 비중에 맞춰 선택
-    # 주제 비중: 보험·상품 30%, 영업·마인드 25%, 의료·건강 20%, 경제·환율·금리 25%
-    TOPIC_RATIO = {
-        "보험·상품": 0.30,
-        "영업·마인드": 0.25,
-        "의료·건강": 0.20,
-        "경제·환율·금리": 0.25,
-    }
-
-    # 앵글을 topic별로 분류
-    topic_buckets = {}
+    # @ga.world형 편성: 같은 날 같은 주제가 겹치지 않도록 카테고리별 1편씩 먼저 선택한다.
+    topic_order = ["GA·업계", "보험상식·팩트체크", "보상·의료", "영업·리쿠르팅", "사람·성장"]
+    topic_buckets = {topic: [] for topic in topic_order}
+    other_angles = []
     for angle in angles:
         topic = angle.get("data", {}).get("topic", "")
-        cat = angle.get("data", {}).get("category", angle.get("data", {}).get("source", ""))
-        # topic 필드가 있으면 그대로, 없으면 category에서 추론
-        if not topic:
-            cat_str = str(cat)
-            if any(k in cat_str for k in ["보험", "변액", "달러", "종신", "연금", "실손", "GA", "제도"]):
-                topic = "보험·상품"
-            elif any(k in cat_str for k in ["영업", "설계사", "세일즈", "상담", "리쿠르팅", "마인드"]):
-                topic = "영업·마인드"
-            elif any(k in cat_str for k in ["치매", "암", "의료", "건강", "간병", "수술", "AI의료"]):
-                topic = "의료·건강"
-            elif any(k in cat_str for k in ["환율", "금리", "경제", "달러", "트럼프", "증시", "FOMC", "글로벌", "관세"]):
-                topic = "경제·환율·금리"
-            else:
-                topic = "경제·환율·금리"  # 기본값
-        topic_buckets.setdefault(topic, []).append(angle)
+        if topic in topic_buckets:
+            topic_buckets[topic].append(angle)
+        else:
+            other_angles.append(angle)
 
-    # 주제 비중에 따라 할당
-    import random
     selected_angles = []
-    for topic, ratio in TOPIC_RATIO.items():
-        n_topic = max(1, round(args.count * ratio))
-        bucket = topic_buckets.get(topic, [])
-        random.shuffle(bucket)
-        selected_angles.extend(bucket[:n_topic])
-
-    # 중복 제거 후 count에 맞추기
     seen_hooks = set()
-    deduped = []
-    for a in selected_angles:
-        h = a.get("hook", "")
-        if h not in seen_hooks:
-            seen_hooks.add(h)
-            deduped.append(a)
-    selected_angles = deduped[:args.count]
+    for topic in topic_order:
+        for angle in topic_buckets[topic]:
+            hook = angle.get("hook", "")
+            if hook and hook not in seen_hooks:
+                selected_angles.append(angle)
+                seen_hooks.add(hook)
+                break
+        if len(selected_angles) >= args.count:
+            break
 
-    # 부족하면 남은 앵글에서 채움
+    # 카테고리가 부족할 때만 남은 최신 앵글로 채운다.
     if len(selected_angles) < args.count:
         for angle in angles:
+            hook = angle.get("hook", "")
+            if hook and hook not in seen_hooks:
+                selected_angles.append(angle)
+                seen_hooks.add(hook)
             if len(selected_angles) >= args.count:
                 break
-            if angle not in selected_angles:
-                selected_angles.append(angle)
 
     # 생성
     scripts = []
