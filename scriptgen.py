@@ -1936,7 +1936,52 @@ def main():
         if len(selected_angles) >= args.count:
             break
 
-    # 카테고리가 부족할 때만 남은 최신 앵글로 채운다.
+    # 수집 결과에 특정 카테고리가 없으면 검증 가능한 상시 주제로 보완한다.
+    evergreen = [
+        {
+            "type": "팩트체크",
+            "hook": "종신보험은 저축보험일까요? 해지환급금부터 확인하세요",
+            "short": "종신보험 저축 오해",
+            "summary": "종신보험의 주목적과 해지환급금 구조를 상품설명서 기준으로 확인",
+            "source": "insurance_news",
+            "category": "보험상식·팩트체크",
+            "attribution": "보험약관·상품설명서 확인",
+            "items": [{
+                "source": "insurance_news", "title": "종신보험은 저축보험일까요? 해지환급금부터 확인하세요",
+                "topic": "보험상식·팩트체크", "category": "종신보험·해지환급금",
+                "attribution": "보험약관·상품설명서 확인"
+            }],
+            "data": {"title": "종신보험은 저축보험일까요? 해지환급금부터 확인하세요",
+                     "topic": "보험상식·팩트체크", "source": "종신보험·해지환급금"},
+        },
+        {
+            "type": "보상의료",
+            "hook": "보험금 청구는 진단명보다 약관의 지급사유가 먼저입니다",
+            "short": "보험금 청구 핵심",
+            "summary": "진단명과 약관상 지급사유, 필요서류를 함께 확인",
+            "source": "insurance_news",
+            "category": "보상·의료",
+            "attribution": "보험약관·청구서류 확인",
+            "items": [{
+                "source": "insurance_news", "title": "보험금 청구는 진단명보다 약관의 지급사유가 먼저입니다",
+                "topic": "보상·의료", "category": "보험금 청구",
+                "attribution": "보험약관·청구서류 확인"
+            }],
+            "data": {"title": "보험금 청구는 진단명보다 약관의 지급사유가 먼저입니다",
+                     "topic": "보상·의료", "source": "보험금 청구"},
+        },
+    ]
+    if len(selected_angles) < args.count:
+        for angle in evergreen:
+            topic = angle.get("data", {}).get("topic", "")
+            if any(a.get("data", {}).get("topic", "") == topic for a in selected_angles):
+                continue
+            selected_angles.append(angle)
+            seen_hooks.add(angle["hook"])
+            if len(selected_angles) >= args.count:
+                break
+
+    # 그래도 부족할 때만 같은 카테고리의 다른 최신 기사로 채운다.
     if len(selected_angles) < args.count:
         for angle in angles:
             hook = angle.get("hook", "")
