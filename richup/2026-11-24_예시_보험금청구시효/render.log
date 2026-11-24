@@ -1,0 +1,27 @@
+검수 통과: 걸린 항목 없음
+  [사진] 01 'hospital receipt desk' → 없음(단색 배경)
+  [사진] 02 'calendar deadline desk' → 없음(단색 배경)
+  [사진] 03 'law book library' → OK Unsplash / Olena Bohovyk
+  [사진] 04 'clock time paperwork' → OK Unsplash / Jon Tyson
+  [사진] 05 'receipts organized folder' → OK Unsplash / Alexander Grey
+  [사진] 06 'insurance policy documents' → OK Unsplash / Jakub Żerdzicki
+  [사진] 07 'calm hospital corridor' → OK Unsplash / Szabolcs Antal
+  [TTS elevenlabs] 1/7 6.0초  보험금, 3년 지나면 못 받습니다. 병원비 영수증, 서…
+  [TTS elevenlabs] 2/7 9.8초  보험금 청구에도 기한이 있습니다. 상법 제662조는 보…
+  [TTS elevenlabs] 3/7 10.9초  예전엔 2년이었습니다. 2015년 3월 12일 시행된 …
+  [TTS elevenlabs] 4/7 9.5초  언제부터 3년일까요. 보통 보험사고가 생긴 때부터 셉니…
+  [TTS elevenlabs] 5/7 10.0초  작은 금액도 모아 두세요. 통원 진료비처럼 소액이라 미…
+  [TTS elevenlabs] 6/7 9.1초  오늘 확인할 한 가지. 최근 3년 안에 병원에 다녀왔는…
+  [TTS elevenlabs] 7/7 5.9초  보험금 청구 기한은 3년, 미루지 마세요. 저장해두고,…
+배경 사진 5/7장 (출처 photos/credits.json)
+음성: elevenlabs, 총 61초
+만든 파일:
+  contentagent/out/richup/2026-11-24_예시_보험금청구시효/cards/01.png
+  contentagent/out/richup/2026-11-24_예시_보험금청구시효/cards/02.png
+  contentagent/out/richup/2026-11-24_예시_보험금청구시효/cards/03.png
+  contentagent/out/richup/2026-11-24_예시_보험금청구시효/cards/04.png
+  contentagent/out/richup/2026-11-24_예시_보험금청구시효/cards/05.png
+  contentagent/out/richup/2026-11-24_예시_보험금청구시효/cards/06.png
+  contentagent/out/richup/2026-11-24_예시_보험금청구시효/cards/07.png
+  contentagent/out/richup/2026-11-24_예시_보험금청구시효/reel.mp4
+  contentagent/out/richup/2026-11-24_예시_보험금청구시효/caption.txt
