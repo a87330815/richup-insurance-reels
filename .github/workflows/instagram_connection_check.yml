@@ -1,0 +1,79 @@
+name: 리치업 Instagram 연결 점검 (읽기 전용)
+
+# 게시하지 않는다. GET 요청만 보내 토큰 유효성·권한·연결 계정을 확인한다.
+on:
+  workflow_dispatch:
+  push:
+    branches: [claude/project-thread-qxzjbd]
+    paths: [".github/workflows/instagram_connection_check.yml"]
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.11"}
+      - run: pip install -q requests
+      - name: 연결 점검
+        env:
+          IG_USER_ID: ${{ secrets.IG_USER_ID || vars.IG_USER_ID }}
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          IG_API_HOST_VAR: ${{ vars.IG_API_HOST }}
+        run: |
+          python - <<'PY'
+          import os, datetime, requests
+          T = os.environ.get("IG_ACCESS_TOKEN", "").strip()
+          IG = os.environ.get("IG_USER_ID", "").strip()
+          def s(x): return str(x).replace(T, "***") if T else str(x)
+          print("IG_USER_ID:", IG or "(없음)")
+          print("IG_ACCESS_TOKEN:", f"있음 (길이 {len(T)}, 접두 {T[:4]}…)" if T else "(없음)")
+          print("vars.IG_API_HOST:", os.environ.get("IG_API_HOST_VAR") or "(없음)")
+          if not T:
+              raise SystemExit(0)
+          def get(host, path, **p):
+              try:
+                  r = requests.get(f"https://{host}/v26.0/{path}", params=p,
+                                   headers={"Authorization": f"Bearer {T}"}, timeout=30)
+                  return r.json()
+              except Exception as e:
+                  return {"error": {"message": repr(e)}}
+          def ts(v):
+              if not v: return "만료 없음(0)"
+              return datetime.datetime.fromtimestamp(int(v), datetime.timezone(datetime.timedelta(hours=9))).strftime("%Y-%m-%d %H:%M KST")
+          print("\n== graph.facebook.com debug_token")
+          d = get("graph.facebook.com", "debug_token", input_token=T, access_token=T)
+          if "data" in d:
+              x = d["data"]
+              print("유효:", x.get("is_valid"), "| 타입:", x.get("type"), "| 앱:", x.get("application"))
+              print("만료:", ts(x.get("expires_at")), "| 데이터접근만료:", ts(x.get("data_access_expires_at")))
+              print("권한(scopes):", ", ".join(x.get("scopes", [])))
+              for g in x.get("granular_scopes", []):
+                  print("  ", g.get("scope"), "→", g.get("target_ids", "전체"))
+              if x.get("error"): print("오류:", s(x["error"]))
+          else:
+              print(s(d.get("error")))
+          print("\n== graph.facebook.com me/permissions")
+          p = get("graph.facebook.com", "me/permissions")
+          if "data" in p:
+              for i in p["data"]: print("  ", i.get("permission"), i.get("status"))
+          else: print(s(p.get("error")))
+          print("\n== me/accounts (페이지 ↔ 인스타 연결)")
+          a = get("graph.facebook.com", "me/accounts", fields="id,name,instagram_business_account{id,username}", limit=100)
+          if "data" in a:
+              for pg in a["data"]:
+                  ig = pg.get("instagram_business_account") or {}
+                  print(f"   페이지 {pg.get('name')} ({pg.get('id')}) → IG {ig.get('username','(연결없음)')} {ig.get('id','')}")
+          else: print(s(a.get("error")))
+          for host in ("graph.facebook.com", "graph.instagram.com"):
+              print(f"\n== {host} 계정 조회 ({IG})")
+              m = get(host, IG, fields="id,username,media_count,followers_count")
+              print("  ", s(m))
+              if "error" not in m:
+                  q = get(host, f"{IG}/content_publishing_limit", fields="config,quota_usage")
+                  print("   발행한도:", s(q))
+                  md = get(host, f"{IG}/media", fields="id,timestamp,media_type", limit=3)
+                  print("   최근 게시물:", s(md.get("data", md)))
+          PY
