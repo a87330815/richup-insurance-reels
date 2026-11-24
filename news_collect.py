@@ -15,7 +15,8 @@ import json
 import os
 import re
 import sys
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
+from email.utils import parsedate_to_datetime
 from html import unescape
 import xml.etree.ElementTree as ET
 
@@ -35,81 +36,67 @@ SEEN_FILE = os.path.join(OUT_DIR, "news_seen.json")
 # ※ 물가·부동산 제외 / 정치·연예·스포츠 제외
 
 TOPIC_WEIGHT = {
-    "보험·상품": 30,
-    "영업·마인드": 25,
-    "의료·건강": 20,
-    "경제·환율·금리": 25,
+    "GA·업계": 25,
+    "보험상식·팩트체크": 30,
+    "보상·의료": 20,
+    "영업·리쿠르팅": 15,
+    "사람·성장": 10,
 }
 
+# ga.world의 강점인 GA 현장정보·보험상식·팩트체크·인터뷰 구성을
+# 리치업지점 관점으로 재편한다. 일반 경제뉴스는 보험 상담과 직접 연결되는
+# 환율·금리만 제한적으로 포함한다.
 NEWS_SOURCES = {
-    # ── 보험·상품 인사이트 (30%) ──
-    "변액보험 수익률": {
-        "url": "https://news.google.com/rss/search?q=변액보험+수익률+펀드+투자&hl=ko&gl=KR&ceid=KR:ko",
-        "topic": "보험·상품",
+    "GA 제도·수수료": {
+        "url": "https://news.google.com/rss/search?q=GA+법인보험대리점+수수료+금융감독원+보험설계사&hl=ko&gl=KR&ceid=KR:ko",
+        "topic": "GA·업계",
     },
-    "달러보험 환율": {
-        "url": "https://news.google.com/rss/search?q=달러보험+달러연금+달러종신+환율&hl=ko&gl=KR&ceid=KR:ko",
-        "topic": "보험·상품",
+    "보험사·GA 동향": {
+        "url": "https://news.google.com/rss/search?q=보험사+GA+채널+보험대리점+업계&hl=ko&gl=KR&ceid=KR:ko",
+        "topic": "GA·업계",
     },
-    "종신보험 트렌드": {
-        "url": "https://news.google.com/rss/search?q=종신보험+변액종신+저해지+트렌드&hl=ko&gl=KR&ceid=KR:ko",
-        "topic": "보험·상품",
+    "보험 제도 변경": {
+        "url": "https://news.google.com/rss/search?q=보험+제도+개정+금융위원회+금융감독원&hl=ko&gl=KR&ceid=KR:ko",
+        "topic": "GA·업계",
     },
-    "연금보험 노후": {
-        "url": "https://news.google.com/rss/search?q=연금보험+노후+연금저축+퇴직연금&hl=ko&gl=KR&ceid=KR:ko",
-        "topic": "보험·상품",
+    "보험상식 팩트체크": {
+        "url": "https://news.google.com/rss/search?q=보험+소비자+유의사항+금감원+팩트체크&hl=ko&gl=KR&ceid=KR:ko",
+        "topic": "보험상식·팩트체크",
     },
-    "보험 제도·규제": {
-        "url": "https://news.google.com/rss/search?q=보험+제도+금융위+금감원+GA+수수료&hl=ko&gl=KR&ceid=KR:ko",
-        "topic": "보험·상품",
+    "종신·연금·변액": {
+        "url": "https://news.google.com/rss/search?q=종신보험+연금보험+변액보험+소비자+주의&hl=ko&gl=KR&ceid=KR:ko",
+        "topic": "보험상식·팩트체크",
     },
-
-    # ── 영업 스킬·마인드셋 (25%) ──
-    "보험설계사 영업": {
-        "url": "https://news.google.com/rss/search?q=보험설계사+영업+상담+고객&hl=ko&gl=KR&ceid=KR:ko",
-        "topic": "영업·마인드",
+    "달러보험·환율": {
+        "url": "https://news.google.com/rss/search?q=달러보험+달러연금+환율+금리+보험&hl=ko&gl=KR&ceid=KR:ko",
+        "topic": "보험상식·팩트체크",
     },
-    "세일즈 성과": {
-        "url": "https://news.google.com/rss/search?q=세일즈+성과+영업+기법+실적+동기부여&hl=ko&gl=KR&ceid=KR:ko",
-        "topic": "영업·마인드",
+    "보험금 청구·분쟁": {
+        "url": "https://news.google.com/rss/search?q=보험금+청구+분쟁+판례+금융감독원&hl=ko&gl=KR&ceid=KR:ko",
+        "topic": "보상·의료",
     },
-    "GA 법인보험대리점": {
-        "url": "https://news.google.com/rss/search?q=GA+법인보험대리점+설계사+리쿠르팅&hl=ko&gl=KR&ceid=KR:ko",
-        "topic": "영업·마인드",
+    "암·중증치료": {
+        "url": "https://news.google.com/rss/search?q=암+표적항암+면역항암+치료비+건강보험&hl=ko&gl=KR&ceid=KR:ko",
+        "topic": "보상·의료",
     },
-
-    # ── 의료·건강 트렌드 (20%) ──
-    "치매 간병": {
-        "url": "https://news.google.com/rss/search?q=치매+간병+치매환자+치매보험&hl=ko&gl=KR&ceid=KR:ko",
-        "topic": "의료·건강",
+    "치매·간병": {
+        "url": "https://news.google.com/rss/search?q=치매+간병+장기요양+간병비+보험&hl=ko&gl=KR&ceid=KR:ko",
+        "topic": "보상·의료",
     },
-    "암 의료비": {
-        "url": "https://news.google.com/rss/search?q=암+의료비+항암+치료비+건강보험&hl=ko&gl=KR&ceid=KR:ko",
-        "topic": "의료·건강",
+    "보험영업 현장": {
+        "url": "https://news.google.com/rss/search?q=보험설계사+영업+고객상담+보장분석&hl=ko&gl=KR&ceid=KR:ko",
+        "topic": "영업·리쿠르팅",
     },
-    "AI 의료기술": {
-        "url": "https://news.google.com/rss/search?q=AI+의료+디지털헬스+원격진료+의료기술&hl=ko&gl=KR&ceid=KR:ko",
-        "topic": "의료·건강",
+    "리쿠르팅·조직성장": {
+        "url": "https://news.google.com/rss/search?q=보험설계사+리쿠르팅+조직+교육+GA&hl=ko&gl=KR&ceid=KR:ko",
+        "topic": "영업·리쿠르팅",
     },
-
-    # ── 경제·환율·금리 (25%) ──
-    "기준금리·통화정책": {
-        "url": "https://news.google.com/rss/search?q=기준금리+한국은행+FOMC+연준+금리인하&hl=ko&gl=KR&ceid=KR:ko",
-        "topic": "경제·환율·금리",
-    },
-    "환율 전망": {
-        "url": "https://news.google.com/rss/search?q=원달러+환율+전망+달러강세+외환시장&hl=ko&gl=KR&ceid=KR:ko",
-        "topic": "경제·환율·금리",
-    },
-    "미국 경제·정책": {
-        "url": "https://news.google.com/rss/search?q=트럼프+관세+미국경제+증시+무역전쟁&hl=ko&gl=KR&ceid=KR:ko",
-        "topic": "경제·환율·금리",
-    },
-    "글로벌 시장": {
-        "url": "https://news.google.com/rss/search?q=글로벌+증시+나스닥+코스피+전망+경기&hl=ko&gl=KR&ceid=KR:ko",
-        "topic": "경제·환율·금리",
+    "우수설계사·인터뷰": {
+        "url": "https://news.google.com/rss/search?q=보험설계사+인터뷰+우수인증설계사+성공사례&hl=ko&gl=KR&ceid=KR:ko",
+        "topic": "사람·성장",
     },
 }
+
 
 # 언론사 표현 필터 (저작권 보호)
 PRESS_RE = re.compile(
@@ -165,7 +152,17 @@ def fetch_rss(url, category, timeout=15):
         desc = clean_text(item.findtext("description", ""))
         pub_date = (item.findtext("pubDate", "") or "").strip()
 
-        if not title or len(title) < 10:
+        if not title or len(title) < 10 or not pub_date:
+            continue
+        # Google News 검색은 수년 전 기사도 섞는다. 최근 14일 기사만 수집한다.
+        try:
+            published = parsedate_to_datetime(pub_date)
+            if published.tzinfo is None:
+                published = published.replace(tzinfo=timezone.utc)
+            now = datetime.now(timezone.utc)
+            if published < now - timedelta(days=14) or published > now + timedelta(days=2):
+                continue
+        except (TypeError, ValueError, OverflowError):
             continue
         # 언론사 표현 필터
         if PRESS_RE.search(desc):
