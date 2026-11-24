@@ -99,10 +99,12 @@ jobs:
           git commit -m "대본 생성 $(date +%Y-%m-%d\ %H:%M)"
           # 다른 워크플로가 동시에 main을 갱신하면 새 커밋 위로 재배치한 뒤 재시도한다.
           for i in 1 2 3; do
-            if git pull --rebase origin main && git push origin HEAD:main; then
+            if git push origin HEAD:main; then
               exit 0
             fi
-            git rebase --abort 2>/dev/null || true
+            git pull --rebase --autostash origin main || {
+              git rebase --abort 2>/dev/null || true
+            }
             sleep 5
           done
           echo "::error::대본 푸시 실패"; exit 1
