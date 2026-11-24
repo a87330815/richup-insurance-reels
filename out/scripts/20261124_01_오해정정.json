@@ -1,11 +1,11 @@
 {
-  "title": "[EZ 분석] 보험사 ",
+  "title": "[GA 수수료 대전환①] 정착지원금 4분의 1로…1200%룰 넉 달, 설계사 영입 주춤",
   "cover": {
     "image": null,
     "photo_query": "new vs old apartment building korea",
     "lines": [
-      "[EZ 분석]",
-      "<y>다 틀렸습니다</y>"
+      "보험인이라면",
+      "<y>꼭 확인</y>"
     ],
     "badge": null
   },
@@ -13,29 +13,41 @@
     {
       "image": null,
       "photo_query": "new vs old apartment building korea",
-      "narration": "이거 모르고 지나가면 손해다. [EZ 분석] 보험사 AI 경쟁, 영업 현장으로…상담 지원부터 인재 확보까지 - 이지경제 다들 잘못 알고 있다. 사실은 이렇다.",
-      "subtitle": "[EZ 분석] 보험사 AI 경쟁, 영업"
+      "narration": "[GA 수수료 대전환①] 정착지원금 4분의 1로…1200%룰 넉 달, 설계사 영입 주춤. 제목만 보고 판단하기보다 현장에 미칠 영향을 확인해 보겠습니다.",
+      "subtitle": "[GA 수수료 대전환①] 정착지원금"
     },
     {
       "image": null,
-      "photo_query": "Korea city apartment building",
-      "narration": "[EZ 분석] 보험사 AI 경쟁, 영업 현장으로…상담 지원부터 인재 확보까지 - 이지경제 [EZ 분석] 보험사 AI 경쟁, 영업 현장으로…상담 지원부터 인재 확보까지 이지경제 Thu, 29 Oct 2026 07:00:00 GMT",
-      "subtitle": "[EZ 분석] 보험사 AI 경쟁, 영업"
+      "photo_query": "insurance office meeting documents",
+      "narration": "GA와 설계사의 영업 환경, 수수료, 준법 기준에 어떤 변화가 생기는지 살펴봐야 합니다.",
+      "subtitle": "GA 제도·수수료 · 현장 영향"
+    },
+    {
+      "image": null,
+      "photo_query": "insurance contract checklist desk",
+      "narration": "공식 발표일, 시행일, 적용 대상, 소속 GA의 내부 지침을 순서대로 확인하세요.",
+      "subtitle": "설계사가 확인할 핵심"
+    },
+    {
+      "image": null,
+      "photo_query": "financial regulator report documents",
+      "narration": "기사 제목만으로 단정하지 않습니다. 공식 자료와 약관, 회사 지침을 확인한 뒤 상담에 활용하세요.",
+      "subtitle": "공식 자료 · 약관 확인"
     },
     {
       "image": null,
       "photo_query": "follow subscribe social media phone",
-      "narration": "팔로우 눌러라. 매일 현장 이슈 정리해서 쏜다.",
-      "subtitle": "팔로우 · 매일 업데이트"
+      "narration": "보험 현장에서 필요한 정보를 리치업지점이 정확하게 정리해 드립니다.",
+      "subtitle": "리치업지점 · 보험정보"
     }
   ],
   "meta": {
     "format": "오해정정",
-    "source": "",
-    "category": "보험설계사 영업",
-    "attribution": "",
+    "source": "insurance_news",
+    "category": "GA 제도·수수료",
+    "attribution": "공개 뉴스 RSS · 원문 링크는 캡션에 표기",
     "chart": null,
-    "tone": "단정형반말",
-    "generated_at": "2026-11-24T01:32:54.679879+00:00"
+    "tone": "신뢰형존댓말",
+    "generated_at": "2026-11-24T02:57:37.586190+00:00"
   }
 }
