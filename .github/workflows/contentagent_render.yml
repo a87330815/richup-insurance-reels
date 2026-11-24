@@ -62,14 +62,6 @@ jobs:
           printf '%s' "$SCRIPT_B64" | base64 -d > "contentagent/out/$ACCOUNT/$FOLDER/script.json"
           python -c "import json,sys; json.load(open(sys.argv[1]))" "contentagent/out/$ACCOUNT/$FOLDER/script.json"
 
-      - name: (임시) ElevenLabs 한국어 음성 후보
-        if: startsWith(inputs.folder, 'voicetest')
-        continue-on-error: true
-        env:
-          ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
-          ELEVENLABS_VOICE_ID: ${{ secrets.ELEVENLABS_VOICE_ID }}
-        run: python -u tools/el_voice_candidates.py "contentagent/out/${{ inputs.account }}/${{ inputs.folder }}/voice_candidates"
-
       - name: 검수 + 렌더
         id: render
         env:
