@@ -46,7 +46,7 @@
   "default_hashtags": ["#리치업지점", "#보험정보", "#보험상식", "#보험공부", "#보험금청구"],
   "cta": "저장해두고, 필요한 분께 공유해 주세요",
   "photo_fallback": ["insurance documents desk", "calm hospital corridor", "family living room warm", "calculator paperwork", "office desk morning light"],
-  "voice": {"_설명": "비우면 저장소 Secrets 의 ELEVENLABS_VOICE_ID 사용. ElevenLabs 실패 시 edge_voice 로 대체", "elevenlabs_voice_id": "", "edge_voice": "ko-KR-SunHiNeural", "edge_rate": "+8%"},
+  "voice": {"_설명": "Hyunbin(서울 표준어, 신뢰감 있는 중년 남성 내레이션). 비우면 저장소 Secrets 의 ELEVENLABS_VOICE_ID(경상도 억양) 사용. ElevenLabs 실패 시 edge_voice 로 대체", "elevenlabs_voice_id": "s07IwTCOrCDCaETjUVjx", "edge_voice": "ko-KR-SunHiNeural", "edge_rate": "+8%"},
   "reference_assets": {
     "재무 건강검진 설문(구글폼)": "드라이브 '리치업지점 | 우리집 재무 건강검진' — 상담 연결용. 캡션 링크 안내에만 사용",
     "TA 스크립트·거절처리 유형표": "목요일 '보장 오해 바로잡기' 주제 고르기에 사용. 고객 실명·실제 사례는 쓰지 않음"
