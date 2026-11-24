@@ -45,22 +45,29 @@ def fetch(script, cfg, outdir):
     key = os.environ.get("UNSPLASH_ACCESS_KEY", "")
     pd = Path(outdir) / "photos"; pd.mkdir(parents=True, exist_ok=True)
     used, paths, credits = set(), [], []
+    fb = cfg.get("photo_fallback") or ["office desk morning light"]
     for n, q in enumerate(queries(script, cfg), 1):
         got = None
-        for name, fn in ([("unsplash", lambda q: _unsplash(q, key))] if key else []) + [("openverse", _openverse)]:
-            try:
-                cands = [c for c in fn(q) if c["url"] not in used]
-            except Exception as e:
-                print(f"  [사진] {name} '{q}' 실패: {str(e)[:120]}"); continue
-            for c in cands[:4]:
+        # 대본 검색어로 못 받으면 계정 기본 검색어로 한 번 더
+        for qq in dict.fromkeys([q, fb[n % len(fb)]]):
+            for name, fn in ([("unsplash", lambda x: _unsplash(x, key))] if key else []) + [("openverse", _openverse)]:
                 try:
-                    im = Image.open(io.BytesIO(_get(c["url"], timeout=30))).convert("RGB")
-                except Exception:
-                    continue
-                if min(im.size) < 600:
-                    continue
-                f = pd / f"{n:02d}.jpg"; im.save(f, quality=90)
-                used.add(c["url"]); got = f; credits.append({"page": n, "query": q, **c}); break
+                    cands = [c for c in fn(qq) if c["url"] not in used]
+                except Exception as e:
+                    print(f"  [사진] {name} '{qq}' 검색 실패: {str(e)[:120]}"); continue
+                if not cands:
+                    print(f"  [사진] {name} '{qq}' 결과 없음")
+                for c in cands[:8]:
+                    try:
+                        im = Image.open(io.BytesIO(_get(c["url"], timeout=30))).convert("RGB")
+                    except Exception as e:
+                        print(f"  [사진] 내려받기 실패: {str(e)[:80]}"); continue
+                    if min(im.size) < 600:
+                        continue
+                    f = pd / f"{n:02d}.jpg"; im.save(f, quality=90)
+                    used.add(c["url"]); got = f; credits.append({"page": n, "query": qq, **c}); break
+                if got:
+                    break
             if got:
                 break
         print(f"  [사진] {n:02d} '{q}' → {'OK ' + credits[-1]['credit'] if got else '없음(단색 배경)'}")

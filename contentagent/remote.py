@@ -49,7 +49,8 @@ def fetch(account, outdir, wait=0):
         return False
     tmp = outdir / "_remote"
     shutil.rmtree(tmp, ignore_errors=True); tmp.mkdir(parents=True)
-    ls = _git("ls-tree", "-r", "--name-only", f"origin/{BRANCH}", f"{rel}/").stdout.split()
+    # -z: 한글 경로가 따옴표·8진수로 바뀌지 않게
+    ls = [n for n in _git("ls-tree", "-r", "-z", "--name-only", f"origin/{BRANCH}", f"{rel}/").stdout.split("\0") if n]
     for name in ls:
         dest = outdir / name[len(rel) + 1:]
         dest.parent.mkdir(parents=True, exist_ok=True)
