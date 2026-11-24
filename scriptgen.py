@@ -425,6 +425,19 @@ def analyze_insurance_news(items, max_age_days=14):
 
         category = item.get("category", "보험업계 뉴스")
         topic = item.get("topic", "")
+
+        # 검색어에 우연히 걸린 일반 금융기사는 제외한다.
+        relevance_keywords = {
+            "GA·업계": ("GA", "보험", "설계사", "대리점", "수수료", "1200%룰", "모집"),
+            "보험상식·팩트체크": ("보험", "종신", "연금", "변액", "달러", "실손", "보장", "해지환급"),
+            "보상·의료": ("보험", "보상", "청구", "진단비", "치료", "암", "치매", "간병", "수술", "입원"),
+            "영업·리쿠르팅": ("보험", "설계사", "영업", "리쿠르팅", "채용", "고객", "상담"),
+            "사람·성장": ("보험", "설계사", "GA", "영업", "고객", "인터뷰"),
+        }
+        required = relevance_keywords.get(topic, ("보험", "GA", "설계사"))
+        if not any(keyword.lower() in title.lower() for keyword in required):
+            continue
+
         clean_item = dict(item)
         clean_item.update({
             "title": title,
