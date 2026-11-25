@@ -6,7 +6,8 @@
 클라우드 예약 작업 환경은 프록시가 TTS 서버를 막습니다. 음성이 들어간 릴스는
 GitHub Actions(.github/workflows/contentagent_render.yml)에서 만듭니다. 키는 저장소 Secrets 에 있습니다.
 계정 파일의 "voice" 로 계정마다 목소리를 바꿀 수 있습니다:
-  {"elevenlabs_voice_id": "", "elevenlabs_model": "", "edge_voice": "ko-KR-SunHiNeural", "edge_rate": "+8%"}
+  {"elevenlabs_voice_id": "", "elevenlabs_model": "", "speed": 1.15, "edge_voice": "ko-KR-SunHiNeural", "edge_rate": "+20%"}
+"speed" 는 ElevenLabs 말 빠르기(0.7~1.2, 1.0 이 기본). 목소리의 저장된 설정(안정성 등)은 그대로 두고 빠르기만 바꿉니다.
 """
 import asyncio, os, shutil, subprocess
 from pathlib import Path
@@ -28,14 +29,39 @@ def _vcfg(cfg):
         "el_model": v.get("elevenlabs_model") or os.environ.get("ELEVENLABS_MODEL", "eleven_multilingual_v2"),
         "edge_voice": v.get("edge_voice") or os.environ.get("TTS_VOICE", "ko-KR-SunHiNeural"),
         "edge_rate": v.get("edge_rate") or os.environ.get("TTS_RATE", "+8%"),
+        "speed": min(1.2, max(0.7, float(v.get("speed") or os.environ.get("ELEVENLABS_SPEED") or 1.0))),
     }
+
+
+def _el_settings(client, v):
+    """목소리에 저장된 설정에 speed 만 덮어씁니다. 한 번 받아 두고 장면마다 재사용."""
+    if abs(v["speed"] - 1.0) < 1e-6:
+        return None
+    if "_settings" not in v:
+        from elevenlabs import VoiceSettings
+        try:
+            vo = client.voices
+            st = vo.settings.get(v["el_voice"]) if hasattr(vo, "settings") else vo.get_settings(v["el_voice"])
+            base = st.model_dump(exclude_none=True) if hasattr(st, "model_dump") else dict(st)
+        except Exception as e:
+            print(f"  [TTS] 목소리 기본 설정을 못 받아 빠르기만 지정합니다: {str(e)[:120]}")
+            base = {}
+        base["speed"] = v["speed"]
+        v["_settings"] = VoiceSettings(**base)
+        print(f"  [TTS] ElevenLabs 빠르기 {v['speed']}")
+    return v["_settings"]
 
 
 def _elevenlabs(text, path, v):
     try:
         from elevenlabs.client import ElevenLabs
-        audio = ElevenLabs(api_key=v["el_key"]).text_to_speech.convert(
-            text=text, voice_id=v["el_voice"], model_id=v["el_model"], output_format="mp3_44100_128")
+        client = ElevenLabs(api_key=v["el_key"])
+        extra = {}
+        vs = _el_settings(client, v)
+        if vs is not None:
+            extra["voice_settings"] = vs
+        audio = client.text_to_speech.convert(
+            text=text, voice_id=v["el_voice"], model_id=v["el_model"], output_format="mp3_44100_128", **extra)
         with open(path, "wb") as f:
             for chunk in audio:
                 f.write(chunk)
