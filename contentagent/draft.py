@@ -12,16 +12,15 @@ import json, os, urllib.request, urllib.error
 
 SCHEMA = {
     "type": "object", "additionalProperties": False,
-    "required": ["series", "title", "hook", "photo", "photo_kr", "slides", "summary", "caption", "hashtags", "sources"],
+    "required": ["series", "title", "hook", "photo", "slides", "summary", "caption", "hashtags", "sources"],
     "properties": {
         "series": {"type": "string"},
         "title": {"type": "string"},
         "hook": {"type": "string"},
         "photo": {"type": "string"},
-        "photo_kr": {"type": "string"},
         "slides": {"type": "array", "items": {"type": "object", "additionalProperties": False,
-                   "required": ["head", "body", "photo", "photo_kr"], "properties": {"head": {"type": "string"}, "body": {"type": "string"},
-                                                                 "photo": {"type": "string"}, "photo_kr": {"type": "string"}}}},
+                   "required": ["head", "body", "photo"], "properties": {"head": {"type": "string"}, "body": {"type": "string"},
+                                                                 "photo": {"type": "string"}}}},
         "summary": {"type": "string"},
         "caption": {"type": "string"},
         "hashtags": {"type": "array", "items": {"type": "string"}},
@@ -42,8 +41,7 @@ BASE_RULES = """공통 규칙(어기면 안 됨):
 - summary 는 한 줄 정리(40자 이내).
 - caption 은 3~5줄 요약 + 질문 한 줄(댓글 유도). 해시태그는 hashtags 에만.
 - hashtags 5~8개, 주제에 맞는 한국어 태그.
-- photo_kr 는 네이버 이미지 검색용 한국어 검색어(2~4단어, 예: "병원 영수증 서류"), photo 는 같은 뜻의 영어 검색어
-  (예: "hospital receipt desk", 네이버에서 못 찾을 때 씀). 표지는 최상위 photo·photo_kr, 장마다 slides[].photo·photo_kr.
+- photo 는 배경 사진 검색어(영어 2~4단어, 예: "hospital receipt desk"). 표지는 최상위 photo, 장마다 slides[].photo.
   사람 얼굴 클로즈업·특정 회사 로고·뉴스 장면이 나올 검색어는 피하고, 사물·공간·분위기로 고릅니다.
 - 카드 글이 그대로 음성(TTS)으로 읽힙니다. 괄호·기호·영문 약어를 줄이고 소리 내 읽기 쉬운 문장으로 씁니다."""
 
@@ -58,7 +56,7 @@ def build_prompt(topic, facts, cfg, series=None):
             f"이 계정 규칙(어기면 안 됨):\n{own}\n\n"
             + BASE_RULES.format(title=lim["title"], head=lim["head"], body=lim["body"], lo=lo, hi=hi)
             + "\n\n아래 JSON 형식으로만 답해(설명 붙이지 말 것):\n"
-            + json.dumps({"series": series, "title": "", "hook": "", "photo": "", "photo_kr": "", "slides": [{"head": "", "body": "", "photo": "", "photo_kr": ""}],
+            + json.dumps({"series": series, "title": "", "hook": "", "photo": "", "slides": [{"head": "", "body": "", "photo": ""}],
                           "summary": "", "caption": "", "hashtags": ["#"],
                           "sources": [{"name": "", "date": "YYYY-MM-DD", "url": ""}]}, ensure_ascii=False, indent=1))
 
