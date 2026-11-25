@@ -71,7 +71,10 @@ jobs:
           ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
           ELEVENLABS_VOICE_ID: ${{ secrets.ELEVENLABS_VOICE_ID }}
           UNSPLASH_ACCESS_KEY: ${{ secrets.UNSPLASH_ACCESS_KEY }}
+          NAVER_CLIENT_ID: ${{ secrets.NAVER_CLIENT_ID }}
+          NAVER_CLIENT_SECRET: ${{ secrets.NAVER_CLIENT_SECRET }}
         run: |
+          [ -n "$NAVER_CLIENT_ID" ] && [ -n "$NAVER_CLIENT_SECRET" ] && echo "네이버 키: 있음" || echo "::warning::네이버 키(NAVER_CLIENT_ID/SECRET) 없음 — Unsplash·Openverse 로만 사진을 받습니다"
           set -o pipefail
           D="contentagent/out/$ACCOUNT/$FOLDER"
           FLAGS="--photos"; [ "$VOICE" = "true" ] && FLAGS="$FLAGS --require-voice"
