@@ -1,0 +1,37 @@
+검수 통과: 걸린 항목 없음
+  [사진] 공급자: naver → unsplash → openverse
+  [사진] 내려받기 실패: HTTP Error 403: Forbidden
+  [사진] 01 '보험 청약서 펜' → OK naver / Naver 이미지 검색 / 보험청약서
+  [사진] 02 '책상 위 서류' → OK naver / Naver 이미지 검색 / 철제트레이 서류선반 책상위정리함 문서보관함 파일랙 : Dittomall
+  [사진] 03 '사무실 책상 아침' → OK naver / Naver 이미지 검색 / 커피와 편지지 항목이있는 아침 사무실 책상 | 무료 사진
+  [사진] 내려받기 실패: timed out
+  [사진] 04 '법전 책장' → OK naver / Naver 이미지 검색 / 법과 질서 사진 | Unsplash에서 무료 이미지 다운로드
+  [사진] 05 '병원 복도' → OK naver / Naver 이미지 검색 / 병원 복도를 산책하다
+  [사진] 06 '서류 정리' → OK naver / Naver 이미지 검색 / 사무실 학교 서류정리 문서보관 시스맥스 EL 2단 트레이 : 올동
+  [사진] 07 '건강검진 결과지' → OK naver / Naver 이미지 검색 / 건강검진 결과지 제대로 읽는 법
+  [사진] 08 '따뜻한 거실' → OK naver / Naver 이미지 검색 / 자연스럽게 가족들이 모이는 따뜻한 거실💕 @dual_holic님 하우스🏠
+  [사진] 09 '병력은 설계사 말 말고 청약서에 직접' → OK naver / Naver 이미지 검색 / 병력 숨겨도 5년만 버티면 된다고?…보험설계사의 위험한 약속
+  [TTS] ElevenLabs 빠르기 1.15
+  [TTS elevenlabs] 1/9 4.9초  설계사한테 말했으니 된 거죠?. 말로만 알린 병력, 나…
+  [TTS elevenlabs] 2/9 7.3초  자주 듣는 오해 하나. 가입할 때 설계사에게 예전 병력…
+  [TTS elevenlabs] 3/9 9.5초  설계사는 받는 권한이 없습니다. 금융감독원 안내에 따르…
+  [TTS elevenlabs] 4/9 7.4초  법원 판단도 같습니다. 법원도 설계사에게만 알린 것은 …
+  [TTS elevenlabs] 5/9 9.6초  실제로 이런 일이 있었습니다. 신장투석 병력을 설계사에…
+  [TTS elevenlabs] 6/9 9.3초  청약서에 직접, 빠짐없이. 과거 오 년 병력과 치료 기…
+  [TTS elevenlabs] 7/9 10.1초  건강검진 소견도 포함됩니다. 건강검진에서 받은 확정 진…
+  [TTS elevenlabs] 8/9 9.3초  오늘 확인할 한 가지. 내 청약서 사본의 알릴 의무 질…
+  [TTS elevenlabs] 9/9 5.2초  병력은 설계사 말 말고 청약서에 직접. 저장해두고, 필…
+배경 사진 9/9장 (출처 photos/credits.json)
+음성: elevenlabs, 총 73초
+만든 파일:
+  contentagent/out/richup/2026-11-26_설계사에게말했으니됐다/cards/01.png
+  contentagent/out/richup/2026-11-26_설계사에게말했으니됐다/cards/02.png
+  contentagent/out/richup/2026-11-26_설계사에게말했으니됐다/cards/03.png
+  contentagent/out/richup/2026-11-26_설계사에게말했으니됐다/cards/04.png
+  contentagent/out/richup/2026-11-26_설계사에게말했으니됐다/cards/05.png
+  contentagent/out/richup/2026-11-26_설계사에게말했으니됐다/cards/06.png
+  contentagent/out/richup/2026-11-26_설계사에게말했으니됐다/cards/07.png
+  contentagent/out/richup/2026-11-26_설계사에게말했으니됐다/cards/08.png
+  contentagent/out/richup/2026-11-26_설계사에게말했으니됐다/cards/09.png
+  contentagent/out/richup/2026-11-26_설계사에게말했으니됐다/reel.mp4
+  contentagent/out/richup/2026-11-26_설계사에게말했으니됐다/caption.txt
