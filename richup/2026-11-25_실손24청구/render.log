@@ -1,0 +1,33 @@
+검수 통과: 걸린 항목 없음
+  [사진] 공급자: naver → unsplash → openverse
+  [사진] 내려받기 실패: HTTP Error 403: Forbidden
+  [사진] 01 '약국 영수증 스마트폰' → OK naver / Naver 이미지 검색 / "엄마, 병원영수증 필요없어"…동네 의원·약국 2000곳도 이제 된다
+  [사진] 02 '병원 접수 창구' → OK naver / Naver 이미지 검색 / 붐비는 대학병원 접수·수납 창구
+  [사진] 03 '스마트폰 앱 화면' → OK naver / Naver 이미지 검색 / 흰색 배경에 검은색 화면에 앱 아이콘이 표시된 스마트폰 | JPG 무료 
+  [사진] 04 '서류 종이 책상' → OK naver / Naver 이미지 검색 / 책상 종이 파일꽂이 5p 책꽂이 서류정리함 : 덧샘
+  [사진] 05 '체크리스트 노트' → OK naver / Naver 이미지 검색 / [굿노트/속지] 굿노트 정사각형 체크리스트 속지
+  [사진] 06 '동네 의원 건물' → OK naver / Naver 이미지 검색 / The열린치과의원
+  [사진] 07 '가족 거실 소파' → OK naver / Naver 이미지 검색 / 앤톤 거실 테이블 1000 좌식 소파 탁자 낮은 책상 B형 내추럴오크 :
+  [사진] 08 '실손 청구, 이제 실손24 앱에서 서류 없이' → OK naver / Naver 이미지 검색 / 우체국보험 앱서 '실손24' 이용…서류 없이 보험금 청구
+  [TTS] ElevenLabs 빠르기 1.15
+  [TTS elevenlabs] 1/8 5.1초  실손 청구, 아직 서류 떼러 가세요?. 이제 동네 의원…
+  [TTS elevenlabs] 2/8 10.7초  실손 청구가 전산화됐습니다. 2024년 10월 병원과 …
+  [TTS elevenlabs] 3/8 9.1초  실손24 하나로 청구합니다. 실손24 앱이나 홈페이지에…
+  [TTS elevenlabs] 4/8 8.4초  종이 서류가 필요 없습니다. 영수증, 진료비 세부산정내…
+  [TTS elevenlabs] 5/8 7.7초  청구 순서는 이렇습니다. 본인인증 후 보험계약을 고르고…
+  [TTS elevenlabs] 6/8 8.7초  연결된 병원만 됩니다. 실손24와 연계를 마친 병원과 …
+  [TTS elevenlabs] 7/8 8.7초  부모님 청구도 도울 수 있어요. 제3자 청구와 자녀 청…
+  [TTS elevenlabs] 8/8 5.4초  실손 청구, 이제 실손24 앱에서 서류 없이. 저장해두…
+배경 사진 8/8장 (출처 photos/credits.json)
+음성: elevenlabs, 총 64초
+만든 파일:
+  contentagent/out/richup/2026-11-25_실손24청구/cards/01.png
+  contentagent/out/richup/2026-11-25_실손24청구/cards/02.png
+  contentagent/out/richup/2026-11-25_실손24청구/cards/03.png
+  contentagent/out/richup/2026-11-25_실손24청구/cards/04.png
+  contentagent/out/richup/2026-11-25_실손24청구/cards/05.png
+  contentagent/out/richup/2026-11-25_실손24청구/cards/06.png
+  contentagent/out/richup/2026-11-25_실손24청구/cards/07.png
+  contentagent/out/richup/2026-11-25_실손24청구/cards/08.png
+  contentagent/out/richup/2026-11-25_실손24청구/reel.mp4
+  contentagent/out/richup/2026-11-25_실손24청구/caption.txt
