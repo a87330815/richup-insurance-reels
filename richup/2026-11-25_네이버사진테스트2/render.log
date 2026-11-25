@@ -1,0 +1,31 @@
+검수 통과: 걸린 항목 없음
+  [사진] 공급자: naver → unsplash → openverse
+  [사진] 01 '보험 서류 책상' → OK naver / Naver 이미지 검색 / 취업 신청 서류 또는 건강 보험 스톡 사진 396022738 | Shut
+  [사진] 02 '보험금 청구 서류' → OK naver / Naver 이미지 검색 / 보험금 청구서류 안내 / 이재형 서울보증보험 - 숨고, 숨은고수 보험금 
+  [사진] 03 '병원 영수증' → OK naver / Naver 이미지 검색 / 병원 진료영수증 - 병원 진료영수증 서식 구성항목
+  [사진] 04 '달력 날짜' → OK naver / Naver 이미지 검색 / 일자 고무 자석 달력 숫자 날짜 월중 교사용 칠판 : 헬로엘리스
+  [사진] 05 '서류 정리 책상' → OK naver / Naver 이미지 검색 / 다용도 사무실 서류 정리함  데스크 책상 문서 정리함 4칸 정리 : 리오
+  [사진] 06 '스마트폰 앱 청구' → OK naver / Naver 이미지 검색 / 한국인 스마트폰 사용자 5명 중 3명은 간편결제 앱 사용 | 케이벤치 보
+  [사진] 내려받기 실패: HTTP Error 404: Not Found
+  [사진] 내려받기 실패: <urlopen error [Errno -2] Name or service not known>
+  [사진] 07 '보험금 청구 기한은 3년, 미루지 마세요' → OK naver / Naver 이미지 검색 / 더바다는 지난 3년 진료기록 속 놓친 보험금이 없는지 꼼꼼히 찾아보고, 
+  [TTS] ElevenLabs 빠르기 1.15
+  [TTS elevenlabs] 1/7 5.5초  보험금, 3년 지나면 못 받습니다. 병원비 영수증, 서…
+  [TTS elevenlabs] 2/7 8.2초  보험금 청구에도 기한이 있습니다. 상법 제662조는 보…
+  [TTS elevenlabs] 3/7 9.5초  예전엔 2년이었습니다. 2015년 3월 12일 시행된 …
+  [TTS elevenlabs] 4/7 8.5초  언제부터 3년일까요. 보통 보험사고가 생긴 때부터 셉니…
+  [TTS elevenlabs] 5/7 8.6초  작은 금액도 모아 두세요. 통원 진료비처럼 소액이라 미…
+  [TTS elevenlabs] 6/7 8.9초  오늘 확인할 한 가지. 최근 3년 안에 병원에 다녀왔는…
+  [TTS elevenlabs] 7/7 5.2초  보험금 청구 기한은 3년, 미루지 마세요. 저장해두고,…
+배경 사진 7/7장 (출처 photos/credits.json)
+음성: elevenlabs, 총 54초
+만든 파일:
+  contentagent/out/richup/2026-11-25_네이버사진테스트2/cards/01.png
+  contentagent/out/richup/2026-11-25_네이버사진테스트2/cards/02.png
+  contentagent/out/richup/2026-11-25_네이버사진테스트2/cards/03.png
+  contentagent/out/richup/2026-11-25_네이버사진테스트2/cards/04.png
+  contentagent/out/richup/2026-11-25_네이버사진테스트2/cards/05.png
+  contentagent/out/richup/2026-11-25_네이버사진테스트2/cards/06.png
+  contentagent/out/richup/2026-11-25_네이버사진테스트2/cards/07.png
+  contentagent/out/richup/2026-11-25_네이버사진테스트2/reel.mp4
+  contentagent/out/richup/2026-11-25_네이버사진테스트2/caption.txt
