@@ -1,0 +1,21 @@
+{
+ "series": "설계사의 하루",
+ "title": "보험설계사, 어떻게 될까요?",
+ "hook": "시험, 교육, 등록까지 세 단계로 정리했습니다",
+ "photo": "study desk notebook exam",
+ "photo_kr": "공부 책상 노트",
+ "slides": [
+  {"head": "등록해야 설계사입니다", "body": "보험업법은 보험설계사를 등록된 사람으로 정합니다. 등록하지 않으면 보험을 모집할 수 없습니다.", "photo": "official documents stamp", "photo_kr": "서류 도장"},
+  {"head": "첫 번째 길, 시험", "body": "생명보험, 손해보험, 제삼보험 모집 자격시험에 합격한 뒤 보험연수원 교육을 이수하는 방법입니다.", "photo": "exam paper pencil", "photo_kr": "시험지 연필"},
+  {"head": "두 번째 길, 경력", "body": "보험 관련 업무 경력이 일 년 이상이라면, 교육을 이수하는 방식으로 등록 요건을 갖출 수 있습니다.", "photo": "office desk morning light", "photo_kr": "사무실 책상 아침"},
+  {"head": "마지막은 협회 등록", "body": "요건을 갖추면 보험협회에 등록하고, 그때부터 판매할 수 있습니다. 시험과 등록은 협회, 교육은 보험연수원이 맡습니다.", "photo": "building entrance lobby", "photo_kr": "건물 로비"},
+  {"head": "등록 뒤에도 공부는 계속", "body": "등록 후에도 교육 이수 의무와 지켜야 할 사항이 있고, 어기면 제재를 받을 수 있습니다. 쉽지 않은 책임이 따르는 직업입니다.", "photo": "books stacked library", "photo_kr": "쌓인 책"},
+  {"head": "바뀔 수 있는 부분", "body": "보험업법 개정 내용이 이천이십칠년 삼월 구일 시행될 예정이라 절차가 달라질 수 있습니다. 준비 전 최신 안내를 꼭 확인하세요.", "photo": "calendar planning desk", "photo_kr": "달력 계획"}
+ ],
+ "summary": "시험 또는 경력, 교육, 그리고 협회 등록",
+ "caption": "보험설계사는 등록해야 보험을 판매할 수 있습니다.\n길은 두 가지입니다. 모집 자격시험 합격 후 교육, 또는 관련 경력 1년 이상 후 교육.\n그다음 보험협회에 등록합니다. 등록 뒤에도 교육 의무와 지켜야 할 사항이 있습니다.\n보험설계사 직업에 대해 궁금한 점이 있으신가요?",
+ "hashtags": ["#보험설계사", "#설계사되는법", "#보험연수원", "#자격시험", "#직업정보", "#보험업"],
+ "sources": [
+  {"name": "법제처 찾기 쉬운 생활법령정보 보험모집인", "date": "2026-10-15", "url": "https://www.easylaw.go.kr/CSP/csp1/lifeLawDetail/getLifeLawDetail.do?csmfldSeq=1695&csmfldClsfSeq=4"}
+ ]
+}
